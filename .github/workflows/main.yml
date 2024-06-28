@@ -1,0 +1,84 @@
+name: Check and Clone Latest Repositories
+
+on:
+  schedule:
+    - cron: '21 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  check-and-clone-repos:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.20'
+
+    - name: Run Go script For Scrap
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: go run main.go
+
+    - name: Set date variable
+      run: echo "BRANCH_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+    - name: Configure Git
+      run: |
+        echo "Configure Git Start"
+        date=$(date +'%Y-%m-%d')
+        git config --local user.email "${{ secrets.EMAIL }}"
+        git config --local user.name "amirroox"
+        git branch "${{ env.BRANCH_DATE }}"
+        git checkout "${{ env.BRANCH_DATE }}"
+        echo "Configure Git Done!"
+
+    - name: Clone repositories Scrapping
+      run: |
+        echo "Clone repositories Scrapping Start"
+        myDate=$(date +'%Y-%m-%d %Hs %Mm %Ss')
+        echo $myDate
+        mkdir -p "Projects/cloned_repos/Date $myDate"
+        jq -r '.[] | .clone_url' Projects/ScrapDay/repos_to_clone.json | while read url; do
+          repo_name=$(basename $url .git)
+          git clone $url "Projects/cloned_repos/Date $myDate/$repo_name"
+        done
+        echo "Clone repositories Scrapping Done!"
+
+    - name: Multiple commits
+      run: |
+        echo "Multiple commits Start"
+        commit_count=$(shuf -i 1-10 -n 1)
+        echo "Will create $commit_count commits"
+          
+        for i in $(seq 1 $commit_count)
+        do
+          date=$(date +'%Y-%m-%d %H:%M:%S.%N')
+          echo $date > CURRENT_DATE
+          # Commit
+          git add CURRENT_DATE
+          git commit -m "Commit $i of $commit_count at $date"
+            
+          sleep_time=$(shuf -i 7-10 -n 1)
+          sleep $sleep_time
+        done
+        echo "Multiple commits Start"
+
+    - name: Commit Main Repo
+      run: |
+        date=$(date +'%Y-%m-%d %H:%M:%S.%N')
+        git add .
+        git commit -m "Update and clone latest repositories at $date" -a || exit 0
+
+    - name: Merge Branch
+      run: |
+        git checkout master
+        git merge "${{ env.BRANCH_DATE }}" --no-ff -m "Merge branch '${{ env.BRANCH_DATE }}'"
+
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        directory: "."
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        
