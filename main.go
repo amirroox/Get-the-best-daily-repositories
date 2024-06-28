@@ -37,12 +37,12 @@ func main() {
 	opt := &github.SearchOptions{
 		Sort: "stars",
 		ListOptions: github.ListOptions{
-			PerPage: 1,
+			PerPage: 5,
 		},
 	}
 
-	query := "created:>" + time.Now().AddDate(0, 0, -7).Format("2006-01-02") +
-		" size:50..9999 is:public"
+	query := "created:>" + time.Now().AddDate(0, 0, -2).Format("2006-01-02") +
+		" size:50..5000 is:public"
 	result, _, err := client.Search.Repositories(ctx, query, opt)
 	if err != nil {
 		fmt.Printf("Error searching repositories: %v\n", err)
@@ -88,7 +88,7 @@ func main() {
 	}(f)
 
 	_, err = fmt.Fprintf(f, "# Latest Repositories (%s .. %s)\n\n",
-		time.Now().AddDate(0, 0, -7).Format("2006-01-02"),
+		time.Now().AddDate(0, 0, -2).Format("2006-01-02"),
 		time.Now().AddDate(0, 0, 0).Format("2006-01-02"))
 	if err != nil {
 		return
