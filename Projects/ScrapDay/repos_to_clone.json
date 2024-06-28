@@ -1,8 +1,32 @@
 [
   {
-    "name": "evolutionaryscale/esm",
-    "clone_url": "https://github.com/evolutionaryscale/esm.git",
-    "stars": 709,
-    "size": 735
+    "name": "danielroe/unplugin-purge-polyfills",
+    "clone_url": "https://github.com/danielroe/unplugin-purge-polyfills.git",
+    "stars": 132,
+    "size": 100
+  },
+  {
+    "name": "smallfawn/decode_action",
+    "clone_url": "https://github.com/smallfawn/decode_action.git",
+    "stars": 101,
+    "size": 731
+  },
+  {
+    "name": "webdevcody/next-drizzle-lucia-sqlite-template",
+    "clone_url": "https://github.com/webdevcody/next-drizzle-lucia-sqlite-template.git",
+    "stars": 96,
+    "size": 239
+  },
+  {
+    "name": "bjrjk/CVE-2024-29943",
+    "clone_url": "https://github.com/bjrjk/CVE-2024-29943.git",
+    "stars": 53,
+    "size": 3312
+  },
+  {
+    "name": "cloudflare/ai-utils",
+    "clone_url": "https://github.com/cloudflare/ai-utils.git",
+    "stars": 34,
+    "size": 62
   }
 ]
