@@ -37,7 +37,7 @@ func main() {
 	opt := &github.SearchOptions{
 		Sort: "stars",
 		ListOptions: github.ListOptions{
-			PerPage: 13,
+			PerPage: 1,
 		},
 	}
 
