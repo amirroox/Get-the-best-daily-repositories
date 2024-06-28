@@ -42,7 +42,7 @@ jobs:
         mkdir -p "Projects/cloned_repos/Date $myDate"
         jq -r '.[] | .clone_url' Projects/ScrapDay/repos_to_clone.json | while read url; do
           repo_name=$(basename $url .git)
-          git clone $url "Projects/cloned_repos/Date $myDate/$repo_name" && rm -f "Projects/cloned_repos/Date $myDate/$repo_name/.git"
+          git clone $url "Projects/cloned_repos/Date $myDate/$repo_name" && rm -r -f "Projects/cloned_repos/Date $myDate/$repo_name/.git"
         done
         echo "Clone repositories Scrapping Done!"
 
