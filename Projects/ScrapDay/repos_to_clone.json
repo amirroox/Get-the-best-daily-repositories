@@ -1,0 +1,80 @@
+[
+  {
+    "name": "evolutionaryscale/esm",
+    "clone_url": "https://github.com/evolutionaryscale/esm.git",
+    "stars": 707,
+    "size": 735
+  },
+  {
+    "name": "teknium1/Prompt-Engineering-Toolkit",
+    "clone_url": "https://github.com/teknium1/Prompt-Engineering-Toolkit.git",
+    "stars": 272,
+    "size": 784
+  },
+  {
+    "name": "OXY2DEV/markview.nvim",
+    "clone_url": "https://github.com/OXY2DEV/markview.nvim.git",
+    "stars": 269,
+    "size": 571
+  },
+  {
+    "name": "liud6612/mnemonic-to-private-key",
+    "clone_url": "https://github.com/liud6612/mnemonic-to-private-key.git",
+    "stars": 264,
+    "size": 1546
+  },
+  {
+    "name": "kvcache-ai/Mooncake",
+    "clone_url": "https://github.com/kvcache-ai/Mooncake.git",
+    "stars": 166,
+    "size": 916
+  },
+  {
+    "name": "DeeCeeXxx/Queen_Anita-V2",
+    "clone_url": "https://github.com/DeeCeeXxx/Queen_Anita-V2.git",
+    "stars": 161,
+    "size": 1854
+  },
+  {
+    "name": "sullyo/prompt2ui",
+    "clone_url": "https://github.com/sullyo/prompt2ui.git",
+    "stars": 160,
+    "size": 208
+  },
+  {
+    "name": "ozgrozer/chatgpt-artifacts",
+    "clone_url": "https://github.com/ozgrozer/chatgpt-artifacts.git",
+    "stars": 159,
+    "size": 1539
+  },
+  {
+    "name": "danielroe/unplugin-purge-polyfills",
+    "clone_url": "https://github.com/danielroe/unplugin-purge-polyfills.git",
+    "stars": 132,
+    "size": 100
+  },
+  {
+    "name": "tykawaii98/CVE-2024-30088",
+    "clone_url": "https://github.com/tykawaii98/CVE-2024-30088.git",
+    "stars": 127,
+    "size": 84
+  },
+  {
+    "name": "mulder82/TNDisplay",
+    "clone_url": "https://github.com/mulder82/TNDisplay.git",
+    "stars": 126,
+    "size": 8097
+  },
+  {
+    "name": "coder/picopilot",
+    "clone_url": "https://github.com/coder/picopilot.git",
+    "stars": 125,
+    "size": 5571
+  },
+  {
+    "name": "rudrodip/theme-toggle-effect",
+    "clone_url": "https://github.com/rudrodip/theme-toggle-effect.git",
+    "stars": 121,
+    "size": 1478
+  }
+]
