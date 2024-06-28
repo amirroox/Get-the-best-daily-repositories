@@ -19,6 +19,7 @@ type RepoInfo struct {
 }
 
 func main() {
+	// TOKEN USE ACTION
 	token := os.Getenv("GITHUB_TOKEN")
 	if token == "" {
 		fmt.Println("GITHUB_TOKEN is not set")
@@ -40,8 +41,8 @@ func main() {
 		},
 	}
 
-	query := "created:>" + time.Now().AddDate(0, 0, -2).Format("2006-01-02") +
-		" size:50..6000 is:public"
+	query := "created:>" + time.Now().AddDate(0, 0, -7).Format("2006-01-02") +
+		" size:50..9999 is:public"
 	result, _, err := client.Search.Repositories(ctx, query, opt)
 	if err != nil {
 		fmt.Printf("Error searching repositories: %v\n", err)
@@ -58,6 +59,8 @@ func main() {
 		})
 	}
 
+	const FolderSave = "Projects/ScrapDay/"
+
 	jsonData, err := json.MarshalIndent(repos, "", "  ")
 	if err != nil {
 		fmt.Printf("Error marshaling JSON: %v\n", err)
@@ -65,14 +68,14 @@ func main() {
 	}
 
 	filename := "repos_to_clone.json"
-	err = os.WriteFile(filename, jsonData, 0644)
+	err = os.WriteFile(FolderSave+filename, jsonData, 0644)
 	if err != nil {
 		fmt.Printf("Error writing file: %v\n", err)
 		os.Exit(1)
 	}
 
 	filename2 := "latest_repos.md"
-	f, err := os.Create(filename2)
+	f, err := os.Create(FolderSave + filename2)
 	if err != nil {
 		fmt.Printf("Error creating file: %v\n", err)
 		os.Exit(1)
@@ -84,7 +87,9 @@ func main() {
 		}
 	}(f)
 
-	_, err = fmt.Fprintf(f, "# Latest Repositories (%s)\n\n", time.Now().AddDate(0, 0, -2).Format("2006-01-02"))
+	_, err = fmt.Fprintf(f, "# Latest Repositories (%s .. %s)\n\n",
+		time.Now().AddDate(0, 0, -7).Format("2006-01-02"),
+		time.Now().AddDate(0, 0, 0).Format("2006-01-02"))
 	if err != nil {
 		return
 	}
