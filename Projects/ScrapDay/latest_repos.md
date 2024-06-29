@@ -1,7 +1,7 @@
-# Latest Repositories (2024-06-26 .. 2024-06-28)
+# Latest Repositories (2024-06-27 .. 2024-06-29)
 
-- [danielroe/unplugin-purge-polyfills](https://github.com/danielroe/unplugin-purge-polyfills) (132)
-- [smallfawn/decode_action](https://github.com/smallfawn/decode_action) (101)
-- [webdevcody/next-drizzle-lucia-sqlite-template](https://github.com/webdevcody/next-drizzle-lucia-sqlite-template) (100)
-- [bjrjk/CVE-2024-29943](https://github.com/bjrjk/CVE-2024-29943) (53)
-- [cloudflare/ai-utils](https://github.com/cloudflare/ai-utils) (35)
+- [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) (110)
+- [SanchoBlumen/pdf-to-png](https://github.com/SanchoBlumen/pdf-to-png) (27)
+- [BioX-NKU/scBackdoor](https://github.com/BioX-NKU/scBackdoor) (25)
+- [77AXEL/NetDisco](https://github.com/77AXEL/NetDisco) (17)
+- [Ppsoft1991/ChatViewTools](https://github.com/Ppsoft1991/ChatViewTools) (14)
