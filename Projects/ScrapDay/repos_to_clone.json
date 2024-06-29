@@ -2,8 +2,20 @@
   {
     "name": "CosmosShadow/gptpdf",
     "clone_url": "https://github.com/CosmosShadow/gptpdf.git",
-    "stars": 110,
+    "stars": 321,
     "size": 3585
+  },
+  {
+    "name": "AhmedRabby0601/solana-sniper-bot",
+    "clone_url": "https://github.com/AhmedRabby0601/solana-sniper-bot.git",
+    "stars": 135,
+    "size": 1593
+  },
+  {
+    "name": "h9-tect/AI-cheatsheets",
+    "clone_url": "https://github.com/h9-tect/AI-cheatsheets.git",
+    "stars": 44,
+    "size": 53
   },
   {
     "name": "SanchoBlumen/pdf-to-png",
@@ -16,17 +28,5 @@
     "clone_url": "https://github.com/BioX-NKU/scBackdoor.git",
     "stars": 25,
     "size": 2033
-  },
-  {
-    "name": "77AXEL/NetDisco",
-    "clone_url": "https://github.com/77AXEL/NetDisco.git",
-    "stars": 17,
-    "size": 78471
-  },
-  {
-    "name": "Ppsoft1991/ChatViewTools",
-    "clone_url": "https://github.com/Ppsoft1991/ChatViewTools.git",
-    "stars": 14,
-    "size": 1865
   }
 ]
