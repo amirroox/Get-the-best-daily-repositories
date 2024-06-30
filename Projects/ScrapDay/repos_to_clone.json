@@ -1,32 +1,32 @@
 [
   {
-    "name": "CosmosShadow/gptpdf",
-    "clone_url": "https://github.com/CosmosShadow/gptpdf.git",
-    "stars": 321,
-    "size": 3585
-  },
-  {
     "name": "AhmedRabby0601/solana-sniper-bot",
     "clone_url": "https://github.com/AhmedRabby0601/solana-sniper-bot.git",
-    "stars": 135,
-    "size": 1593
+    "stars": 156,
+    "size": 1597
   },
   {
     "name": "h9-tect/AI-cheatsheets",
     "clone_url": "https://github.com/h9-tect/AI-cheatsheets.git",
-    "stars": 44,
-    "size": 53
+    "stars": 95,
+    "size": 185
   },
   {
-    "name": "SanchoBlumen/pdf-to-png",
-    "clone_url": "https://github.com/SanchoBlumen/pdf-to-png.git",
-    "stars": 27,
-    "size": 781
+    "name": "MounishP/Sapphire-Plugin-2024",
+    "clone_url": "https://github.com/MounishP/Sapphire-Plugin-2024.git",
+    "stars": 76,
+    "size": 677
   },
   {
-    "name": "BioX-NKU/scBackdoor",
-    "clone_url": "https://github.com/BioX-NKU/scBackdoor.git",
-    "stars": 25,
-    "size": 2033
+    "name": "bones-ai/rust-snake-ai-ratatui",
+    "clone_url": "https://github.com/bones-ai/rust-snake-ai-ratatui.git",
+    "stars": 62,
+    "size": 208
+  },
+  {
+    "name": "rachartier/tiny-inline-diagnostic.nvim",
+    "clone_url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim.git",
+    "stars": 61,
+    "size": 54
   }
 ]
