@@ -1,32 +1,32 @@
 [
   {
-    "name": "AhmedRabby0601/solana-sniper-bot",
-    "clone_url": "https://github.com/AhmedRabby0601/solana-sniper-bot.git",
-    "stars": 156,
-    "size": 1597
-  },
-  {
-    "name": "h9-tect/AI-cheatsheets",
-    "clone_url": "https://github.com/h9-tect/AI-cheatsheets.git",
-    "stars": 95,
-    "size": 185
-  },
-  {
-    "name": "MounishP/Sapphire-Plugin-2024",
-    "clone_url": "https://github.com/MounishP/Sapphire-Plugin-2024.git",
-    "stars": 76,
-    "size": 677
-  },
-  {
     "name": "bones-ai/rust-snake-ai-ratatui",
     "clone_url": "https://github.com/bones-ai/rust-snake-ai-ratatui.git",
-    "stars": 62,
+    "stars": 159,
     "size": 208
   },
   {
-    "name": "rachartier/tiny-inline-diagnostic.nvim",
-    "clone_url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim.git",
-    "stars": 61,
-    "size": 54
+    "name": "mouredev/hello-javascript",
+    "clone_url": "https://github.com/mouredev/hello-javascript.git",
+    "stars": 101,
+    "size": 112
+  },
+  {
+    "name": "yacineMTB/dingcad",
+    "clone_url": "https://github.com/yacineMTB/dingcad.git",
+    "stars": 51,
+    "size": 736
+  },
+  {
+    "name": "egoist/tauri-starter",
+    "clone_url": "https://github.com/egoist/tauri-starter.git",
+    "stars": 40,
+    "size": 243
+  },
+  {
+    "name": "mallahyari/ml-practical-usecases",
+    "clone_url": "https://github.com/mallahyari/ml-practical-usecases.git",
+    "stars": 32,
+    "size": 341
   }
 ]
