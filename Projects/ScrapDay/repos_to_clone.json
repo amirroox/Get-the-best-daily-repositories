@@ -1,32 +1,32 @@
 [
   {
-    "name": "bones-ai/rust-snake-ai-ratatui",
-    "clone_url": "https://github.com/bones-ai/rust-snake-ai-ratatui.git",
-    "stars": 159,
-    "size": 208
-  },
-  {
     "name": "mouredev/hello-javascript",
     "clone_url": "https://github.com/mouredev/hello-javascript.git",
-    "stars": 101,
+    "stars": 355,
     "size": 112
+  },
+  {
+    "name": "trungbtgherm/darkweb-now",
+    "clone_url": "https://github.com/trungbtgherm/darkweb-now.git",
+    "stars": 115,
+    "size": 837
+  },
+  {
+    "name": "AIFSH/ComfyUI-MimicMotion",
+    "clone_url": "https://github.com/AIFSH/ComfyUI-MimicMotion.git",
+    "stars": 95,
+    "size": 2110
+  },
+  {
+    "name": "Islam-Khan001/pin-connect",
+    "clone_url": "https://github.com/Islam-Khan001/pin-connect.git",
+    "stars": 87,
+    "size": 2541
   },
   {
     "name": "yacineMTB/dingcad",
     "clone_url": "https://github.com/yacineMTB/dingcad.git",
-    "stars": 51,
+    "stars": 66,
     "size": 736
-  },
-  {
-    "name": "egoist/tauri-starter",
-    "clone_url": "https://github.com/egoist/tauri-starter.git",
-    "stars": 40,
-    "size": 243
-  },
-  {
-    "name": "mallahyari/ml-practical-usecases",
-    "clone_url": "https://github.com/mallahyari/ml-practical-usecases.git",
-    "stars": 32,
-    "size": 341
   }
 ]

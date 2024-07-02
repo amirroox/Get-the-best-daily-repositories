@@ -1,7 +1,7 @@
-# Latest Repositories (2024-06-29 .. 2024-07-01)
+# Latest Repositories (2024-06-30 .. 2024-07-02)
 
-- [bones-ai/rust-snake-ai-ratatui](https://github.com/bones-ai/rust-snake-ai-ratatui) (159)
-- [mouredev/hello-javascript](https://github.com/mouredev/hello-javascript) (101)
-- [yacineMTB/dingcad](https://github.com/yacineMTB/dingcad) (51)
-- [egoist/tauri-starter](https://github.com/egoist/tauri-starter) (40)
-- [mallahyari/ml-practical-usecases](https://github.com/mallahyari/ml-practical-usecases) (32)
+- [mouredev/hello-javascript](https://github.com/mouredev/hello-javascript) (355)
+- [trungbtgherm/darkweb-now](https://github.com/trungbtgherm/darkweb-now) (115)
+- [AIFSH/ComfyUI-MimicMotion](https://github.com/AIFSH/ComfyUI-MimicMotion) (95)
+- [Islam-Khan001/pin-connect](https://github.com/Islam-Khan001/pin-connect) (87)
+- [yacineMTB/dingcad](https://github.com/yacineMTB/dingcad) (66)

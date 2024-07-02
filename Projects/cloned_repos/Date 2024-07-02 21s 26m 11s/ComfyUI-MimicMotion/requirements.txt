@@ -1,0 +1,11 @@
+diffusers
+transformers
+decord
+einops
+omegaconf
+onnxruntime-gpu
+moviepy
+matplotlib
+opencv-python
+accelerate
+av
