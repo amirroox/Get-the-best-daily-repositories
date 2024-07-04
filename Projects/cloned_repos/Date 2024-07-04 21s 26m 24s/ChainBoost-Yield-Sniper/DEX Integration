@@ -1,0 +1,43 @@
+# Connect to multiple DEXes
+dexes = [
+    {'name': 'DEX 1', 'url': 'http://dex1.com', 'contract_address': '0x...'}
+    {'name': 'DEX 2', 'url': 'http://dex2.com', 'contract_address': '0x...'},
+    # ...
+dex_contract = w3.eth.contract(address=dex_address, abi=DEX_ABI)
+
+# Get a list of all token pairs on DEX
+pairs = dex_contract.functions.allPairs().call()
+
+# Track the events of new token pairs creation
+event_filter = dex_contract.events.PairCreated.createFilter(fromBlock="latest")
+
+# Process new token pair creation events
+For event in event_filter.get_all_entries():
+    # Get the address of the new token
+    new_token_address = event['args']['token0']
+
+    # Check if the new token is not already a known token
+    if new_token_address is not in known_tokens:
+        # Add the new token to the list of known tokens
+        known_tokens.append(new_token_address)
+
+# Create DEX contract instances
+dex_contracts = {}
+For dex in dexes:
+    w3 = Web3(Web3.HTTPProvider(dex['url']))
+    dex_contracts[dex['name']] = w3.eth.contract(address=dex['contract_address'], abi=DEX_ABI)
+
+# Track token prices
+while True:
+    For dex, dex_contract in dex_contracts.items():
+        # Get token prices on the given DEX
+        prices = {}
+        for token_address in token_addresses:
+            reserves = dex_contract.functions.getReserves().call(token_address)
+            prices[token_address] = reserves[0] / reserves[1]
+
+        # Print token prices
+        print(f "Token prices on {dex}:")
+        for token_address, price in prices.items():
+            print(f" {token_address}: {price}")
+    time.sleep(60) # Update prices every minute
