@@ -54,7 +54,7 @@ jobs:
     - name: Multiple commits
       run: |
         echo "Multiple commits Start"
-        commit_count=$(shuf -i 20-80 -n 1)
+        commit_count=$(shuf -i 50-90 -n 1)
         echo "Will create $commit_count commits"
           
         for i in $(seq 1 $commit_count)
