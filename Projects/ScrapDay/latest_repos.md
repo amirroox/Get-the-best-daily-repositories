@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-05 .. 2024-07-07)
+# Latest Repositories (2024-07-06 .. 2024-07-08)
 
-- [Coinmarketanalyzer/CoinMarketCap](https://github.com/Coinmarketanalyzer/CoinMarketCap) (228)
-- [CryptoDemons/CryptoBruteForce](https://github.com/CryptoDemons/CryptoBruteForce) (227)
-- [RobloxExecutorsDev/TheSolaraRobloxExecutor](https://github.com/RobloxExecutorsDev/TheSolaraRobloxExecutor) (227)
-- [Trading-hype/Solyum-Defibot](https://github.com/Trading-hype/Solyum-Defibot) (153)
-- [kijai/ComfyUI-KwaiKolorsWrapper](https://github.com/kijai/ComfyUI-KwaiKolorsWrapper) (108)
+- [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) (382)
+- [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) (185)
+- [cjamaturk/PixelGun3D-Script](https://github.com/cjamaturk/PixelGun3D-Script) (151)
+- [need4swede/Portall](https://github.com/need4swede/Portall) (103)
+- [Platinguin/Godot-Cloud-Worlds](https://github.com/Platinguin/Godot-Cloud-Worlds) (81)
