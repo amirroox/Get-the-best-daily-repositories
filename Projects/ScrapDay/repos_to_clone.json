@@ -2,31 +2,31 @@
   {
     "name": "facebookresearch/MobileLLM",
     "clone_url": "https://github.com/facebookresearch/MobileLLM.git",
-    "stars": 263,
+    "stars": 511,
     "size": 351
-  },
-  {
-    "name": "liseami/fastapi-docker-temp",
-    "clone_url": "https://github.com/liseami/fastapi-docker-temp.git",
-    "stars": 84,
-    "size": 65
-  },
-  {
-    "name": "egoist/remix-starter",
-    "clone_url": "https://github.com/egoist/remix-starter.git",
-    "stars": 76,
-    "size": 120
   },
   {
     "name": "midudev/hackaton-vercel-2024",
     "clone_url": "https://github.com/midudev/hackaton-vercel-2024.git",
-    "stars": 63,
+    "stars": 108,
     "size": 82
   },
   {
-    "name": "Drako01/javascript---59950",
-    "clone_url": "https://github.com/Drako01/javascript---59950.git",
-    "stars": 53,
-    "size": 165
+    "name": "liveevilgoose8/Windows-Spoofer",
+    "clone_url": "https://github.com/liveevilgoose8/Windows-Spoofer.git",
+    "stars": 94,
+    "size": 1952
+  },
+  {
+    "name": "SadKoala2000/BlowtorchNuker",
+    "clone_url": "https://github.com/SadKoala2000/BlowtorchNuker.git",
+    "stars": 84,
+    "size": 1781
+  },
+  {
+    "name": "SupportingMyFavTeam/1Win-Token-Autoclicker",
+    "clone_url": "https://github.com/SupportingMyFavTeam/1Win-Token-Autoclicker.git",
+    "stars": 84,
+    "size": 2138
   }
 ]

@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-07 .. 2024-07-09)
+# Latest Repositories (2024-07-08 .. 2024-07-10)
 
-- [facebookresearch/MobileLLM](https://github.com/facebookresearch/MobileLLM) (263)
-- [liseami/fastapi-docker-temp](https://github.com/liseami/fastapi-docker-temp) (84)
-- [egoist/remix-starter](https://github.com/egoist/remix-starter) (76)
-- [midudev/hackaton-vercel-2024](https://github.com/midudev/hackaton-vercel-2024) (63)
-- [Drako01/javascript---59950](https://github.com/Drako01/javascript---59950) (53)
+- [facebookresearch/MobileLLM](https://github.com/facebookresearch/MobileLLM) (511)
+- [midudev/hackaton-vercel-2024](https://github.com/midudev/hackaton-vercel-2024) (108)
+- [liveevilgoose8/Windows-Spoofer](https://github.com/liveevilgoose8/Windows-Spoofer) (94)
+- [SadKoala2000/BlowtorchNuker](https://github.com/SadKoala2000/BlowtorchNuker) (84)
+- [SupportingMyFavTeam/1Win-Token-Autoclicker](https://github.com/SupportingMyFavTeam/1Win-Token-Autoclicker) (84)
