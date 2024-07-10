@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "type": "txt",
+
+    "title": "RoBotV2 Sniper",
+    "resize": {"width": -1, "height": -1},
+    "indicator": ">>",
+    "log seperator": "\t[LOG]\n",
+    "custom tooltips": [],
+
+    "status buying": "Buying Limited",
+    "status check": "Checking for onsale limiteds",
+
+    "animated": false,
+    "fps": 1,
+    "frames": "frames",
+
+    "script": "theme.py",
+    "logo": "logo.txt",
+    "printText": "printText.txt"
+}
