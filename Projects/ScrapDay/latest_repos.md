@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-09 .. 2024-07-11)
+# Latest Repositories (2024-07-10 .. 2024-07-12)
 
-- [SadKoala2000/BlowtorchNuker](https://github.com/SadKoala2000/BlowtorchNuker) (250)
-- [SupportingMyFavTeam/1Win-Token-Autoclicker](https://github.com/SupportingMyFavTeam/1Win-Token-Autoclicker) (250)
-- [EnterTheAzeroth/GetGrass-MultiBot](https://github.com/EnterTheAzeroth/GetGrass-MultiBot) (249)
-- [Percentagefrom100/Vitality-Doxxing-Tool](https://github.com/Percentagefrom100/Vitality-Doxxing-Tool) (249)
-- [IAteWhiteMushrooms/BananaAutoclicker](https://github.com/IAteWhiteMushrooms/BananaAutoclicker) (249)
+- [Wack0/maciNTosh](https://github.com/Wack0/maciNTosh) (150)
+- [rubenlascasas/Stream-Viewer-Bot](https://github.com/rubenlascasas/Stream-Viewer-Bot) (142)
+- [LucasZibaitis/1Win-Token-Autoclicker](https://github.com/LucasZibaitis/1Win-Token-Autoclicker) (142)
+- [MArifAdil/Banana-Game-Autoclicker](https://github.com/MArifAdil/Banana-Game-Autoclicker) (142)
+- [sebastiansitnik/Flame-Hypixel-Skyblock](https://github.com/sebastiansitnik/Flame-Hypixel-Skyblock) (142)
