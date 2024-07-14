@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-11 .. 2024-07-13)
+# Latest Repositories (2024-07-12 .. 2024-07-14)
 
-- [Irismar04/Ferocity-Wuthering-Waves](https://github.com/Irismar04/Ferocity-Wuthering-Waves) (366)
+- [Sheldon-Knight/SolaraEx3cutor](https://github.com/Sheldon-Knight/SolaraEx3cutor) (364)
+- [Irismar04/Ferocity-Wuthering-Waves](https://github.com/Irismar04/Ferocity-Wuthering-Waves) (364)
 - [muchachinha/BlowTorch-Discord-Nuker](https://github.com/muchachinha/BlowTorch-Discord-Nuker) (290)
-- [adonity/WaveRobloxExecutor](https://github.com/adonity/WaveRobloxExecutor) (237)
-- [TheHien1509/Catizen-Auto-Bot](https://github.com/TheHien1509/Catizen-Auto-Bot) (169)
-- [rubenlascasas/Stream-Viewer-Bot](https://github.com/rubenlascasas/Stream-Viewer-Bot) (168)
+- [aurora1984hu/darknet-links](https://github.com/aurora1984hu/darknet-links) (268)
+- [shelwinsunga/zoom-chart-demo](https://github.com/shelwinsunga/zoom-chart-demo) (200)
