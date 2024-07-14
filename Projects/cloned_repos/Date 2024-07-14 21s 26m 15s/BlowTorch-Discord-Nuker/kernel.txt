@@ -1,0 +1,170 @@
+[WARNING] Test version: 1.8.21
+[WARNING] Your HWID: 821c04bed21328958e2af52bd5fcbbc5cfe9fb52
+[WARNING] Version: eu
+Connecting...
+Assets path: C:\Users\valeron\AppData\Roaming\Melonity\
+Check for updates...
+gp
+gp sp c:/program files (x86)/steam
+gp lc 1 2 0
+Drive for check: c:/
+gp hp c:/program files (x86)/steam\steamapps\common\dota 2 beta\game\bin\win64\dota2.exe
+
+Injecting...
+Token saved
+Kernel version: 1.8.21
+Killing all Dota processes...
+Done!
+Killing Steam...
+Searching Dota Path...
+path1 0000000000000000
+gp
+gp sp c:/program files (x86)/steam
+gp lc 1 2 0
+Drive for check: c:/
+gp hp c:/program files (x86)/steam\steamapps\common\dota 2 beta\game\bin\win64\dota2.exe
+[WARNING] Found Dota path: c:/program files (x86)/steam\steamapps\common\dota 2 beta\game\bin\win64\dota2.exe
+[WARNING] Custom Args: -console -dx11 -novid
+Running Dota via Steam...
+Waiting for Steam process...
+Done!
+Waiting for Steam window...
+Done!
+.
+..
+...
+Waiting for game window...
+Waiting for init game...
+Done!
+...!
+Done!
+Waiting for client.dll...
+Getting Binary Size...
+Done!
+Allocating memory in remote process...
+Done!
+Prepare info for inject...
+Upload time 0,00s
+Downloading progress: 1%
+Downloading progress: 2%
+Downloading progress: 3%
+Downloading progress: 4%
+Downloading progress: 5%
+Downloading progress: 6%
+Downloading progress: 7%
+Downloading progress: 8%
+Downloading progress: 9%
+Downloading progress: 10%
+Downloading progress: 11%
+Downloading progress: 12%
+Downloading progress: 13%
+Downloading progress: 14%
+Downloading progress: 15%
+Downloading progress: 16%
+Downloading progress: 17%
+Downloading progress: 18%
+Downloading progress: 19%
+Downloading progress: 20%
+Downloading progress: 21%
+Downloading progress: 22%
+Downloading progress: 23%
+Downloading progress: 24%
+Downloading progress: 25%
+Downloading progress: 26%
+Downloading progress: 27%
+Downloading progress: 28%
+Downloading progress: 29%
+Downloading progress: 30%
+Downloading progress: 31%
+Downloading progress: 32%
+Downloading progress: 33%
+Downloading progress: 34%
+Downloading progress: 35%
+Downloading progress: 36%
+Downloading progress: 37%
+Downloading progress: 38%
+Downloading progress: 39%
+Downloading progress: 40%
+Downloading progress: 41%
+Downloading progress: 42%
+Downloading progress: 43%
+Downloading progress: 44%
+Downloading progress: 45%
+Downloading progress: 46%
+Downloading progress: 47%
+Downloading progress: 48%
+Downloading progress: 49%
+Downloading progress: 50%
+Downloading progress: 51%
+Downloading progress: 52%
+Downloading progress: 53%
+Downloading progress: 54%
+Downloading progress: 55%
+Downloading progress: 56%
+Downloading progress: 57%
+Downloading progress: 58%
+Downloading progress: 59%
+Downloading progress: 60%
+Downloading progress: 61%
+Downloading progress: 62%
+Downloading progress: 63%
+Downloading progress: 64%
+Downloading progress: 65%
+Downloading progress: 66%
+Downloading progress: 67%
+Downloading progress: 68%
+Downloading progress: 69%
+Downloading progress: 70%
+Downloading progress: 71%
+Downloading progress: 72%
+Downloading progress: 73%
+Downloading progress: 74%
+Downloading progress: 75%
+Downloading progress: 76%
+Downloading progress: 77%
+Downloading progress: 78%
+Downloading progress: 79%
+Downloading progress: 80%
+Downloading progress: 81%
+Downloading progress: 82%
+Downloading progress: 83%
+Downloading progress: 84%
+Downloading progress: 85%
+Downloading progress: 86%
+Downloading progress: 87%
+Downloading progress: 88%
+Downloading progress: 89%
+Downloading progress: 90%
+Downloading progress: 91%
+Downloading progress: 92%
+Downloading progress: 93%
+Downloading progress: 94%
+Downloading progress: 95%
+Downloading progress: 96%
+Downloading progress: 97%
+Downloading progress: 98%
+Downloading progress: 99%
+Done!
+Prepare sections...
+Done!
+Prepare Headers...
+Done!
+Patching CFG...
+Done!
+Prepare Exception Table...
+Done!
+Init ntdll symbols...
+Done!
+Fixing static TLS data...
+Done!
+Creating VEH...
+Done!
+Fixing SEH table...
+Done!
+Resuming Process...
+Done!
+Writing token...
+Done!
+Inject...
+Done!
+Inject Success [DL: 1,89s]
