@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-12 .. 2024-07-14)
+# Latest Repositories (2024-07-13 .. 2024-07-15)
 
-- [Sheldon-Knight/SolaraEx3cutor](https://github.com/Sheldon-Knight/SolaraEx3cutor) (364)
-- [Irismar04/Ferocity-Wuthering-Waves](https://github.com/Irismar04/Ferocity-Wuthering-Waves) (364)
-- [muchachinha/BlowTorch-Discord-Nuker](https://github.com/muchachinha/BlowTorch-Discord-Nuker) (290)
-- [aurora1984hu/darknet-links](https://github.com/aurora1984hu/darknet-links) (268)
-- [shelwinsunga/zoom-chart-demo](https://github.com/shelwinsunga/zoom-chart-demo) (200)
+- [severian42/GraphRAG-Ollama-UI](https://github.com/severian42/GraphRAG-Ollama-UI) (236)
+- [doublehelixonmymind/stream-viewer-bot](https://github.com/doublehelixonmymind/stream-viewer-bot) (152)
+- [XtraFlatliner/flame-hypixel-skyblock](https://github.com/XtraFlatliner/flame-hypixel-skyblock) (152)
+- [WorkingOnDying2/ferocity](https://github.com/WorkingOnDying2/ferocity) (152)
+- [visaga-svg/vitality-doxxing-tool](https://github.com/visaga-svg/vitality-doxxing-tool) (152)
