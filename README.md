@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-13 .. 2024-07-15)
+# Latest Repositories (2024-07-14 .. 2024-07-16)
 
-- [severian42/GraphRAG-Ollama-UI](https://github.com/severian42/GraphRAG-Ollama-UI) (236)
-- [doublehelixonmymind/stream-viewer-bot](https://github.com/doublehelixonmymind/stream-viewer-bot) (152)
-- [XtraFlatliner/flame-hypixel-skyblock](https://github.com/XtraFlatliner/flame-hypixel-skyblock) (152)
-- [WorkingOnDying2/ferocity](https://github.com/WorkingOnDying2/ferocity) (152)
-- [visaga-svg/vitality-doxxing-tool](https://github.com/visaga-svg/vitality-doxxing-tool) (152)
+- [sweetypiedish/ProxyFinderChecker2024](https://github.com/sweetypiedish/ProxyFinderChecker2024) (329)
+- [joy047/wave-executor-roblox](https://github.com/joy047/wave-executor-roblox) (229)
+- [Bragadeesh75/Hunt-Showdown-Hack-Esp-Aim-Teleport](https://github.com/Bragadeesh75/Hunt-Showdown-Hack-Esp-Aim-Teleport) (122)
+- [Thomasca22/Banana-AutoClicker](https://github.com/Thomasca22/Banana-AutoClicker) (112)
+- [shootersheep135/Black-Squadhck-reak](https://github.com/shootersheep135/Black-Squadhck-reak) (70)
