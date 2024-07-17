@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-14 .. 2024-07-16)
+# Latest Repositories (2024-07-15 .. 2024-07-17)
 
-- [sweetypiedish/ProxyFinderChecker2024](https://github.com/sweetypiedish/ProxyFinderChecker2024) (329)
-- [joy047/wave-executor-roblox](https://github.com/joy047/wave-executor-roblox) (229)
-- [Bragadeesh75/Hunt-Showdown-Hack-Esp-Aim-Teleport](https://github.com/Bragadeesh75/Hunt-Showdown-Hack-Esp-Aim-Teleport) (122)
-- [Thomasca22/Banana-AutoClicker](https://github.com/Thomasca22/Banana-AutoClicker) (112)
-- [shootersheep135/Black-Squadhck-reak](https://github.com/shootersheep135/Black-Squadhck-reak) (70)
+- [DeathKael/airtest_uitest](https://github.com/DeathKael/airtest_uitest) (29)
+- [rainchen/MacOS-Agent](https://github.com/rainchen/MacOS-Agent) (27)
+- [Gentleman-Programming/Angular-18-boilerplate](https://github.com/Gentleman-Programming/Angular-18-boilerplate) (26)
+- [fastracelabs/fastrace](https://github.com/fastracelabs/fastrace) (22)
+- [magnit-tech/one-s-reports-history](https://github.com/magnit-tech/one-s-reports-history) (20)
