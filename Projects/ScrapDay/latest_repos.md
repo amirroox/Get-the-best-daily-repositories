@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-15 .. 2024-07-17)
+# Latest Repositories (2024-07-16 .. 2024-07-18)
 
-- [DeathKael/airtest_uitest](https://github.com/DeathKael/airtest_uitest) (29)
-- [rainchen/MacOS-Agent](https://github.com/rainchen/MacOS-Agent) (27)
-- [Gentleman-Programming/Angular-18-boilerplate](https://github.com/Gentleman-Programming/Angular-18-boilerplate) (26)
-- [fastracelabs/fastrace](https://github.com/fastracelabs/fastrace) (22)
-- [magnit-tech/one-s-reports-history](https://github.com/magnit-tech/one-s-reports-history) (20)
+- [NguyenDat-dev/vitality-doxxing-tool](https://github.com/NguyenDat-dev/vitality-doxxing-tool) (280)
+- [princeHoungbasse/Wuthering-Waves-Ferocity](https://github.com/princeHoungbasse/Wuthering-Waves-Ferocity) (280)
+- [vhzzz/Cryptowallet-Bruteforce-Tool](https://github.com/vhzzz/Cryptowallet-Bruteforce-Tool) (265)
+- [IHTESHAM-12/Xylda-AutoKMS](https://github.com/IHTESHAM-12/Xylda-AutoKMS) (265)
+- [Armageddon-2/DeltaExecutor-Roblox](https://github.com/Armageddon-2/DeltaExecutor-Roblox) (265)
