@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-17 .. 2024-07-19)
+# Latest Repositories (2024-07-18 .. 2024-07-20)
 
-- [SahilKhEra2/Stream-Viewer-Bot-Software](https://github.com/SahilKhEra2/Stream-Viewer-Bot-Software) (300)
-- [fantasticwaddle/Flame-Hypixel-Skyblock-Cheat](https://github.com/fantasticwaddle/Flame-Hypixel-Skyblock-Cheat) (271)
-- [StevenChzz/Banana-Game-Autoclicker](https://github.com/StevenChzz/Banana-Game-Autoclicker) (271)
-- [EurekaLabsAI/mlp](https://github.com/EurekaLabsAI/mlp) (245)
-- [guivings/Solara](https://github.com/guivings/Solara) (124)
+- [Lessica/TrollFools](https://github.com/Lessica/TrollFools) (868)
+- [Vignesh25jk/Cryptowallet-Bruteforce](https://github.com/Vignesh25jk/Cryptowallet-Bruteforce) (266)
+- [mustafa0783/wave-roblox-executor](https://github.com/mustafa0783/wave-roblox-executor) (266)
+- [Willard-Henry/Ferocity-Wuthering-Waves](https://github.com/Willard-Henry/Ferocity-Wuthering-Waves) (266)
+- [fantasticwaddle/Flame-Hypixel-Skyblock-Cheat](https://github.com/fantasticwaddle/Flame-Hypixel-Skyblock-Cheat) (266)
