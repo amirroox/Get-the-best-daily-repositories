@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-19 .. 2024-07-21)
+# Latest Repositories (2024-07-20 .. 2024-07-22)
 
-- [vperev/darkweb-now](https://github.com/vperev/darkweb-now) (262)
-- [Vignesh25jk/Cryptowallet-Bruteforce](https://github.com/Vignesh25jk/Cryptowallet-Bruteforce) (224)
-- [mustafa0783/wave-roblox-executor](https://github.com/mustafa0783/wave-roblox-executor) (224)
-- [Willard-Henry/Ferocity-Wuthering-Waves](https://github.com/Willard-Henry/Ferocity-Wuthering-Waves) (224)
-- [XingLuoXL/Delta-Executor-PC-Roblox](https://github.com/XingLuoXL/Delta-Executor-PC-Roblox) (224)
+- [trpass1/darkweb-now](https://github.com/trpass1/darkweb-now) (126)
+- [woweq0/hw1d-sp00f3r-fr33](https://github.com/woweq0/hw1d-sp00f3r-fr33) (103)
+- [hetduyf/lethal-c0mpany-hck](https://github.com/hetduyf/lethal-c0mpany-hck) (103)
+- [zidannov/Boris-FX-Sapphire-Plugins](https://github.com/zidannov/Boris-FX-Sapphire-Plugins) (103)
+- [ItzSchawn/n0rd-vpn-fr33](https://github.com/ItzSchawn/n0rd-vpn-fr33) (103)
