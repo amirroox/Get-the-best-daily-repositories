@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-25 .. 2024-07-27)
+# Latest Repositories (2024-07-26 .. 2024-07-28)
 
-- [stafidoiwant733/ProxyFinderChecker2024](https://github.com/stafidoiwant733/ProxyFinderChecker2024) (260)
-- [grave0x/SolaraRobloxExecutor](https://github.com/grave0x/SolaraRobloxExecutor) (127)
-- [SS-webdv/FerocityWutheringWaves](https://github.com/SS-webdv/FerocityWutheringWaves) (127)
-- [FinderKey114/FinderKey-Finding-forgotten-Wallets](https://github.com/FinderKey114/FinderKey-Finding-forgotten-Wallets) (110)
-- [RafiqulIs/CoinMarketCap-analyzer](https://github.com/RafiqulIs/CoinMarketCap-analyzer) (80)
+- [grave0x/SolaraRobloxExecutor](https://github.com/grave0x/SolaraRobloxExecutor) (124)
+- [weaverjc/Axie-Infinity-bot](https://github.com/weaverjc/Axie-Infinity-bot) (109)
+- [uomopuro/trade-dex-sniper-bot](https://github.com/uomopuro/trade-dex-sniper-bot) (85)
+- [mfayo/pumpfun-multiwallet](https://github.com/mfayo/pumpfun-multiwallet) (51)
+- [Ameer-Hamza289/React-form-validator](https://github.com/Ameer-Hamza289/React-form-validator) (34)
