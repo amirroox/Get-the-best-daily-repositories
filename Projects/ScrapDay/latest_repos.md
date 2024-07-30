@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-27 .. 2024-07-29)
+# Latest Repositories (2024-07-28 .. 2024-07-30)
 
-- [uomopuro/trade-dex-sniper-bot](https://github.com/uomopuro/trade-dex-sniper-bot) (142)
-- [tellguy/solana-arbitrage-bot](https://github.com/tellguy/solana-arbitrage-bot) (109)
-- [needim/giderim-website](https://github.com/needim/giderim-website) (38)
-- [stoneharry/RCEPatcher](https://github.com/stoneharry/RCEPatcher) (32)
-- [engineai-robotics/engineai_legged_gym](https://github.com/engineai-robotics/engineai_legged_gym) (22)
+- [kijai/ComfyUI-segment-anything-2](https://github.com/kijai/ComfyUI-segment-anything-2) (53)
+- [ielijose/actas-elecciones-2024](https://github.com/ielijose/actas-elecciones-2024) (52)
+- [ellio1111/rust-hck-fr33](https://github.com/ellio1111/rust-hck-fr33) (45)
+- [abuf15saud/Ad0be-Creat1ve-Cl0ud-2024](https://github.com/abuf15saud/Ad0be-Creat1ve-Cl0ud-2024) (45)
+- [blood908/kiddions-m0dest-menu](https://github.com/blood908/kiddions-m0dest-menu) (45)
