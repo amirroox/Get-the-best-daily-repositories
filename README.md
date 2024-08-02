@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-30 .. 2024-08-01)
+# Latest Repositories (2024-07-31 .. 2024-08-02)
 
-- [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) (463)
-- [xiaozhilvz/Boris-FX-Sapphire-Plugins](https://github.com/xiaozhilvz/Boris-FX-Sapphire-Plugins) (324)
-- [uppiter/DeFi-Trading-Bot-Multi-Chain-High-ROI-Automated-Crypto-Strategies](https://github.com/uppiter/DeFi-Trading-Bot-Multi-Chain-High-ROI-Automated-Crypto-Strategies) (172)
-- [huami1314/SuperIcons](https://github.com/huami1314/SuperIcons) (159)
-- [teteuu-2010/crypto-aml-checker](https://github.com/teteuu-2010/crypto-aml-checker) (134)
+- [zyn3rgy/smbtakeover](https://github.com/zyn3rgy/smbtakeover) (96)
+- [uppiter/Auto-Market-Maker-Bot-DeFi-Trading](https://github.com/uppiter/Auto-Market-Maker-Bot-DeFi-Trading) (66)
+- [Yozoxir/Advanced-multitools](https://github.com/Yozoxir/Advanced-multitools) (57)
+- [jacobparis/underkill-stack](https://github.com/jacobparis/underkill-stack) (45)
+- [Jerryganzz/HWID-Spoofer-Simple](https://github.com/Jerryganzz/HWID-Spoofer-Simple) (24)
