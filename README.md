@@ -1,7 +1,7 @@
-# Latest Repositories (2024-07-31 .. 2024-08-02)
+# Latest Repositories (2024-08-01 .. 2024-08-03)
 
-- [zyn3rgy/smbtakeover](https://github.com/zyn3rgy/smbtakeover) (96)
-- [uppiter/Auto-Market-Maker-Bot-DeFi-Trading](https://github.com/uppiter/Auto-Market-Maker-Bot-DeFi-Trading) (66)
-- [Yozoxir/Advanced-multitools](https://github.com/Yozoxir/Advanced-multitools) (57)
-- [jacobparis/underkill-stack](https://github.com/jacobparis/underkill-stack) (45)
-- [Jerryganzz/HWID-Spoofer-Simple](https://github.com/Jerryganzz/HWID-Spoofer-Simple) (24)
+- [jofpin/turbit](https://github.com/jofpin/turbit) (785)
+- [tracylovett/seed-gen](https://github.com/tracylovett/seed-gen) (362)
+- [Bralen1/kiddions-m0dest-menu](https://github.com/Bralen1/kiddions-m0dest-menu) (276)
+- [adrian23-hub/ex1t-l4g-fr33](https://github.com/adrian23-hub/ex1t-l4g-fr33) (276)
+- [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) (180)
