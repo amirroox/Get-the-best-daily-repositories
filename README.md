@@ -1,7 +1,7 @@
-# Latest Repositories (2024-08-01 .. 2024-08-03)
+# Latest Repositories (2024-08-02 .. 2024-08-04)
 
-- [jofpin/turbit](https://github.com/jofpin/turbit) (785)
-- [tracylovett/seed-gen](https://github.com/tracylovett/seed-gen) (362)
-- [Bralen1/kiddions-m0dest-menu](https://github.com/Bralen1/kiddions-m0dest-menu) (276)
-- [adrian23-hub/ex1t-l4g-fr33](https://github.com/adrian23-hub/ex1t-l4g-fr33) (276)
-- [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) (180)
+- [name658/rust-hck-fr33](https://github.com/name658/rust-hck-fr33) (270)
+- [codenoid/github-roast](https://github.com/codenoid/github-roast) (237)
+- [ananay/spotify-carthing-webapp](https://github.com/ananay/spotify-carthing-webapp) (126)
+- [hackclub/RAM-a-thon](https://github.com/hackclub/RAM-a-thon) (105)
+- [phoboslab/high_impact](https://github.com/phoboslab/high_impact) (65)
