@@ -1,32 +1,32 @@
 [
   {
-    "name": "Geenidee1237/SonyVegas-2024",
-    "clone_url": "https://github.com/Geenidee1237/SonyVegas-2024.git",
-    "stars": 305,
-    "size": 533
+    "name": "foamify/shakepin",
+    "clone_url": "https://github.com/foamify/shakepin.git",
+    "stars": 68,
+    "size": 2240
   },
   {
-    "name": "ccbikai/BroadcastChannel",
-    "clone_url": "https://github.com/ccbikai/BroadcastChannel.git",
-    "stars": 250,
-    "size": 159
-  },
-  {
-    "name": "phoboslab/high_impact",
-    "clone_url": "https://github.com/phoboslab/high_impact.git",
-    "stars": 183,
-    "size": 392
-  },
-  {
-    "name": "Xe/praise-me",
-    "clone_url": "https://github.com/Xe/praise-me.git",
-    "stars": 104,
-    "size": 121
-  },
-  {
-    "name": "seadfeng/cloudflare-proxy-sites",
-    "clone_url": "https://github.com/seadfeng/cloudflare-proxy-sites.git",
+    "name": "yournextstore/yournextstore",
+    "clone_url": "https://github.com/yournextstore/yournextstore.git",
     "stars": 58,
-    "size": 343
+    "size": 846
+  },
+  {
+    "name": "CodeSecurityTeam/frp",
+    "clone_url": "https://github.com/CodeSecurityTeam/frp.git",
+    "stars": 55,
+    "size": 2329
+  },
+  {
+    "name": "openlifescience-ai/Open-Medical-Reasoning-Tasks",
+    "clone_url": "https://github.com/openlifescience-ai/Open-Medical-Reasoning-Tasks.git",
+    "stars": 38,
+    "size": 79
+  },
+  {
+    "name": "NeuralSamurAI/ComfyUI-Dimensional-Latent-Perlin",
+    "clone_url": "https://github.com/NeuralSamurAI/ComfyUI-Dimensional-Latent-Perlin.git",
+    "stars": 24,
+    "size": 113
   }
 ]

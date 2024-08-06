@@ -1,7 +1,7 @@
-# Latest Repositories (2024-08-03 .. 2024-08-05)
+# Latest Repositories (2024-08-04 .. 2024-08-06)
 
-- [Geenidee1237/SonyVegas-2024](https://github.com/Geenidee1237/SonyVegas-2024) (305)
-- [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) (250)
-- [phoboslab/high_impact](https://github.com/phoboslab/high_impact) (183)
-- [Xe/praise-me](https://github.com/Xe/praise-me) (104)
-- [seadfeng/cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) (58)
+- [foamify/shakepin](https://github.com/foamify/shakepin) (68)
+- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) (58)
+- [CodeSecurityTeam/frp](https://github.com/CodeSecurityTeam/frp) (55)
+- [openlifescience-ai/Open-Medical-Reasoning-Tasks](https://github.com/openlifescience-ai/Open-Medical-Reasoning-Tasks) (38)
+- [NeuralSamurAI/ComfyUI-Dimensional-Latent-Perlin](https://github.com/NeuralSamurAI/ComfyUI-Dimensional-Latent-Perlin) (24)
