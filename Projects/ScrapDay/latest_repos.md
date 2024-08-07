@@ -1,7 +1,7 @@
-# Latest Repositories (2024-08-04 .. 2024-08-06)
+# Latest Repositories (2024-08-05 .. 2024-08-07)
 
-- [foamify/shakepin](https://github.com/foamify/shakepin) (68)
-- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) (58)
-- [CodeSecurityTeam/frp](https://github.com/CodeSecurityTeam/frp) (55)
-- [openlifescience-ai/Open-Medical-Reasoning-Tasks](https://github.com/openlifescience-ai/Open-Medical-Reasoning-Tasks) (38)
-- [NeuralSamurAI/ComfyUI-Dimensional-Latent-Perlin](https://github.com/NeuralSamurAI/ComfyUI-Dimensional-Latent-Perlin) (24)
+- [XLABB-Stealer/XLABB-Grabber](https://github.com/XLABB-Stealer/XLABB-Grabber) (99)
+- [dannypostma/postmaio-boilerplate](https://github.com/dannypostma/postmaio-boilerplate) (50)
+- [transcendentprogressivism/manifesto](https://github.com/transcendentprogressivism/manifesto) (38)
+- [mrrhq/ai-timeline](https://github.com/mrrhq/ai-timeline) (36)
+- [ShafiqSadat/HamsterKeyGen](https://github.com/ShafiqSadat/HamsterKeyGen) (31)
