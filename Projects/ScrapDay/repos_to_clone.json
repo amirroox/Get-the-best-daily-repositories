@@ -2,31 +2,31 @@
   {
     "name": "CloudCrowSec001/CVE-2024-38077-POC",
     "clone_url": "https://github.com/CloudCrowSec001/CVE-2024-38077-POC.git",
-    "stars": 205,
+    "stars": 249,
     "size": 52
   },
   {
-    "name": "DH-Teams/DH-Geo_AS_IP_CN",
-    "clone_url": "https://github.com/DH-Teams/DH-Geo_AS_IP_CN.git",
-    "stars": 58,
-    "size": 347
-  },
-  {
-    "name": "ViggoZ/producthunt-daily-hot",
-    "clone_url": "https://github.com/ViggoZ/producthunt-daily-hot.git",
-    "stars": 58,
-    "size": 2582
-  },
-  {
-    "name": "valyentdev/ravel",
-    "clone_url": "https://github.com/valyentdev/ravel.git",
-    "stars": 53,
-    "size": 943
-  },
-  {
-    "name": "mazzzystar/TurtleBenchmark",
-    "clone_url": "https://github.com/mazzzystar/TurtleBenchmark.git",
+    "name": "RyzenTrade/Solana-copy-trade",
+    "clone_url": "https://github.com/RyzenTrade/Solana-copy-trade.git",
     "stars": 51,
-    "size": 728
+    "size": 78
+  },
+  {
+    "name": "jaku/DEFCON-32-BadgeFirmware",
+    "clone_url": "https://github.com/jaku/DEFCON-32-BadgeFirmware.git",
+    "stars": 48,
+    "size": 4892
+  },
+  {
+    "name": "team-headstart/RAG-Workshop",
+    "clone_url": "https://github.com/team-headstart/RAG-Workshop.git",
+    "stars": 32,
+    "size": 373
+  },
+  {
+    "name": "kijai/ComfyUI-LLaVA-OneVision",
+    "clone_url": "https://github.com/kijai/ComfyUI-LLaVA-OneVision.git",
+    "stars": 25,
+    "size": 1467
   }
 ]
