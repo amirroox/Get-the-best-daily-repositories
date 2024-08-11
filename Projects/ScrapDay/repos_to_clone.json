@@ -1,32 +1,32 @@
 [
   {
-    "name": "CloudCrowSec001/CVE-2024-38077-POC",
-    "clone_url": "https://github.com/CloudCrowSec001/CVE-2024-38077-POC.git",
-    "stars": 249,
-    "size": 52
+    "name": "gingerbeardman/stapler",
+    "clone_url": "https://github.com/gingerbeardman/stapler.git",
+    "stars": 113,
+    "size": 315
   },
   {
-    "name": "RyzenTrade/Solana-copy-trade",
-    "clone_url": "https://github.com/RyzenTrade/Solana-copy-trade.git",
-    "stars": 51,
-    "size": 78
+    "name": "zhangguanzhang/simple-container-network-book",
+    "clone_url": "https://github.com/zhangguanzhang/simple-container-network-book.git",
+    "stars": 69,
+    "size": 2414
   },
   {
-    "name": "jaku/DEFCON-32-BadgeFirmware",
-    "clone_url": "https://github.com/jaku/DEFCON-32-BadgeFirmware.git",
-    "stars": 48,
-    "size": 4892
+    "name": "alpha-kilo-juliette/algo",
+    "clone_url": "https://github.com/alpha-kilo-juliette/algo.git",
+    "stars": 52,
+    "size": 360
   },
   {
-    "name": "team-headstart/RAG-Workshop",
-    "clone_url": "https://github.com/team-headstart/RAG-Workshop.git",
-    "stars": 32,
-    "size": 373
+    "name": "qiayue/GitBase",
+    "clone_url": "https://github.com/qiayue/GitBase.git",
+    "stars": 52,
+    "size": 142
   },
   {
-    "name": "kijai/ComfyUI-LLaVA-OneVision",
-    "clone_url": "https://github.com/kijai/ComfyUI-LLaVA-OneVision.git",
-    "stars": 25,
-    "size": 1467
+    "name": "rudrodip/shadcn-chart-brush",
+    "clone_url": "https://github.com/rudrodip/shadcn-chart-brush.git",
+    "stars": 38,
+    "size": 357
   }
 ]

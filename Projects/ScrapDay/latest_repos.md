@@ -1,7 +1,7 @@
-# Latest Repositories (2024-08-08 .. 2024-08-10)
+# Latest Repositories (2024-08-09 .. 2024-08-11)
 
-- [CloudCrowSec001/CVE-2024-38077-POC](https://github.com/CloudCrowSec001/CVE-2024-38077-POC) (249)
-- [RyzenTrade/Solana-copy-trade](https://github.com/RyzenTrade/Solana-copy-trade) (51)
-- [jaku/DEFCON-32-BadgeFirmware](https://github.com/jaku/DEFCON-32-BadgeFirmware) (48)
-- [team-headstart/RAG-Workshop](https://github.com/team-headstart/RAG-Workshop) (32)
-- [kijai/ComfyUI-LLaVA-OneVision](https://github.com/kijai/ComfyUI-LLaVA-OneVision) (25)
+- [gingerbeardman/stapler](https://github.com/gingerbeardman/stapler) (113)
+- [zhangguanzhang/simple-container-network-book](https://github.com/zhangguanzhang/simple-container-network-book) (69)
+- [alpha-kilo-juliette/algo](https://github.com/alpha-kilo-juliette/algo) (52)
+- [qiayue/GitBase](https://github.com/qiayue/GitBase) (52)
+- [rudrodip/shadcn-chart-brush](https://github.com/rudrodip/shadcn-chart-brush) (38)
