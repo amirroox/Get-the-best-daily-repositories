@@ -1,7 +1,7 @@
-# Latest Repositories (2024-08-10 .. 2024-08-12)
+# Latest Repositories (2024-08-11 .. 2024-08-13)
 
-- [zhangguanzhang/simple-container-network-book](https://github.com/zhangguanzhang/simple-container-network-book) (272)
-- [LSXPrime/Aegis](https://github.com/LSXPrime/Aegis) (96)
-- [AabyssZG/FindEverything](https://github.com/AabyssZG/FindEverything) (92)
-- [badsectorlabs/sccm-http-looter](https://github.com/badsectorlabs/sccm-http-looter) (74)
-- [im-ashar/IdentitySetupWithJwt](https://github.com/im-ashar/IdentitySetupWithJwt) (28)
+- [Doriandarko/omni-engineer](https://github.com/Doriandarko/omni-engineer) (159)
+- [LSXPrime/Aegis](https://github.com/LSXPrime/Aegis) (145)
+- [AabyssZG/FindEverything](https://github.com/AabyssZG/FindEverything) (136)
+- [RyzenTrade/pumpfun-spam-bot](https://github.com/RyzenTrade/pumpfun-spam-bot) (45)
+- [raznem/parsera](https://github.com/raznem/parsera) (34)
