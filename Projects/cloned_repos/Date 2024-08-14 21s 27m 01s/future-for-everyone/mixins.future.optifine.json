@@ -1,0 +1,19 @@
+{
+   "required":true,
+   "priority":2147483647,
+   "mixinPriority":2147483647,
+   "minVersion":"0.7.11",
+   "package":"net.futureclient.loader.mixin.optifine",
+   "setSourceFile":true,
+   "refmap":"mixins.future.refmap.json",
+   "compatibilityLevel":"JAVA_8",
+   "plugin":"net.futureclient.client.DE",
+   "verbose":false,
+   "mixins":[
+      "MixinConfig",
+      "render.entity.MixinEntityRenderer"
+   ],
+   "injectors":{
+      "maxShiftBy":10
+   }
+}

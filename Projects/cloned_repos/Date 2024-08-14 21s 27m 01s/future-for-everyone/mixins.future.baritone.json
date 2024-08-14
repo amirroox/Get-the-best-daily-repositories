@@ -1,0 +1,17 @@
+{
+   "required":true,
+   "priority":2147483647,
+   "mixinPriority":2147483647,
+   "minVersion":"0.7.11",
+   "package":"net.futureclient.loader.mixin.baritone",
+   "setSourceFile":true,
+   "refmap":"mixins.future.baritone.refmap.json",
+   "compatibilityLevel":"JAVA_8",
+   "verbose":false,
+   "mixins":[
+      "MixinMinecraft"
+   ],
+   "injectors":{
+      "maxShiftBy":10
+   }
+}

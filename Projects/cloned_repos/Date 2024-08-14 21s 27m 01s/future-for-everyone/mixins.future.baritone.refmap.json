@@ -1,0 +1,1 @@
+{"mappings":{"net/futureclient/loader/mixin/baritone/MixinMinecraft":{"init":"Lnet/minecraft/client/Minecraft;func_71384_a()V"}},"data":{"notch":{"net/futureclient/loader/mixin/baritone/MixinMinecraft":{"init":"Lbib;aq()V"}},"searge":{"net/futureclient/loader/mixin/baritone/MixinMinecraft":{"init":"Lnet/minecraft/client/Minecraft;func_71384_a()V"}}}}

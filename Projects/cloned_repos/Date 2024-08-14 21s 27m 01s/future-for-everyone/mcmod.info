@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "futurecrackloader",
+    "name": "FutureCrackLoader",
+    "description": "Loads a patched dump of Future Client.",
+    "version": "b0.3",
+    "mcversion": "1.12.2",
+    "url": "https://discord.gg/suCY7Dg",
+    "updateUrl": "https://github.com/CoolClientCollectorz/future-for-everyone/releases/latest",
+    "authorList": ["Crystallinqq", "mastercooker/cookiedragon234", "Tigermouthbear"],
+    "credits": "Listed at https://github.com/CoolClientCollectorz/future-for-everyone",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
