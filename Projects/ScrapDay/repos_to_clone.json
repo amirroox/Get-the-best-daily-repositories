@@ -1,32 +1,32 @@
 [
   {
-    "name": "yetone/avante.nvim",
-    "clone_url": "https://github.com/yetone/avante.nvim.git",
-    "stars": 133,
-    "size": 98
-  },
-  {
     "name": "JoinMusic/fish",
     "clone_url": "https://github.com/JoinMusic/fish.git",
-    "stars": 128,
+    "stars": 173,
     "size": 670
   },
   {
-    "name": "coffinsp/priv8-Nuclei",
-    "clone_url": "https://github.com/coffinsp/priv8-Nuclei.git",
-    "stars": 93,
-    "size": 658
+    "name": "antfu/vscode-array-index-inlay",
+    "clone_url": "https://github.com/antfu/vscode-array-index-inlay.git",
+    "stars": 120,
+    "size": 222
   },
   {
-    "name": "StartHua/Comfyui_CXH_joy_caption",
-    "clone_url": "https://github.com/StartHua/Comfyui_CXH_joy_caption.git",
-    "stars": 41,
-    "size": 774
+    "name": "UnknownnDev/H2M",
+    "clone_url": "https://github.com/UnknownnDev/H2M.git",
+    "stars": 119,
+    "size": 2194
   },
   {
-    "name": "Kirnai/Warfare-Mod",
-    "clone_url": "https://github.com/Kirnai/Warfare-Mod.git",
-    "stars": 37,
-    "size": 177
+    "name": "V3nilla/H2M-MOD-Torrent-File",
+    "clone_url": "https://github.com/V3nilla/H2M-MOD-Torrent-File.git",
+    "stars": 114,
+    "size": 2214
+  },
+  {
+    "name": "dai-shi/react18-use",
+    "clone_url": "https://github.com/dai-shi/react18-use.git",
+    "stars": 62,
+    "size": 51
   }
 ]
