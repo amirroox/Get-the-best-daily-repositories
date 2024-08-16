@@ -1,7 +1,7 @@
-# Latest Repositories (2024-08-13 .. 2024-08-15)
+# Latest Repositories (2024-08-14 .. 2024-08-16)
 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (133)
-- [JoinMusic/fish](https://github.com/JoinMusic/fish) (128)
-- [coffinsp/priv8-Nuclei](https://github.com/coffinsp/priv8-Nuclei) (93)
-- [StartHua/Comfyui_CXH_joy_caption](https://github.com/StartHua/Comfyui_CXH_joy_caption) (41)
-- [Kirnai/Warfare-Mod](https://github.com/Kirnai/Warfare-Mod) (37)
+- [JoinMusic/fish](https://github.com/JoinMusic/fish) (173)
+- [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay) (120)
+- [UnknownnDev/H2M](https://github.com/UnknownnDev/H2M) (119)
+- [V3nilla/H2M-MOD-Torrent-File](https://github.com/V3nilla/H2M-MOD-Torrent-File) (114)
+- [dai-shi/react18-use](https://github.com/dai-shi/react18-use) (62)
