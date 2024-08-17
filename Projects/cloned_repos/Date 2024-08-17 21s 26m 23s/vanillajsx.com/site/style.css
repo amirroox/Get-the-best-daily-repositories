@@ -1,0 +1,231 @@
+body {
+  background-color: #22272e;
+  color: #c5d1de;
+  font-family: system-ui;
+}
+
+#root {
+  width: min(50em, 80vw);
+  margin: 3em auto 30em;
+}
+
+p.q {
+  font-weight: bold;
+}
+
+h1 {
+  margin-bottom: 0.25em;
+
+  + small {
+    display: block;
+    margin-bottom: 7em;
+  }
+}
+
+.sample {
+  margin-bottom: 3em;
+}
+
+a {
+  text-decoration: underline;
+  color: #478be6;
+  text-underline-offset: 3px;
+  transition: text-underline-offset 200ms ease-in-out;
+}
+
+a:hover {
+  text-underline-offset: 5px;
+}
+
+.sample {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+@media (min-width: 600px) {
+
+  .sample {
+    flex-direction: row;
+  }
+
+  .sample-output {
+    flex: 0 0 14em;
+  }
+
+  .sample-code {
+    flex: 1 1 auto;
+  }
+
+}
+
+.sample pre.shiki {
+  background-color: transparent !important;
+}
+
+.sample-code,
+.sample-output {
+  margin: 0;
+  background-color: #0003;
+  border-radius: 7px;
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+.sample-code {
+  overflow: auto;
+  padding: 0 1em 0.25em;
+}
+
+.sample-code {
+
+  .view-src {
+    font-size: smaller;
+    float: right;
+    opacity: 0.5;
+    transition: all 100ms ease-in-out;
+    margin: -0.25em;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+}
+
+.sample-output {
+
+  p {
+    margin: 0 0 0.25em;
+  }
+
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+
+  :is(button, input) {
+
+    appearance: none;
+    background-color: #000;
+    color: inherit;
+    border: none;
+    outline: 1px solid #2d343c;
+    padding: 0.5em;
+    font-family: inherit;
+    border-radius: 3px;
+
+    &:is(input[type=text]) {
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    &:is(button) {
+      cursor: pointer;
+    }
+
+    &:is(button:active, input:focus) {
+      outline-color: #19f;
+    }
+
+  }
+
+
+  .todolist {
+
+    li {
+      padding: 0.25em 0.5em;
+
+      &:hover {
+        cursor: pointer;
+        background-color: #f003;
+      }
+    }
+
+  }
+
+
+  .status {
+    font-size: smaller;
+    margin: 1em 0;
+  }
+
+  .match {
+    color: #19f;
+  }
+
+
+  #real-todolist {
+
+    .actions {
+      background-color: #0002;
+      padding: 0.75em;
+      margin: 1em 0;
+      font-size: small;
+      display: flex;
+      justify-content: space-between;
+
+      button {
+        outline: none;
+        border: none;
+        font: inherit;
+        background: inherit;
+        color: #19f;
+        padding: 0;
+        margin: 0;
+
+        text-decoration: underline;
+        color: #478be6;
+        text-underline-offset: 3px;
+        transition: text-underline-offset 200ms ease-in-out;
+
+        &:hover {
+          text-underline-offset: 5px;
+        }
+
+      }
+    }
+
+    .item {
+      display: flex;
+      align-items: center;
+
+      &:hover {
+        background-color: #0002;
+      }
+
+      span {
+        flex: 1 0 auto;
+      }
+
+      button.close:not(:hover) {
+        border: none;
+        outline: none;
+        background-color: inherit;
+      }
+
+      input[type=checkbox] {
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+
+        &:not(:checked) {
+          outline-color: #19f;
+        }
+      }
+
+      &.done span {
+        text-decoration: line-through #f00c 7px;
+        opacity: .5;
+      }
+
+      & > :is(span, input) {
+        cursor: pointer;
+      }
+
+    }
+
+  }
+
+
+}

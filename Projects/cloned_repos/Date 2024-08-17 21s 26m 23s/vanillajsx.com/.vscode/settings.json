@@ -1,0 +1,7 @@
+{
+  "typescript.preferences.importModuleSpecifierEnding": "js",
+  "task.allowAutomaticTasks": "on",
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+  "css.format.spaceAroundSelectorSeparator": true,
+}
