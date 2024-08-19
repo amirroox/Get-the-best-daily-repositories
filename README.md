@@ -1,7 +1,7 @@
-# Latest Repositories (2024-08-16 .. 2024-08-18)
+# Latest Repositories (2024-08-17 .. 2024-08-19)
 
-- [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) (31)
-- [captainzero93/extract-unet-safetensor](https://github.com/captainzero93/extract-unet-safetensor) (28)
-- [DosX-dev/WebSafeCompiler](https://github.com/DosX-dev/WebSafeCompiler) (28)
-- [AINativeLab/awesome-flux-ai](https://github.com/AINativeLab/awesome-flux-ai) (26)
-- [ShahjalalShohag/the-ultimate-topic-list](https://github.com/ShahjalalShohag/the-ultimate-topic-list) (17)
+- [ShubhamLakade/LuciferProject](https://github.com/ShubhamLakade/LuciferProject) (250)
+- [AabyssZG/Docker-TCP-Scan](https://github.com/AabyssZG/Docker-TCP-Scan) (192)
+- [safak/next-dashboard-ui](https://github.com/safak/next-dashboard-ui) (37)
+- [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn) (34)
+- [YukiIsait/7ZipBuilder](https://github.com/YukiIsait/7ZipBuilder) (33)
