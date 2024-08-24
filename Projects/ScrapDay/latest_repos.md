@@ -1,7 +1,7 @@
-# Latest Repositories (2024-08-21 .. 2024-08-23)
+# Latest Repositories (2024-08-22 .. 2024-08-24)
 
-- [rail-berkeley/crossformer](https://github.com/rail-berkeley/crossformer) (64)
-- [Jannkar/turtle_nest](https://github.com/Jannkar/turtle_nest) (50)
-- [apxutekror501qbg/1av-TheSims4v](https://github.com/apxutekror501qbg/1av-TheSims4v) (46)
-- [bamp83rwx0/1ak-GuildWars2k](https://github.com/bamp83rwx0/1ak-GuildWars2k) (46)
-- [alximik454oca1/1at-DeadbyDaylightt](https://github.com/alximik454oca1/1at-DeadbyDaylightt) (46)
+- [lucidrains/transfusion-pytorch](https://github.com/lucidrains/transfusion-pytorch) (80)
+- [Dump-GUY/IDA_PHNT_TYPES](https://github.com/Dump-GUY/IDA_PHNT_TYPES) (33)
+- [zeze-zeze/NamedPipeMaster](https://github.com/zeze-zeze/NamedPipeMaster) (29)
+- [AabyssZG/Chrome-RCE-Poc](https://github.com/AabyssZG/Chrome-RCE-Poc) (26)
+- [Big-polar-bear/factorization](https://github.com/Big-polar-bear/factorization) (24)
