@@ -1,3 +1,0 @@
-pymem==1.13.1
-customtkinter==5.2.2
-pyinstaller

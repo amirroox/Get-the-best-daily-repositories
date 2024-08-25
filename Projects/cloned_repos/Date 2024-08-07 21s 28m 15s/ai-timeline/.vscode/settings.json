@@ -1,8 +1,0 @@
-{
-  "json.schemas": [
-    {
-      "fileMatch": ["/content/t2i/**/*.json"],
-      "url": "./.vscode/timelineSlideSchema.json"
-    }
-  ]
-}

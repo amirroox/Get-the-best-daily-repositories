@@ -1,1 +1,0 @@
-#Put your database models related code here and make more model file in this directory as needed

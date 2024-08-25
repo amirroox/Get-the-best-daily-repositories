@@ -1,9 +1,0 @@
-openai
-python-dotenv
-colorama
-duckduckgo-search
-pygments
-rich
-Pillow
-prompt_toolkit
-requests
