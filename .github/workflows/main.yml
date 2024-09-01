@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '21 21 * * *'
+    - cron: '13 1,13 * * *'
 
 jobs:
   check-and-clone-repos:
@@ -55,4 +55,10 @@ jobs:
         date=$(date +'%Y-%m-%d %H:%M:%S.%N')
         git add .
         git commit -m "Update and clone latest repositories at $date" -a || exit 0
+
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        directory: "."
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         
