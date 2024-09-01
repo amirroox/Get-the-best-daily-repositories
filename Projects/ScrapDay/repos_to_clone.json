@@ -1,14 +1,26 @@
 [
   {
+    "name": "tookoo31kami/Market-Making-Dev-Bot",
+    "clone_url": "https://github.com/tookoo31kami/Market-Making-Dev-Bot.git",
+    "stars": 116,
+    "size": 401
+  },
+  {
+    "name": "wechatferry/wechatferry",
+    "clone_url": "https://github.com/wechatferry/wechatferry.git",
+    "stars": 38,
+    "size": 584
+  },
+  {
     "name": "SandroMaglione/pglite-client-server",
     "clone_url": "https://github.com/SandroMaglione/pglite-client-server.git",
-    "stars": 24,
+    "stars": 30,
     "size": 416
   },
   {
     "name": "xero/evangelion.nvim",
     "clone_url": "https://github.com/xero/evangelion.nvim.git",
-    "stars": 21,
+    "stars": 27,
     "size": 541
   },
   {
@@ -16,17 +28,5 @@
     "clone_url": "https://github.com/VurB/Roblox-Frostware.git",
     "stars": 19,
     "size": 85
-  },
-  {
-    "name": "banana-glitch/Cryptic-Executor",
-    "clone_url": "https://github.com/banana-glitch/Cryptic-Executor.git",
-    "stars": 19,
-    "size": 85
-  },
-  {
-    "name": "Ali-benhamou/Roblox-AppleWare",
-    "clone_url": "https://github.com/Ali-benhamou/Roblox-AppleWare.git",
-    "stars": 18,
-    "size": 419
   }
 ]
