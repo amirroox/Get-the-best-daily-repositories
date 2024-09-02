@@ -1,7 +1,7 @@
-# Latest Repositories (2024-08-30 .. 2024-09-01)
+# Latest Repositories (2024-08-31 .. 2024-09-02)
 
-- [tookoo31kami/Market-Making-Dev-Bot](https://github.com/tookoo31kami/Market-Making-Dev-Bot) (116)
-- [wechatferry/wechatferry](https://github.com/wechatferry/wechatferry) (38)
-- [SandroMaglione/pglite-client-server](https://github.com/SandroMaglione/pglite-client-server) (30)
-- [xero/evangelion.nvim](https://github.com/xero/evangelion.nvim) (27)
-- [VurB/Roblox-Frostware](https://github.com/VurB/Roblox-Frostware) (19)
+- [Octoberfest7/enumhandles_BOF](https://github.com/Octoberfest7/enumhandles_BOF) (44)
+- [Hipxel-dev/HIT-ZONE-menu](https://github.com/Hipxel-dev/HIT-ZONE-menu) (28)
+- [jasonxtn/Kraken](https://github.com/jasonxtn/Kraken) (26)
+- [UserNone12/Gamesense](https://github.com/UserNone12/Gamesense) (19)
+- [rhrthtrhr/Memesense](https://github.com/rhrthtrhr/Memesense) (19)
