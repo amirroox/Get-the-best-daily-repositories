@@ -1,7 +1,7 @@
 # Latest Repositories (2024-09-01 .. 2024-09-03)
 
-- [mateus-dias-cwb/telegram-autoclickers](https://github.com/mateus-dias-cwb/telegram-autoclickers) (533)
-- [aerotow/eightsleep-nosub-app](https://github.com/aerotow/eightsleep-nosub-app) (20)
-- [Flxtra21/Roblox-Incognito](https://github.com/Flxtra21/Roblox-Incognito) (19)
-- [Ltiinbr/Executor-Script-Roblox](https://github.com/Ltiinbr/Executor-Script-Roblox) (17)
-- [bimo15c/Roblox-Horizon](https://github.com/bimo15c/Roblox-Horizon) (17)
+- [skydoves/firebase-android-ktx](https://github.com/skydoves/firebase-android-ktx) (42)
+- [Sh4yy/astro-pg-kamal](https://github.com/Sh4yy/astro-pg-kamal) (35)
+- [Conceitedz/Lunar-Executor](https://github.com/Conceitedz/Lunar-Executor) (29)
+- [codersaadi/next-auth5-shadcn](https://github.com/codersaadi/next-auth5-shadcn) (28)
+- [jacob-ebey/localllama](https://github.com/jacob-ebey/localllama) (22)
