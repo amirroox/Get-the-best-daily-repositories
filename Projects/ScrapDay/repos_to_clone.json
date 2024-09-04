@@ -2,31 +2,31 @@
   {
     "name": "skydoves/firebase-android-ktx",
     "clone_url": "https://github.com/skydoves/firebase-android-ktx.git",
-    "stars": 65,
-    "size": 128
+    "stars": 77,
+    "size": 130
+  },
+  {
+    "name": "skydoves/server-driven-compose",
+    "clone_url": "https://github.com/skydoves/server-driven-compose.git",
+    "stars": 34,
+    "size": 2982
   },
   {
     "name": "tingyusys/RaindropEcho",
     "clone_url": "https://github.com/tingyusys/RaindropEcho.git",
-    "stars": 19,
+    "stars": 31,
     "size": 3316
   },
   {
-    "name": "MoonHugo/ComfyUI-BiRefNet-Hugo",
-    "clone_url": "https://github.com/MoonHugo/ComfyUI-BiRefNet-Hugo.git",
-    "stars": 11,
-    "size": 3876
+    "name": "HighwayWu/DeepFakeDefenders",
+    "clone_url": "https://github.com/HighwayWu/DeepFakeDefenders.git",
+    "stars": 20,
+    "size": 3116
   },
   {
-    "name": "upstash/jstack",
-    "clone_url": "https://github.com/upstash/jstack.git",
-    "stars": 11,
-    "size": 93
-  },
-  {
-    "name": "patrikzudel/strafe-evaluation",
-    "clone_url": "https://github.com/patrikzudel/strafe-evaluation.git",
-    "stars": 10,
-    "size": 401
+    "name": "irom-lab/dppo",
+    "clone_url": "https://github.com/irom-lab/dppo.git",
+    "stars": 19,
+    "size": 176
   }
 ]
