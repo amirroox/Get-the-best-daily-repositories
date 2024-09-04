@@ -2,31 +2,31 @@
   {
     "name": "skydoves/firebase-android-ktx",
     "clone_url": "https://github.com/skydoves/firebase-android-ktx.git",
-    "stars": 42,
-    "size": 123
+    "stars": 65,
+    "size": 128
   },
   {
-    "name": "Sh4yy/astro-pg-kamal",
-    "clone_url": "https://github.com/Sh4yy/astro-pg-kamal.git",
-    "stars": 35,
+    "name": "tingyusys/RaindropEcho",
+    "clone_url": "https://github.com/tingyusys/RaindropEcho.git",
+    "stars": 19,
+    "size": 3316
+  },
+  {
+    "name": "MoonHugo/ComfyUI-BiRefNet-Hugo",
+    "clone_url": "https://github.com/MoonHugo/ComfyUI-BiRefNet-Hugo.git",
+    "stars": 11,
+    "size": 3876
+  },
+  {
+    "name": "upstash/jstack",
+    "clone_url": "https://github.com/upstash/jstack.git",
+    "stars": 11,
     "size": 93
   },
   {
-    "name": "Conceitedz/Lunar-Executor",
-    "clone_url": "https://github.com/Conceitedz/Lunar-Executor.git",
-    "stars": 29,
-    "size": 85
-  },
-  {
-    "name": "codersaadi/next-auth5-shadcn",
-    "clone_url": "https://github.com/codersaadi/next-auth5-shadcn.git",
-    "stars": 28,
-    "size": 2461
-  },
-  {
-    "name": "jacob-ebey/localllama",
-    "clone_url": "https://github.com/jacob-ebey/localllama.git",
-    "stars": 22,
-    "size": 245
+    "name": "patrikzudel/strafe-evaluation",
+    "clone_url": "https://github.com/patrikzudel/strafe-evaluation.git",
+    "stars": 10,
+    "size": 401
   }
 ]
