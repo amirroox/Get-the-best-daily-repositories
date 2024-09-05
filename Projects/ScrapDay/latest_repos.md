@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-02 .. 2024-09-04)
+# Latest Repositories (2024-09-03 .. 2024-09-05)
 
-- [skydoves/firebase-android-ktx](https://github.com/skydoves/firebase-android-ktx) (77)
-- [skydoves/server-driven-compose](https://github.com/skydoves/server-driven-compose) (34)
-- [tingyusys/RaindropEcho](https://github.com/tingyusys/RaindropEcho) (31)
-- [HighwayWu/DeepFakeDefenders](https://github.com/HighwayWu/DeepFakeDefenders) (20)
-- [irom-lab/dppo](https://github.com/irom-lab/dppo) (19)
+- [skydoves/server-driven-compose](https://github.com/skydoves/server-driven-compose) (82)
+- [irom-lab/dppo](https://github.com/irom-lab/dppo) (41)
+- [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) (29)
+- [HighwayWu/DeepFakeDefenders](https://github.com/HighwayWu/DeepFakeDefenders) (25)
+- [harrison-ai/radbench](https://github.com/harrison-ai/radbench) (14)
