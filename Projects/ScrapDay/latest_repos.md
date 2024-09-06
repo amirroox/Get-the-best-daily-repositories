@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-03 .. 2024-09-05)
+# Latest Repositories (2024-09-04 .. 2024-09-06)
 
-- [skydoves/server-driven-compose](https://github.com/skydoves/server-driven-compose) (161)
-- [coffinsp/lostools](https://github.com/coffinsp/lostools) (66)
-- [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) (59)
-- [irom-lab/dppo](https://github.com/irom-lab/dppo) (57)
-- [Musixal/Backhaul](https://github.com/Musixal/Backhaul) (42)
+- [coffinsp/lostools](https://github.com/coffinsp/lostools) (131)
+- [ahr10813/Ethereum-Vanity-Wallet-Generator](https://github.com/ahr10813/Ethereum-Vanity-Wallet-Generator) (22)
+- [jaywcjlove/xcode-tips](https://github.com/jaywcjlove/xcode-tips) (13)
+- [Kamil-Sabbagh/Data-Knowledge-Representation](https://github.com/Kamil-Sabbagh/Data-Knowledge-Representation) (13)
+- [lextomato/nest-users](https://github.com/lextomato/nest-users) (10)
