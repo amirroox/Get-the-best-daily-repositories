@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-04 .. 2024-09-06)
+# Latest Repositories (2024-09-05 .. 2024-09-07)
 
-- [coffinsp/lostools](https://github.com/coffinsp/lostools) (131)
-- [ahr10813/Ethereum-Vanity-Wallet-Generator](https://github.com/ahr10813/Ethereum-Vanity-Wallet-Generator) (22)
-- [jaywcjlove/xcode-tips](https://github.com/jaywcjlove/xcode-tips) (13)
-- [Kamil-Sabbagh/Data-Knowledge-Representation](https://github.com/Kamil-Sabbagh/Data-Knowledge-Representation) (13)
-- [lextomato/nest-users](https://github.com/lextomato/nest-users) (10)
+- [mariaccarolina/get.coffee](https://github.com/mariaccarolina/get.coffee) (25)
+- [mindtown-ai/dynamic-prompt](https://github.com/mindtown-ai/dynamic-prompt) (25)
+- [BouarourMohammed/react-native-animated-rolling-numbers](https://github.com/BouarourMohammed/react-native-animated-rolling-numbers) (20)
+- [Chaintech-Network/CMPToast](https://github.com/Chaintech-Network/CMPToast) (14)
+- [tayormi/app_landing_page](https://github.com/tayormi/app_landing_page) (14)
