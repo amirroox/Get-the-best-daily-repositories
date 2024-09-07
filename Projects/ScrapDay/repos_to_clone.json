@@ -1,32 +1,32 @@
 [
   {
+    "name": "mindtown-ai/dynamic-prompt",
+    "clone_url": "https://github.com/mindtown-ai/dynamic-prompt.git",
+    "stars": 51,
+    "size": 264
+  },
+  {
+    "name": "BouarourMohammed/react-native-animated-rolling-numbers",
+    "clone_url": "https://github.com/BouarourMohammed/react-native-animated-rolling-numbers.git",
+    "stars": 28,
+    "size": 82
+  },
+  {
     "name": "mariaccarolina/get.coffee",
     "clone_url": "https://github.com/mariaccarolina/get.coffee.git",
     "stars": 25,
     "size": 1411
   },
   {
-    "name": "mindtown-ai/dynamic-prompt",
-    "clone_url": "https://github.com/mindtown-ai/dynamic-prompt.git",
-    "stars": 25,
-    "size": 260
-  },
-  {
-    "name": "BouarourMohammed/react-native-animated-rolling-numbers",
-    "clone_url": "https://github.com/BouarourMohammed/react-native-animated-rolling-numbers.git",
-    "stars": 20,
-    "size": 82
-  },
-  {
-    "name": "Chaintech-Network/CMPToast",
-    "clone_url": "https://github.com/Chaintech-Network/CMPToast.git",
-    "stars": 14,
-    "size": 3862
-  },
-  {
     "name": "tayormi/app_landing_page",
     "clone_url": "https://github.com/tayormi/app_landing_page.git",
-    "stars": 14,
+    "stars": 20,
     "size": 342
+  },
+  {
+    "name": "bitvora/wot-relay",
+    "clone_url": "https://github.com/bitvora/wot-relay.git",
+    "stars": 19,
+    "size": 67
   }
 ]
