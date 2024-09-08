@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-05 .. 2024-09-07)
+# Latest Repositories (2024-09-06 .. 2024-09-08)
 
-- [mindtown-ai/dynamic-prompt](https://github.com/mindtown-ai/dynamic-prompt) (51)
-- [BouarourMohammed/react-native-animated-rolling-numbers](https://github.com/BouarourMohammed/react-native-animated-rolling-numbers) (28)
-- [mariaccarolina/get.coffee](https://github.com/mariaccarolina/get.coffee) (25)
-- [tayormi/app_landing_page](https://github.com/tayormi/app_landing_page) (20)
-- [bitvora/wot-relay](https://github.com/bitvora/wot-relay) (19)
+- [madisonmay/docai](https://github.com/madisonmay/docai) (34)
+- [yusukebe/hono-remix-adapter](https://github.com/yusukebe/hono-remix-adapter) (33)
+- [Psteven5/cbinc](https://github.com/Psteven5/cbinc) (13)
+- [k8adev/bluesky-vampetaco-bot](https://github.com/k8adev/bluesky-vampetaco-bot) (10)
+- [pie6k/generic-binary-search](https://github.com/pie6k/generic-binary-search) (9)
