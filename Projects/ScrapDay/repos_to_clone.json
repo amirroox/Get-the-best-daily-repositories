@@ -2,31 +2,31 @@
   {
     "name": "chaidiscovery/chai-lab",
     "clone_url": "https://github.com/chaidiscovery/chai-lab.git",
-    "stars": 116,
+    "stars": 218,
     "size": 1181
+  },
+  {
+    "name": "SunDevss/sunpump-tron-sniper-bot",
+    "clone_url": "https://github.com/SunDevss/sunpump-tron-sniper-bot.git",
+    "stars": 46,
+    "size": 86
   },
   {
     "name": "blotterfyi/velocity",
     "clone_url": "https://github.com/blotterfyi/velocity.git",
-    "stars": 33,
-    "size": 2409
+    "stars": 37,
+    "size": 3978
   },
   {
-    "name": "DOGECODER69/Apex-Legends-Maphack",
-    "clone_url": "https://github.com/DOGECODER69/Apex-Legends-Maphack.git",
-    "stars": 20,
-    "size": 1504
+    "name": "DorianMazur/react-native-keychain-manager",
+    "clone_url": "https://github.com/DorianMazur/react-native-keychain-manager.git",
+    "stars": 36,
+    "size": 375
   },
   {
-    "name": "angel8989/Roblox-Nihon",
-    "clone_url": "https://github.com/angel8989/Roblox-Nihon.git",
-    "stars": 19,
-    "size": 751
-  },
-  {
-    "name": "aaradhaybaral/Cheat-CS2",
-    "clone_url": "https://github.com/aaradhaybaral/Cheat-CS2.git",
-    "stars": 19,
-    "size": 161
+    "name": "mckaywrigley/slack-customer-service-ai-agent",
+    "clone_url": "https://github.com/mckaywrigley/slack-customer-service-ai-agent.git",
+    "stars": 27,
+    "size": 140
   }
 ]
