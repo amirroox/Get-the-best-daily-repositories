@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-10 .. 2024-09-12)
+# Latest Repositories (2024-09-11 .. 2024-09-13)
 
-- [Hessen01/Lunar-Executor](https://github.com/Hessen01/Lunar-Executor) (28)
-- [AARG-FAN/Yolo_for_Wukong](https://github.com/AARG-FAN/Yolo_for_Wukong) (28)
-- [0xhav0c/FastVulnVerify](https://github.com/0xhav0c/FastVulnVerify) (23)
-- [6Kmfi6HP/EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) (20)
-- [GENEXIS-AI/prompt-gallery](https://github.com/GENEXIS-AI/prompt-gallery) (18)
+- [yagami-2020/hw1d-sp00f3r-fr33](https://github.com/yagami-2020/hw1d-sp00f3r-fr33) (156)
+- [georgieboy333/ex1t-l4g-fr33](https://github.com/georgieboy333/ex1t-l4g-fr33) (155)
+- [Daikirt/Pr3miere-Pro-2024](https://github.com/Daikirt/Pr3miere-Pro-2024) (154)
+- [seekpeek12/f0rtn1t3-h4ck-fr33](https://github.com/seekpeek12/f0rtn1t3-h4ck-fr33) (154)
+- [majdaluosh/Ph0t0sh0p-ai-2024](https://github.com/majdaluosh/Ph0t0sh0p-ai-2024) (154)
