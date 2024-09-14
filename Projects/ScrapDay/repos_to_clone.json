@@ -2,31 +2,31 @@
   {
     "name": "hzwer/WritingAIPaper",
     "clone_url": "https://github.com/hzwer/WritingAIPaper.git",
-    "stars": 323,
-    "size": 242
+    "stars": 507,
+    "size": 277
   },
   {
-    "name": "tobilg/duckerd",
-    "clone_url": "https://github.com/tobilg/duckerd.git",
-    "stars": 35,
-    "size": 159
-  },
-  {
-    "name": "AkenClub/ken-iMoutai-Script",
-    "clone_url": "https://github.com/AkenClub/ken-iMoutai-Script.git",
-    "stars": 22,
-    "size": 88
-  },
-  {
-    "name": "etrobot/cursorHustle",
-    "clone_url": "https://github.com/etrobot/cursorHustle.git",
-    "stars": 22,
-    "size": 138
+    "name": "teslamotors/ttpoe",
+    "clone_url": "https://github.com/teslamotors/ttpoe.git",
+    "stars": 52,
+    "size": 650
   },
   {
     "name": "mckaywrigley/o1-ai-playground",
     "clone_url": "https://github.com/mckaywrigley/o1-ai-playground.git",
-    "stars": 21,
-    "size": 233
+    "stars": 50,
+    "size": 237
+  },
+  {
+    "name": "tobilg/duckerd",
+    "clone_url": "https://github.com/tobilg/duckerd.git",
+    "stars": 42,
+    "size": 159
+  },
+  {
+    "name": "coffinsp/lostools",
+    "clone_url": "https://github.com/coffinsp/lostools.git",
+    "stars": 31,
+    "size": 526
   }
 ]
