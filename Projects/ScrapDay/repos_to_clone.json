@@ -1,32 +1,32 @@
 [
   {
-    "name": "antibitcoin/ReflectionAnyLLM",
-    "clone_url": "https://github.com/antibitcoin/ReflectionAnyLLM.git",
-    "stars": 177,
-    "size": 312
-  },
-  {
     "name": "hijkzzz/Awesome-LLM-Strawberry",
     "clone_url": "https://github.com/hijkzzz/Awesome-LLM-Strawberry.git",
-    "stars": 73,
-    "size": 68
+    "stars": 195,
+    "size": 74
   },
   {
-    "name": "leerob/next-music-player",
-    "clone_url": "https://github.com/leerob/next-music-player.git",
-    "stars": 50,
-    "size": 53
+    "name": "bones-ai/odin-mnist-nn",
+    "clone_url": "https://github.com/bones-ai/odin-mnist-nn.git",
+    "stars": 51,
+    "size": 155
   },
   {
-    "name": "ferdinandrau/lavish.nvim",
-    "clone_url": "https://github.com/ferdinandrau/lavish.nvim.git",
-    "stars": 22,
-    "size": 2113
+    "name": "remvze/nothing",
+    "clone_url": "https://github.com/remvze/nothing.git",
+    "stars": 42,
+    "size": 1265
   },
   {
-    "name": "SB-Security/Cairo-Roadmap",
-    "clone_url": "https://github.com/SB-Security/Cairo-Roadmap.git",
-    "stars": 20,
-    "size": 91
+    "name": "sphireinc/Hydra",
+    "clone_url": "https://github.com/sphireinc/Hydra.git",
+    "stars": 17,
+    "size": 455
+  },
+  {
+    "name": "andreweatherman/gtUtils",
+    "clone_url": "https://github.com/andreweatherman/gtUtils.git",
+    "stars": 6,
+    "size": 4171
   }
 ]
