@@ -2,31 +2,31 @@
   {
     "name": "hijkzzz/Awesome-LLM-Strawberry",
     "clone_url": "https://github.com/hijkzzz/Awesome-LLM-Strawberry.git",
-    "stars": 195,
-    "size": 74
-  },
-  {
-    "name": "bones-ai/odin-mnist-nn",
-    "clone_url": "https://github.com/bones-ai/odin-mnist-nn.git",
-    "stars": 51,
-    "size": 155
+    "stars": 610,
+    "size": 79
   },
   {
     "name": "remvze/nothing",
     "clone_url": "https://github.com/remvze/nothing.git",
-    "stars": 42,
-    "size": 1265
+    "stars": 86,
+    "size": 1418
+  },
+  {
+    "name": "bones-ai/odin-mnist-nn",
+    "clone_url": "https://github.com/bones-ai/odin-mnist-nn.git",
+    "stars": 86,
+    "size": 155
   },
   {
     "name": "sphireinc/Hydra",
     "clone_url": "https://github.com/sphireinc/Hydra.git",
-    "stars": 17,
-    "size": 455
+    "stars": 26,
+    "size": 781
   },
   {
-    "name": "andreweatherman/gtUtils",
-    "clone_url": "https://github.com/andreweatherman/gtUtils.git",
-    "stars": 6,
-    "size": 4171
+    "name": "jeffcail/sql2orm",
+    "clone_url": "https://github.com/jeffcail/sql2orm.git",
+    "stars": 14,
+    "size": 552
   }
 ]
