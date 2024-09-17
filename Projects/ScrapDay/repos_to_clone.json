@@ -8,8 +8,14 @@
   {
     "name": "PatrickJS/awesome-cursorrules",
     "clone_url": "https://github.com/PatrickJS/awesome-cursorrules.git",
-    "stars": 86,
-    "size": 516
+    "stars": 151,
+    "size": 533
+  },
+  {
+    "name": "zml/zml",
+    "clone_url": "https://github.com/zml/zml.git",
+    "stars": 128,
+    "size": 433
   },
   {
     "name": "camo199/Free-Snap-Tap",
@@ -22,11 +28,5 @@
     "clone_url": "https://github.com/VOLTERpc/Pr3miere-Pro-2024.git",
     "stars": 63,
     "size": 489
-  },
-  {
-    "name": "nscheesedevs/Solara-Executor",
-    "clone_url": "https://github.com/nscheesedevs/Solara-Executor.git",
-    "stars": 63,
-    "size": 490
   }
 ]
