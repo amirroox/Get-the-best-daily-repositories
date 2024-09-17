@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-14 .. 2024-09-16)
+# Latest Repositories (2024-09-15 .. 2024-09-17)
 
-- [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) (610)
-- [remvze/nothing](https://github.com/remvze/nothing) (86)
-- [bones-ai/odin-mnist-nn](https://github.com/bones-ai/odin-mnist-nn) (86)
-- [sphireinc/Hydra](https://github.com/sphireinc/Hydra) (26)
-- [jeffcail/sql2orm](https://github.com/jeffcail/sql2orm) (14)
+- [gaoglun/fatality-CS2](https://github.com/gaoglun/fatality-CS2) (166)
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) (86)
+- [camo199/Free-Snap-Tap](https://github.com/camo199/Free-Snap-Tap) (63)
+- [VOLTERpc/Pr3miere-Pro-2024](https://github.com/VOLTERpc/Pr3miere-Pro-2024) (63)
+- [nscheesedevs/Solara-Executor](https://github.com/nscheesedevs/Solara-Executor) (63)
