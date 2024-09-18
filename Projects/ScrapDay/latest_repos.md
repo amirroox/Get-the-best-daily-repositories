@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-15 .. 2024-09-17)
+# Latest Repositories (2024-09-16 .. 2024-09-18)
 
-- [gaoglun/fatality-CS2](https://github.com/gaoglun/fatality-CS2) (166)
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) (151)
-- [zml/zml](https://github.com/zml/zml) (128)
-- [camo199/Free-Snap-Tap](https://github.com/camo199/Free-Snap-Tap) (63)
-- [VOLTERpc/Pr3miere-Pro-2024](https://github.com/VOLTERpc/Pr3miere-Pro-2024) (63)
+- [zml/zml](https://github.com/zml/zml) (615)
+- [not-nullptr/Aerochat](https://github.com/not-nullptr/Aerochat) (42)
+- [BradyMeighan/WLED-Studio](https://github.com/BradyMeighan/WLED-Studio) (27)
+- [titan-pebi/Lua-Executor-For-Roblox](https://github.com/titan-pebi/Lua-Executor-For-Roblox) (24)
+- [antfu/shiki-transformer-color-highlight](https://github.com/antfu/shiki-transformer-color-highlight) (17)

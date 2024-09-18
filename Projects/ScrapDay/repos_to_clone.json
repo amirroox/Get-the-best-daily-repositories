@@ -1,32 +1,32 @@
 [
   {
-    "name": "gaoglun/fatality-CS2",
-    "clone_url": "https://github.com/gaoglun/fatality-CS2.git",
-    "stars": 166,
-    "size": 4857
-  },
-  {
-    "name": "PatrickJS/awesome-cursorrules",
-    "clone_url": "https://github.com/PatrickJS/awesome-cursorrules.git",
-    "stars": 151,
-    "size": 533
-  },
-  {
     "name": "zml/zml",
     "clone_url": "https://github.com/zml/zml.git",
-    "stars": 128,
-    "size": 433
+    "stars": 615,
+    "size": 436
   },
   {
-    "name": "camo199/Free-Snap-Tap",
-    "clone_url": "https://github.com/camo199/Free-Snap-Tap.git",
-    "stars": 63,
-    "size": 489
+    "name": "not-nullptr/Aerochat",
+    "clone_url": "https://github.com/not-nullptr/Aerochat.git",
+    "stars": 42,
+    "size": 4216
   },
   {
-    "name": "VOLTERpc/Pr3miere-Pro-2024",
-    "clone_url": "https://github.com/VOLTERpc/Pr3miere-Pro-2024.git",
-    "stars": 63,
-    "size": 489
+    "name": "BradyMeighan/WLED-Studio",
+    "clone_url": "https://github.com/BradyMeighan/WLED-Studio.git",
+    "stars": 27,
+    "size": 506
+  },
+  {
+    "name": "titan-pebi/Lua-Executor-For-Roblox",
+    "clone_url": "https://github.com/titan-pebi/Lua-Executor-For-Roblox.git",
+    "stars": 24,
+    "size": 442
+  },
+  {
+    "name": "antfu/shiki-transformer-color-highlight",
+    "clone_url": "https://github.com/antfu/shiki-transformer-color-highlight.git",
+    "stars": 17,
+    "size": 86
   }
 ]
