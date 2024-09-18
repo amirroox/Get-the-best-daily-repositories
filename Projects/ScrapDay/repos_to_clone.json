@@ -2,31 +2,31 @@
   {
     "name": "zml/zml",
     "clone_url": "https://github.com/zml/zml.git",
-    "stars": 615,
+    "stars": 780,
     "size": 436
   },
   {
-    "name": "not-nullptr/Aerochat",
-    "clone_url": "https://github.com/not-nullptr/Aerochat.git",
-    "stars": 42,
-    "size": 4216
+    "name": "zlwaterfield/scramble",
+    "clone_url": "https://github.com/zlwaterfield/scramble.git",
+    "stars": 510,
+    "size": 77
   },
   {
     "name": "BradyMeighan/WLED-Studio",
     "clone_url": "https://github.com/BradyMeighan/WLED-Studio.git",
-    "stars": 27,
-    "size": 506
-  },
-  {
-    "name": "titan-pebi/Lua-Executor-For-Roblox",
-    "clone_url": "https://github.com/titan-pebi/Lua-Executor-For-Roblox.git",
-    "stars": 24,
-    "size": 442
+    "stars": 47,
+    "size": 510
   },
   {
     "name": "antfu/shiki-transformer-color-highlight",
     "clone_url": "https://github.com/antfu/shiki-transformer-color-highlight.git",
-    "stars": 17,
+    "stars": 39,
     "size": 86
+  },
+  {
+    "name": "BlackSnufkin/NyxInvoke",
+    "clone_url": "https://github.com/BlackSnufkin/NyxInvoke.git",
+    "stars": 27,
+    "size": 683
   }
 ]
