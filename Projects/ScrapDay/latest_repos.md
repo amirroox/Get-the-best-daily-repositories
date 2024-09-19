@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-16 .. 2024-09-18)
+# Latest Repositories (2024-09-17 .. 2024-09-19)
 
-- [zml/zml](https://github.com/zml/zml) (780)
-- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) (510)
-- [BradyMeighan/WLED-Studio](https://github.com/BradyMeighan/WLED-Studio) (47)
-- [antfu/shiki-transformer-color-highlight](https://github.com/antfu/shiki-transformer-color-highlight) (39)
-- [BlackSnufkin/NyxInvoke](https://github.com/BlackSnufkin/NyxInvoke) (27)
+- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) (740)
+- [punnerud/Local_Knowledge_Graph](https://github.com/punnerud/Local_Knowledge_Graph) (130)
+- [midudev/astro-5-dev-books](https://github.com/midudev/astro-5-dev-books) (20)
+- [LayerXcom/next-navigation-guard](https://github.com/LayerXcom/next-navigation-guard) (17)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) (13)

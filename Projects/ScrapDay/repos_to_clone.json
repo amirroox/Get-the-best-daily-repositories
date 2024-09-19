@@ -1,32 +1,32 @@
 [
   {
-    "name": "zml/zml",
-    "clone_url": "https://github.com/zml/zml.git",
-    "stars": 780,
-    "size": 436
-  },
-  {
     "name": "zlwaterfield/scramble",
     "clone_url": "https://github.com/zlwaterfield/scramble.git",
-    "stars": 510,
+    "stars": 740,
     "size": 77
   },
   {
-    "name": "BradyMeighan/WLED-Studio",
-    "clone_url": "https://github.com/BradyMeighan/WLED-Studio.git",
-    "stars": 47,
-    "size": 510
+    "name": "punnerud/Local_Knowledge_Graph",
+    "clone_url": "https://github.com/punnerud/Local_Knowledge_Graph.git",
+    "stars": 130,
+    "size": 400
   },
   {
-    "name": "antfu/shiki-transformer-color-highlight",
-    "clone_url": "https://github.com/antfu/shiki-transformer-color-highlight.git",
-    "stars": 39,
-    "size": 86
+    "name": "midudev/astro-5-dev-books",
+    "clone_url": "https://github.com/midudev/astro-5-dev-books.git",
+    "stars": 20,
+    "size": 477
   },
   {
-    "name": "BlackSnufkin/NyxInvoke",
-    "clone_url": "https://github.com/BlackSnufkin/NyxInvoke.git",
-    "stars": 27,
-    "size": 683
+    "name": "LayerXcom/next-navigation-guard",
+    "clone_url": "https://github.com/LayerXcom/next-navigation-guard.git",
+    "stars": 17,
+    "size": 177
+  },
+  {
+    "name": "dlvhdr/diffnav",
+    "clone_url": "https://github.com/dlvhdr/diffnav.git",
+    "stars": 13,
+    "size": 477
   }
 ]
