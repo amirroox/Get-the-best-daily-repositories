@@ -1,32 +1,32 @@
 [
   {
-    "name": "querylab/lazywarden",
-    "clone_url": "https://github.com/querylab/lazywarden.git",
-    "stars": 194,
-    "size": 52
+    "name": "reecdeep/segugio",
+    "clone_url": "https://github.com/reecdeep/segugio.git",
+    "stars": 33,
+    "size": 3140
   },
   {
-    "name": "jiwangyihao/Saturn-docs",
-    "clone_url": "https://github.com/jiwangyihao/Saturn-docs.git",
-    "stars": 47,
-    "size": 4749
+    "name": "safak/full-stack-school",
+    "clone_url": "https://github.com/safak/full-stack-school.git",
+    "stars": 30,
+    "size": 216
   },
   {
-    "name": "yangdongchao/Open-Training-Moshi",
-    "clone_url": "https://github.com/yangdongchao/Open-Training-Moshi.git",
-    "stars": 43,
-    "size": 576
-  },
-  {
-    "name": "kiko-love/your-music-station-v1",
-    "clone_url": "https://github.com/kiko-love/your-music-station-v1.git",
-    "stars": 28,
-    "size": 836
-  },
-  {
-    "name": "NRicode/GigaPaste",
-    "clone_url": "https://github.com/NRicode/GigaPaste.git",
+    "name": "vanhbakaa/moonbix-bot",
+    "clone_url": "https://github.com/vanhbakaa/moonbix-bot.git",
     "stars": 27,
-    "size": 84
+    "size": 112
+  },
+  {
+    "name": "HanSLY-GISer/daily_learning",
+    "clone_url": "https://github.com/HanSLY-GISer/daily_learning.git",
+    "stars": 26,
+    "size": 1252
+  },
+  {
+    "name": "daje0601/Google_SCoRe",
+    "clone_url": "https://github.com/daje0601/Google_SCoRe.git",
+    "stars": 23,
+    "size": 92
   }
 ]
