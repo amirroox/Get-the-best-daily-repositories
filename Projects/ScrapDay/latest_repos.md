@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-22 .. 2024-09-24)
+# Latest Repositories (2024-09-23 .. 2024-09-25)
 
-- [abnerrivera/modmenu-gta5-free](https://github.com/abnerrivera/modmenu-gta5-free) (225)
-- [imhighup/bloxfruits-autofarm-script](https://github.com/imhighup/bloxfruits-autofarm-script) (199)
-- [xlmnxp/Qocker](https://github.com/xlmnxp/Qocker) (147)
-- [AimRT/AimRT](https://github.com/AimRT/AimRT) (94)
-- [web3batman/Solana_Memecoin_Sniper_Bot](https://github.com/web3batman/Solana_Memecoin_Sniper_Bot) (59)
+- [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS) (218)
+- [marlaman/show-me](https://github.com/marlaman/show-me) (104)
+- [Programs555/Mullvad-VPN](https://github.com/Programs555/Mullvad-VPN) (85)
+- [Programs555/SaferVPN](https://github.com/Programs555/SaferVPN) (85)
+- [Programs555/HMA-HideMyAss-](https://github.com/Programs555/HMA-HideMyAss-) (85)
