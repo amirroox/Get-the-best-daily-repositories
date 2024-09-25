@@ -2,14 +2,20 @@
   {
     "name": "huggingface/chat-macOS",
     "clone_url": "https://github.com/huggingface/chat-macOS.git",
-    "stars": 218,
+    "stars": 437,
     "size": 501
   },
   {
     "name": "marlaman/show-me",
     "clone_url": "https://github.com/marlaman/show-me.git",
-    "stars": 104,
+    "stars": 225,
     "size": 227
+  },
+  {
+    "name": "TTVJDESS/cheats-genshin-impact-pc",
+    "clone_url": "https://github.com/TTVJDESS/cheats-genshin-impact-pc.git",
+    "stars": 213,
+    "size": 426
   },
   {
     "name": "Programs555/Mullvad-VPN",
@@ -20,12 +26,6 @@
   {
     "name": "Programs555/SaferVPN",
     "clone_url": "https://github.com/Programs555/SaferVPN.git",
-    "stars": 85,
-    "size": 237
-  },
-  {
-    "name": "Programs555/HMA-HideMyAss-",
-    "clone_url": "https://github.com/Programs555/HMA-HideMyAss-.git",
     "stars": 85,
     "size": 237
   }
