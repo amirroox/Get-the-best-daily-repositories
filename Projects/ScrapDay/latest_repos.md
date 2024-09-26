@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-23 .. 2024-09-25)
+# Latest Repositories (2024-09-24 .. 2024-09-26)
 
-- [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS) (437)
-- [marlaman/show-me](https://github.com/marlaman/show-me) (225)
-- [TTVJDESS/cheats-genshin-impact-pc](https://github.com/TTVJDESS/cheats-genshin-impact-pc) (213)
-- [Programs555/Mullvad-VPN](https://github.com/Programs555/Mullvad-VPN) (85)
-- [Programs555/SaferVPN](https://github.com/Programs555/SaferVPN) (85)
+- [frostming/fxzhihu](https://github.com/frostming/fxzhihu) (122)
+- [ltp19940206/VMware-Workstation-17-Pro](https://github.com/ltp19940206/VMware-Workstation-17-Pro) (85)
+- [ltp19940206/StartAllBack-StartIsBack-plus-plus](https://github.com/ltp19940206/StartAllBack-StartIsBack-plus-plus) (84)
+- [ltp19940206/Internet-Download-Manager](https://github.com/ltp19940206/Internet-Download-Manager) (84)
+- [ltp19940206/Microsoft-Office-LTSC-2024-Professional-Plus-Standard-Visio-Project](https://github.com/ltp19940206/Microsoft-Office-LTSC-2024-Professional-Plus-Standard-Visio-Project) (84)

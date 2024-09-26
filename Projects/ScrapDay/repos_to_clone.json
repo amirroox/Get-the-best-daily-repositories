@@ -1,32 +1,32 @@
 [
   {
-    "name": "huggingface/chat-macOS",
-    "clone_url": "https://github.com/huggingface/chat-macOS.git",
-    "stars": 437,
-    "size": 501
+    "name": "frostming/fxzhihu",
+    "clone_url": "https://github.com/frostming/fxzhihu.git",
+    "stars": 122,
+    "size": 588
   },
   {
-    "name": "marlaman/show-me",
-    "clone_url": "https://github.com/marlaman/show-me.git",
-    "stars": 225,
-    "size": 227
-  },
-  {
-    "name": "TTVJDESS/cheats-genshin-impact-pc",
-    "clone_url": "https://github.com/TTVJDESS/cheats-genshin-impact-pc.git",
-    "stars": 213,
-    "size": 426
-  },
-  {
-    "name": "Programs555/Mullvad-VPN",
-    "clone_url": "https://github.com/Programs555/Mullvad-VPN.git",
+    "name": "ltp19940206/VMware-Workstation-17-Pro",
+    "clone_url": "https://github.com/ltp19940206/VMware-Workstation-17-Pro.git",
     "stars": 85,
-    "size": 237
+    "size": 231
   },
   {
-    "name": "Programs555/SaferVPN",
-    "clone_url": "https://github.com/Programs555/SaferVPN.git",
-    "stars": 85,
-    "size": 237
+    "name": "ltp19940206/StartAllBack-StartIsBack-plus-plus",
+    "clone_url": "https://github.com/ltp19940206/StartAllBack-StartIsBack-plus-plus.git",
+    "stars": 84,
+    "size": 231
+  },
+  {
+    "name": "ltp19940206/Internet-Download-Manager",
+    "clone_url": "https://github.com/ltp19940206/Internet-Download-Manager.git",
+    "stars": 84,
+    "size": 231
+  },
+  {
+    "name": "ltp19940206/Microsoft-Office-LTSC-2024-Professional-Plus-Standard-Visio-Project",
+    "clone_url": "https://github.com/ltp19940206/Microsoft-Office-LTSC-2024-Professional-Plus-Standard-Visio-Project.git",
+    "stars": 84,
+    "size": 231
   }
 ]
