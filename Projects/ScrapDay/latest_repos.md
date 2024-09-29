@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-26 .. 2024-09-28)
+# Latest Repositories (2024-09-27 .. 2024-09-29)
 
-- [okaris/grounded-segmentation](https://github.com/okaris/grounded-segmentation) (34)
-- [remvze/pswd](https://github.com/remvze/pswd) (20)
-- [sam-paech/antislop-sampler](https://github.com/sam-paech/antislop-sampler) (19)
-- [dh1011/subscription-manager](https://github.com/dh1011/subscription-manager) (16)
-- [SniperXDev/kotlin-banking](https://github.com/SniperXDev/kotlin-banking) (16)
+- [fabriziosalmi/proxmox-vm-autoscale](https://github.com/fabriziosalmi/proxmox-vm-autoscale) (61)
+- [TGWafflles/iTEM](https://github.com/TGWafflles/iTEM) (22)
+- [ZhangWei-KUMO/tubex-wechatbot](https://github.com/ZhangWei-KUMO/tubex-wechatbot) (20)
+- [hanicraft/JackTheHacker](https://github.com/hanicraft/JackTheHacker) (20)
+- [lijigang/write-prompt](https://github.com/lijigang/write-prompt) (17)

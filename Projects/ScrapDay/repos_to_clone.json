@@ -1,32 +1,32 @@
 [
   {
-    "name": "okaris/grounded-segmentation",
-    "clone_url": "https://github.com/okaris/grounded-segmentation.git",
-    "stars": 34,
-    "size": 3823
+    "name": "fabriziosalmi/proxmox-vm-autoscale",
+    "clone_url": "https://github.com/fabriziosalmi/proxmox-vm-autoscale.git",
+    "stars": 61,
+    "size": 58
   },
   {
-    "name": "remvze/pswd",
-    "clone_url": "https://github.com/remvze/pswd.git",
+    "name": "TGWafflles/iTEM",
+    "clone_url": "https://github.com/TGWafflles/iTEM.git",
+    "stars": 22,
+    "size": 801
+  },
+  {
+    "name": "ZhangWei-KUMO/tubex-wechatbot",
+    "clone_url": "https://github.com/ZhangWei-KUMO/tubex-wechatbot.git",
     "stars": 20,
-    "size": 511
+    "size": 858
   },
   {
-    "name": "sam-paech/antislop-sampler",
-    "clone_url": "https://github.com/sam-paech/antislop-sampler.git",
-    "stars": 19,
-    "size": 2136
+    "name": "hanicraft/JackTheHacker",
+    "clone_url": "https://github.com/hanicraft/JackTheHacker.git",
+    "stars": 20,
+    "size": 97
   },
   {
-    "name": "dh1011/subscription-manager",
-    "clone_url": "https://github.com/dh1011/subscription-manager.git",
-    "stars": 16,
-    "size": 693
-  },
-  {
-    "name": "SniperXDev/kotlin-banking",
-    "clone_url": "https://github.com/SniperXDev/kotlin-banking.git",
-    "stars": 16,
-    "size": 1791
+    "name": "lijigang/write-prompt",
+    "clone_url": "https://github.com/lijigang/write-prompt.git",
+    "stars": 17,
+    "size": 3843
   }
 ]
