@@ -2,31 +2,31 @@
   {
     "name": "fmrico/yaets",
     "clone_url": "https://github.com/fmrico/yaets.git",
-    "stars": 23,
-    "size": 53
-  },
-  {
-    "name": "tercumantanumut/GameCompanionAI",
-    "clone_url": "https://github.com/tercumantanumut/GameCompanionAI.git",
-    "stars": 19,
-    "size": 78
-  },
-  {
-    "name": "jianghupt/VME",
-    "clone_url": "https://github.com/jianghupt/VME.git",
-    "stars": 16,
-    "size": 382
-  },
-  {
-    "name": "ThetaCursed/clean-ui",
-    "clone_url": "https://github.com/ThetaCursed/clean-ui.git",
-    "stars": 12,
-    "size": 353
+    "stars": 40,
+    "size": 58
   },
   {
     "name": "iAmCorey/chrome-extension-plasmo-template",
     "clone_url": "https://github.com/iAmCorey/chrome-extension-plasmo-template.git",
-    "stars": 11,
+    "stars": 37,
     "size": 2392
+  },
+  {
+    "name": "ThetaCursed/clean-ui",
+    "clone_url": "https://github.com/ThetaCursed/clean-ui.git",
+    "stars": 32,
+    "size": 397
+  },
+  {
+    "name": "tercumantanumut/GameCompanionAI",
+    "clone_url": "https://github.com/tercumantanumut/GameCompanionAI.git",
+    "stars": 31,
+    "size": 93
+  },
+  {
+    "name": "eth-ait/ReLoo",
+    "clone_url": "https://github.com/eth-ait/ReLoo.git",
+    "stars": 21,
+    "size": 750
   }
 ]
