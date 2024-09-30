@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-27 .. 2024-09-29)
+# Latest Repositories (2024-09-28 .. 2024-09-30)
 
-- [fabriziosalmi/proxmox-vm-autoscale](https://github.com/fabriziosalmi/proxmox-vm-autoscale) (61)
-- [TGWafflles/iTEM](https://github.com/TGWafflles/iTEM) (22)
-- [ZhangWei-KUMO/tubex-wechatbot](https://github.com/ZhangWei-KUMO/tubex-wechatbot) (20)
-- [hanicraft/JackTheHacker](https://github.com/hanicraft/JackTheHacker) (20)
-- [lijigang/write-prompt](https://github.com/lijigang/write-prompt) (17)
+- [fmrico/yaets](https://github.com/fmrico/yaets) (23)
+- [tercumantanumut/GameCompanionAI](https://github.com/tercumantanumut/GameCompanionAI) (19)
+- [jianghupt/VME](https://github.com/jianghupt/VME) (16)
+- [ThetaCursed/clean-ui](https://github.com/ThetaCursed/clean-ui) (12)
+- [iAmCorey/chrome-extension-plasmo-template](https://github.com/iAmCorey/chrome-extension-plasmo-template) (11)
