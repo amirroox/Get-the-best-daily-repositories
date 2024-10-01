@@ -1,32 +1,32 @@
 [
   {
-    "name": "fmrico/yaets",
-    "clone_url": "https://github.com/fmrico/yaets.git",
-    "stars": 40,
-    "size": 58
+    "name": "rythmaryan/Nine_Months_Placement_Roadmap",
+    "clone_url": "https://github.com/rythmaryan/Nine_Months_Placement_Roadmap.git",
+    "stars": 52,
+    "size": 184
   },
   {
-    "name": "iAmCorey/chrome-extension-plasmo-template",
-    "clone_url": "https://github.com/iAmCorey/chrome-extension-plasmo-template.git",
-    "stars": 37,
-    "size": 2392
+    "name": "Coagule/bitpump-pumpfun-bundler-comment-bot-sniper",
+    "clone_url": "https://github.com/Coagule/bitpump-pumpfun-bundler-comment-bot-sniper.git",
+    "stars": 41,
+    "size": 127
   },
   {
-    "name": "ThetaCursed/clean-ui",
-    "clone_url": "https://github.com/ThetaCursed/clean-ui.git",
-    "stars": 32,
-    "size": 397
-  },
-  {
-    "name": "tercumantanumut/GameCompanionAI",
-    "clone_url": "https://github.com/tercumantanumut/GameCompanionAI.git",
+    "name": "nianticlabs/venator",
+    "clone_url": "https://github.com/nianticlabs/venator.git",
     "stars": 31,
-    "size": 93
+    "size": 363
   },
   {
-    "name": "eth-ait/ReLoo",
-    "clone_url": "https://github.com/eth-ait/ReLoo.git",
-    "stars": 21,
-    "size": 750
+    "name": "GetStream/kmp-sample-template",
+    "clone_url": "https://github.com/GetStream/kmp-sample-template.git",
+    "stars": 23,
+    "size": 86
+  },
+  {
+    "name": "vanhbakaa/Fabrika-Friends-Factory",
+    "clone_url": "https://github.com/vanhbakaa/Fabrika-Friends-Factory.git",
+    "stars": 18,
+    "size": 93
   }
 ]
