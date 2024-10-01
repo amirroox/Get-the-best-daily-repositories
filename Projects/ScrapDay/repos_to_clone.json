@@ -1,32 +1,32 @@
 [
   {
+    "name": "nianticlabs/venator",
+    "clone_url": "https://github.com/nianticlabs/venator.git",
+    "stars": 133,
+    "size": 365
+  },
+  {
     "name": "rythmaryan/Nine_Months_Placement_Roadmap",
     "clone_url": "https://github.com/rythmaryan/Nine_Months_Placement_Roadmap.git",
-    "stars": 52,
+    "stars": 60,
     "size": 184
   },
   {
     "name": "Coagule/bitpump-pumpfun-bundler-comment-bot-sniper",
     "clone_url": "https://github.com/Coagule/bitpump-pumpfun-bundler-comment-bot-sniper.git",
-    "stars": 41,
+    "stars": 47,
     "size": 127
-  },
-  {
-    "name": "nianticlabs/venator",
-    "clone_url": "https://github.com/nianticlabs/venator.git",
-    "stars": 31,
-    "size": 363
   },
   {
     "name": "GetStream/kmp-sample-template",
     "clone_url": "https://github.com/GetStream/kmp-sample-template.git",
-    "stars": 23,
+    "stars": 30,
     "size": 86
   },
   {
     "name": "vanhbakaa/Fabrika-Friends-Factory",
     "clone_url": "https://github.com/vanhbakaa/Fabrika-Friends-Factory.git",
-    "stars": 18,
-    "size": 93
+    "stars": 23,
+    "size": 111
   }
 ]
