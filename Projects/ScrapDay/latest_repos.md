@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-29 .. 2024-10-01)
+# Latest Repositories (2024-09-30 .. 2024-10-02)
 
-- [nianticlabs/venator](https://github.com/nianticlabs/venator) (133)
-- [rythmaryan/Nine_Months_Placement_Roadmap](https://github.com/rythmaryan/Nine_Months_Placement_Roadmap) (60)
-- [Coagule/bitpump-pumpfun-bundler-comment-bot-sniper](https://github.com/Coagule/bitpump-pumpfun-bundler-comment-bot-sniper) (47)
-- [GetStream/kmp-sample-template](https://github.com/GetStream/kmp-sample-template) (30)
-- [vanhbakaa/Fabrika-Friends-Factory](https://github.com/vanhbakaa/Fabrika-Friends-Factory) (23)
+- [fenaux/soccer-applications](https://github.com/fenaux/soccer-applications) (28)
+- [ACT-02/PingFangUI-VF](https://github.com/ACT-02/PingFangUI-VF) (27)
+- [NomadicDaddy/htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) (21)
+- [jasonxtn/Argus](https://github.com/jasonxtn/Argus) (15)
+- [MirzaBeig/Constellation-Plexus](https://github.com/MirzaBeig/Constellation-Plexus) (12)
