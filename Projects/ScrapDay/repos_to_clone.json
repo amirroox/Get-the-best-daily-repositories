@@ -1,32 +1,32 @@
 [
   {
-    "name": "fenaux/soccer-applications",
-    "clone_url": "https://github.com/fenaux/soccer-applications.git",
-    "stars": 28,
-    "size": 490
+    "name": "qqrss/qrs",
+    "clone_url": "https://github.com/qqrss/qrs.git",
+    "stars": 60,
+    "size": 791
   },
   {
-    "name": "ACT-02/PingFangUI-VF",
-    "clone_url": "https://github.com/ACT-02/PingFangUI-VF.git",
-    "stars": 27,
-    "size": 872
+    "name": "balazik/ComfyUI-PuLID-Flux",
+    "clone_url": "https://github.com/balazik/ComfyUI-PuLID-Flux.git",
+    "stars": 54,
+    "size": 2261
   },
   {
     "name": "NomadicDaddy/htmx-debugger",
     "clone_url": "https://github.com/NomadicDaddy/htmx-debugger.git",
-    "stars": 21,
+    "stars": 51,
     "size": 161
   },
   {
     "name": "jasonxtn/Argus",
     "clone_url": "https://github.com/jasonxtn/Argus.git",
-    "stars": 15,
-    "size": 113
+    "stars": 48,
+    "size": 118
   },
   {
-    "name": "MirzaBeig/Constellation-Plexus",
-    "clone_url": "https://github.com/MirzaBeig/Constellation-Plexus.git",
-    "stars": 12,
-    "size": 59
+    "name": "fenaux/soccer-applications",
+    "clone_url": "https://github.com/fenaux/soccer-applications.git",
+    "stars": 43,
+    "size": 490
   }
 ]
