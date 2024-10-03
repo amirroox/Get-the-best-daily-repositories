@@ -1,5 +1,17 @@
 [
   {
+    "name": "xjdr-alt/entropix",
+    "clone_url": "https://github.com/xjdr-alt/entropix.git",
+    "stars": 140,
+    "size": 105
+  },
+  {
+    "name": "xichen-fy/Fira",
+    "clone_url": "https://github.com/xichen-fy/Fira.git",
+    "stars": 32,
+    "size": 184
+  },
+  {
     "name": "KADU176/Roblox-Nihon",
     "clone_url": "https://github.com/KADU176/Roblox-Nihon.git",
     "stars": 17,
@@ -8,25 +20,13 @@
   {
     "name": "danilop/oss-for-generative-ai",
     "clone_url": "https://github.com/danilop/oss-for-generative-ai.git",
-    "stars": 10,
+    "stars": 14,
     "size": 1606
   },
   {
-    "name": "akhileshverma92/campusfest",
-    "clone_url": "https://github.com/akhileshverma92/campusfest.git",
-    "stars": 8,
-    "size": 1051
-  },
-  {
-    "name": "ShangguanXi/RusticDelight-Refabricated",
-    "clone_url": "https://github.com/ShangguanXi/RusticDelight-Refabricated.git",
-    "stars": 5,
-    "size": 161
-  },
-  {
-    "name": "centminmod/wordpress-plugin-mirror-poc",
-    "clone_url": "https://github.com/centminmod/wordpress-plugin-mirror-poc.git",
-    "stars": 5,
-    "size": 488
+    "name": "z3Zrsolana/SOLANA_SNIPER_BOT",
+    "clone_url": "https://github.com/z3Zrsolana/SOLANA_SNIPER_BOT.git",
+    "stars": 10,
+    "size": 1257
   }
 ]
