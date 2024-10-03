@@ -1,7 +1,7 @@
-# Latest Repositories (2024-09-30 .. 2024-10-02)
+# Latest Repositories (2024-10-01 .. 2024-10-03)
 
-- [qqrss/qrs](https://github.com/qqrss/qrs) (60)
-- [balazik/ComfyUI-PuLID-Flux](https://github.com/balazik/ComfyUI-PuLID-Flux) (54)
-- [NomadicDaddy/htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) (51)
-- [jasonxtn/Argus](https://github.com/jasonxtn/Argus) (48)
-- [fenaux/soccer-applications](https://github.com/fenaux/soccer-applications) (43)
+- [KADU176/Roblox-Nihon](https://github.com/KADU176/Roblox-Nihon) (17)
+- [danilop/oss-for-generative-ai](https://github.com/danilop/oss-for-generative-ai) (10)
+- [akhileshverma92/campusfest](https://github.com/akhileshverma92/campusfest) (8)
+- [ShangguanXi/RusticDelight-Refabricated](https://github.com/ShangguanXi/RusticDelight-Refabricated) (5)
+- [centminmod/wordpress-plugin-mirror-poc](https://github.com/centminmod/wordpress-plugin-mirror-poc) (5)

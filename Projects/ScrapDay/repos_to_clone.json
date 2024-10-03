@@ -1,32 +1,32 @@
 [
   {
-    "name": "qqrss/qrs",
-    "clone_url": "https://github.com/qqrss/qrs.git",
-    "stars": 60,
-    "size": 791
+    "name": "KADU176/Roblox-Nihon",
+    "clone_url": "https://github.com/KADU176/Roblox-Nihon.git",
+    "stars": 17,
+    "size": 751
   },
   {
-    "name": "balazik/ComfyUI-PuLID-Flux",
-    "clone_url": "https://github.com/balazik/ComfyUI-PuLID-Flux.git",
-    "stars": 54,
-    "size": 2261
+    "name": "danilop/oss-for-generative-ai",
+    "clone_url": "https://github.com/danilop/oss-for-generative-ai.git",
+    "stars": 10,
+    "size": 1606
   },
   {
-    "name": "NomadicDaddy/htmx-debugger",
-    "clone_url": "https://github.com/NomadicDaddy/htmx-debugger.git",
-    "stars": 51,
+    "name": "akhileshverma92/campusfest",
+    "clone_url": "https://github.com/akhileshverma92/campusfest.git",
+    "stars": 8,
+    "size": 1051
+  },
+  {
+    "name": "ShangguanXi/RusticDelight-Refabricated",
+    "clone_url": "https://github.com/ShangguanXi/RusticDelight-Refabricated.git",
+    "stars": 5,
     "size": 161
   },
   {
-    "name": "jasonxtn/Argus",
-    "clone_url": "https://github.com/jasonxtn/Argus.git",
-    "stars": 48,
-    "size": 118
-  },
-  {
-    "name": "fenaux/soccer-applications",
-    "clone_url": "https://github.com/fenaux/soccer-applications.git",
-    "stars": 43,
-    "size": 490
+    "name": "centminmod/wordpress-plugin-mirror-poc",
+    "clone_url": "https://github.com/centminmod/wordpress-plugin-mirror-poc.git",
+    "stars": 5,
+    "size": 488
   }
 ]
