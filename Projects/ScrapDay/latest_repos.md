@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-02 .. 2024-10-04)
+# Latest Repositories (2024-10-03 .. 2024-10-05)
 
-- [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) (210)
-- [tinygrad/toonygrad](https://github.com/tinygrad/toonygrad) (29)
-- [honestyan/malas-commit](https://github.com/honestyan/malas-commit) (27)
-- [rupomsoft/Ecommerce-Rest-API-Free](https://github.com/rupomsoft/Ecommerce-Rest-API-Free) (22)
-- [KaraBharat/react-full-stack-components](https://github.com/KaraBharat/react-full-stack-components) (19)
+- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) (127)
+- [tinygrad/toonygrad](https://github.com/tinygrad/toonygrad) (61)
+- [dynamiccreator/voice-text-reader](https://github.com/dynamiccreator/voice-text-reader) (34)
+- [run-llama/voice-chat-pdf](https://github.com/run-llama/voice-chat-pdf) (25)
+- [X-T-E-R/my-little-ocr](https://github.com/X-T-E-R/my-little-ocr) (22)

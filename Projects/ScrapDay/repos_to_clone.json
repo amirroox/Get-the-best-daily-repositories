@@ -1,32 +1,32 @@
 [
   {
-    "name": "xjdr-alt/entropix",
-    "clone_url": "https://github.com/xjdr-alt/entropix.git",
-    "stars": 210,
-    "size": 307
+    "name": "rishikanthc/Scriberr",
+    "clone_url": "https://github.com/rishikanthc/Scriberr.git",
+    "stars": 127,
+    "size": 2571
   },
   {
     "name": "tinygrad/toonygrad",
     "clone_url": "https://github.com/tinygrad/toonygrad.git",
-    "stars": 29,
-    "size": 189
+    "stars": 61,
+    "size": 279
   },
   {
-    "name": "honestyan/malas-commit",
-    "clone_url": "https://github.com/honestyan/malas-commit.git",
-    "stars": 27,
-    "size": 60
+    "name": "dynamiccreator/voice-text-reader",
+    "clone_url": "https://github.com/dynamiccreator/voice-text-reader.git",
+    "stars": 34,
+    "size": 127
   },
   {
-    "name": "rupomsoft/Ecommerce-Rest-API-Free",
-    "clone_url": "https://github.com/rupomsoft/Ecommerce-Rest-API-Free.git",
+    "name": "run-llama/voice-chat-pdf",
+    "clone_url": "https://github.com/run-llama/voice-chat-pdf.git",
+    "stars": 25,
+    "size": 2053
+  },
+  {
+    "name": "X-T-E-R/my-little-ocr",
+    "clone_url": "https://github.com/X-T-E-R/my-little-ocr.git",
     "stars": 22,
-    "size": 1354
-  },
-  {
-    "name": "KaraBharat/react-full-stack-components",
-    "clone_url": "https://github.com/KaraBharat/react-full-stack-components.git",
-    "stars": 19,
-    "size": 2531
+    "size": 314
   }
 ]
