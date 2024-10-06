@@ -2,31 +2,31 @@
   {
     "name": "lihuithe/podlm-public",
     "clone_url": "https://github.com/lihuithe/podlm-public.git",
-    "stars": 77,
+    "stars": 114,
     "size": 788
   },
   {
-    "name": "Chocapikk/CVE-2024-45519",
-    "clone_url": "https://github.com/Chocapikk/CVE-2024-45519.git",
-    "stars": 32,
-    "size": 351
+    "name": "t3dotgg/quickpic",
+    "clone_url": "https://github.com/t3dotgg/quickpic.git",
+    "stars": 54,
+    "size": 959
   },
   {
     "name": "ComfyUI-Workflow/awesome-comfyui",
     "clone_url": "https://github.com/ComfyUI-Workflow/awesome-comfyui.git",
-    "stars": 31,
+    "stars": 40,
     "size": 125
+  },
+  {
+    "name": "Chocapikk/CVE-2024-45519",
+    "clone_url": "https://github.com/Chocapikk/CVE-2024-45519.git",
+    "stars": 37,
+    "size": 351
   },
   {
     "name": "spacewalk01/depth-pro-webui",
     "clone_url": "https://github.com/spacewalk01/depth-pro-webui.git",
-    "stars": 14,
-    "size": 600
-  },
-  {
-    "name": "c2pain/RustBird",
-    "clone_url": "https://github.com/c2pain/RustBird.git",
-    "stars": 12,
-    "size": 222
+    "stars": 20,
+    "size": 789
   }
 ]
