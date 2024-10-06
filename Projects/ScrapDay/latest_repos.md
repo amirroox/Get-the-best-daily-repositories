@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-03 .. 2024-10-05)
+# Latest Repositories (2024-10-04 .. 2024-10-06)
 
-- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) (127)
-- [tinygrad/toonygrad](https://github.com/tinygrad/toonygrad) (61)
-- [dynamiccreator/voice-text-reader](https://github.com/dynamiccreator/voice-text-reader) (34)
-- [run-llama/voice-chat-pdf](https://github.com/run-llama/voice-chat-pdf) (25)
-- [X-T-E-R/my-little-ocr](https://github.com/X-T-E-R/my-little-ocr) (22)
+- [lihuithe/podlm-public](https://github.com/lihuithe/podlm-public) (77)
+- [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519) (32)
+- [ComfyUI-Workflow/awesome-comfyui](https://github.com/ComfyUI-Workflow/awesome-comfyui) (31)
+- [spacewalk01/depth-pro-webui](https://github.com/spacewalk01/depth-pro-webui) (14)
+- [c2pain/RustBird](https://github.com/c2pain/RustBird) (12)
