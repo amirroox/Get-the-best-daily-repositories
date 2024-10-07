@@ -2,31 +2,31 @@
   {
     "name": "t3dotgg/quickpic",
     "clone_url": "https://github.com/t3dotgg/quickpic.git",
-    "stars": 120,
-    "size": 959
+    "stars": 151,
+    "size": 961
   },
   {
     "name": "SublimePeace/ObsidianHelpbox",
     "clone_url": "https://github.com/SublimePeace/ObsidianHelpbox.git",
-    "stars": 30,
+    "stars": 50,
     "size": 265
   },
   {
-    "name": "kxboard/v2board-theme-kxboard",
-    "clone_url": "https://github.com/kxboard/v2board-theme-kxboard.git",
-    "stars": 16,
-    "size": 1324
+    "name": "snakeying/flux-api-worker",
+    "clone_url": "https://github.com/snakeying/flux-api-worker.git",
+    "stars": 45,
+    "size": 287
   },
   {
     "name": "iaunn/pathumthani-water-level-api",
     "clone_url": "https://github.com/iaunn/pathumthani-water-level-api.git",
-    "stars": 15,
+    "stars": 30,
     "size": 711
   },
   {
-    "name": "polyfloyd/gadgets-for-linux",
-    "clone_url": "https://github.com/polyfloyd/gadgets-for-linux.git",
-    "stars": 15,
-    "size": 481
+    "name": "warestack/cs-python",
+    "clone_url": "https://github.com/warestack/cs-python.git",
+    "stars": 30,
+    "size": 94
   }
 ]
