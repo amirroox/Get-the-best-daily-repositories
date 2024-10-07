@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-04 .. 2024-10-06)
+# Latest Repositories (2024-10-05 .. 2024-10-07)
 
-- [lihuithe/podlm-public](https://github.com/lihuithe/podlm-public) (114)
-- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) (54)
-- [ComfyUI-Workflow/awesome-comfyui](https://github.com/ComfyUI-Workflow/awesome-comfyui) (40)
-- [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519) (37)
-- [spacewalk01/depth-pro-webui](https://github.com/spacewalk01/depth-pro-webui) (20)
+- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) (120)
+- [SublimePeace/ObsidianHelpbox](https://github.com/SublimePeace/ObsidianHelpbox) (30)
+- [kxboard/v2board-theme-kxboard](https://github.com/kxboard/v2board-theme-kxboard) (16)
+- [iaunn/pathumthani-water-level-api](https://github.com/iaunn/pathumthani-water-level-api) (15)
+- [polyfloyd/gadgets-for-linux](https://github.com/polyfloyd/gadgets-for-linux) (15)
