@@ -2,19 +2,25 @@
   {
     "name": "Junyi42/monst3r",
     "clone_url": "https://github.com/Junyi42/monst3r.git",
-    "stars": 135,
+    "stars": 272,
     "size": 1190
+  },
+  {
+    "name": "KoriIku/luxirty-search",
+    "clone_url": "https://github.com/KoriIku/luxirty-search.git",
+    "stars": 98,
+    "size": 113
   },
   {
     "name": "archiewood/gosql",
     "clone_url": "https://github.com/archiewood/gosql.git",
-    "stars": 62,
-    "size": 3247
+    "stars": 87,
+    "size": 3252
   },
   {
     "name": "whiletruelearn/termichess",
     "clone_url": "https://github.com/whiletruelearn/termichess.git",
-    "stars": 33,
+    "stars": 35,
     "size": 303
   },
   {
@@ -22,11 +28,5 @@
     "clone_url": "https://github.com/warestack/cs-python.git",
     "stars": 30,
     "size": 94
-  },
-  {
-    "name": "akazwz/image-worker",
-    "clone_url": "https://github.com/akazwz/image-worker.git",
-    "stars": 22,
-    "size": 575
   }
 ]
