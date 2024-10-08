@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-05 .. 2024-10-07)
+# Latest Repositories (2024-10-06 .. 2024-10-08)
 
-- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) (151)
-- [SublimePeace/ObsidianHelpbox](https://github.com/SublimePeace/ObsidianHelpbox) (50)
-- [snakeying/flux-api-worker](https://github.com/snakeying/flux-api-worker) (45)
-- [iaunn/pathumthani-water-level-api](https://github.com/iaunn/pathumthani-water-level-api) (30)
+- [Junyi42/monst3r](https://github.com/Junyi42/monst3r) (135)
+- [archiewood/gosql](https://github.com/archiewood/gosql) (62)
+- [whiletruelearn/termichess](https://github.com/whiletruelearn/termichess) (33)
 - [warestack/cs-python](https://github.com/warestack/cs-python) (30)
+- [akazwz/image-worker](https://github.com/akazwz/image-worker) (22)
