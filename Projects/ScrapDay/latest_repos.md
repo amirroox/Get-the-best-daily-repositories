@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-06 .. 2024-10-08)
+# Latest Repositories (2024-10-07 .. 2024-10-09)
 
-- [Junyi42/monst3r](https://github.com/Junyi42/monst3r) (272)
-- [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) (98)
-- [archiewood/gosql](https://github.com/archiewood/gosql) (87)
-- [whiletruelearn/termichess](https://github.com/whiletruelearn/termichess) (35)
-- [warestack/cs-python](https://github.com/warestack/cs-python) (30)
+- [MustangDoAlan/m0dmenu-gta5-fr33](https://github.com/MustangDoAlan/m0dmenu-gta5-fr33) (287)
+- [kristianrose/h4ck-f0rtnite](https://github.com/kristianrose/h4ck-f0rtnite) (285)
+- [CrockYT/hack-blox-fruits-free](https://github.com/CrockYT/hack-blox-fruits-free) (284)
+- [RedDoesStuff/cheats-genshin-impact](https://github.com/RedDoesStuff/cheats-genshin-impact) (281)
+- [GhostRooter0953/discord-voice-ips](https://github.com/GhostRooter0953/discord-voice-ips) (57)
