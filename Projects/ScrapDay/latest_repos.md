@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-07 .. 2024-10-09)
+# Latest Repositories (2024-10-08 .. 2024-10-10)
 
-- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) (387)
-- [GhostRooter0953/discord-voice-ips](https://github.com/GhostRooter0953/discord-voice-ips) (95)
-- [christianselig/TinyStorage](https://github.com/christianselig/TinyStorage) (86)
-- [Conan924/PostHikvision](https://github.com/Conan924/PostHikvision) (40)
-- [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) (39)
+- [ajnart/subs](https://github.com/ajnart/subs) (153)
+- [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) (151)
+- [hamzasaleem2/sticky](https://github.com/hamzasaleem2/sticky) (35)
+- [0xCheshireBTC/0xmagnolia-Respect](https://github.com/0xCheshireBTC/0xmagnolia-Respect) (35)
+- [eimg/spata](https://github.com/eimg/spata) (33)
