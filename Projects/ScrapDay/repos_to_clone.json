@@ -2,31 +2,31 @@
   {
     "name": "adriankarlen/textfox",
     "clone_url": "https://github.com/adriankarlen/textfox.git",
-    "stars": 185,
-    "size": 1507
+    "stars": 322,
+    "size": 1510
   },
   {
     "name": "ithacaxyz/odyssey",
     "clone_url": "https://github.com/ithacaxyz/odyssey.git",
-    "stars": 60,
-    "size": 2004
+    "stars": 82,
+    "size": 1961
   },
   {
     "name": "goncy/next-mercadopago",
     "clone_url": "https://github.com/goncy/next-mercadopago.git",
-    "stars": 33,
+    "stars": 40,
     "size": 1079
+  },
+  {
+    "name": "tcsenpai/spacellama",
+    "clone_url": "https://github.com/tcsenpai/spacellama.git",
+    "stars": 32,
+    "size": 780
   },
   {
     "name": "GAP-LAB-CUHK-SZ/GaussReg",
     "clone_url": "https://github.com/GAP-LAB-CUHK-SZ/GaussReg.git",
-    "stars": 23,
-    "size": 470
-  },
-  {
-    "name": "mkpaz/devtoolsfx",
-    "clone_url": "https://github.com/mkpaz/devtoolsfx.git",
-    "stars": 21,
-    "size": 767
+    "stars": 26,
+    "size": 473
   }
 ]
