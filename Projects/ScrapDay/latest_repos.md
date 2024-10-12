@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-08 .. 2024-10-10)
+# Latest Repositories (2024-10-10 .. 2024-10-12)
 
-- [ChaosJulien/XiaoYuanKouSuan_Auto](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto) (320)
-- [ajnart/subs](https://github.com/ajnart/subs) (193)
-- [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) (188)
-- [cr4n5/XiaoYuanKouSuan](https://github.com/cr4n5/XiaoYuanKouSuan) (123)
-- [skydoves/kmp-developer-roadmap](https://github.com/skydoves/kmp-developer-roadmap) (99)
+- [adriankarlen/textfox](https://github.com/adriankarlen/textfox) (185)
+- [ithacaxyz/odyssey](https://github.com/ithacaxyz/odyssey) (60)
+- [goncy/next-mercadopago](https://github.com/goncy/next-mercadopago) (33)
+- [GAP-LAB-CUHK-SZ/GaussReg](https://github.com/GAP-LAB-CUHK-SZ/GaussReg) (23)
+- [mkpaz/devtoolsfx](https://github.com/mkpaz/devtoolsfx) (21)
