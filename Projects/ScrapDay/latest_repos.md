@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-12 .. 2024-10-14)
+# Latest Repositories (2024-10-13 .. 2024-10-15)
 
-- [tmh72363/solana-trading-bot](https://github.com/tmh72363/solana-trading-bot) (311)
-- [lucasnewman/f5-tts-mlx](https://github.com/lucasnewman/f5-tts-mlx) (64)
-- [gtibo/Godot-Plush-Character](https://github.com/gtibo/Godot-Plush-Character) (62)
-- [amclubs/am-cf-tunnel](https://github.com/amclubs/am-cf-tunnel) (49)
-- [viiika/Meissonic](https://github.com/viiika/Meissonic) (41)
+- [adaline/gateway](https://github.com/adaline/gateway) (231)
+- [origin-space/originui](https://github.com/origin-space/originui) (77)
+- [PRBonn/kinematic-icp](https://github.com/PRBonn/kinematic-icp) (55)
+- [daveshap/BurnoutRecoveryIndex](https://github.com/daveshap/BurnoutRecoveryIndex) (31)
+- [ArjiJethin/WaveForm_Generator](https://github.com/ArjiJethin/WaveForm_Generator) (26)
