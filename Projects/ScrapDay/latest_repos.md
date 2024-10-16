@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-13 .. 2024-10-15)
+# Latest Repositories (2024-10-14 .. 2024-10-16)
 
-- [adaline/gateway](https://github.com/adaline/gateway) (231)
-- [origin-space/originui](https://github.com/origin-space/originui) (77)
-- [PRBonn/kinematic-icp](https://github.com/PRBonn/kinematic-icp) (55)
-- [daveshap/BurnoutRecoveryIndex](https://github.com/daveshap/BurnoutRecoveryIndex) (31)
-- [ArjiJethin/WaveForm_Generator](https://github.com/ArjiJethin/WaveForm_Generator) (26)
+- [origin-space/originui](https://github.com/origin-space/originui) (339)
+- [adaline/gateway](https://github.com/adaline/gateway) (284)
+- [zkwsqx/SonyVegas-2024](https://github.com/zkwsqx/SonyVegas-2024) (141)
+- [TheCoolLegendary/Adobe-Photoshop](https://github.com/TheCoolLegendary/Adobe-Photoshop) (137)
+- [JattPiro/m0dmenu-gta5-fr33](https://github.com/JattPiro/m0dmenu-gta5-fr33) (137)
