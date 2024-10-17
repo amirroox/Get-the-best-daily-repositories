@@ -2,31 +2,31 @@
   {
     "name": "a7t-byte/a7t-byte",
     "clone_url": "https://github.com/a7t-byte/a7t-byte.git",
-    "stars": 172,
+    "stars": 176,
     "size": 59
   },
   {
-    "name": "shubhamjain/svg-spinners",
-    "clone_url": "https://github.com/shubhamjain/svg-spinners.git",
-    "stars": 62,
-    "size": 63
+    "name": "yaakua/ai-outpainting-com",
+    "clone_url": "https://github.com/yaakua/ai-outpainting-com.git",
+    "stars": 135,
+    "size": 3847
   },
   {
     "name": "hugohadfield/kalmangrad",
     "clone_url": "https://github.com/hugohadfield/kalmangrad.git",
-    "stars": 59,
+    "stars": 133,
     "size": 150
+  },
+  {
+    "name": "shubhamjain/svg-spinners",
+    "clone_url": "https://github.com/shubhamjain/svg-spinners.git",
+    "stars": 99,
+    "size": 67
   },
   {
     "name": "AlirezaHadjar/react-native-fast-confetti",
     "clone_url": "https://github.com/AlirezaHadjar/react-native-fast-confetti.git",
-    "stars": 55,
+    "stars": 72,
     "size": 2415
-  },
-  {
-    "name": "Bekacru/better-auth-nextjs-cf-d1-example",
-    "clone_url": "https://github.com/Bekacru/better-auth-nextjs-cf-d1-example.git",
-    "stars": 23,
-    "size": 262
   }
 ]
