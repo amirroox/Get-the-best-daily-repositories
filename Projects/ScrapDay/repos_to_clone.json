@@ -1,32 +1,32 @@
 [
   {
-    "name": "origin-space/originui",
-    "clone_url": "https://github.com/origin-space/originui.git",
-    "stars": 339,
-    "size": 135
+    "name": "a7t-byte/a7t-byte",
+    "clone_url": "https://github.com/a7t-byte/a7t-byte.git",
+    "stars": 172,
+    "size": 59
   },
   {
-    "name": "adaline/gateway",
-    "clone_url": "https://github.com/adaline/gateway.git",
-    "stars": 284,
-    "size": 269
+    "name": "shubhamjain/svg-spinners",
+    "clone_url": "https://github.com/shubhamjain/svg-spinners.git",
+    "stars": 62,
+    "size": 63
   },
   {
-    "name": "zkwsqx/SonyVegas-2024",
-    "clone_url": "https://github.com/zkwsqx/SonyVegas-2024.git",
-    "stars": 141,
-    "size": 401
+    "name": "hugohadfield/kalmangrad",
+    "clone_url": "https://github.com/hugohadfield/kalmangrad.git",
+    "stars": 59,
+    "size": 150
   },
   {
-    "name": "TheCoolLegendary/Adobe-Photoshop",
-    "clone_url": "https://github.com/TheCoolLegendary/Adobe-Photoshop.git",
-    "stars": 137,
-    "size": 402
+    "name": "AlirezaHadjar/react-native-fast-confetti",
+    "clone_url": "https://github.com/AlirezaHadjar/react-native-fast-confetti.git",
+    "stars": 55,
+    "size": 2415
   },
   {
-    "name": "JattPiro/m0dmenu-gta5-fr33",
-    "clone_url": "https://github.com/JattPiro/m0dmenu-gta5-fr33.git",
-    "stars": 137,
-    "size": 401
+    "name": "Bekacru/better-auth-nextjs-cf-d1-example",
+    "clone_url": "https://github.com/Bekacru/better-auth-nextjs-cf-d1-example.git",
+    "stars": 23,
+    "size": 262
   }
 ]
