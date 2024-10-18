@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-15 .. 2024-10-17)
+# Latest Repositories (2024-10-16 .. 2024-10-18)
 
-- [a7t-byte/a7t-byte](https://github.com/a7t-byte/a7t-byte) (176)
-- [yaakua/ai-outpainting-com](https://github.com/yaakua/ai-outpainting-com) (135)
-- [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) (133)
-- [shubhamjain/svg-spinners](https://github.com/shubhamjain/svg-spinners) (99)
-- [AlirezaHadjar/react-native-fast-confetti](https://github.com/AlirezaHadjar/react-native-fast-confetti) (72)
+- [yaakua/ai-outpainting-com](https://github.com/yaakua/ai-outpainting-com) (187)
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) (146)
+- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (120)
+- [JosefAlbers/whisper-turbo-mlx](https://github.com/JosefAlbers/whisper-turbo-mlx) (68)
+- [scottviteri/UniversalBackrooms](https://github.com/scottviteri/UniversalBackrooms) (46)
