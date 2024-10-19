@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-16 .. 2024-10-18)
+# Latest Repositories (2024-10-17 .. 2024-10-19)
 
-- [yaakua/ai-outpainting-com](https://github.com/yaakua/ai-outpainting-com) (187)
-- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) (146)
-- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (120)
-- [JosefAlbers/whisper-turbo-mlx](https://github.com/JosefAlbers/whisper-turbo-mlx) (68)
-- [scottviteri/UniversalBackrooms](https://github.com/scottviteri/UniversalBackrooms) (46)
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) (288)
+- [verojj/darknet-market-reviews](https://github.com/verojj/darknet-market-reviews) (244)
+- [cfahlgren1/qwen-2.5-code-interpreter](https://github.com/cfahlgren1/qwen-2.5-code-interpreter) (39)
+- [itsyebekhe/vpnfail](https://github.com/itsyebekhe/vpnfail) (24)
+- [ghostlexly/ultimate-expressjs-starter-kit](https://github.com/ghostlexly/ultimate-expressjs-starter-kit) (22)

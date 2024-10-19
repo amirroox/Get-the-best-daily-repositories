@@ -1,32 +1,32 @@
 [
   {
-    "name": "yaakua/ai-outpainting-com",
-    "clone_url": "https://github.com/yaakua/ai-outpainting-com.git",
-    "stars": 187,
-    "size": 3854
-  },
-  {
     "name": "deepseek-ai/Janus",
     "clone_url": "https://github.com/deepseek-ai/Janus.git",
-    "stars": 146,
+    "stars": 288,
     "size": 955
   },
   {
-    "name": "NiazMorshed2007/shadcn-tiptap",
-    "clone_url": "https://github.com/NiazMorshed2007/shadcn-tiptap.git",
-    "stars": 120,
-    "size": 135
+    "name": "verojj/darknet-market-reviews",
+    "clone_url": "https://github.com/verojj/darknet-market-reviews.git",
+    "stars": 244,
+    "size": 1171
   },
   {
-    "name": "JosefAlbers/whisper-turbo-mlx",
-    "clone_url": "https://github.com/JosefAlbers/whisper-turbo-mlx.git",
-    "stars": 68,
-    "size": 528
+    "name": "cfahlgren1/qwen-2.5-code-interpreter",
+    "clone_url": "https://github.com/cfahlgren1/qwen-2.5-code-interpreter.git",
+    "stars": 39,
+    "size": 535
   },
   {
-    "name": "scottviteri/UniversalBackrooms",
-    "clone_url": "https://github.com/scottviteri/UniversalBackrooms.git",
-    "stars": 46,
-    "size": 200
+    "name": "itsyebekhe/vpnfail",
+    "clone_url": "https://github.com/itsyebekhe/vpnfail.git",
+    "stars": 24,
+    "size": 94
+  },
+  {
+    "name": "ghostlexly/ultimate-expressjs-starter-kit",
+    "clone_url": "https://github.com/ghostlexly/ultimate-expressjs-starter-kit.git",
+    "stars": 22,
+    "size": 124
   }
 ]
