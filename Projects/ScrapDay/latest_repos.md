@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-17 .. 2024-10-19)
+# Latest Repositories (2024-10-18 .. 2024-10-20)
 
-- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) (288)
-- [verojj/darknet-market-reviews](https://github.com/verojj/darknet-market-reviews) (244)
-- [cfahlgren1/qwen-2.5-code-interpreter](https://github.com/cfahlgren1/qwen-2.5-code-interpreter) (39)
-- [itsyebekhe/vpnfail](https://github.com/itsyebekhe/vpnfail) (24)
-- [ghostlexly/ultimate-expressjs-starter-kit](https://github.com/ghostlexly/ultimate-expressjs-starter-kit) (22)
+- [shubhamgandhi08/m0dmenu-gta5-free](https://github.com/shubhamgandhi08/m0dmenu-gta5-free) (253)
+- [mikepostema/roblox-syn4pse-x](https://github.com/mikepostema/roblox-syn4pse-x) (193)
+- [HoaxKY/Roblox-Blox-Fruits-Script-2024](https://github.com/HoaxKY/Roblox-Blox-Fruits-Script-2024) (193)
+- [sule01u/AutorizePro](https://github.com/sule01u/AutorizePro) (23)
+- [ritiksahni/cwnd-demo](https://github.com/ritiksahni/cwnd-demo) (20)
