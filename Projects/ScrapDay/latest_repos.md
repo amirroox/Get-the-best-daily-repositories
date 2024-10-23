@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-20 .. 2024-10-22)
+# Latest Repositories (2024-10-21 .. 2024-10-23)
 
-- [FoxyCodes234/roblox-scripts-solara](https://github.com/FoxyCodes234/roblox-scripts-solara) (253)
-- [yellowrain436/h4ck-f0rtnite](https://github.com/yellowrain436/h4ck-f0rtnite) (223)
-- [x2SPETER/SonyVegas-2024](https://github.com/x2SPETER/SonyVegas-2024) (221)
-- [ScaryUsername/m0dmenu-gta5-free](https://github.com/ScaryUsername/m0dmenu-gta5-free) (221)
-- [Beluga633/minecraft-cheat2024](https://github.com/Beluga633/minecraft-cheat2024) (221)
+- [talpatakla/Nexus-Roblox](https://github.com/talpatakla/Nexus-Roblox) (183)
+- [masilos-prog/m0dmenu-gta5-free](https://github.com/masilos-prog/m0dmenu-gta5-free) (183)
+- [robziaep/h4ck-f0rtnite](https://github.com/robziaep/h4ck-f0rtnite) (183)
+- [TheGamingISLE/roblox-scripts-solara](https://github.com/TheGamingISLE/roblox-scripts-solara) (183)
+- [TwistedGalaxy10/r0blox-synapse-x-free](https://github.com/TwistedGalaxy10/r0blox-synapse-x-free) (183)
