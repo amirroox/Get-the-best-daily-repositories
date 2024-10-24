@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-21 .. 2024-10-23)
+# Latest Repositories (2024-10-22 .. 2024-10-24)
 
-- [talpatakla/Nexus-Roblox](https://github.com/talpatakla/Nexus-Roblox) (183)
-- [masilos-prog/m0dmenu-gta5-free](https://github.com/masilos-prog/m0dmenu-gta5-free) (183)
-- [robziaep/h4ck-f0rtnite](https://github.com/robziaep/h4ck-f0rtnite) (183)
-- [TheGamingISLE/roblox-scripts-solara](https://github.com/TheGamingISLE/roblox-scripts-solara) (183)
-- [TwistedGalaxy10/r0blox-synapse-x-free](https://github.com/TwistedGalaxy10/r0blox-synapse-x-free) (183)
+- [corbt/agent.exe](https://github.com/corbt/agent.exe) (750)
+- [MusashiSamaa/r0blox-synapse-x-free](https://github.com/MusashiSamaa/r0blox-synapse-x-free) (165)
+- [thefate-real/m0dmenu-gta5-free](https://github.com/thefate-real/m0dmenu-gta5-free) (165)
+- [JUMOX18/Roblox-Blox-Fruits-Script-2024](https://github.com/JUMOX18/Roblox-Blox-Fruits-Script-2024) (165)
+- [PlayingCow61105/minecraft-cheat2024](https://github.com/PlayingCow61105/minecraft-cheat2024) (165)
