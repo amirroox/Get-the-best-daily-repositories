@@ -2,8 +2,20 @@
   {
     "name": "corbt/agent.exe",
     "clone_url": "https://github.com/corbt/agent.exe.git",
-    "stars": 750,
+    "stars": 1286,
     "size": 799
+  },
+  {
+    "name": "OpacGOD12/cheat-apex-legends-download",
+    "clone_url": "https://github.com/OpacGOD12/cheat-apex-legends-download.git",
+    "stars": 218,
+    "size": 422
+  },
+  {
+    "name": "kijai/ComfyUI-MochiWrapper",
+    "clone_url": "https://github.com/kijai/ComfyUI-MochiWrapper.git",
+    "stars": 178,
+    "size": 276
   },
   {
     "name": "MusashiSamaa/r0blox-synapse-x-free",
@@ -12,20 +24,8 @@
     "size": 422
   },
   {
-    "name": "thefate-real/m0dmenu-gta5-free",
-    "clone_url": "https://github.com/thefate-real/m0dmenu-gta5-free.git",
-    "stars": 165,
-    "size": 421
-  },
-  {
     "name": "JUMOX18/Roblox-Blox-Fruits-Script-2024",
     "clone_url": "https://github.com/JUMOX18/Roblox-Blox-Fruits-Script-2024.git",
-    "stars": 165,
-    "size": 422
-  },
-  {
-    "name": "PlayingCow61105/minecraft-cheat2024",
-    "clone_url": "https://github.com/PlayingCow61105/minecraft-cheat2024.git",
     "stars": 165,
     "size": 422
   }
