@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-23 .. 2024-10-25)
+# Latest Repositories (2024-10-24 .. 2024-10-26)
 
-- [THUDM/GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) (434)
-- [soultiz/Nexus-Roblox](https://github.com/soultiz/Nexus-Roblox) (268)
-- [TheFoxBruh/Roblox-Blox-Fruits-Script-2024](https://github.com/TheFoxBruh/Roblox-Blox-Fruits-Script-2024) (267)
-- [apple/security-pcc](https://github.com/apple/security-pcc) (233)
-- [Maldev-Academy/EmbedPayloadInPng](https://github.com/Maldev-Academy/EmbedPayloadInPng) (70)
+- [KKKkK33340/minecraft-cheat2024](https://github.com/KKKkK33340/minecraft-cheat2024) (121)
+- [Bartekkk21/cheat-apex-legends-download](https://github.com/Bartekkk21/cheat-apex-legends-download) (121)
+- [Demonguy664Coder/r0blox-synapse-x-free](https://github.com/Demonguy664Coder/r0blox-synapse-x-free) (121)
+- [Deniba/h4ck-f0rtnite](https://github.com/Deniba/h4ck-f0rtnite) (121)
+- [owenrocks200/Roblox-Blox-Fruits-Script-2024](https://github.com/owenrocks200/Roblox-Blox-Fruits-Script-2024) (121)
