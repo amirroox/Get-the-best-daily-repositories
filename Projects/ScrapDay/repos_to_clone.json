@@ -1,32 +1,32 @@
 [
   {
-    "name": "us-a-ma/stake-predictor-bot",
-    "clone_url": "https://github.com/us-a-ma/stake-predictor-bot.git",
-    "stars": 50,
-    "size": 2324
-  },
-  {
     "name": "haatos/goshipit",
     "clone_url": "https://github.com/haatos/goshipit.git",
-    "stars": 30,
-    "size": 1348
-  },
-  {
-    "name": "carthage-software/fennec",
-    "clone_url": "https://github.com/carthage-software/fennec.git",
-    "stars": 29,
-    "size": 307
+    "stars": 56,
+    "size": 1357
   },
   {
     "name": "orangeduck/GenoView",
     "clone_url": "https://github.com/orangeduck/GenoView.git",
-    "stars": 19,
+    "stars": 49,
     "size": 2006
   },
   {
-    "name": "char/rainbow",
-    "clone_url": "https://github.com/char/rainbow.git",
-    "stars": 14,
-    "size": 117
+    "name": "us-a-ma/stake-predictor-bot",
+    "clone_url": "https://github.com/us-a-ma/stake-predictor-bot.git",
+    "stars": 46,
+    "size": 2324
+  },
+  {
+    "name": "carthage-software/fennec",
+    "clone_url": "https://github.com/carthage-software/fennec.git",
+    "stars": 35,
+    "size": 307
+  },
+  {
+    "name": "adler-OS/adler-os",
+    "clone_url": "https://github.com/adler-OS/adler-os.git",
+    "stars": 16,
+    "size": 759
   }
 ]
