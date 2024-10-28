@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-25 .. 2024-10-27)
+# Latest Repositories (2024-10-26 .. 2024-10-28)
 
-- [haatos/goshipit](https://github.com/haatos/goshipit) (56)
-- [orangeduck/GenoView](https://github.com/orangeduck/GenoView) (49)
-- [us-a-ma/stake-predictor-bot](https://github.com/us-a-ma/stake-predictor-bot) (46)
-- [carthage-software/fennec](https://github.com/carthage-software/fennec) (35)
-- [adler-OS/adler-os](https://github.com/adler-OS/adler-os) (16)
+- [szeiger/perfio](https://github.com/szeiger/perfio) (11)
+- [densekiss/Lynk](https://github.com/densekiss/Lynk) (11)
+- [focat69/Koralys](https://github.com/focat69/Koralys) (9)
+- [MoonforDream/MoonNet](https://github.com/MoonforDream/MoonNet) (9)
+- [alhojel/wifi_mapper](https://github.com/alhojel/wifi_mapper) (9)
