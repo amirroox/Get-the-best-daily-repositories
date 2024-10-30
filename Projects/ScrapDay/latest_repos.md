@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-27 .. 2024-10-29)
+# Latest Repositories (2024-10-28 .. 2024-10-30)
 
-- [trvckhawks/Roblox-Blox-Fruits-Script-2024](https://github.com/trvckhawks/Roblox-Blox-Fruits-Script-2024) (251)
-- [Aboodwaddah/r0blox-synapse-x-free](https://github.com/Aboodwaddah/r0blox-synapse-x-free) (141)
-- [varanofficial/SonyVegas-2024](https://github.com/varanofficial/SonyVegas-2024) (141)
-- [yekayee/roblox-scripts-solara](https://github.com/yekayee/roblox-scripts-solara) (141)
-- [grealneri/h4ck-f0rtnite](https://github.com/grealneri/h4ck-f0rtnite) (141)
+- [cinit/LibcoreSyscall](https://github.com/cinit/LibcoreSyscall) (21)
+- [reveny/Android-VBMeta-Fixer](https://github.com/reveny/Android-VBMeta-Fixer) (19)
+- [Perigord-Kleisli/activate-linux](https://github.com/Perigord-Kleisli/activate-linux) (17)
+- [devagrawal09/solid-socket](https://github.com/devagrawal09/solid-socket) (11)
+- [integer-net/magento2-sansec-watch](https://github.com/integer-net/magento2-sansec-watch) (10)
