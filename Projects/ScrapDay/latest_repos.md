@@ -1,7 +1,7 @@
-# Latest Repositories (2024-10-28 .. 2024-10-30)
+# Latest Repositories (2024-10-29 .. 2024-10-31)
 
-- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) (105)
-- [hustvl/Senna](https://github.com/hustvl/Senna) (53)
-- [Mustafa-Esoofally/llm-podcast-engine](https://github.com/Mustafa-Esoofally/llm-podcast-engine) (42)
-- [reveny/Android-VBMeta-Fixer](https://github.com/reveny/Android-VBMeta-Fixer) (34)
-- [cinit/LibcoreSyscall](https://github.com/cinit/LibcoreSyscall) (30)
+- [AIGeniusInstitute/AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action) (46)
+- [GaryOderNichts/alarmo](https://github.com/GaryOderNichts/alarmo) (41)
+- [RuoJi6/xxl-job-FLM](https://github.com/RuoJi6/xxl-job-FLM) (31)
+- [jxmorris12/cde](https://github.com/jxmorris12/cde) (31)
+- [tBox2010/tBox](https://github.com/tBox2010/tBox) (26)
