@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-04 .. 2024-11-06)
+# Latest Repositories (2024-11-05 .. 2024-11-07)
 
-- [3040250900/Adobe-Express-2024](https://github.com/3040250900/Adobe-Express-2024) (79)
-- [AshleyNatalia/Xbox-Game-Pass-Activator-Free-2024](https://github.com/AshleyNatalia/Xbox-Game-Pass-Activator-Free-2024) (79)
-- [anonimskarlis/ESET-KeyGen-2024](https://github.com/anonimskarlis/ESET-KeyGen-2024) (79)
-- [alexis7770/Al-Photoshop-2024](https://github.com/alexis7770/Al-Photoshop-2024) (79)
-- [brijeshit47/SilenceGen](https://github.com/brijeshit47/SilenceGen) (79)
+- [adamsol/GitQuill](https://github.com/adamsol/GitQuill) (60)
+- [NtDallas/KrakenMask](https://github.com/NtDallas/KrakenMask) (40)
+- [mattn/vim-usa-election-2024](https://github.com/mattn/vim-usa-election-2024) (39)
+- [andfranca/curso-cdia](https://github.com/andfranca/curso-cdia) (25)
+- [KoriIku/chatgpt-degrade-checker](https://github.com/KoriIku/chatgpt-degrade-checker) (20)
