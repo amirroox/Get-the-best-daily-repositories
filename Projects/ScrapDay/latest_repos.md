@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-05 .. 2024-11-07)
+# Latest Repositories (2024-11-06 .. 2024-11-08)
 
-- [adamsol/GitQuill](https://github.com/adamsol/GitQuill) (60)
-- [NtDallas/KrakenMask](https://github.com/NtDallas/KrakenMask) (40)
-- [mattn/vim-usa-election-2024](https://github.com/mattn/vim-usa-election-2024) (39)
-- [andfranca/curso-cdia](https://github.com/andfranca/curso-cdia) (25)
-- [KoriIku/chatgpt-degrade-checker](https://github.com/KoriIku/chatgpt-degrade-checker) (20)
+- [Rabnail-SOL/Solana-PumpFun-Bundler](https://github.com/Rabnail-SOL/Solana-PumpFun-Bundler) (28)
+- [wp-privacy/wp-api-privacy](https://github.com/wp-privacy/wp-api-privacy) (15)
+- [amoanass/pumpfun-comment-bot-for-pumpfun](https://github.com/amoanass/pumpfun-comment-bot-for-pumpfun) (15)
+- [kijai/ComfyUI-GIMM-VFI](https://github.com/kijai/ComfyUI-GIMM-VFI) (14)
+- [fractaledmind/chaotic_job](https://github.com/fractaledmind/chaotic_job) (13)
