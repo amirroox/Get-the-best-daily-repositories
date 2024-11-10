@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-07 .. 2024-11-09)
+# Latest Repositories (2024-11-08 .. 2024-11-10)
 
-- [mikevanes/home-assistant-config](https://github.com/mikevanes/home-assistant-config) (29)
-- [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) (16)
-- [pornin/rust-fn-dsa](https://github.com/pornin/rust-fn-dsa) (16)
-- [skytells-research/stock-risk-analyzer](https://github.com/skytells-research/stock-risk-analyzer) (13)
-- [erikerik116/Token-i-d-w-c-smart-contract](https://github.com/erikerik116/Token-i-d-w-c-smart-contract) (12)
+- [KellerJordan/Muon](https://github.com/KellerJordan/Muon) (43)
+- [Syntrait/splinux](https://github.com/Syntrait/splinux) (30)
+- [sharafdin/yocode](https://github.com/sharafdin/yocode) (23)
+- [Yos-X/FlamingoSank](https://github.com/Yos-X/FlamingoSank) (13)
+- [dome272/Flow-Matching](https://github.com/dome272/Flow-Matching) (10)
