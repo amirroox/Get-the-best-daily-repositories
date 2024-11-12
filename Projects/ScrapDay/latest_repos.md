@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-09 .. 2024-11-11)
+# Latest Repositories (2024-11-10 .. 2024-11-12)
 
-- [thisuxhq/SvelteDnD](https://github.com/thisuxhq/SvelteDnD) (153)
-- [todesstern1second/delta-robl0x-](https://github.com/todesstern1second/delta-robl0x-) (95)
-- [xBallistic/rob1ox-scr1pts-so1ara](https://github.com/xBallistic/rob1ox-scr1pts-so1ara) (94)
-- [Winci1/Roblox-B1ox-Fruits-Scr1pt-2024](https://github.com/Winci1/Roblox-B1ox-Fruits-Scr1pt-2024) (94)
-- [ik1vz/IDM-Activation-Script-2024](https://github.com/ik1vz/IDM-Activation-Script-2024) (90)
+- [ik1vz/IDM-Activation-Script-2024](https://github.com/ik1vz/IDM-Activation-Script-2024) (78)
+- [DevPedroL/Adobe-Express-2024](https://github.com/DevPedroL/Adobe-Express-2024) (77)
+- [KevinCorrea17/NitroDreams-2024](https://github.com/KevinCorrea17/NitroDreams-2024) (77)
+- [Krzychowskyy/PhotoDiva-Pro-free-2024](https://github.com/Krzychowskyy/PhotoDiva-Pro-free-2024) (77)
+- [Andreizl/Discord-AllinOne-Tool](https://github.com/Andreizl/Discord-AllinOne-Tool) (77)
