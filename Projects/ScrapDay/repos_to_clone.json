@@ -1,32 +1,32 @@
 [
   {
+    "name": "jackyzha0/sunlit",
+    "clone_url": "https://github.com/jackyzha0/sunlit.git",
+    "stars": 147,
+    "size": 64
+  },
+  {
+    "name": "nolly-studio/ai-chatbot-supabase",
+    "clone_url": "https://github.com/nolly-studio/ai-chatbot-supabase.git",
+    "stars": 84,
+    "size": 491
+  },
+  {
     "name": "ik1vz/IDM-Activation-Script-2024",
     "clone_url": "https://github.com/ik1vz/IDM-Activation-Script-2024.git",
-    "stars": 78,
+    "stars": 74,
     "size": 509
   },
   {
     "name": "DevPedroL/Adobe-Express-2024",
     "clone_url": "https://github.com/DevPedroL/Adobe-Express-2024.git",
-    "stars": 77,
+    "stars": 73,
     "size": 509
   },
   {
     "name": "KevinCorrea17/NitroDreams-2024",
     "clone_url": "https://github.com/KevinCorrea17/NitroDreams-2024.git",
-    "stars": 77,
+    "stars": 73,
     "size": 509
-  },
-  {
-    "name": "Krzychowskyy/PhotoDiva-Pro-free-2024",
-    "clone_url": "https://github.com/Krzychowskyy/PhotoDiva-Pro-free-2024.git",
-    "stars": 77,
-    "size": 509
-  },
-  {
-    "name": "Andreizl/Discord-AllinOne-Tool",
-    "clone_url": "https://github.com/Andreizl/Discord-AllinOne-Tool.git",
-    "stars": 77,
-    "size": 510
   }
 ]
