@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-10 .. 2024-11-12)
+# Latest Repositories (2024-11-11 .. 2024-11-13)
 
-- [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) (147)
-- [nolly-studio/ai-chatbot-supabase](https://github.com/nolly-studio/ai-chatbot-supabase) (84)
-- [ik1vz/IDM-Activation-Script-2024](https://github.com/ik1vz/IDM-Activation-Script-2024) (74)
-- [DevPedroL/Adobe-Express-2024](https://github.com/DevPedroL/Adobe-Express-2024) (73)
-- [KevinCorrea17/NitroDreams-2024](https://github.com/KevinCorrea17/NitroDreams-2024) (73)
+- [Dineshkumarmsc/GTA-5-Mod-Menu-2024](https://github.com/Dineshkumarmsc/GTA-5-Mod-Menu-2024) (179)
+- [CrystalDustt/Canva-Pro-2024](https://github.com/CrystalDustt/Canva-Pro-2024) (179)
+- [FETHUMOHAMMED/Xbox-Game-Pass-Activator-Free-2024](https://github.com/FETHUMOHAMMED/Xbox-Game-Pass-Activator-Free-2024) (179)
+- [Dyanrik/rust-hack-fr33](https://github.com/Dyanrik/rust-hack-fr33) (178)
+- [DebbyKogs/cheat-escape-from-tarkov](https://github.com/DebbyKogs/cheat-escape-from-tarkov) (178)
