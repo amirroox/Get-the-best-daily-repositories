@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-14 .. 2024-11-16)
+# Latest Repositories (2024-11-15 .. 2024-11-17)
 
-- [piyushgarg-dev/leetcode-whisper-chrome-extension](https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension) (78)
-- [TTPlanetPig/Comfyui_Object_Migration](https://github.com/TTPlanetPig/Comfyui_Object_Migration) (60)
-- [Yelab1994/Genetic-Algorithm](https://github.com/Yelab1994/Genetic-Algorithm) (47)
-- [vanhbakaa/Blum](https://github.com/vanhbakaa/Blum) (42)
-- [tabibyte/obsifetch](https://github.com/tabibyte/obsifetch) (36)
+- [zheinmuluk/Solara-Executor](https://github.com/zheinmuluk/Solara-Executor) (121)
+- [zheinmuluk/Fortnite-Cheat-External](https://github.com/zheinmuluk/Fortnite-Cheat-External) (121)
+- [zheinmuluk/Hwid-Spoof](https://github.com/zheinmuluk/Hwid-Spoof) (121)
+- [zheinmuluk/Skin-Swapper-2024](https://github.com/zheinmuluk/Skin-Swapper-2024) (121)
+- [zheinmuluk/Xeno-Executor](https://github.com/zheinmuluk/Xeno-Executor) (121)
