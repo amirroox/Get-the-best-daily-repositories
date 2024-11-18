@@ -1,7 +1,7 @@
 # Latest Repositories (2024-11-16 .. 2024-11-18)
 
-- [jwohlwend/boltz](https://github.com/jwohlwend/boltz) (263)
-- [usbohc-eDBTuwork/crypto-wallet-seed-generator](https://github.com/usbohc-eDBTuwork/crypto-wallet-seed-generator) (188)
-- [goyal9102/Seed-Generator-Phrases](https://github.com/goyal9102/Seed-Generator-Phrases) (164)
-- [Classicpgs/FL-Studio](https://github.com/Classicpgs/FL-Studio) (134)
-- [Novacode-ux/sunpump-tron-sniper-bot](https://github.com/Novacode-ux/sunpump-tron-sniper-bot) (101)
+- [jwohlwend/boltz](https://github.com/jwohlwend/boltz) (411)
+- [willyBanco/Bums-autoclicker](https://github.com/willyBanco/Bums-autoclicker) (283)
+- [tayefhimel/AutoCliker-Blum](https://github.com/tayefhimel/AutoCliker-Blum) (283)
+- [YcaroDantas1/City-Holder-autoclicker](https://github.com/YcaroDantas1/City-Holder-autoclicker) (283)
+- [daffaNazhmi/Bombie-autoclicker](https://github.com/daffaNazhmi/Bombie-autoclicker) (282)
