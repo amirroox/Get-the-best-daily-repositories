@@ -1,11 +1,5 @@
 [
   {
-    "name": "jwohlwend/boltz",
-    "clone_url": "https://github.com/jwohlwend/boltz.git",
-    "stars": 411,
-    "size": 1916
-  },
-  {
     "name": "willyBanco/Bums-autoclicker",
     "clone_url": "https://github.com/willyBanco/Bums-autoclicker.git",
     "stars": 283,
@@ -26,6 +20,12 @@
   {
     "name": "daffaNazhmi/Bombie-autoclicker",
     "clone_url": "https://github.com/daffaNazhmi/Bombie-autoclicker.git",
+    "stars": 282,
+    "size": 92
+  },
+  {
+    "name": "bondanbmk/NotPixel-autoclicker",
+    "clone_url": "https://github.com/bondanbmk/NotPixel-autoclicker.git",
     "stars": 282,
     "size": 92
   }
