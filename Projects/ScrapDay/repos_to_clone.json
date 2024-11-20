@@ -1,32 +1,32 @@
 [
   {
+    "name": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
+    "clone_url": "https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama.git",
+    "stars": 97,
+    "size": 62
+  },
+  {
     "name": "golanlevin/p5.plotSvg",
     "clone_url": "https://github.com/golanlevin/p5.plotSvg.git",
-    "stars": 27,
+    "stars": 43,
     "size": 487
   },
   {
     "name": "cognitivecomputations/chat-logger",
     "clone_url": "https://github.com/cognitivecomputations/chat-logger.git",
-    "stars": 26,
+    "stars": 28,
     "size": 636
+  },
+  {
+    "name": "DavidIglesias69/delta-executor",
+    "clone_url": "https://github.com/DavidIglesias69/delta-executor.git",
+    "stars": 24,
+    "size": 1681
   },
   {
     "name": "AdwaithSS-z/solara-executor",
     "clone_url": "https://github.com/AdwaithSS-z/solara-executor.git",
     "stars": 23,
     "size": 840
-  },
-  {
-    "name": "413095724/Deadlock-Uni",
-    "clone_url": "https://github.com/413095724/Deadlock-Uni.git",
-    "stars": 23,
-    "size": 862
-  },
-  {
-    "name": "zeim839/nes-tools",
-    "clone_url": "https://github.com/zeim839/nes-tools.git",
-    "stars": 12,
-    "size": 109
   }
 ]
