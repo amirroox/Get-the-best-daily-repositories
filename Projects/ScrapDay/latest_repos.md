@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-17 .. 2024-11-19)
+# Latest Repositories (2024-11-18 .. 2024-11-20)
 
-- [willyBanco/Bums-autoclicker](https://github.com/willyBanco/Bums-autoclicker) (283)
-- [tayefhimel/AutoCliker-Blum](https://github.com/tayefhimel/AutoCliker-Blum) (283)
-- [lobo666788/Solara-Executor](https://github.com/lobo666788/Solara-Executor) (283)
-- [YcaroDantas1/City-Holder-autoclicker](https://github.com/YcaroDantas1/City-Holder-autoclicker) (283)
-- [daffaNazhmi/Bombie-autoclicker](https://github.com/daffaNazhmi/Bombie-autoclicker) (282)
+- [golanlevin/p5.plotSvg](https://github.com/golanlevin/p5.plotSvg) (27)
+- [cognitivecomputations/chat-logger](https://github.com/cognitivecomputations/chat-logger) (26)
+- [AdwaithSS-z/solara-executor](https://github.com/AdwaithSS-z/solara-executor) (23)
+- [413095724/Deadlock-Uni](https://github.com/413095724/Deadlock-Uni) (23)
+- [zeim839/nes-tools](https://github.com/zeim839/nes-tools) (12)
