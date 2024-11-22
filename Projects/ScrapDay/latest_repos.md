@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-19 .. 2024-11-21)
+# Latest Repositories (2024-11-20 .. 2024-11-22)
 
-- [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) (768)
-- [viniken2024/spotify-free](https://github.com/viniken2024/spotify-free) (218)
-- [LegendApp/legend-list](https://github.com/LegendApp/legend-list) (179)
-- [xavia-io/xavia-ota](https://github.com/xavia-io/xavia-ota) (53)
-- [Multiprogz/Call-of-Duty-AI-Aimbot-MW2-MW3-BO6-Cold-War](https://github.com/Multiprogz/Call-of-Duty-AI-Aimbot-MW2-MW3-BO6-Cold-War) (52)
+- [Billos/Broadcastarr](https://github.com/Billos/Broadcastarr) (96)
+- [athazahrane/apex-legends-cheat-download](https://github.com/athazahrane/apex-legends-cheat-download) (92)
+- [ajonescode/Adobe-Express-2024](https://github.com/ajonescode/Adobe-Express-2024) (92)
+- [BrayanAugusto/SketchUp-Pro-free-2024](https://github.com/BrayanAugusto/SketchUp-Pro-free-2024) (92)
+- [anasbouz100/Al-Photoshop-2024](https://github.com/anasbouz100/Al-Photoshop-2024) (92)
