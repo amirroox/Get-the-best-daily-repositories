@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-21 .. 2024-11-23)
+# Latest Repositories (2024-11-22 .. 2024-11-24)
 
-- [marcop979/m0dmenu-gta5-free](https://github.com/marcop979/m0dmenu-gta5-free) (177)
-- [jackgren22/counter-str1ke-2-h4ck](https://github.com/jackgren22/counter-str1ke-2-h4ck) (171)
-- [JamiesonS/OpenSea-Bidding-Bot-2024](https://github.com/JamiesonS/OpenSea-Bidding-Bot-2024) (171)
-- [Aditya8630971911/Al-Photoshop-2024](https://github.com/Aditya8630971911/Al-Photoshop-2024) (171)
-- [Astra1x7/Adobe-Express-2024](https://github.com/Astra1x7/Adobe-Express-2024) (171)
+- [bzshhsdhdj/moonbix-auto](https://github.com/bzshhsdhdj/moonbix-auto) (59)
+- [bzshhsdhdj/Blum-Auto-Clicker-Download-2024](https://github.com/bzshhsdhdj/Blum-Auto-Clicker-Download-2024) (59)
+- [hfiref0x/WinDepends](https://github.com/hfiref0x/WinDepends) (41)
+- [Saren-Arterius/saren-gaming-monitor](https://github.com/Saren-Arterius/saren-gaming-monitor) (27)
+- [muthubharani/heart_disease_prediction_using_retinal_images](https://github.com/muthubharani/heart_disease_prediction_using_retinal_images) (25)
