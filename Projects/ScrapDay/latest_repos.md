@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-23 .. 2024-11-25)
+# Latest Repositories (2024-11-24 .. 2024-11-26)
 
-- [H54XEDD/h4ck-f0rtnite](https://github.com/H54XEDD/h4ck-f0rtnite) (332)
-- [Snehasish2011/m0dmenu-gta5-free](https://github.com/Snehasish2011/m0dmenu-gta5-free) (330)
-- [wario33rod/fortnite-hack-external](https://github.com/wario33rod/fortnite-hack-external) (159)
-- [nurmohammed840/nio](https://github.com/nurmohammed840/nio) (80)
-- [PrakashiniS/Complaint-management-system](https://github.com/PrakashiniS/Complaint-management-system) (38)
+- [s-smits/agentic-cursorrules](https://github.com/s-smits/agentic-cursorrules) (24)
+- [Clement87/Pepito-data](https://github.com/Clement87/Pepito-data) (15)
+- [Jobcrazy/Redis-WinLegacy](https://github.com/Jobcrazy/Redis-WinLegacy) (12)
+- [getpdp/Dilithium-Side-channel-Attack-and-leakage-analysis](https://github.com/getpdp/Dilithium-Side-channel-Attack-and-leakage-analysis) (12)
+- [h3curles/Pumpfun_SOLANA_SNIPER_BOT](https://github.com/h3curles/Pumpfun_SOLANA_SNIPER_BOT) (11)
