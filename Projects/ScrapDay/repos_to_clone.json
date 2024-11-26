@@ -1,32 +1,32 @@
 [
   {
-    "name": "s-smits/agentic-cursorrules",
-    "clone_url": "https://github.com/s-smits/agentic-cursorrules.git",
-    "stars": 24,
-    "size": 64
+    "name": "stalkermustang/llm-bulls-and-cows-benchmark",
+    "clone_url": "https://github.com/stalkermustang/llm-bulls-and-cows-benchmark.git",
+    "stars": 56,
+    "size": 2038
+  },
+  {
+    "name": "NauEngine/NauEditorPublic",
+    "clone_url": "https://github.com/NauEngine/NauEditorPublic.git",
+    "stars": 56,
+    "size": 3461
+  },
+  {
+    "name": "joneslloyd/bluesky-comments-chrome",
+    "clone_url": "https://github.com/joneslloyd/bluesky-comments-chrome.git",
+    "stars": 44,
+    "size": 54
+  },
+  {
+    "name": "lewandofskee/MobileMamba",
+    "clone_url": "https://github.com/lewandofskee/MobileMamba.git",
+    "stars": 21,
+    "size": 2996
   },
   {
     "name": "Clement87/Pepito-data",
     "clone_url": "https://github.com/Clement87/Pepito-data.git",
-    "stars": 15,
+    "stars": 19,
     "size": 734
-  },
-  {
-    "name": "Jobcrazy/Redis-WinLegacy",
-    "clone_url": "https://github.com/Jobcrazy/Redis-WinLegacy.git",
-    "stars": 12,
-    "size": 1758
-  },
-  {
-    "name": "getpdp/Dilithium-Side-channel-Attack-and-leakage-analysis",
-    "clone_url": "https://github.com/getpdp/Dilithium-Side-channel-Attack-and-leakage-analysis.git",
-    "stars": 12,
-    "size": 615
-  },
-  {
-    "name": "h3curles/Pumpfun_SOLANA_SNIPER_BOT",
-    "clone_url": "https://github.com/h3curles/Pumpfun_SOLANA_SNIPER_BOT.git",
-    "stars": 11,
-    "size": 333
   }
 ]
