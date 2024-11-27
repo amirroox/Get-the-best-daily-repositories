@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-24 .. 2024-11-26)
+# Latest Repositories (2024-11-25 .. 2024-11-27)
 
-- [stalkermustang/llm-bulls-and-cows-benchmark](https://github.com/stalkermustang/llm-bulls-and-cows-benchmark) (56)
-- [NauEngine/NauEditorPublic](https://github.com/NauEngine/NauEditorPublic) (56)
-- [joneslloyd/bluesky-comments-chrome](https://github.com/joneslloyd/bluesky-comments-chrome) (44)
-- [lewandofskee/MobileMamba](https://github.com/lewandofskee/MobileMamba) (21)
-- [Clement87/Pepito-data](https://github.com/Clement87/Pepito-data) (19)
+- [stalkermustang/llm-bulls-and-cows-benchmark](https://github.com/stalkermustang/llm-bulls-and-cows-benchmark) (136)
+- [bottes8117/R0blox-KRNL-Executor](https://github.com/bottes8117/R0blox-KRNL-Executor) (45)
+- [bethovenblond/R0blox-Delta-executor](https://github.com/bethovenblond/R0blox-Delta-executor) (45)
+- [bre7nicklost/R0blox-Nexus-Executor](https://github.com/bre7nicklost/R0blox-Nexus-Executor) (44)
+- [brom582/r0b10x-Synapse-X](https://github.com/brom582/r0b10x-Synapse-X) (43)
