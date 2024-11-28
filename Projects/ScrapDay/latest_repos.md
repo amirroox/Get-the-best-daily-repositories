@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-25 .. 2024-11-27)
+# Latest Repositories (2024-11-26 .. 2024-11-28)
 
-- [stalkermustang/llm-bulls-and-cows-benchmark](https://github.com/stalkermustang/llm-bulls-and-cows-benchmark) (160)
-- [bottes8117/R0blox-KRNL-Executor](https://github.com/bottes8117/R0blox-KRNL-Executor) (45)
-- [bethovenblond/R0blox-Delta-executor](https://github.com/bethovenblond/R0blox-Delta-executor) (45)
-- [bre7nicklost/R0blox-Nexus-Executor](https://github.com/bre7nicklost/R0blox-Nexus-Executor) (44)
-- [brom582/r0b10x-Synapse-X](https://github.com/brom582/r0b10x-Synapse-X) (43)
+- [akazwz/extract](https://github.com/akazwz/extract) (56)
+- [Octoberfest7/Enumprotections_BOF](https://github.com/Octoberfest7/Enumprotections_BOF) (43)
+- [hkirat/bolt.newer](https://github.com/hkirat/bolt.newer) (34)
+- [antfu/refined-github-last-read](https://github.com/antfu/refined-github-last-read) (26)
+- [51deep/ParkingSpaceManagementSystem](https://github.com/51deep/ParkingSpaceManagementSystem) (20)
