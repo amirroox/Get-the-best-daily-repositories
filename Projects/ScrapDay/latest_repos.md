@@ -1,7 +1,7 @@
 # Latest Repositories (2024-11-27 .. 2024-11-29)
 
-- [nvpro-samples/vk_minimal_latest](https://github.com/nvpro-samples/vk_minimal_latest) (40)
-- [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) (36)
-- [kavin222004/Movie-Ticket-booking](https://github.com/kavin222004/Movie-Ticket-booking) (22)
-- [kavin222004/garbage-management-system](https://github.com/kavin222004/garbage-management-system) (22)
-- [kavin222004/Smart-home-system](https://github.com/kavin222004/Smart-home-system) (22)
+- [nvpro-samples/vk_minimal_latest](https://github.com/nvpro-samples/vk_minimal_latest) (69)
+- [lezvie4794/Nexus-executor-r0b1ox](https://github.com/lezvie4794/Nexus-executor-r0b1ox) (43)
+- [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) (43)
+- [lattex98swear/KRNL-executor-r0b1ox](https://github.com/lattex98swear/KRNL-executor-r0b1ox) (43)
+- [lindis6575/Delta-executor-r0b1ox](https://github.com/lindis6575/Delta-executor-r0b1ox) (43)
