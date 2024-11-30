@@ -1,32 +1,32 @@
 [
   {
-    "name": "nvpro-samples/vk_minimal_latest",
-    "clone_url": "https://github.com/nvpro-samples/vk_minimal_latest.git",
-    "stars": 69,
-    "size": 832
+    "name": "asseph/pumpfun-smart-contract-solana",
+    "clone_url": "https://github.com/asseph/pumpfun-smart-contract-solana.git",
+    "stars": 139,
+    "size": 148
   },
   {
-    "name": "lezvie4794/Nexus-executor-r0b1ox",
-    "clone_url": "https://github.com/lezvie4794/Nexus-executor-r0b1ox.git",
-    "stars": 43,
-    "size": 588
+    "name": "virattt/ai-hedge-fund",
+    "clone_url": "https://github.com/virattt/ai-hedge-fund.git",
+    "stars": 55,
+    "size": 135
   },
   {
-    "name": "bestK/cursor-fake-machine",
-    "clone_url": "https://github.com/bestK/cursor-fake-machine.git",
-    "stars": 43,
-    "size": 350
+    "name": "antfu/markdown-it-async",
+    "clone_url": "https://github.com/antfu/markdown-it-async.git",
+    "stars": 29,
+    "size": 96
   },
   {
-    "name": "lattex98swear/KRNL-executor-r0b1ox",
-    "clone_url": "https://github.com/lattex98swear/KRNL-executor-r0b1ox.git",
-    "stars": 43,
-    "size": 588
+    "name": "michaelshimeles/react-local-first-hono",
+    "clone_url": "https://github.com/michaelshimeles/react-local-first-hono.git",
+    "stars": 14,
+    "size": 296
   },
   {
-    "name": "lindis6575/Delta-executor-r0b1ox",
-    "clone_url": "https://github.com/lindis6575/Delta-executor-r0b1ox.git",
-    "stars": 43,
-    "size": 588
+    "name": "Flynsarmy/gd-procgen-arcana-addon",
+    "clone_url": "https://github.com/Flynsarmy/gd-procgen-arcana-addon.git",
+    "stars": 12,
+    "size": 242
   }
 ]

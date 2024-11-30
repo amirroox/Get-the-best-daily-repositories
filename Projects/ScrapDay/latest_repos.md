@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-27 .. 2024-11-29)
+# Latest Repositories (2024-11-28 .. 2024-11-30)
 
-- [nvpro-samples/vk_minimal_latest](https://github.com/nvpro-samples/vk_minimal_latest) (69)
-- [lezvie4794/Nexus-executor-r0b1ox](https://github.com/lezvie4794/Nexus-executor-r0b1ox) (43)
-- [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) (43)
-- [lattex98swear/KRNL-executor-r0b1ox](https://github.com/lattex98swear/KRNL-executor-r0b1ox) (43)
-- [lindis6575/Delta-executor-r0b1ox](https://github.com/lindis6575/Delta-executor-r0b1ox) (43)
+- [asseph/pumpfun-smart-contract-solana](https://github.com/asseph/pumpfun-smart-contract-solana) (139)
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) (55)
+- [antfu/markdown-it-async](https://github.com/antfu/markdown-it-async) (29)
+- [michaelshimeles/react-local-first-hono](https://github.com/michaelshimeles/react-local-first-hono) (14)
+- [Flynsarmy/gd-procgen-arcana-addon](https://github.com/Flynsarmy/gd-procgen-arcana-addon) (12)
