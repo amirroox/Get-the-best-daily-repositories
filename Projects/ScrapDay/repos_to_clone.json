@@ -2,31 +2,31 @@
   {
     "name": "asseph/pumpfun-smart-contract-solana",
     "clone_url": "https://github.com/asseph/pumpfun-smart-contract-solana.git",
-    "stars": 139,
+    "stars": 179,
     "size": 148
   },
   {
     "name": "virattt/ai-hedge-fund",
     "clone_url": "https://github.com/virattt/ai-hedge-fund.git",
-    "stars": 55,
+    "stars": 137,
     "size": 135
+  },
+  {
+    "name": "punkpeye/awesome-mcp-servers",
+    "clone_url": "https://github.com/punkpeye/awesome-mcp-servers.git",
+    "stars": 95,
+    "size": 56
+  },
+  {
+    "name": "NullM3/Roblox-Blox-Fruits-Script-2024",
+    "clone_url": "https://github.com/NullM3/Roblox-Blox-Fruits-Script-2024.git",
+    "stars": 59,
+    "size": 663
   },
   {
     "name": "antfu/markdown-it-async",
     "clone_url": "https://github.com/antfu/markdown-it-async.git",
-    "stars": 29,
-    "size": 96
-  },
-  {
-    "name": "michaelshimeles/react-local-first-hono",
-    "clone_url": "https://github.com/michaelshimeles/react-local-first-hono.git",
-    "stars": 14,
-    "size": 296
-  },
-  {
-    "name": "Flynsarmy/gd-procgen-arcana-addon",
-    "clone_url": "https://github.com/Flynsarmy/gd-procgen-arcana-addon.git",
-    "stars": 12,
-    "size": 242
+    "stars": 37,
+    "size": 99
   }
 ]
