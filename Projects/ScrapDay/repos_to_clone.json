@@ -1,32 +1,32 @@
 [
   {
-    "name": "asseph/pumpfun-smart-contract-solana",
-    "clone_url": "https://github.com/asseph/pumpfun-smart-contract-solana.git",
-    "stars": 179,
-    "size": 148
-  },
-  {
-    "name": "virattt/ai-hedge-fund",
-    "clone_url": "https://github.com/virattt/ai-hedge-fund.git",
-    "stars": 137,
-    "size": 135
-  },
-  {
     "name": "punkpeye/awesome-mcp-servers",
     "clone_url": "https://github.com/punkpeye/awesome-mcp-servers.git",
-    "stars": 95,
-    "size": 56
+    "stars": 253,
+    "size": 96
   },
   {
-    "name": "NullM3/Roblox-Blox-Fruits-Script-2024",
-    "clone_url": "https://github.com/NullM3/Roblox-Blox-Fruits-Script-2024.git",
-    "stars": 59,
-    "size": 663
+    "name": "SOLPumpFunBot/LATEST-Solana-Pump-Fun-Sniper-Trading-Bot",
+    "clone_url": "https://github.com/SOLPumpFunBot/LATEST-Solana-Pump-Fun-Sniper-Trading-Bot.git",
+    "stars": 154,
+    "size": 637
   },
   {
-    "name": "antfu/markdown-it-async",
-    "clone_url": "https://github.com/antfu/markdown-it-async.git",
-    "stars": 37,
-    "size": 99
+    "name": "jlowin/fastmcp",
+    "clone_url": "https://github.com/jlowin/fastmcp.git",
+    "stars": 69,
+    "size": 893
+  },
+  {
+    "name": "ivanfioravanti/prompt-eng-ollama-interactive-tutorial",
+    "clone_url": "https://github.com/ivanfioravanti/prompt-eng-ollama-interactive-tutorial.git",
+    "stars": 49,
+    "size": 117
+  },
+  {
+    "name": "jjleng/copilot-more",
+    "clone_url": "https://github.com/jjleng/copilot-more.git",
+    "stars": 32,
+    "size": 89
   }
 ]
