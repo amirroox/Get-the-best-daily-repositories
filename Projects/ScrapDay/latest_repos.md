@@ -1,7 +1,7 @@
-# Latest Repositories (2024-11-30 .. 2024-12-02)
+# Latest Repositories (2024-12-01 .. 2024-12-03)
 
-- [TechWezTheMan/Discord-AllinOne-Tool](https://github.com/TechWezTheMan/Discord-AllinOne-Tool) (103)
-- [SIPWOOCD/counter-str1ke-2-h4ck](https://github.com/SIPWOOCD/counter-str1ke-2-h4ck) (103)
-- [Magercat/Al-Photoshop-2024](https://github.com/Magercat/Al-Photoshop-2024) (103)
-- [ThePiCoder/FL-Studio](https://github.com/ThePiCoder/FL-Studio) (102)
-- [UNDERBOSSDS/ESET-KeyGen-2024](https://github.com/UNDERBOSSDS/ESET-KeyGen-2024) (102)
+- [liltjay1242/counter-str1ke-2-h4ck](https://github.com/liltjay1242/counter-str1ke-2-h4ck) (171)
+- [PhoenixMooda/FL-Studio](https://github.com/PhoenixMooda/FL-Studio) (171)
+- [bomboclatinafrica/Al-Photoshop-2024](https://github.com/bomboclatinafrica/Al-Photoshop-2024) (171)
+- [yandawankk/Roblox-Blox-Fruits-Script-2024](https://github.com/yandawankk/Roblox-Blox-Fruits-Script-2024) (171)
+- [AbyssalJake/Dayz-Cheat-H4ck-A1mb0t](https://github.com/AbyssalJake/Dayz-Cheat-H4ck-A1mb0t) (166)
