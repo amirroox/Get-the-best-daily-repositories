@@ -1,7 +1,7 @@
 # Latest Repositories (2024-12-01 .. 2024-12-03)
 
-- [liltjay1242/counter-str1ke-2-h4ck](https://github.com/liltjay1242/counter-str1ke-2-h4ck) (171)
-- [PhoenixMooda/FL-Studio](https://github.com/PhoenixMooda/FL-Studio) (171)
-- [bomboclatinafrica/Al-Photoshop-2024](https://github.com/bomboclatinafrica/Al-Photoshop-2024) (171)
-- [yandawankk/Roblox-Blox-Fruits-Script-2024](https://github.com/yandawankk/Roblox-Blox-Fruits-Script-2024) (171)
-- [AbyssalJake/Dayz-Cheat-H4ck-A1mb0t](https://github.com/AbyssalJake/Dayz-Cheat-H4ck-A1mb0t) (166)
+- [zinc1234596/multiple-store-stripe-dashboard](https://github.com/zinc1234596/multiple-store-stripe-dashboard) (36)
+- [akile-network/akile_monitor_fe](https://github.com/akile-network/akile_monitor_fe) (29)
+- [sasa1977/soul_of_erlang_and_elixir](https://github.com/sasa1977/soul_of_erlang_and_elixir) (28)
+- [Arieswoon/Notes](https://github.com/Arieswoon/Notes) (21)
+- [khorvie/Fisch-Autofish-Macro](https://github.com/khorvie/Fisch-Autofish-Macro) (21)
