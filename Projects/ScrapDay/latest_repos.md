@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-01 .. 2024-12-03)
+# Latest Repositories (2024-12-02 .. 2024-12-04)
 
-- [zinc1234596/multiple-store-stripe-dashboard](https://github.com/zinc1234596/multiple-store-stripe-dashboard) (36)
-- [akile-network/akile_monitor_fe](https://github.com/akile-network/akile_monitor_fe) (29)
-- [sasa1977/soul_of_erlang_and_elixir](https://github.com/sasa1977/soul_of_erlang_and_elixir) (28)
-- [Arieswoon/Notes](https://github.com/Arieswoon/Notes) (21)
-- [khorvie/Fisch-Autofish-Macro](https://github.com/khorvie/Fisch-Autofish-Macro) (21)
+- [XxLordxXx/Adobe-Express-2024](https://github.com/XxLordxXx/Adobe-Express-2024) (203)
+- [ArdaKundurayapan/Al-Photoshop-2024](https://github.com/ArdaKundurayapan/Al-Photoshop-2024) (199)
+- [daveolio/counter-str1ke-2-h4ck](https://github.com/daveolio/counter-str1ke-2-h4ck) (198)
+- [anthonnyjohn/hack-apex-1egend](https://github.com/anthonnyjohn/hack-apex-1egend) (198)
+- [shadowstrike2/FL-Studio](https://github.com/shadowstrike2/FL-Studio) (190)
