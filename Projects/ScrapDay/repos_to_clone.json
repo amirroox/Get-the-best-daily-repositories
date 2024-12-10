@@ -2,31 +2,31 @@
   {
     "name": "persys-ai/persys",
     "clone_url": "https://github.com/persys-ai/persys.git",
-    "stars": 70,
+    "stars": 80,
     "size": 2055
+  },
+  {
+    "name": "QwenLM/ProcessBench",
+    "clone_url": "https://github.com/QwenLM/ProcessBench.git",
+    "stars": 33,
+    "size": 3278
+  },
+  {
+    "name": "imxtx/awesome-controllabe-speech-synthesis",
+    "clone_url": "https://github.com/imxtx/awesome-controllabe-speech-synthesis.git",
+    "stars": 23,
+    "size": 1305
   },
   {
     "name": "nuance-dev/uno",
     "clone_url": "https://github.com/nuance-dev/uno.git",
-    "stars": 16,
+    "stars": 19,
     "size": 1538
   },
   {
-    "name": "chujiezheng/ProcessBench",
-    "clone_url": "https://github.com/chujiezheng/ProcessBench.git",
-    "stars": 12,
-    "size": 1257
-  },
-  {
-    "name": "0x7eTeam/macbox",
-    "clone_url": "https://github.com/0x7eTeam/macbox.git",
-    "stars": 9,
-    "size": 654
-  },
-  {
-    "name": "TalentdOrg/the-great-hash-remover-amazon",
-    "clone_url": "https://github.com/TalentdOrg/the-great-hash-remover-amazon.git",
-    "stars": 8,
-    "size": 109
+    "name": "carx7s/craxsrat",
+    "clone_url": "https://github.com/carx7s/craxsrat.git",
+    "stars": 15,
+    "size": 351
   }
 ]
