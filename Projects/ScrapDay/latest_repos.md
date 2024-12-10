@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-07 .. 2024-12-09)
+# Latest Repositories (2024-12-08 .. 2024-12-10)
 
-- [USERNAME999079/Adobe-Acrobat-Pro-2024](https://github.com/USERNAME999079/Adobe-Acrobat-Pro-2024) (370)
-- [Oswald-123/Al-Photoshop-2024](https://github.com/Oswald-123/Al-Photoshop-2024) (368)
-- [LuisEnriqueRomoBenitez/AquaDiscord](https://github.com/LuisEnriqueRomoBenitez/AquaDiscord) (368)
-- [juankak4/BrtWallet](https://github.com/juankak4/BrtWallet) (368)
-- [Joeyka/apex-legends-cheat-download](https://github.com/Joeyka/apex-legends-cheat-download) (368)
+- [persys-ai/persys](https://github.com/persys-ai/persys) (70)
+- [nuance-dev/uno](https://github.com/nuance-dev/uno) (16)
+- [chujiezheng/ProcessBench](https://github.com/chujiezheng/ProcessBench) (12)
+- [0x7eTeam/macbox](https://github.com/0x7eTeam/macbox) (9)
+- [TalentdOrg/the-great-hash-remover-amazon](https://github.com/TalentdOrg/the-great-hash-remover-amazon) (8)
