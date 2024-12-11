@@ -1,32 +1,32 @@
 [
   {
-    "name": "persys-ai/persys",
-    "clone_url": "https://github.com/persys-ai/persys.git",
-    "stars": 80,
-    "size": 2055
+    "name": "ChenDarYen/NitroFusion",
+    "clone_url": "https://github.com/ChenDarYen/NitroFusion.git",
+    "stars": 61,
+    "size": 1711
   },
   {
-    "name": "QwenLM/ProcessBench",
-    "clone_url": "https://github.com/QwenLM/ProcessBench.git",
-    "stars": 33,
-    "size": 3278
+    "name": "better-auth/utils",
+    "clone_url": "https://github.com/better-auth/utils.git",
+    "stars": 28,
+    "size": 113
   },
   {
-    "name": "imxtx/awesome-controllabe-speech-synthesis",
-    "clone_url": "https://github.com/imxtx/awesome-controllabe-speech-synthesis.git",
-    "stars": 23,
-    "size": 1305
+    "name": "kijai/ComfyUI-MMAudio",
+    "clone_url": "https://github.com/kijai/ComfyUI-MMAudio.git",
+    "stars": 18,
+    "size": 101
   },
   {
-    "name": "nuance-dev/uno",
-    "clone_url": "https://github.com/nuance-dev/uno.git",
-    "stars": 19,
-    "size": 1538
+    "name": "if-ai/ComfyUI-IF_MemoAvatar",
+    "clone_url": "https://github.com/if-ai/ComfyUI-IF_MemoAvatar.git",
+    "stars": 16,
+    "size": 4976
   },
   {
-    "name": "carx7s/craxsrat",
-    "clone_url": "https://github.com/carx7s/craxsrat.git",
+    "name": "dylski/PaperPiAI",
+    "clone_url": "https://github.com/dylski/PaperPiAI.git",
     "stars": 15,
-    "size": 351
+    "size": 1633
   }
 ]
