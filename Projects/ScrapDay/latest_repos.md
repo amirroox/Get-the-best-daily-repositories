@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-11 .. 2024-12-13)
+# Latest Repositories (2024-12-12 .. 2024-12-14)
 
-- [tiki-boy59/fortnite-hack-external](https://github.com/tiki-boy59/fortnite-hack-external) (347)
-- [go44074/Al-Photoshop-2024](https://github.com/go44074/Al-Photoshop-2024) (302)
-- [cho000code/N1tr0Dreams-2024](https://github.com/cho000code/N1tr0Dreams-2024) (302)
-- [Marcelofirez/hack-apex-1egend](https://github.com/Marcelofirez/hack-apex-1egend) (302)
-- [ammar12122111/Ex1tlag-Free-2024](https://github.com/ammar12122111/Ex1tlag-Free-2024) (302)
+- [vlasenko1853/roblox-script](https://github.com/vlasenko1853/roblox-script) (325)
+- [go44074/Al-Photoshop-2024](https://github.com/go44074/Al-Photoshop-2024) (51)
+- [jesto-tech/PhotoDiva-Pro-free-2024](https://github.com/jesto-tech/PhotoDiva-Pro-free-2024) (51)
+- [rakesh531126/IDM-Activation-Script-2024](https://github.com/rakesh531126/IDM-Activation-Script-2024) (51)
+- [tajinderyt/Valorant-H4ck](https://github.com/tajinderyt/Valorant-H4ck) (50)
