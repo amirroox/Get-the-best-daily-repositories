@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-14 .. 2024-12-16)
+# Latest Repositories (2024-12-15 .. 2024-12-17)
 
-- [thewh1teagle/mc](https://github.com/thewh1teagle/mc) (43)
-- [addyosmani/squish](https://github.com/addyosmani/squish) (31)
-- [chrischtel/nexlog](https://github.com/chrischtel/nexlog) (15)
-- [Serega25511s/Arma-Reforger-API-Emulator](https://github.com/Serega25511s/Arma-Reforger-API-Emulator) (13)
-- [liquidsquid1/catppuccin-lb](https://github.com/liquidsquid1/catppuccin-lb) (12)
+- [tuqagigusiqa/roblox-script](https://github.com/tuqagigusiqa/roblox-script) (339)
+- [tigay1223scar/fortnite-hack-external](https://github.com/tigay1223scar/fortnite-hack-external) (331)
+- [Sfupu/Solana-Pump-Fun-Sniper-Bot](https://github.com/Sfupu/Solana-Pump-Fun-Sniper-Bot) (50)
+- [Zlkcyber/hiveraBot](https://github.com/Zlkcyber/hiveraBot) (14)
+- [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) (12)
