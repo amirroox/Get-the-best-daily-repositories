@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-15 .. 2024-12-17)
+# Latest Repositories (2024-12-16 .. 2024-12-18)
 
-- [tigay1223scar/fortnite-hack-external](https://github.com/tigay1223scar/fortnite-hack-external) (347)
-- [Sfupu/Solana-Pump-Fun-Sniper-Bot](https://github.com/Sfupu/Solana-Pump-Fun-Sniper-Bot) (80)
-- [tuqagigusiqa/roblox-script](https://github.com/tuqagigusiqa/roblox-script) (70)
-- [0-RTT/JSimages](https://github.com/0-RTT/JSimages) (46)
-- [ScottishFold007/TTSAudioNormalizer](https://github.com/ScottishFold007/TTSAudioNormalizer) (39)
+- [Yorkian/knock](https://github.com/Yorkian/knock) (51)
+- [ScottishFold007/TTSAudioNormalizer](https://github.com/ScottishFold007/TTSAudioNormalizer) (50)
+- [pwardle/ReflectiveLoader](https://github.com/pwardle/ReflectiveLoader) (24)
+- [vaibruce/Image_Recognition_Using_CNN_In_Verilog](https://github.com/vaibruce/Image_Recognition_Using_CNN_In_Verilog) (22)
+- [Ucekay/nitro-palette](https://github.com/Ucekay/nitro-palette) (19)
