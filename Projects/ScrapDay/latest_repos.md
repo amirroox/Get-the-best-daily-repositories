@@ -1,7 +1,7 @@
 # Latest Repositories (2024-12-16 .. 2024-12-18)
 
-- [Yorkian/knock](https://github.com/Yorkian/knock) (51)
-- [ScottishFold007/TTSAudioNormalizer](https://github.com/ScottishFold007/TTSAudioNormalizer) (50)
-- [pwardle/ReflectiveLoader](https://github.com/pwardle/ReflectiveLoader) (24)
-- [vaibruce/Image_Recognition_Using_CNN_In_Verilog](https://github.com/vaibruce/Image_Recognition_Using_CNN_In_Verilog) (22)
-- [Ucekay/nitro-palette](https://github.com/Ucekay/nitro-palette) (19)
+- [moonbitlang/moonbit-compiler](https://github.com/moonbitlang/moonbit-compiler) (124)
+- [Yorkian/knock](https://github.com/Yorkian/knock) (70)
+- [ScottishFold007/TTSAudioNormalizer](https://github.com/ScottishFold007/TTSAudioNormalizer) (58)
+- [mfat/systemd-pilot](https://github.com/mfat/systemd-pilot) (56)
+- [StartHua/Comfyui_leffa](https://github.com/StartHua/Comfyui_leffa) (40)

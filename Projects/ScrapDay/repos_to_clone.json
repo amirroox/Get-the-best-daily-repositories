@@ -1,32 +1,32 @@
 [
   {
+    "name": "moonbitlang/moonbit-compiler",
+    "clone_url": "https://github.com/moonbitlang/moonbit-compiler.git",
+    "stars": 124,
+    "size": 1020
+  },
+  {
     "name": "Yorkian/knock",
     "clone_url": "https://github.com/Yorkian/knock.git",
-    "stars": 51,
-    "size": 2782
+    "stars": 70,
+    "size": 3818
   },
   {
     "name": "ScottishFold007/TTSAudioNormalizer",
     "clone_url": "https://github.com/ScottishFold007/TTSAudioNormalizer.git",
-    "stars": 50,
+    "stars": 58,
     "size": 4532
   },
   {
-    "name": "pwardle/ReflectiveLoader",
-    "clone_url": "https://github.com/pwardle/ReflectiveLoader.git",
-    "stars": 24,
-    "size": 377
+    "name": "mfat/systemd-pilot",
+    "clone_url": "https://github.com/mfat/systemd-pilot.git",
+    "stars": 56,
+    "size": 81
   },
   {
-    "name": "vaibruce/Image_Recognition_Using_CNN_In_Verilog",
-    "clone_url": "https://github.com/vaibruce/Image_Recognition_Using_CNN_In_Verilog.git",
-    "stars": 22,
-    "size": 283
-  },
-  {
-    "name": "Ucekay/nitro-palette",
-    "clone_url": "https://github.com/Ucekay/nitro-palette.git",
-    "stars": 19,
-    "size": 448
+    "name": "StartHua/Comfyui_leffa",
+    "clone_url": "https://github.com/StartHua/Comfyui_leffa.git",
+    "stars": 40,
+    "size": 1803
   }
 ]
