@@ -1,32 +1,32 @@
 [
   {
-    "name": "AkihikoKurosaki/SilenceGen",
-    "clone_url": "https://github.com/AkihikoKurosaki/SilenceGen.git",
-    "stars": 382,
-    "size": 1601
-  },
-  {
     "name": "moonbitlang/moonbit-compiler",
     "clone_url": "https://github.com/moonbitlang/moonbit-compiler.git",
-    "stars": 207,
+    "stars": 264,
     "size": 1020
-  },
-  {
-    "name": "thalyfer96/spoofer-riot",
-    "clone_url": "https://github.com/thalyfer96/spoofer-riot.git",
-    "stars": 107,
-    "size": 77
   },
   {
     "name": "StartHua/Comfyui_leffa",
     "clone_url": "https://github.com/StartHua/Comfyui_leffa.git",
-    "stars": 45,
+    "stars": 50,
     "size": 1803
+  },
+  {
+    "name": "RafalWilinski/aws-mcp",
+    "clone_url": "https://github.com/RafalWilinski/aws-mcp.git",
+    "stars": 35,
+    "size": 2140
+  },
+  {
+    "name": "leochen-g/dify-schedule",
+    "clone_url": "https://github.com/leochen-g/dify-schedule.git",
+    "stars": 32,
+    "size": 438
   },
   {
     "name": "RUC-NLPIR/OmniEval",
     "clone_url": "https://github.com/RUC-NLPIR/OmniEval.git",
-    "stars": 26,
+    "stars": 31,
     "size": 1232
   }
 ]

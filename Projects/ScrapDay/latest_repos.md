@@ -1,7 +1,7 @@
 # Latest Repositories (2024-12-17 .. 2024-12-19)
 
-- [AkihikoKurosaki/SilenceGen](https://github.com/AkihikoKurosaki/SilenceGen) (382)
-- [moonbitlang/moonbit-compiler](https://github.com/moonbitlang/moonbit-compiler) (207)
-- [thalyfer96/spoofer-riot](https://github.com/thalyfer96/spoofer-riot) (107)
-- [StartHua/Comfyui_leffa](https://github.com/StartHua/Comfyui_leffa) (45)
-- [RUC-NLPIR/OmniEval](https://github.com/RUC-NLPIR/OmniEval) (26)
+- [moonbitlang/moonbit-compiler](https://github.com/moonbitlang/moonbit-compiler) (264)
+- [StartHua/Comfyui_leffa](https://github.com/StartHua/Comfyui_leffa) (50)
+- [RafalWilinski/aws-mcp](https://github.com/RafalWilinski/aws-mcp) (35)
+- [leochen-g/dify-schedule](https://github.com/leochen-g/dify-schedule) (32)
+- [RUC-NLPIR/OmniEval](https://github.com/RUC-NLPIR/OmniEval) (31)
