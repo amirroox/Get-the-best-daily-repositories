@@ -1,32 +1,32 @@
 [
   {
+    "name": "AkihikoKurosaki/SilenceGen",
+    "clone_url": "https://github.com/AkihikoKurosaki/SilenceGen.git",
+    "stars": 382,
+    "size": 1601
+  },
+  {
     "name": "moonbitlang/moonbit-compiler",
     "clone_url": "https://github.com/moonbitlang/moonbit-compiler.git",
-    "stars": 124,
+    "stars": 207,
     "size": 1020
   },
   {
-    "name": "Yorkian/knock",
-    "clone_url": "https://github.com/Yorkian/knock.git",
-    "stars": 70,
-    "size": 3818
-  },
-  {
-    "name": "ScottishFold007/TTSAudioNormalizer",
-    "clone_url": "https://github.com/ScottishFold007/TTSAudioNormalizer.git",
-    "stars": 58,
-    "size": 4532
-  },
-  {
-    "name": "mfat/systemd-pilot",
-    "clone_url": "https://github.com/mfat/systemd-pilot.git",
-    "stars": 56,
-    "size": 81
+    "name": "thalyfer96/spoofer-riot",
+    "clone_url": "https://github.com/thalyfer96/spoofer-riot.git",
+    "stars": 107,
+    "size": 77
   },
   {
     "name": "StartHua/Comfyui_leffa",
     "clone_url": "https://github.com/StartHua/Comfyui_leffa.git",
-    "stars": 40,
+    "stars": 45,
     "size": 1803
+  },
+  {
+    "name": "RUC-NLPIR/OmniEval",
+    "clone_url": "https://github.com/RUC-NLPIR/OmniEval.git",
+    "stars": 26,
+    "size": 1232
   }
 ]
