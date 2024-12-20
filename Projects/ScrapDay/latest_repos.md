@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-17 .. 2024-12-19)
+# Latest Repositories (2024-12-18 .. 2024-12-20)
 
-- [moonbitlang/moonbit-compiler](https://github.com/moonbitlang/moonbit-compiler) (264)
-- [StartHua/Comfyui_leffa](https://github.com/StartHua/Comfyui_leffa) (50)
-- [RafalWilinski/aws-mcp](https://github.com/RafalWilinski/aws-mcp) (35)
-- [leochen-g/dify-schedule](https://github.com/leochen-g/dify-schedule) (32)
-- [RUC-NLPIR/OmniEval](https://github.com/RUC-NLPIR/OmniEval) (31)
+- [youtubeon/Nexus-Rob1ox](https://github.com/youtubeon/Nexus-Rob1ox) (265)
+- [FeehAlvesbr/Dayz-Cheat-H4ck-A1mbot](https://github.com/FeehAlvesbr/Dayz-Cheat-H4ck-A1mbot) (265)
+- [betalordarras1712/hack-apex-1egend](https://github.com/betalordarras1712/hack-apex-1egend) (265)
+- [Linomar-Leer/Spotify-Premium-for-free-2024](https://github.com/Linomar-Leer/Spotify-Premium-for-free-2024) (264)
+- [wendellzinho/Roblox-Blox-Fruits-Script-2024](https://github.com/wendellzinho/Roblox-Blox-Fruits-Script-2024) (264)
