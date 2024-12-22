@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-19 .. 2024-12-21)
+# Latest Repositories (2024-12-20 .. 2024-12-22)
 
-- [leverimmy/THU-Annual-Eat](https://github.com/leverimmy/THU-Annual-Eat) (267)
-- [lvwzhen/medicine](https://github.com/lvwzhen/medicine) (201)
-- [tatis23na/roblox-script](https://github.com/tatis23na/roblox-script) (190)
-- [vgupKDpipkdia/fortnite-hack-external](https://github.com/vgupKDpipkdia/fortnite-hack-external) (110)
-- [vivekbs555tai/spoofer-riot](https://github.com/vivekbs555tai/spoofer-riot) (109)
+- [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) (104)
+- [wgpsec/cloudsword](https://github.com/wgpsec/cloudsword) (92)
+- [yazilimacademy/abp-raffle-app](https://github.com/yazilimacademy/abp-raffle-app) (27)
+- [cenab/MSTO](https://github.com/cenab/MSTO) (24)
+- [ucinjquyn3/inmad-evfldev](https://github.com/ucinjquyn3/inmad-evfldev) (14)
