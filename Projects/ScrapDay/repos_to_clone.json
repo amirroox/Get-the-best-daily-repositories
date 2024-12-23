@@ -1,32 +1,32 @@
 [
   {
-    "name": "wgpsec/cloudsword",
-    "clone_url": "https://github.com/wgpsec/cloudsword.git",
-    "stars": 132,
-    "size": 1676
+    "name": "nesaorg/Equivariant-Encryption-for-AI",
+    "clone_url": "https://github.com/nesaorg/Equivariant-Encryption-for-AI.git",
+    "stars": 15,
+    "size": 185
   },
   {
-    "name": "fabriziosalmi/patterns",
-    "clone_url": "https://github.com/fabriziosalmi/patterns.git",
-    "stars": 128,
-    "size": 209
+    "name": "jsecu/ModTask",
+    "clone_url": "https://github.com/jsecu/ModTask.git",
+    "stars": 13,
+    "size": 2791
   },
   {
-    "name": "cenab/MSTO",
-    "clone_url": "https://github.com/cenab/MSTO.git",
-    "stars": 41,
+    "name": "Tinkoprof/WurstPlusThree-Ported",
+    "clone_url": "https://github.com/Tinkoprof/WurstPlusThree-Ported.git",
+    "stars": 13,
     "size": 62
   },
   {
-    "name": "irthomasthomas/karpathy-consortium",
-    "clone_url": "https://github.com/irthomasthomas/karpathy-consortium.git",
-    "stars": 35,
-    "size": 84
+    "name": "nick-celestin-zizic/clay-jai",
+    "clone_url": "https://github.com/nick-celestin-zizic/clay-jai.git",
+    "stars": 10,
+    "size": 1273
   },
   {
-    "name": "yazilimacademy/abp-raffle-app",
-    "clone_url": "https://github.com/yazilimacademy/abp-raffle-app.git",
-    "stars": 27,
-    "size": 1843
+    "name": "Milvoid/SJTU-Annual-Eat",
+    "clone_url": "https://github.com/Milvoid/SJTU-Annual-Eat.git",
+    "stars": 10,
+    "size": 161
   }
 ]
