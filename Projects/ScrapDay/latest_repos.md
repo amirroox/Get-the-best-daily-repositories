@@ -1,7 +1,7 @@
 # Latest Repositories (2024-12-21 .. 2024-12-23)
 
-- [nesaorg/Equivariant-Encryption-for-AI](https://github.com/nesaorg/Equivariant-Encryption-for-AI) (15)
-- [jsecu/ModTask](https://github.com/jsecu/ModTask) (13)
-- [Tinkoprof/WurstPlusThree-Ported](https://github.com/Tinkoprof/WurstPlusThree-Ported) (13)
-- [nick-celestin-zizic/clay-jai](https://github.com/nick-celestin-zizic/clay-jai) (10)
-- [Milvoid/SJTU-Annual-Eat](https://github.com/Milvoid/SJTU-Annual-Eat) (10)
+- [nesaorg/Equivariant-Encryption-for-AI](https://github.com/nesaorg/Equivariant-Encryption-for-AI) (340)
+- [Milvoid/SJTU-Annual-Eat](https://github.com/Milvoid/SJTU-Annual-Eat) (97)
+- [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before) (65)
+- [OpenSailsea/DotMachine](https://github.com/OpenSailsea/DotMachine) (25)
+- [bunyaminergen/Callytics](https://github.com/bunyaminergen/Callytics) (22)

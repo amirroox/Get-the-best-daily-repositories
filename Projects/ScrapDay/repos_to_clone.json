@@ -2,31 +2,31 @@
   {
     "name": "nesaorg/Equivariant-Encryption-for-AI",
     "clone_url": "https://github.com/nesaorg/Equivariant-Encryption-for-AI.git",
-    "stars": 15,
+    "stars": 340,
     "size": 185
-  },
-  {
-    "name": "jsecu/ModTask",
-    "clone_url": "https://github.com/jsecu/ModTask.git",
-    "stars": 13,
-    "size": 2791
-  },
-  {
-    "name": "Tinkoprof/WurstPlusThree-Ported",
-    "clone_url": "https://github.com/Tinkoprof/WurstPlusThree-Ported.git",
-    "stars": 13,
-    "size": 62
-  },
-  {
-    "name": "nick-celestin-zizic/clay-jai",
-    "clone_url": "https://github.com/nick-celestin-zizic/clay-jai.git",
-    "stars": 10,
-    "size": 1273
   },
   {
     "name": "Milvoid/SJTU-Annual-Eat",
     "clone_url": "https://github.com/Milvoid/SJTU-Annual-Eat.git",
-    "stars": 10,
-    "size": 161
+    "stars": 97,
+    "size": 205
+  },
+  {
+    "name": "SukkaW/Make-Bilibili-Great-Than-Ever-Before",
+    "clone_url": "https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before.git",
+    "stars": 65,
+    "size": 113
+  },
+  {
+    "name": "OpenSailsea/DotMachine",
+    "clone_url": "https://github.com/OpenSailsea/DotMachine.git",
+    "stars": 25,
+    "size": 96
+  },
+  {
+    "name": "bunyaminergen/Callytics",
+    "clone_url": "https://github.com/bunyaminergen/Callytics.git",
+    "stars": 22,
+    "size": 1204
   }
 ]
