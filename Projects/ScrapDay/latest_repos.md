@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-21 .. 2024-12-23)
+# Latest Repositories (2024-12-22 .. 2024-12-24)
 
-- [nesaorg/Equivariant-Encryption-for-AI](https://github.com/nesaorg/Equivariant-Encryption-for-AI) (340)
-- [Milvoid/SJTU-Annual-Eat](https://github.com/Milvoid/SJTU-Annual-Eat) (97)
-- [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before) (65)
-- [OpenSailsea/DotMachine](https://github.com/OpenSailsea/DotMachine) (25)
-- [bunyaminergen/Callytics](https://github.com/bunyaminergen/Callytics) (22)
+- [Lumicrownai/Etura-agent](https://github.com/Lumicrownai/Etura-agent) (61)
+- [LYiHub/privacy-radar-public](https://github.com/LYiHub/privacy-radar-public) (37)
+- [peckphp/peck](https://github.com/peckphp/peck) (36)
+- [deanxv/genspark2api](https://github.com/deanxv/genspark2api) (33)
+- [Ucas-HaoranWei/Slow-Perception](https://github.com/Ucas-HaoranWei/Slow-Perception) (14)
