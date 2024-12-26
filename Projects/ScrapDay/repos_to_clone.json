@@ -1,32 +1,32 @@
 [
   {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-V3.git",
+    "stars": 249,
+    "size": 1679
+  },
+  {
+    "name": "obeylowe95/tron-wallet",
+    "clone_url": "https://github.com/obeylowe95/tron-wallet.git",
+    "stars": 149,
+    "size": 566
+  },
+  {
     "name": "mimic-4750/Executor-Wave-r0bl0x",
     "clone_url": "https://github.com/mimic-4750/Executor-Wave-r0bl0x.git",
-    "stars": 32,
-    "size": 432
+    "stars": 49,
+    "size": 431
   },
   {
     "name": "yodaman766/JJSploit-Executor-r0bl0x",
     "clone_url": "https://github.com/yodaman766/JJSploit-Executor-r0bl0x.git",
-    "stars": 32,
-    "size": 432
-  },
-  {
-    "name": "pixelspyskyfall/Executor-Nezur-r0bl0x",
-    "clone_url": "https://github.com/pixelspyskyfall/Executor-Nezur-r0bl0x.git",
-    "stars": 32,
-    "size": 432
+    "stars": 49,
+    "size": 431
   },
   {
     "name": "viperoldter4/Delta-Executor-r0bl0x",
     "clone_url": "https://github.com/viperoldter4/Delta-Executor-r0bl0x.git",
-    "stars": 32,
-    "size": 432
-  },
-  {
-    "name": "graigblond276/Wave-Executor-r0bl0x",
-    "clone_url": "https://github.com/graigblond276/Wave-Executor-r0bl0x.git",
-    "stars": 32,
-    "size": 432
+    "stars": 49,
+    "size": 431
   }
 ]
