@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-23 .. 2024-12-25)
+# Latest Repositories (2024-12-24 .. 2024-12-26)
 
-- [kaosaga60/Nexus-Rob1ox](https://github.com/kaosaga60/Nexus-Rob1ox) (690)
-- [Gianpi11111/Roblox-Blox-Fruits-Script-2024](https://github.com/Gianpi11111/Roblox-Blox-Fruits-Script-2024) (690)
-- [caicaiwast/FL-Studio](https://github.com/caicaiwast/FL-Studio) (690)
-- [Dragonblan/Ex1tlag-Free-2024](https://github.com/Dragonblan/Ex1tlag-Free-2024) (690)
-- [7777rewards/hack-apex-1egend](https://github.com/7777rewards/hack-apex-1egend) (690)
+- [mimic-4750/Executor-Wave-r0bl0x](https://github.com/mimic-4750/Executor-Wave-r0bl0x) (32)
+- [yodaman766/JJSploit-Executor-r0bl0x](https://github.com/yodaman766/JJSploit-Executor-r0bl0x) (32)
+- [pixelspyskyfall/Executor-Nezur-r0bl0x](https://github.com/pixelspyskyfall/Executor-Nezur-r0bl0x) (32)
+- [viperoldter4/Delta-Executor-r0bl0x](https://github.com/viperoldter4/Delta-Executor-r0bl0x) (32)
+- [graigblond276/Wave-Executor-r0bl0x](https://github.com/graigblond276/Wave-Executor-r0bl0x) (32)
