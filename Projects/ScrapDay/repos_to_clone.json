@@ -2,31 +2,31 @@
   {
     "name": "deepseek-ai/DeepSeek-V3",
     "clone_url": "https://github.com/deepseek-ai/DeepSeek-V3.git",
-    "stars": 1198,
+    "stars": 2963,
     "size": 1689
+  },
+  {
+    "name": "tdaidper/roblox-script",
+    "clone_url": "https://github.com/tdaidper/roblox-script.git",
+    "stars": 219,
+    "size": 649
   },
   {
     "name": "llmgenai/LLMInterviewQuestions",
     "clone_url": "https://github.com/llmgenai/LLMInterviewQuestions.git",
-    "stars": 151,
+    "stars": 202,
     "size": 139
   },
   {
-    "name": "teddys0nec/fake-wallet",
-    "clone_url": "https://github.com/teddys0nec/fake-wallet.git",
-    "stars": 104,
-    "size": 2460
+    "name": "vitaliyp92/solara-github-download",
+    "clone_url": "https://github.com/vitaliyp92/solara-github-download.git",
+    "stars": 189,
+    "size": 1638
   },
   {
-    "name": "yana14d/crypto-free",
-    "clone_url": "https://github.com/yana14d/crypto-free.git",
-    "stars": 104,
-    "size": 2208
-  },
-  {
-    "name": "viktorgltem/cryptocurrency-api",
-    "clone_url": "https://github.com/viktorgltem/cryptocurrency-api.git",
-    "stars": 101,
-    "size": 2300
+    "name": "veraeliseeva1967/cryptocurrency-security",
+    "clone_url": "https://github.com/veraeliseeva1967/cryptocurrency-security.git",
+    "stars": 121,
+    "size": 2394
   }
 ]
