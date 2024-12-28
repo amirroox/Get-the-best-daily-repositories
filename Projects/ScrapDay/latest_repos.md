@@ -1,7 +1,7 @@
 # Latest Repositories (2024-12-26 .. 2024-12-28)
 
-- [LegoYoda112/nostromo_ui_themes](https://github.com/LegoYoda112/nostromo_ui_themes) (47)
-- [danielroe/zero-vue](https://github.com/danielroe/zero-vue) (31)
-- [bmtwl/exerciseminimilism](https://github.com/bmtwl/exerciseminimilism) (25)
-- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) (22)
-- [keijiro/KinoEightURP](https://github.com/keijiro/KinoEightURP) (17)
+- [Germanos21/Roblox-Blox-Fruits-Script](https://github.com/Germanos21/Roblox-Blox-Fruits-Script) (790)
+- [Germanos21/Solara-Executor-Roblox](https://github.com/Germanos21/Solara-Executor-Roblox) (789)
+- [Germanos21/Nexus-Roblox](https://github.com/Germanos21/Nexus-Roblox) (788)
+- [Germanos21/r0blox-synapse-x-free](https://github.com/Germanos21/r0blox-synapse-x-free) (788)
+- [Germanos21/BrtWallet](https://github.com/Germanos21/BrtWallet) (788)
