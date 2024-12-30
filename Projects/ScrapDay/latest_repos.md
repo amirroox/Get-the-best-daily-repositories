@@ -1,7 +1,7 @@
 # Latest Repositories (2024-12-28 .. 2024-12-30)
 
-- [tanish0608/counter-str1ke-2-h4ck](https://github.com/tanish0608/counter-str1ke-2-h4ck) (752)
-- [Ronson80/Al-Photoshop-2024](https://github.com/Ronson80/Al-Photoshop-2024) (751)
-- [amn741/AquaDiscord](https://github.com/amn741/AquaDiscord) (751)
-- [Josezers/CrystalTool](https://github.com/Josezers/CrystalTool) (751)
-- [matthijn122/Canva-Pro-2024](https://github.com/matthijn122/Canva-Pro-2024) (749)
+- [grc-25/PhotoDiva-Pro-free-2024](https://github.com/grc-25/PhotoDiva-Pro-free-2024) (720)
+- [Moutchou01/Eth-Miner](https://github.com/Moutchou01/Eth-Miner) (720)
+- [jimmystyles/SeedTool](https://github.com/jimmystyles/SeedTool) (719)
+- [MNahle/SoLBF](https://github.com/MNahle/SoLBF) (717)
+- [huzaifa199/ShadowTool](https://github.com/huzaifa199/ShadowTool) (717)
