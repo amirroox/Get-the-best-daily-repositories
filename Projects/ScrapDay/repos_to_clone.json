@@ -2,31 +2,31 @@
   {
     "name": "leerob/next-minimal-store",
     "clone_url": "https://github.com/leerob/next-minimal-store.git",
-    "stars": 84,
+    "stars": 142,
     "size": 51
-  },
-  {
-    "name": "LLeavesG/eBPFDexDumper",
-    "clone_url": "https://github.com/LLeavesG/eBPFDexDumper.git",
-    "stars": 24,
-    "size": 2558
   },
   {
     "name": "private-face/begit",
     "clone_url": "https://github.com/private-face/begit.git",
-    "stars": 22,
+    "stars": 49,
     "size": 174
+  },
+  {
+    "name": "LLeavesG/eBPFDexDumper",
+    "clone_url": "https://github.com/LLeavesG/eBPFDexDumper.git",
+    "stars": 44,
+    "size": 2562
+  },
+  {
+    "name": "seatedro/glimpse",
+    "clone_url": "https://github.com/seatedro/glimpse.git",
+    "stars": 33,
+    "size": 67
   },
   {
     "name": "saltlux-ailabs/ethics-snu",
     "clone_url": "https://github.com/saltlux-ailabs/ethics-snu.git",
     "stars": 22,
     "size": 1521
-  },
-  {
-    "name": "seatedro/glimpse",
-    "clone_url": "https://github.com/seatedro/glimpse.git",
-    "stars": 20,
-    "size": 176
   }
 ]
