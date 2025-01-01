@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-29 .. 2024-12-31)
+# Latest Repositories (2024-12-30 .. 2025-01-01)
 
-- [leerob/next-minimal-store](https://github.com/leerob/next-minimal-store) (142)
-- [private-face/begit](https://github.com/private-face/begit) (49)
-- [LLeavesG/eBPFDexDumper](https://github.com/LLeavesG/eBPFDexDumper) (44)
-- [seatedro/glimpse](https://github.com/seatedro/glimpse) (33)
-- [saltlux-ailabs/ethics-snu](https://github.com/saltlux-ailabs/ethics-snu) (22)
+- [vasilmatuhnosouth/hack-crypto-wallet](https://github.com/vasilmatuhnosouth/hack-crypto-wallet) (177)
+- [wrtfmn7u2009ca/seed](https://github.com/wrtfmn7u2009ca/seed) (177)
+- [term2t/roblox-script](https://github.com/term2t/roblox-script) (173)
+- [x-es-sexy/solara-github-download](https://github.com/x-es-sexy/solara-github-download) (172)
+- [yhelena2000supp/seed-phrase-generator](https://github.com/yhelena2000supp/seed-phrase-generator) (161)
