@@ -1,7 +1,7 @@
-# Latest Repositories (2024-12-30 .. 2025-01-01)
+# Latest Repositories (2024-12-31 .. 2025-01-02)
 
-- [vasilmatuhnosouth/hack-crypto-wallet](https://github.com/vasilmatuhnosouth/hack-crypto-wallet) (177)
-- [wrtfmn7u2009ca/seed](https://github.com/wrtfmn7u2009ca/seed) (177)
-- [term2t/roblox-script](https://github.com/term2t/roblox-script) (173)
-- [x-es-sexy/solara-github-download](https://github.com/x-es-sexy/solara-github-download) (172)
-- [yhelena2000supp/seed-phrase-generator](https://github.com/yhelena2000supp/seed-phrase-generator) (161)
+- [vojkanrojek-18glam/spoofer-riot](https://github.com/vojkanrojek-18glam/spoofer-riot) (178)
+- [caxapok5656/tron-wallet](https://github.com/caxapok5656/tron-wallet) (105)
+- [Ackites/Nrfr](https://github.com/Ackites/Nrfr) (96)
+- [ArjiJethin/Code-Workshops](https://github.com/ArjiJethin/Code-Workshops) (27)
+- [SafeBreach-Labs/CVE-2024-49112](https://github.com/SafeBreach-Labs/CVE-2024-49112) (27)
