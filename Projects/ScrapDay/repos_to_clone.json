@@ -2,31 +2,31 @@
   {
     "name": "TermoraDev/termora",
     "clone_url": "https://github.com/TermoraDev/termora.git",
-    "stars": 171,
-    "size": 822
+    "stars": 222,
+    "size": 834
+  },
+  {
+    "name": "Swung0x48/TriangleBin",
+    "clone_url": "https://github.com/Swung0x48/TriangleBin.git",
+    "stars": 123,
+    "size": 520
+  },
+  {
+    "name": "fabriziosalmi/caddy-waf",
+    "clone_url": "https://github.com/fabriziosalmi/caddy-waf.git",
+    "stars": 78,
+    "size": 203
+  },
+  {
+    "name": "nihat99/aligeth",
+    "clone_url": "https://github.com/nihat99/aligeth.git",
+    "stars": 77,
+    "size": 202
   },
   {
     "name": "guizimo/cover-craft",
     "clone_url": "https://github.com/guizimo/cover-craft.git",
-    "stars": 26,
+    "stars": 39,
     "size": 500
-  },
-  {
-    "name": "johnpc/jellyfin-wrapped",
-    "clone_url": "https://github.com/johnpc/jellyfin-wrapped.git",
-    "stars": 26,
-    "size": 124
-  },
-  {
-    "name": "vinlanlnl47/Executor-Delta-ro6lox",
-    "clone_url": "https://github.com/vinlanlnl47/Executor-Delta-ro6lox.git",
-    "stars": 23,
-    "size": 730
-  },
-  {
-    "name": "vinkerp8m48/Delta-Executor-r06l0x",
-    "clone_url": "https://github.com/vinkerp8m48/Delta-Executor-r06l0x.git",
-    "stars": 23,
-    "size": 730
   }
 ]
