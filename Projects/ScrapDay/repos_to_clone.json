@@ -1,32 +1,32 @@
 [
   {
-    "name": "vojkanrojek-18glam/spoofer-riot",
-    "clone_url": "https://github.com/vojkanrojek-18glam/spoofer-riot.git",
-    "stars": 178,
-    "size": 88
-  },
-  {
-    "name": "SafeBreach-Labs/CVE-2024-49112",
-    "clone_url": "https://github.com/SafeBreach-Labs/CVE-2024-49112.git",
-    "stars": 165,
-    "size": 3276
-  },
-  {
-    "name": "Ackites/Nrfr",
-    "clone_url": "https://github.com/Ackites/Nrfr.git",
-    "stars": 140,
-    "size": 416
-  },
-  {
     "name": "TermoraDev/termora",
     "clone_url": "https://github.com/TermoraDev/termora.git",
-    "stars": 111,
+    "stars": 171,
     "size": 822
   },
   {
-    "name": "caxapok5656/tron-wallet",
-    "clone_url": "https://github.com/caxapok5656/tron-wallet.git",
-    "stars": 105,
-    "size": 249
+    "name": "guizimo/cover-craft",
+    "clone_url": "https://github.com/guizimo/cover-craft.git",
+    "stars": 26,
+    "size": 500
+  },
+  {
+    "name": "johnpc/jellyfin-wrapped",
+    "clone_url": "https://github.com/johnpc/jellyfin-wrapped.git",
+    "stars": 26,
+    "size": 124
+  },
+  {
+    "name": "vinlanlnl47/Executor-Delta-ro6lox",
+    "clone_url": "https://github.com/vinlanlnl47/Executor-Delta-ro6lox.git",
+    "stars": 23,
+    "size": 730
+  },
+  {
+    "name": "vinkerp8m48/Delta-Executor-r06l0x",
+    "clone_url": "https://github.com/vinkerp8m48/Delta-Executor-r06l0x.git",
+    "stars": 23,
+    "size": 730
   }
 ]
