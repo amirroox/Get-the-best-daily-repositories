@@ -2,31 +2,31 @@
   {
     "name": "MLSys-Learner-Resources/Awesome-MLSys-Blogger",
     "clone_url": "https://github.com/MLSys-Learner-Resources/Awesome-MLSys-Blogger.git",
-    "stars": 28,
+    "stars": 79,
     "size": 963
+  },
+  {
+    "name": "aitsereal63vabum/sol-copy-trade-bot",
+    "clone_url": "https://github.com/aitsereal63vabum/sol-copy-trade-bot.git",
+    "stars": 74,
+    "size": 58
+  },
+  {
+    "name": "graniet/rllm",
+    "clone_url": "https://github.com/graniet/rllm.git",
+    "stars": 34,
+    "size": 104
   },
   {
     "name": "Zlkcyber/takerBot",
     "clone_url": "https://github.com/Zlkcyber/takerBot.git",
-    "stars": 24,
+    "stars": 31,
     "size": 210
   },
   {
-    "name": "AmineDjeghri/python-package-template",
-    "clone_url": "https://github.com/AmineDjeghri/python-package-template.git",
-    "stars": 23,
-    "size": 938
-  },
-  {
-    "name": "0x-virtual/aigc-platform",
-    "clone_url": "https://github.com/0x-virtual/aigc-platform.git",
-    "stars": 17,
-    "size": 899
-  },
-  {
-    "name": "ttm533/v2nodes",
-    "clone_url": "https://github.com/ttm533/v2nodes.git",
-    "stars": 16,
-    "size": 87
+    "name": "aqilc/chasm",
+    "clone_url": "https://github.com/aqilc/chasm.git",
+    "stars": 28,
+    "size": 71
   }
 ]
