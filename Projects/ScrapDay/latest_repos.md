@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-03 .. 2025-01-05)
+# Latest Repositories (2025-01-04 .. 2025-01-06)
 
-- [logeman32/SketchUp-Pro-free-2024](https://github.com/logeman32/SketchUp-Pro-free-2024) (143)
-- [Jahid863/f0rtnite-h4ck](https://github.com/Jahid863/f0rtnite-h4ck) (143)
-- [Raveesh-rash/Rainbow-S1x-Siege-Cheat](https://github.com/Raveesh-rash/Rainbow-S1x-Siege-Cheat) (143)
-- [yoursecretarea/SoLBF](https://github.com/yoursecretarea/SoLBF) (143)
-- [Radek0902/Spotify-Premium-for-free-2024](https://github.com/Radek0902/Spotify-Premium-for-free-2024) (143)
+- [MLSys-Learner-Resources/Awesome-MLSys-Blogger](https://github.com/MLSys-Learner-Resources/Awesome-MLSys-Blogger) (28)
+- [Zlkcyber/takerBot](https://github.com/Zlkcyber/takerBot) (24)
+- [AmineDjeghri/python-package-template](https://github.com/AmineDjeghri/python-package-template) (23)
+- [0x-virtual/aigc-platform](https://github.com/0x-virtual/aigc-platform) (17)
+- [ttm533/v2nodes](https://github.com/ttm533/v2nodes) (16)
