@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-04 .. 2025-01-06)
+# Latest Repositories (2025-01-05 .. 2025-01-07)
 
-- [MLSys-Learner-Resources/Awesome-MLSys-Blogger](https://github.com/MLSys-Learner-Resources/Awesome-MLSys-Blogger) (79)
-- [aitsereal63vabum/sol-copy-trade-bot](https://github.com/aitsereal63vabum/sol-copy-trade-bot) (74)
-- [graniet/rllm](https://github.com/graniet/rllm) (34)
-- [Zlkcyber/takerBot](https://github.com/Zlkcyber/takerBot) (31)
-- [aqilc/chasm](https://github.com/aqilc/chasm) (28)
+- [valeric777lym/password-manager](https://github.com/valeric777lym/password-manager) (178)
+- [zoroyyoo/agcplayer-widgets](https://github.com/zoroyyoo/agcplayer-widgets) (77)
+- [safedv/RustPotato](https://github.com/safedv/RustPotato) (48)
+- [HeHang0/PunchPal](https://github.com/HeHang0/PunchPal) (16)
+- [aidenybai/yaps](https://github.com/aidenybai/yaps) (13)
