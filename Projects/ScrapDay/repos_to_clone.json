@@ -1,32 +1,32 @@
 [
   {
+    "name": "SamuelSchmidgall/AgentLaboratory",
+    "clone_url": "https://github.com/SamuelSchmidgall/AgentLaboratory.git",
+    "stars": 206,
+    "size": 1021
+  },
+  {
     "name": "CoderSJX/AI-Resources-Central",
     "clone_url": "https://github.com/CoderSJX/AI-Resources-Central.git",
-    "stars": 106,
-    "size": 265
+    "stars": 174,
+    "size": 267
   },
   {
     "name": "ZeroMemoryEx/IObit-EoP",
     "clone_url": "https://github.com/ZeroMemoryEx/IObit-EoP.git",
-    "stars": 61,
+    "stars": 73,
     "size": 305
   },
   {
-    "name": "wjytt/bug-free-pancake",
-    "clone_url": "https://github.com/wjytt/bug-free-pancake.git",
-    "stars": 17,
-    "size": 71
-  },
-  {
-    "name": "Masonemmam/silver-carnival",
-    "clone_url": "https://github.com/Masonemmam/silver-carnival.git",
-    "stars": 17,
-    "size": 147
+    "name": "f/fig4ai",
+    "clone_url": "https://github.com/f/fig4ai.git",
+    "stars": 57,
+    "size": 682
   },
   {
     "name": "lucidrains/titans-pytorch",
     "clone_url": "https://github.com/lucidrains/titans-pytorch.git",
-    "stars": 15,
+    "stars": 29,
     "size": 812
   }
 ]
