@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-06 .. 2025-01-08)
+# Latest Repositories (2025-01-07 .. 2025-01-09)
 
-- [norris61w/astra_ai_framework](https://github.com/norris61w/astra_ai_framework) (165)
-- [24mlight/A_Share_investment_Agent](https://github.com/24mlight/A_Share_investment_Agent) (143)
-- [CNTRLAI/Notate](https://github.com/CNTRLAI/Notate) (80)
-- [DeanWard/CaddyGen](https://github.com/DeanWard/CaddyGen) (68)
-- [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) (60)
+- [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) (106)
+- [ZeroMemoryEx/IObit-EoP](https://github.com/ZeroMemoryEx/IObit-EoP) (61)
+- [wjytt/bug-free-pancake](https://github.com/wjytt/bug-free-pancake) (17)
+- [Masonemmam/silver-carnival](https://github.com/Masonemmam/silver-carnival) (17)
+- [lucidrains/titans-pytorch](https://github.com/lucidrains/titans-pytorch) (15)
