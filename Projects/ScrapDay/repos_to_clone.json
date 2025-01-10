@@ -1,32 +1,32 @@
 [
   {
-    "name": "SamuelSchmidgall/AgentLaboratory",
-    "clone_url": "https://github.com/SamuelSchmidgall/AgentLaboratory.git",
-    "stars": 206,
-    "size": 1021
-  },
-  {
-    "name": "CoderSJX/AI-Resources-Central",
-    "clone_url": "https://github.com/CoderSJX/AI-Resources-Central.git",
-    "stars": 174,
-    "size": 267
-  },
-  {
-    "name": "ZeroMemoryEx/IObit-EoP",
-    "clone_url": "https://github.com/ZeroMemoryEx/IObit-EoP.git",
-    "stars": 73,
-    "size": 305
-  },
-  {
     "name": "f/fig4ai",
     "clone_url": "https://github.com/f/fig4ai.git",
-    "stars": 57,
+    "stars": 101,
     "size": 682
   },
   {
-    "name": "lucidrains/titans-pytorch",
-    "clone_url": "https://github.com/lucidrains/titans-pytorch.git",
-    "stars": 29,
-    "size": 812
+    "name": "PollensAI/Pollens",
+    "clone_url": "https://github.com/PollensAI/Pollens.git",
+    "stars": 95,
+    "size": 689
+  },
+  {
+    "name": "RhysSullivan/sf-crime-heatmap",
+    "clone_url": "https://github.com/RhysSullivan/sf-crime-heatmap.git",
+    "stars": 30,
+    "size": 397
+  },
+  {
+    "name": "ASITHA-MD/ASITHA-BOT",
+    "clone_url": "https://github.com/ASITHA-MD/ASITHA-BOT.git",
+    "stars": 26,
+    "size": 231
+  },
+  {
+    "name": "bravekingzhang/copy-coder",
+    "clone_url": "https://github.com/bravekingzhang/copy-coder.git",
+    "stars": 11,
+    "size": 418
   }
 ]
