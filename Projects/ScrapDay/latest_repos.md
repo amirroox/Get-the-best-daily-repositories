@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-10 .. 2025-01-12)
+# Latest Repositories (2025-01-11 .. 2025-01-13)
 
-- [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent) (144)
-- [NiazMorshed2007/shadcn-tour](https://github.com/NiazMorshed2007/shadcn-tour) (91)
-- [echohive42/AI-Data-Scientist-scores-top-1-percent-on-Kaggle](https://github.com/echohive42/AI-Data-Scientist-scores-top-1-percent-on-Kaggle) (57)
-- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) (53)
-- [UNOAWORLD/unoa-agent](https://github.com/UNOAWORLD/unoa-agent) (51)
+- [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) (45)
+- [LuemmelSec/APEX](https://github.com/LuemmelSec/APEX) (35)
+- [EvanBacon/expo-rsc-movies](https://github.com/EvanBacon/expo-rsc-movies) (20)
+- [AnonKryptiQuz/Injectra](https://github.com/AnonKryptiQuz/Injectra) (14)
+- [BotpressWebchat/botpress](https://github.com/BotpressWebchat/botpress) (14)
