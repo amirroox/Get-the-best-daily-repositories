@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-11 .. 2025-01-13)
+# Latest Repositories (2025-01-12 .. 2025-01-14)
 
-- [EvanBacon/expo-rsc-movies](https://github.com/EvanBacon/expo-rsc-movies) (68)
-- [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) (54)
-- [LuemmelSec/APEX](https://github.com/LuemmelSec/APEX) (46)
-- [brightzheng100/vind](https://github.com/brightzheng100/vind) (31)
-- [ArTicZera/NovaOS](https://github.com/ArTicZera/NovaOS) (29)
+- [angel-21104/Adobe-Express-2024](https://github.com/angel-21104/Adobe-Express-2024) (387)
+- [Don1255/Al-Photoshop-2024](https://github.com/Don1255/Al-Photoshop-2024) (387)
+- [Pyxenity/Adobe-Acrobat-Pro-2024](https://github.com/Pyxenity/Adobe-Acrobat-Pro-2024) (387)
+- [ShawtyU/apex-legends-cheat-download](https://github.com/ShawtyU/apex-legends-cheat-download) (387)
+- [Hsonero4/Canva-Pro-2024](https://github.com/Hsonero4/Canva-Pro-2024) (386)
