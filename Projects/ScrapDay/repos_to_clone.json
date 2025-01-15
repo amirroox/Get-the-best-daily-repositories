@@ -2,31 +2,31 @@
   {
     "name": "langchain-ai/executive-ai-assistant",
     "clone_url": "https://github.com/langchain-ai/executive-ai-assistant.git",
-    "stars": 221,
+    "stars": 347,
     "size": 183
+  },
+  {
+    "name": "antfu/are-we-esm",
+    "clone_url": "https://github.com/antfu/are-we-esm.git",
+    "stars": 103,
+    "size": 186
+  },
+  {
+    "name": "santinic/audiblez",
+    "clone_url": "https://github.com/santinic/audiblez.git",
+    "stars": 98,
+    "size": 109
   },
   {
     "name": "utkusen/baitroute",
     "clone_url": "https://github.com/utkusen/baitroute.git",
-    "stars": 72,
+    "stars": 87,
     "size": 862
   },
   {
     "name": "lvgalvao/2025-One-Billion-Row-Challenge",
     "clone_url": "https://github.com/lvgalvao/2025-One-Billion-Row-Challenge.git",
-    "stars": 60,
+    "stars": 62,
     "size": 452
-  },
-  {
-    "name": "dannyglendale/vitruvia1",
-    "clone_url": "https://github.com/dannyglendale/vitruvia1.git",
-    "stars": 52,
-    "size": 3281
-  },
-  {
-    "name": "0xNevo/Chat_Assistant_Flask_Bot",
-    "clone_url": "https://github.com/0xNevo/Chat_Assistant_Flask_Bot.git",
-    "stars": 15,
-    "size": 2047
   }
 ]
