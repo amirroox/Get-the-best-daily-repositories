@@ -1,32 +1,32 @@
 [
   {
-    "name": "langchain-ai/executive-ai-assistant",
-    "clone_url": "https://github.com/langchain-ai/executive-ai-assistant.git",
-    "stars": 347,
-    "size": 183
-  },
-  {
     "name": "antfu/are-we-esm",
     "clone_url": "https://github.com/antfu/are-we-esm.git",
-    "stars": 103,
-    "size": 186
+    "stars": 203,
+    "size": 206
   },
   {
-    "name": "santinic/audiblez",
-    "clone_url": "https://github.com/santinic/audiblez.git",
-    "stars": 98,
-    "size": 109
+    "name": "Lakr233/FlowDown-Beta",
+    "clone_url": "https://github.com/Lakr233/FlowDown-Beta.git",
+    "stars": 61,
+    "size": 145
   },
   {
-    "name": "utkusen/baitroute",
-    "clone_url": "https://github.com/utkusen/baitroute.git",
-    "stars": 87,
-    "size": 862
+    "name": "ksokolovskyi/uber_splash_screen",
+    "clone_url": "https://github.com/ksokolovskyi/uber_splash_screen.git",
+    "stars": 29,
+    "size": 234
   },
   {
-    "name": "lvgalvao/2025-One-Billion-Row-Challenge",
-    "clone_url": "https://github.com/lvgalvao/2025-One-Billion-Row-Challenge.git",
-    "stars": 62,
-    "size": 452
+    "name": "cyberagiinc/DevDocs",
+    "clone_url": "https://github.com/cyberagiinc/DevDocs.git",
+    "stars": 24,
+    "size": 425
+  },
+  {
+    "name": "PKU-YuanGroup/GPT-as-Language-Tree",
+    "clone_url": "https://github.com/PKU-YuanGroup/GPT-as-Language-Tree.git",
+    "stars": 21,
+    "size": 1133
   }
 ]
