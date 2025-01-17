@@ -1,32 +1,32 @@
 [
   {
-    "name": "antfu/are-we-esm",
-    "clone_url": "https://github.com/antfu/are-we-esm.git",
-    "stars": 247,
-    "size": 369
-  },
-  {
-    "name": "Lakr233/FlowDown-Beta",
-    "clone_url": "https://github.com/Lakr233/FlowDown-Beta.git",
-    "stars": 72,
-    "size": 145
-  },
-  {
     "name": "kinopeee/cursorrules",
     "clone_url": "https://github.com/kinopeee/cursorrules.git",
-    "stars": 51,
+    "stars": 92,
     "size": 109
   },
   {
-    "name": "ksokolovskyi/uber_splash_screen",
-    "clone_url": "https://github.com/ksokolovskyi/uber_splash_screen.git",
-    "stars": 45,
-    "size": 234
+    "name": "code100x/latent-booking",
+    "clone_url": "https://github.com/code100x/latent-booking.git",
+    "stars": 56,
+    "size": 207
   },
   {
-    "name": "cyberagiinc/DevDocs",
-    "clone_url": "https://github.com/cyberagiinc/DevDocs.git",
-    "stars": 42,
-    "size": 456
+    "name": "openai/openai-realtime-agents",
+    "clone_url": "https://github.com/openai/openai-realtime-agents.git",
+    "stars": 35,
+    "size": 1040
+  },
+  {
+    "name": "karminski/one-small-step",
+    "clone_url": "https://github.com/karminski/one-small-step.git",
+    "stars": 34,
+    "size": 1353
+  },
+  {
+    "name": "arsolutioner/fortigate-belsen-leak",
+    "clone_url": "https://github.com/arsolutioner/fortigate-belsen-leak.git",
+    "stars": 32,
+    "size": 100
   }
 ]
