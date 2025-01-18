@@ -2,31 +2,31 @@
   {
     "name": "JaredC01/LabStack",
     "clone_url": "https://github.com/JaredC01/LabStack.git",
-    "stars": 160,
+    "stars": 221,
     "size": 2304
   },
   {
     "name": "HafizalJohari/lclv",
     "clone_url": "https://github.com/HafizalJohari/lclv.git",
-    "stars": 28,
+    "stars": 41,
     "size": 262
   },
   {
     "name": "thisisran/nova",
     "clone_url": "https://github.com/thisisran/nova.git",
-    "stars": 18,
-    "size": 861
-  },
-  {
-    "name": "VajiraTechOfficial/VAJIRA-MD",
-    "clone_url": "https://github.com/VajiraTechOfficial/VAJIRA-MD.git",
-    "stars": 16,
-    "size": 719
+    "stars": 39,
+    "size": 872
   },
   {
     "name": "Gourieff/ComfyUI-ReActor",
     "clone_url": "https://github.com/Gourieff/ComfyUI-ReActor.git",
-    "stars": 15,
-    "size": 359
+    "stars": 25,
+    "size": 423
+  },
+  {
+    "name": "yeldarby/nycerebro",
+    "clone_url": "https://github.com/yeldarby/nycerebro.git",
+    "stars": 22,
+    "size": 104
   }
 ]
