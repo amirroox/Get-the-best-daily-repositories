@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-15 .. 2025-01-17)
+# Latest Repositories (2025-01-16 .. 2025-01-18)
 
-- [kinopeee/cursorrules](https://github.com/kinopeee/cursorrules) (121)
-- [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) (116)
-- [karminski/one-small-step](https://github.com/karminski/one-small-step) (84)
-- [SwoxApp/Swox](https://github.com/SwoxApp/Swox) (80)
-- [code100x/latent-booking](https://github.com/code100x/latent-booking) (70)
+- [JaredC01/LabStack](https://github.com/JaredC01/LabStack) (160)
+- [HafizalJohari/lclv](https://github.com/HafizalJohari/lclv) (28)
+- [thisisran/nova](https://github.com/thisisran/nova) (18)
+- [VajiraTechOfficial/VAJIRA-MD](https://github.com/VajiraTechOfficial/VAJIRA-MD) (16)
+- [Gourieff/ComfyUI-ReActor](https://github.com/Gourieff/ComfyUI-ReActor) (15)
