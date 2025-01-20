@@ -1,7 +1,7 @@
 # Latest Repositories (2025-01-18 .. 2025-01-20)
 
-- [nicekate/AI-ContentCraft](https://github.com/nicekate/AI-ContentCraft) (50)
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) (38)
-- [rsms/dew](https://github.com/rsms/dew) (15)
-- [patx/micropie](https://github.com/patx/micropie) (13)
-- [QuilibriumNetwork/quorum-desktop](https://github.com/QuilibriumNetwork/quorum-desktop) (10)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (271)
+- [Evelyniwx/Mev-Bot-Solana](https://github.com/Evelyniwx/Mev-Bot-Solana) (91)
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) (48)
+- [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5) (36)
+- [patx/micropie](https://github.com/patx/micropie) (21)

@@ -1,32 +1,32 @@
 [
   {
-    "name": "nicekate/AI-ContentCraft",
-    "clone_url": "https://github.com/nicekate/AI-ContentCraft.git",
-    "stars": 50,
-    "size": 56
+    "name": "deepseek-ai/DeepSeek-R1",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-R1.git",
+    "stars": 271,
+    "size": 1464
+  },
+  {
+    "name": "Evelyniwx/Mev-Bot-Solana",
+    "clone_url": "https://github.com/Evelyniwx/Mev-Bot-Solana.git",
+    "stars": 91,
+    "size": 78
   },
   {
     "name": "steveiliop56/tinyauth",
     "clone_url": "https://github.com/steveiliop56/tinyauth.git",
-    "stars": 38,
+    "stars": 48,
     "size": 321
   },
   {
-    "name": "rsms/dew",
-    "clone_url": "https://github.com/rsms/dew.git",
-    "stars": 15,
-    "size": 771
+    "name": "MoonshotAI/Kimi-k1.5",
+    "clone_url": "https://github.com/MoonshotAI/Kimi-k1.5.git",
+    "stars": 36,
+    "size": 1648
   },
   {
     "name": "patx/micropie",
     "clone_url": "https://github.com/patx/micropie.git",
-    "stars": 13,
-    "size": 334
-  },
-  {
-    "name": "QuilibriumNetwork/quorum-desktop",
-    "clone_url": "https://github.com/QuilibriumNetwork/quorum-desktop.git",
-    "stars": 10,
-    "size": 2813
+    "stars": 21,
+    "size": 350
   }
 ]
