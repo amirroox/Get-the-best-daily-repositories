@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-17 .. 2025-01-19)
+# Latest Repositories (2025-01-18 .. 2025-01-20)
 
-- [tnylea/php-ext](https://github.com/tnylea/php-ext) (48)
-- [ankitpathak62/3D_Portfolio](https://github.com/ankitpathak62/3D_Portfolio) (29)
-- [raphamorim/boo](https://github.com/raphamorim/boo) (27)
-- [faiyaz032/central-gateway](https://github.com/faiyaz032/central-gateway) (18)
-- [Zlkcyber/meowBot](https://github.com/Zlkcyber/meowBot) (17)
+- [nicekate/AI-ContentCraft](https://github.com/nicekate/AI-ContentCraft) (50)
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) (38)
+- [rsms/dew](https://github.com/rsms/dew) (15)
+- [patx/micropie](https://github.com/patx/micropie) (13)
+- [QuilibriumNetwork/quorum-desktop](https://github.com/QuilibriumNetwork/quorum-desktop) (10)
