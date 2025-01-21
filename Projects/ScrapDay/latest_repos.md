@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-18 .. 2025-01-20)
+# Latest Repositories (2025-01-19 .. 2025-01-21)
 
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (271)
-- [Evelyniwx/Mev-Bot-Solana](https://github.com/Evelyniwx/Mev-Bot-Solana) (91)
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) (48)
-- [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5) (36)
-- [patx/micropie](https://github.com/patx/micropie) (21)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (3315)
+- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (473)
+- [baturyilmaz/wordpecker-app](https://github.com/baturyilmaz/wordpecker-app) (83)
+- [yihozhang/most-influential-pl-papers](https://github.com/yihozhang/most-influential-pl-papers) (33)
+- [g0drlc/Raydium-trading-bot](https://github.com/g0drlc/Raydium-trading-bot) (31)
