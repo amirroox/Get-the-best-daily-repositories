@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-19 .. 2025-01-21)
+# Latest Repositories (2025-01-20 .. 2025-01-22)
 
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (5771)
-- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (1028)
-- [baturyilmaz/wordpecker-app](https://github.com/baturyilmaz/wordpecker-app) (192)
-- [HarleyCoops/Deepseek-R1-Zero](https://github.com/HarleyCoops/Deepseek-R1-Zero) (167)
-- [g0drlc/Raydium-trading-bot](https://github.com/g0drlc/Raydium-trading-bot) (111)
+- [74Sapphiraqv/Mev-Bot-Solana](https://github.com/74Sapphiraqv/Mev-Bot-Solana) (129)
+- [lvgalvao/IntensivoSQLnoDatabricks](https://github.com/lvgalvao/IntensivoSQLnoDatabricks) (47)
+- [kijai/ComfyUI-Hunyuan3DWrapper](https://github.com/kijai/ComfyUI-Hunyuan3DWrapper) (20)
+- [chengzeyi/QuantumAttention](https://github.com/chengzeyi/QuantumAttention) (13)
+- [yibie/org-luhmann](https://github.com/yibie/org-luhmann) (10)
