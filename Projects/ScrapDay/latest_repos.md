@@ -1,7 +1,7 @@
 # Latest Repositories (2025-01-20 .. 2025-01-22)
 
-- [74Sapphiraqv/Mev-Bot-Solana](https://github.com/74Sapphiraqv/Mev-Bot-Solana) (129)
-- [lvgalvao/IntensivoSQLnoDatabricks](https://github.com/lvgalvao/IntensivoSQLnoDatabricks) (47)
-- [kijai/ComfyUI-Hunyuan3DWrapper](https://github.com/kijai/ComfyUI-Hunyuan3DWrapper) (20)
-- [chengzeyi/QuantumAttention](https://github.com/chengzeyi/QuantumAttention) (13)
-- [yibie/org-luhmann](https://github.com/yibie/org-luhmann) (10)
+- [crazywolf132/evo](https://github.com/crazywolf132/evo) (85)
+- [krishnaik06/Roadmap-To-Learn-Agentic-AI](https://github.com/krishnaik06/Roadmap-To-Learn-Agentic-AI) (80)
+- [kijai/ComfyUI-Hunyuan3DWrapper](https://github.com/kijai/ComfyUI-Hunyuan3DWrapper) (60)
+- [lvgalvao/IntensivoSQLnoDatabricks](https://github.com/lvgalvao/IntensivoSQLnoDatabricks) (50)
+- [marcoroth/minitest-difftastic](https://github.com/marcoroth/minitest-difftastic) (36)
