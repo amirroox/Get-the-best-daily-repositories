@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-20 .. 2025-01-22)
+# Latest Repositories (2025-01-21 .. 2025-01-23)
 
-- [crazywolf132/evo](https://github.com/crazywolf132/evo) (85)
-- [krishnaik06/Roadmap-To-Learn-Agentic-AI](https://github.com/krishnaik06/Roadmap-To-Learn-Agentic-AI) (80)
-- [kijai/ComfyUI-Hunyuan3DWrapper](https://github.com/kijai/ComfyUI-Hunyuan3DWrapper) (60)
-- [lvgalvao/IntensivoSQLnoDatabricks](https://github.com/lvgalvao/IntensivoSQLnoDatabricks) (50)
-- [marcoroth/minitest-difftastic](https://github.com/marcoroth/minitest-difftastic) (36)
+- [krishnaik06/Roadmap-To-Learn-Agentic-AI](https://github.com/krishnaik06/Roadmap-To-Learn-Agentic-AI) (121)
+- [24Joscelinos/Mev-Bot-Solana](https://github.com/24Joscelinos/Mev-Bot-Solana) (113)
+- [tremorlabs/tremor-blocks](https://github.com/tremorlabs/tremor-blocks) (41)
+- [asseph/solana-ai-agent](https://github.com/asseph/solana-ai-agent) (34)
+- [agunghapsah/tetris](https://github.com/agunghapsah/tetris) (23)

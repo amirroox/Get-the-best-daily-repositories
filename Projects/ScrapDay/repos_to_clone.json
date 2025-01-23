@@ -1,32 +1,32 @@
 [
   {
-    "name": "crazywolf132/evo",
-    "clone_url": "https://github.com/crazywolf132/evo.git",
-    "stars": 85,
-    "size": 51
-  },
-  {
     "name": "krishnaik06/Roadmap-To-Learn-Agentic-AI",
     "clone_url": "https://github.com/krishnaik06/Roadmap-To-Learn-Agentic-AI.git",
-    "stars": 80,
+    "stars": 121,
     "size": 91
   },
   {
-    "name": "kijai/ComfyUI-Hunyuan3DWrapper",
-    "clone_url": "https://github.com/kijai/ComfyUI-Hunyuan3DWrapper.git",
-    "stars": 60,
-    "size": 4173
+    "name": "24Joscelinos/Mev-Bot-Solana",
+    "clone_url": "https://github.com/24Joscelinos/Mev-Bot-Solana.git",
+    "stars": 113,
+    "size": 57
   },
   {
-    "name": "lvgalvao/IntensivoSQLnoDatabricks",
-    "clone_url": "https://github.com/lvgalvao/IntensivoSQLnoDatabricks.git",
-    "stars": 50,
-    "size": 3107
+    "name": "tremorlabs/tremor-blocks",
+    "clone_url": "https://github.com/tremorlabs/tremor-blocks.git",
+    "stars": 41,
+    "size": 2218
   },
   {
-    "name": "marcoroth/minitest-difftastic",
-    "clone_url": "https://github.com/marcoroth/minitest-difftastic.git",
-    "stars": 36,
-    "size": 353
+    "name": "asseph/solana-ai-agent",
+    "clone_url": "https://github.com/asseph/solana-ai-agent.git",
+    "stars": 34,
+    "size": 2993
+  },
+  {
+    "name": "agunghapsah/tetris",
+    "clone_url": "https://github.com/agunghapsah/tetris.git",
+    "stars": 23,
+    "size": 4172
   }
 ]
