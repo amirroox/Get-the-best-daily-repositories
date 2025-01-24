@@ -1,5 +1,11 @@
 [
   {
+    "name": "runevision/Dither3D",
+    "clone_url": "https://github.com/runevision/Dither3D.git",
+    "stars": 368,
+    "size": 2687
+  },
+  {
     "name": "IsuruBeez/apex-legends-cheat-download",
     "clone_url": "https://github.com/IsuruBeez/apex-legends-cheat-download.git",
     "stars": 315,
@@ -20,12 +26,6 @@
   {
     "name": "ManDeveloper24/Al-Photoshop-2024",
     "clone_url": "https://github.com/ManDeveloper24/Al-Photoshop-2024.git",
-    "stars": 315,
-    "size": 297
-  },
-  {
-    "name": "diego2001060/CosmicStar",
-    "clone_url": "https://github.com/diego2001060/CosmicStar.git",
     "stars": 315,
     "size": 297
   }
