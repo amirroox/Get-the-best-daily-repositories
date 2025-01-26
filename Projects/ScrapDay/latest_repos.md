@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-23 .. 2025-01-25)
+# Latest Repositories (2025-01-24 .. 2025-01-26)
 
-- [Snydersimple/verbose-memory](https://github.com/Snydersimple/verbose-memory) (312)
-- [melodeiavoida/fuzzy-rotary-phone](https://github.com/melodeiavoida/fuzzy-rotary-phone) (310)
-- [candranudmitry/improved-waddle](https://github.com/candranudmitry/improved-waddle) (307)
-- [Xoconoch/zotifarrr](https://github.com/Xoconoch/zotifarrr) (279)
-- [MattiaOG/Roblox-Blox-Fruits-Script-2024](https://github.com/MattiaOG/Roblox-Blox-Fruits-Script-2024) (215)
+- [weijunext/image-url-converter](https://github.com/weijunext/image-url-converter) (41)
+- [amanvirparhar/elara](https://github.com/amanvirparhar/elara) (37)
+- [xororz/local-dream](https://github.com/xororz/local-dream) (17)
+- [engineervix/cv](https://github.com/engineervix/cv) (15)
+- [Zlkcyber/beratraxBot](https://github.com/Zlkcyber/beratraxBot) (12)
