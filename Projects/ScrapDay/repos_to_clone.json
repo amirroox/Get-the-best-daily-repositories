@@ -1,32 +1,32 @@
 [
   {
+    "name": "hdudud383/CraxsRAT-Official",
+    "clone_url": "https://github.com/hdudud383/CraxsRAT-Official.git",
+    "stars": 88,
+    "size": 604
+  },
+  {
     "name": "weijunext/image-url-converter",
     "clone_url": "https://github.com/weijunext/image-url-converter.git",
-    "stars": 41,
-    "size": 365
+    "stars": 65,
+    "size": 370
+  },
+  {
+    "name": "Cere-Labs/maia",
+    "clone_url": "https://github.com/Cere-Labs/maia.git",
+    "stars": 48,
+    "size": 4356
   },
   {
     "name": "amanvirparhar/elara",
     "clone_url": "https://github.com/amanvirparhar/elara.git",
-    "stars": 37,
+    "stars": 43,
     "size": 81
   },
   {
-    "name": "xororz/local-dream",
-    "clone_url": "https://github.com/xororz/local-dream.git",
-    "stars": 17,
-    "size": 603
-  },
-  {
-    "name": "engineervix/cv",
-    "clone_url": "https://github.com/engineervix/cv.git",
-    "stars": 15,
-    "size": 271
-  },
-  {
-    "name": "Zlkcyber/beratraxBot",
-    "clone_url": "https://github.com/Zlkcyber/beratraxBot.git",
-    "stars": 12,
-    "size": 876
+    "name": "skydoves/flow-operators",
+    "clone_url": "https://github.com/skydoves/flow-operators.git",
+    "stars": 39,
+    "size": 131
   }
 ]
