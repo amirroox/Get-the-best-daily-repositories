@@ -2,31 +2,31 @@
   {
     "name": "hdudud383/CraxsRAT-Official",
     "clone_url": "https://github.com/hdudud383/CraxsRAT-Official.git",
-    "stars": 88,
+    "stars": 131,
     "size": 604
-  },
-  {
-    "name": "weijunext/image-url-converter",
-    "clone_url": "https://github.com/weijunext/image-url-converter.git",
-    "stars": 65,
-    "size": 370
-  },
-  {
-    "name": "Cere-Labs/maia",
-    "clone_url": "https://github.com/Cere-Labs/maia.git",
-    "stars": 48,
-    "size": 4356
-  },
-  {
-    "name": "amanvirparhar/elara",
-    "clone_url": "https://github.com/amanvirparhar/elara.git",
-    "stars": 43,
-    "size": 81
   },
   {
     "name": "skydoves/flow-operators",
     "clone_url": "https://github.com/skydoves/flow-operators.git",
-    "stars": 39,
-    "size": 131
+    "stars": 63,
+    "size": 136
+  },
+  {
+    "name": "sharingan-no-kakashi/orange-intelligence",
+    "clone_url": "https://github.com/sharingan-no-kakashi/orange-intelligence.git",
+    "stars": 45,
+    "size": 3933
+  },
+  {
+    "name": "craxs7rat-twu/CraxsRAT-v7",
+    "clone_url": "https://github.com/craxs7rat-twu/CraxsRAT-v7.git",
+    "stars": 25,
+    "size": 514
+  },
+  {
+    "name": "craxaratofficial638/craxsrat-v7-official",
+    "clone_url": "https://github.com/craxaratofficial638/craxsrat-v7-official.git",
+    "stars": 25,
+    "size": 515
   }
 ]
