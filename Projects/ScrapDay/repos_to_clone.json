@@ -1,32 +1,32 @@
 [
   {
-    "name": "hdudud383/CraxsRAT-Official",
-    "clone_url": "https://github.com/hdudud383/CraxsRAT-Official.git",
-    "stars": 131,
-    "size": 604
+    "name": "defihook/solana-ai-agent",
+    "clone_url": "https://github.com/defihook/solana-ai-agent.git",
+    "stars": 244,
+    "size": 451
+  },
+  {
+    "name": "getAsterisk/deepclaude",
+    "clone_url": "https://github.com/getAsterisk/deepclaude.git",
+    "stars": 148,
+    "size": 682
+  },
+  {
+    "name": "solstation/ai-agent-template",
+    "clone_url": "https://github.com/solstation/ai-agent-template.git",
+    "stars": 133,
+    "size": 368
+  },
+  {
+    "name": "tqventure/JLB-AI-Agent",
+    "clone_url": "https://github.com/tqventure/JLB-AI-Agent.git",
+    "stars": 83,
+    "size": 3317
   },
   {
     "name": "skydoves/flow-operators",
     "clone_url": "https://github.com/skydoves/flow-operators.git",
-    "stars": 63,
-    "size": 136
-  },
-  {
-    "name": "sharingan-no-kakashi/orange-intelligence",
-    "clone_url": "https://github.com/sharingan-no-kakashi/orange-intelligence.git",
-    "stars": 45,
-    "size": 3933
-  },
-  {
-    "name": "craxs7rat-twu/CraxsRAT-v7",
-    "clone_url": "https://github.com/craxs7rat-twu/CraxsRAT-v7.git",
-    "stars": 25,
-    "size": 514
-  },
-  {
-    "name": "craxaratofficial638/craxsrat-v7-official",
-    "clone_url": "https://github.com/craxaratofficial638/craxsrat-v7-official.git",
-    "stars": 25,
-    "size": 515
+    "stars": 80,
+    "size": 138
   }
 ]
