@@ -2,31 +2,31 @@
   {
     "name": "defihook/solana-ai-agent",
     "clone_url": "https://github.com/defihook/solana-ai-agent.git",
-    "stars": 244,
+    "stars": 348,
     "size": 451
-  },
-  {
-    "name": "getAsterisk/deepclaude",
-    "clone_url": "https://github.com/getAsterisk/deepclaude.git",
-    "stars": 148,
-    "size": 682
   },
   {
     "name": "solstation/ai-agent-template",
     "clone_url": "https://github.com/solstation/ai-agent-template.git",
-    "stars": 133,
+    "stars": 219,
     "size": 368
   },
   {
     "name": "tqventure/JLB-AI-Agent",
     "clone_url": "https://github.com/tqventure/JLB-AI-Agent.git",
-    "stars": 83,
+    "stars": 186,
     "size": 3317
   },
   {
-    "name": "skydoves/flow-operators",
-    "clone_url": "https://github.com/skydoves/flow-operators.git",
-    "stars": 80,
-    "size": 138
+    "name": "Raskoll2/LLMcalc",
+    "clone_url": "https://github.com/Raskoll2/LLMcalc.git",
+    "stars": 91,
+    "size": 118
+  },
+  {
+    "name": "vxunderground/OCRMe",
+    "clone_url": "https://github.com/vxunderground/OCRMe.git",
+    "stars": 71,
+    "size": 3343
   }
 ]
