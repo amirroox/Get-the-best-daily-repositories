@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-26 .. 2025-01-28)
+# Latest Repositories (2025-01-27 .. 2025-01-29)
 
-- [defihook/solana-ai-agent](https://github.com/defihook/solana-ai-agent) (387)
-- [solstation/ai-agent-template](https://github.com/solstation/ai-agent-template) (271)
-- [deepsuckai/JLB-AI-Agent](https://github.com/deepsuckai/JLB-AI-Agent) (234)
-- [Raskoll2/LLMcalc](https://github.com/Raskoll2/LLMcalc) (118)
-- [anti-work/iffy](https://github.com/anti-work/iffy) (107)
+- [5Hesperiaum/MEV-BOT-Ethereum](https://github.com/5Hesperiaum/MEV-BOT-Ethereum) (79)
+- [HugoRCD/nuxt-visitors](https://github.com/HugoRCD/nuxt-visitors) (42)
+- [DumbWareio/DumbBudget](https://github.com/DumbWareio/DumbBudget) (33)
+- [nuxt-hub/multiplayer-globe](https://github.com/nuxt-hub/multiplayer-globe) (26)
+- [ASITHA-MD/BOT-NEW-2](https://github.com/ASITHA-MD/BOT-NEW-2) (17)
