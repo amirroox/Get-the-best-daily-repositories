@@ -2,31 +2,31 @@
   {
     "name": "sdan/r1-web",
     "clone_url": "https://github.com/sdan/r1-web.git",
-    "stars": 167,
+    "stars": 248,
     "size": 2037
   },
   {
     "name": "7Rhiannonub/MEV-BOT-Ethereum",
     "clone_url": "https://github.com/7Rhiannonub/MEV-BOT-Ethereum.git",
-    "stars": 79,
-    "size": 181
+    "stars": 128,
+    "size": 219
   },
   {
     "name": "tigerabrodi/react-query-from-scratch",
     "clone_url": "https://github.com/tigerabrodi/react-query-from-scratch.git",
-    "stars": 48,
-    "size": 88
+    "stars": 80,
+    "size": 97
   },
   {
     "name": "armandwegnez/Sobre-Public",
     "clone_url": "https://github.com/armandwegnez/Sobre-Public.git",
-    "stars": 31,
-    "size": 137
+    "stars": 68,
+    "size": 141
   },
   {
-    "name": "pulpocaminante/PPL-0day",
-    "clone_url": "https://github.com/pulpocaminante/PPL-0day.git",
-    "stars": 22,
-    "size": 90
+    "name": "joschi/blueskyfeedbot",
+    "clone_url": "https://github.com/joschi/blueskyfeedbot.git",
+    "stars": 53,
+    "size": 999
   }
 ]
