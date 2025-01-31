@@ -1,32 +1,32 @@
 [
   {
-    "name": "sdan/r1-web",
-    "clone_url": "https://github.com/sdan/r1-web.git",
-    "stars": 248,
-    "size": 2037
+    "name": "realisticprin/etcd-operator",
+    "clone_url": "https://github.com/realisticprin/etcd-operator.git",
+    "stars": 125,
+    "size": 326
   },
   {
-    "name": "7Rhiannonub/MEV-BOT-Ethereum",
-    "clone_url": "https://github.com/7Rhiannonub/MEV-BOT-Ethereum.git",
-    "stars": 128,
-    "size": 219
+    "name": "parchedtomato/ckit",
+    "clone_url": "https://github.com/parchedtomato/ckit.git",
+    "stars": 111,
+    "size": 68
   },
   {
-    "name": "tigerabrodi/react-query-from-scratch",
-    "clone_url": "https://github.com/tigerabrodi/react-query-from-scratch.git",
-    "stars": 80,
-    "size": 97
+    "name": "cheerfulcircu/kube-network-policies",
+    "clone_url": "https://github.com/cheerfulcircu/kube-network-policies.git",
+    "stars": 106,
+    "size": 710
   },
   {
-    "name": "armandwegnez/Sobre-Public",
-    "clone_url": "https://github.com/armandwegnez/Sobre-Public.git",
-    "stars": 68,
-    "size": 141
+    "name": "informalcolle/prometheus-lvm-exporter",
+    "clone_url": "https://github.com/informalcolle/prometheus-lvm-exporter.git",
+    "stars": 106,
+    "size": 64
   },
   {
-    "name": "joschi/blueskyfeedbot",
-    "clone_url": "https://github.com/joschi/blueskyfeedbot.git",
-    "stars": 53,
-    "size": 999
+    "name": "flimsyoptimi/mpls",
+    "clone_url": "https://github.com/flimsyoptimi/mpls.git",
+    "stars": 102,
+    "size": 955
   }
 ]
