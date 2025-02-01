@@ -1,7 +1,7 @@
-# Latest Repositories (2025-01-29 .. 2025-01-31)
+# Latest Repositories (2025-01-30 .. 2025-02-01)
 
-- [Nabialam1789/Discord-AllinOne-Tool](https://github.com/Nabialam1789/Discord-AllinOne-Tool) (118)
-- [Ujjwal6u/apex-legends-cheat-download](https://github.com/Ujjwal6u/apex-legends-cheat-download) (118)
-- [Jle1596/Al-Photoshop-2024](https://github.com/Jle1596/Al-Photoshop-2024) (118)
-- [satwikpsp9/CosmicStar](https://github.com/satwikpsp9/CosmicStar) (118)
-- [SUKSTA/Dayz-Cheat-H4ck-A1mb0t](https://github.com/SUKSTA/Dayz-Cheat-H4ck-A1mb0t) (118)
+- [albertkd7/Exitlag-Free-2024](https://github.com/albertkd7/Exitlag-Free-2024) (229)
+- [Yurmakara96/f0rtnite-h4ck](https://github.com/Yurmakara96/f0rtnite-h4ck) (229)
+- [Castravel/IDM-Activation-Script-2024](https://github.com/Castravel/IDM-Activation-Script-2024) (229)
+- [Nabialam1789/Discord-AllinOne-Tool](https://github.com/Nabialam1789/Discord-AllinOne-Tool) (229)
+- [willy70625/Fl-Studio-2024](https://github.com/willy70625/Fl-Studio-2024) (229)
