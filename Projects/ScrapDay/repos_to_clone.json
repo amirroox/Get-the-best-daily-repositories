@@ -1,32 +1,32 @@
 [
   {
-    "name": "vinciop1/Luna-Executor",
-    "clone_url": "https://github.com/vinciop1/Luna-Executor.git",
-    "stars": 95,
-    "size": 776
+    "name": "nickscamara/open-deep-research",
+    "clone_url": "https://github.com/nickscamara/open-deep-research.git",
+    "stars": 173,
+    "size": 572
   },
   {
-    "name": "nizzyabi/mail",
-    "clone_url": "https://github.com/nizzyabi/mail.git",
-    "stars": 47,
-    "size": 103
+    "name": "mocki-toki/barik",
+    "clone_url": "https://github.com/mocki-toki/barik.git",
+    "stars": 29,
+    "size": 2155
   },
   {
-    "name": "Berusol/Xeno-Executor",
-    "clone_url": "https://github.com/Berusol/Xeno-Executor.git",
-    "stars": 19,
-    "size": 62
+    "name": "samueldr/nix-is-hard",
+    "clone_url": "https://github.com/samueldr/nix-is-hard.git",
+    "stars": 22,
+    "size": 139
   },
   {
-    "name": "nathannlu/aperture",
-    "clone_url": "https://github.com/nathannlu/aperture.git",
-    "stars": 18,
-    "size": 156
+    "name": "iidamie/deepseek2api",
+    "clone_url": "https://github.com/iidamie/deepseek2api.git",
+    "stars": 20,
+    "size": 2277
   },
   {
-    "name": "raffneptune/web23",
-    "clone_url": "https://github.com/raffneptune/web23.git",
+    "name": "elysiajs/json-accelerator",
+    "clone_url": "https://github.com/elysiajs/json-accelerator.git",
     "stars": 16,
-    "size": 240
+    "size": 67
   }
 ]

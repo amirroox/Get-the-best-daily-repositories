@@ -1,7 +1,7 @@
-# Latest Repositories (2025-02-01 .. 2025-02-03)
+# Latest Repositories (2025-02-02 .. 2025-02-04)
 
-- [vinciop1/Luna-Executor](https://github.com/vinciop1/Luna-Executor) (95)
-- [nizzyabi/mail](https://github.com/nizzyabi/mail) (47)
-- [Berusol/Xeno-Executor](https://github.com/Berusol/Xeno-Executor) (19)
-- [nathannlu/aperture](https://github.com/nathannlu/aperture) (18)
-- [raffneptune/web23](https://github.com/raffneptune/web23) (16)
+- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) (173)
+- [mocki-toki/barik](https://github.com/mocki-toki/barik) (29)
+- [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (22)
+- [iidamie/deepseek2api](https://github.com/iidamie/deepseek2api) (20)
+- [elysiajs/json-accelerator](https://github.com/elysiajs/json-accelerator) (16)
