@@ -1,7 +1,7 @@
-# Latest Repositories (2025-02-02 .. 2025-02-04)
+# Latest Repositories (2025-02-03 .. 2025-02-05)
 
-- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) (359)
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) (485)
+- [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (220)
+- [gina55s/freeddit](https://github.com/gina55s/freeddit) (112)
+- [hamitmizrak/ibb_ecodation_javacore](https://github.com/hamitmizrak/ibb_ecodation_javacore) (81)
 - [Shenovrtre/MEV-BOT-Ethereum](https://github.com/Shenovrtre/MEV-BOT-Ethereum) (63)
-- [iidamie/deepseek2api](https://github.com/iidamie/deepseek2api) (58)
-- [mocki-toki/barik](https://github.com/mocki-toki/barik) (42)
-- [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (23)

@@ -1,32 +1,32 @@
 [
   {
-    "name": "nickscamara/open-deep-research",
-    "clone_url": "https://github.com/nickscamara/open-deep-research.git",
-    "stars": 359,
-    "size": 572
+    "name": "dzhng/deep-research",
+    "clone_url": "https://github.com/dzhng/deep-research.git",
+    "stars": 485,
+    "size": 59
+  },
+  {
+    "name": "IsaacGemal/wikitok",
+    "clone_url": "https://github.com/IsaacGemal/wikitok.git",
+    "stars": 220,
+    "size": 63
+  },
+  {
+    "name": "gina55s/freeddit",
+    "clone_url": "https://github.com/gina55s/freeddit.git",
+    "stars": 112,
+    "size": 389
+  },
+  {
+    "name": "hamitmizrak/ibb_ecodation_javacore",
+    "clone_url": "https://github.com/hamitmizrak/ibb_ecodation_javacore.git",
+    "stars": 81,
+    "size": 173
   },
   {
     "name": "Shenovrtre/MEV-BOT-Ethereum",
     "clone_url": "https://github.com/Shenovrtre/MEV-BOT-Ethereum.git",
     "stars": 63,
-    "size": 180
-  },
-  {
-    "name": "iidamie/deepseek2api",
-    "clone_url": "https://github.com/iidamie/deepseek2api.git",
-    "stars": 58,
-    "size": 2015
-  },
-  {
-    "name": "mocki-toki/barik",
-    "clone_url": "https://github.com/mocki-toki/barik.git",
-    "stars": 42,
-    "size": 2155
-  },
-  {
-    "name": "samueldr/nix-is-hard",
-    "clone_url": "https://github.com/samueldr/nix-is-hard.git",
-    "stars": 23,
-    "size": 178
+    "size": 243
   }
 ]
