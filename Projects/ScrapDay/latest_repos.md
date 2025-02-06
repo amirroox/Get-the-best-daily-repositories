@@ -1,7 +1,7 @@
-# Latest Repositories (2025-02-03 .. 2025-02-05)
+# Latest Repositories (2025-02-04 .. 2025-02-06)
 
-- [dzhng/deep-research](https://github.com/dzhng/deep-research) (627)
-- [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (370)
-- [gina55s/freeddit](https://github.com/gina55s/freeddit) (112)
-- [hamitmizrak/ibb_ecodation_javacore](https://github.com/hamitmizrak/ibb_ecodation_javacore) (83)
-- [Shenovrtre/MEV-BOT-Ethereum](https://github.com/Shenovrtre/MEV-BOT-Ethereum) (63)
+- [XanderRavenCypher/blockseek](https://github.com/XanderRavenCypher/blockseek) (108)
+- [x86matthew/NES-Emulator](https://github.com/x86matthew/NES-Emulator) (63)
+- [BoltAI/OhOnePro](https://github.com/BoltAI/OhOnePro) (48)
+- [DarkWebInformer/FBI_Watchdog](https://github.com/DarkWebInformer/FBI_Watchdog) (41)
+- [Marc-Sol-degen/Raydium-sniper-bot](https://github.com/Marc-Sol-degen/Raydium-sniper-bot) (40)

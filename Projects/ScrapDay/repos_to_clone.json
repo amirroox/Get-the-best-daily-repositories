@@ -1,32 +1,32 @@
 [
   {
-    "name": "dzhng/deep-research",
-    "clone_url": "https://github.com/dzhng/deep-research.git",
-    "stars": 627,
-    "size": 59
+    "name": "XanderRavenCypher/blockseek",
+    "clone_url": "https://github.com/XanderRavenCypher/blockseek.git",
+    "stars": 108,
+    "size": 146
   },
   {
-    "name": "IsaacGemal/wikitok",
-    "clone_url": "https://github.com/IsaacGemal/wikitok.git",
-    "stars": 370,
-    "size": 63
-  },
-  {
-    "name": "gina55s/freeddit",
-    "clone_url": "https://github.com/gina55s/freeddit.git",
-    "stars": 112,
-    "size": 389
-  },
-  {
-    "name": "hamitmizrak/ibb_ecodation_javacore",
-    "clone_url": "https://github.com/hamitmizrak/ibb_ecodation_javacore.git",
-    "stars": 83,
-    "size": 173
-  },
-  {
-    "name": "Shenovrtre/MEV-BOT-Ethereum",
-    "clone_url": "https://github.com/Shenovrtre/MEV-BOT-Ethereum.git",
+    "name": "x86matthew/NES-Emulator",
+    "clone_url": "https://github.com/x86matthew/NES-Emulator.git",
     "stars": 63,
-    "size": 299
+    "size": 148
+  },
+  {
+    "name": "BoltAI/OhOnePro",
+    "clone_url": "https://github.com/BoltAI/OhOnePro.git",
+    "stars": 48,
+    "size": 70
+  },
+  {
+    "name": "DarkWebInformer/FBI_Watchdog",
+    "clone_url": "https://github.com/DarkWebInformer/FBI_Watchdog.git",
+    "stars": 41,
+    "size": 3327
+  },
+  {
+    "name": "Marc-Sol-degen/Raydium-sniper-bot",
+    "clone_url": "https://github.com/Marc-Sol-degen/Raydium-sniper-bot.git",
+    "stars": 40,
+    "size": 51
   }
 ]
