@@ -2,31 +2,31 @@
   {
     "name": "XanderRavenCypher/blockseek",
     "clone_url": "https://github.com/XanderRavenCypher/blockseek.git",
-    "stars": 108,
+    "stars": 237,
     "size": 146
-  },
-  {
-    "name": "x86matthew/NES-Emulator",
-    "clone_url": "https://github.com/x86matthew/NES-Emulator.git",
-    "stars": 63,
-    "size": 148
-  },
-  {
-    "name": "BoltAI/OhOnePro",
-    "clone_url": "https://github.com/BoltAI/OhOnePro.git",
-    "stars": 48,
-    "size": 70
-  },
-  {
-    "name": "DarkWebInformer/FBI_Watchdog",
-    "clone_url": "https://github.com/DarkWebInformer/FBI_Watchdog.git",
-    "stars": 41,
-    "size": 3327
   },
   {
     "name": "Marc-Sol-degen/Raydium-sniper-bot",
     "clone_url": "https://github.com/Marc-Sol-degen/Raydium-sniper-bot.git",
-    "stars": 40,
+    "stars": 160,
     "size": 51
+  },
+  {
+    "name": "x86matthew/NES-Emulator",
+    "clone_url": "https://github.com/x86matthew/NES-Emulator.git",
+    "stars": 81,
+    "size": 148
+  },
+  {
+    "name": "DarkWebInformer/FBI_Watchdog",
+    "clone_url": "https://github.com/DarkWebInformer/FBI_Watchdog.git",
+    "stars": 73,
+    "size": 3327
+  },
+  {
+    "name": "BoltAI/OhOnePro",
+    "clone_url": "https://github.com/BoltAI/OhOnePro.git",
+    "stars": 61,
+    "size": 70
   }
 ]
