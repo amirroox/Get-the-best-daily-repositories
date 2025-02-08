@@ -1,7 +1,7 @@
 # Latest Repositories (2025-02-06 .. 2025-02-08)
 
-- [Salendor5i/MEV_BOT-SOLANA](https://github.com/Salendor5i/MEV_BOT-SOLANA) (135)
-- [saulamsal/apple-sports-menu](https://github.com/saulamsal/apple-sports-menu) (68)
-- [jubilantmaga/render-template](https://github.com/jubilantmaga/render-template) (62)
-- [variablerheum/gpterm](https://github.com/variablerheum/gpterm) (47)
-- [pig-mesh/deepseek4j](https://github.com/pig-mesh/deepseek4j) (38)
+- [Salendor5i/MEV_BOT-SOLANA](https://github.com/Salendor5i/MEV_BOT-SOLANA) (139)
+- [variablerheum/gpterm](https://github.com/variablerheum/gpterm) (107)
+- [mihomo-purity/mihomo-purity](https://github.com/mihomo-purity/mihomo-purity) (102)
+- [troubledbel/coraza-coreruleset](https://github.com/troubledbel/coraza-coreruleset) (101)
+- [smthemex/ComfyUI_Sonic](https://github.com/smthemex/ComfyUI_Sonic) (87)
