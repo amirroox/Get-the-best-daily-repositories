@@ -1,7 +1,7 @@
-# Latest Repositories (2025-02-05 .. 2025-02-07)
+# Latest Repositories (2025-02-06 .. 2025-02-08)
 
-- [Arvelionqw/MEV_BOT-SOLANA](https://github.com/Arvelionqw/MEV_BOT-SOLANA) (131)
-- [worthwhilei/bq-utilization-alerts](https://github.com/worthwhilei/bq-utilization-alerts) (110)
-- [unwillingaut/mt-multiserver-proxy](https://github.com/unwillingaut/mt-multiserver-proxy) (108)
-- [wigglylashe/sentry-mattermost-sidecar](https://github.com/wigglylashe/sentry-mattermost-sidecar) (107)
-- [jitteryappear/xk6-output-statsd](https://github.com/jitteryappear/xk6-output-statsd) (105)
+- [Salendor5i/MEV_BOT-SOLANA](https://github.com/Salendor5i/MEV_BOT-SOLANA) (135)
+- [saulamsal/apple-sports-menu](https://github.com/saulamsal/apple-sports-menu) (68)
+- [jubilantmaga/render-template](https://github.com/jubilantmaga/render-template) (62)
+- [variablerheum/gpterm](https://github.com/variablerheum/gpterm) (47)
+- [pig-mesh/deepseek4j](https://github.com/pig-mesh/deepseek4j) (38)
