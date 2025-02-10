@@ -6,10 +6,16 @@
     "size": 76
   },
   {
-    "name": "Vornethod/MEV-BOT-SOLANA",
-    "clone_url": "https://github.com/Vornethod/MEV-BOT-SOLANA.git",
-    "stars": 134,
-    "size": 82
+    "name": "thatvoyage/raink",
+    "clone_url": "https://github.com/thatvoyage/raink.git",
+    "stars": 138,
+    "size": 296
+  },
+  {
+    "name": "whisperedimpe/node-gizmo",
+    "clone_url": "https://github.com/whisperedimpe/node-gizmo.git",
+    "stars": 136,
+    "size": 410
   },
   {
     "name": "satisfiedmen/eddy",
@@ -22,11 +28,5 @@
     "clone_url": "https://github.com/violenttrophy/InnovationEngine.git",
     "stars": 132,
     "size": 97
-  },
-  {
-    "name": "pointedquinoa/eggql",
-    "clone_url": "https://github.com/pointedquinoa/eggql.git",
-    "stars": 128,
-    "size": 137
   }
 ]
