@@ -1,7 +1,7 @@
-# Latest Repositories (2025-02-07 .. 2025-02-09)
+# Latest Repositories (2025-02-08 .. 2025-02-10)
 
-- [Xylino/Spotify-Premium-for-free-2024](https://github.com/Xylino/Spotify-Premium-for-free-2024) (687)
-- [boku7/StringReaper](https://github.com/boku7/StringReaper) (114)
-- [Genesis-Agentic/Genesis](https://github.com/Genesis-Agentic/Genesis) (77)
-- [developedbyed/react-gradient-glow](https://github.com/developedbyed/react-gradient-glow) (54)
-- [WildBerry67/wildberry](https://github.com/WildBerry67/wildberry) (29)
+- [shallowrais/aws-nlb-helper-operator](https://github.com/shallowrais/aws-nlb-helper-operator) (139)
+- [Vornethod/MEV-BOT-SOLANA](https://github.com/Vornethod/MEV-BOT-SOLANA) (134)
+- [satisfiedmen/eddy](https://github.com/satisfiedmen/eddy) (132)
+- [violenttrophy/InnovationEngine](https://github.com/violenttrophy/InnovationEngine) (132)
+- [pointedquinoa/eggql](https://github.com/pointedquinoa/eggql) (128)
