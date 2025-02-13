@@ -1,32 +1,32 @@
 [
   {
-    "name": "tar-ser/Whale-DEX-Trading-Tool",
-    "clone_url": "https://github.com/tar-ser/Whale-DEX-Trading-Tool.git",
-    "stars": 513,
-    "size": 205
+    "name": "Eclipse-Hub/eclipse",
+    "clone_url": "https://github.com/Eclipse-Hub/eclipse.git",
+    "stars": 64,
+    "size": 221
   },
   {
-    "name": "tediouscrunch/mt-multiserver-proxy",
-    "clone_url": "https://github.com/tediouscrunch/mt-multiserver-proxy.git",
-    "stars": 125,
-    "size": 178
+    "name": "Eclipse-Hub/eclipse-handlers",
+    "clone_url": "https://github.com/Eclipse-Hub/eclipse-handlers.git",
+    "stars": 43,
+    "size": 219
   },
   {
-    "name": "wickedpresu/go-client",
-    "clone_url": "https://github.com/wickedpresu/go-client.git",
-    "stars": 125,
-    "size": 89
+    "name": "uehara-mech/gpu-aquarium",
+    "clone_url": "https://github.com/uehara-mech/gpu-aquarium.git",
+    "stars": 26,
+    "size": 541
   },
   {
-    "name": "wholestorag/opentelemetry-operator-sample",
-    "clone_url": "https://github.com/wholestorag/opentelemetry-operator-sample.git",
-    "stars": 119,
-    "size": 137
+    "name": "Eclipse-Hub/eclipse-examples",
+    "clone_url": "https://github.com/Eclipse-Hub/eclipse-examples.git",
+    "stars": 22,
+    "size": 4018
   },
   {
-    "name": "miserlyquesti/TSS",
-    "clone_url": "https://github.com/miserlyquesti/TSS.git",
-    "stars": 116,
-    "size": 489
+    "name": "MrAminiDev/Tabchi-Mokhber",
+    "clone_url": "https://github.com/MrAminiDev/Tabchi-Mokhber.git",
+    "stars": 15,
+    "size": 115
   }
 ]
