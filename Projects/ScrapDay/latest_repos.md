@@ -1,7 +1,7 @@
-# Latest Repositories (2025-02-11 .. 2025-02-13)
+# Latest Repositories (2025-02-12 .. 2025-02-14)
 
-- [Eclipse-Hub/eclipse](https://github.com/Eclipse-Hub/eclipse) (64)
-- [Eclipse-Hub/eclipse-handlers](https://github.com/Eclipse-Hub/eclipse-handlers) (43)
-- [uehara-mech/gpu-aquarium](https://github.com/uehara-mech/gpu-aquarium) (38)
-- [raysan5/custom_game_engines](https://github.com/raysan5/custom_game_engines) (27)
-- [Eclipse-Hub/eclipse-examples](https://github.com/Eclipse-Hub/eclipse-examples) (22)
+- [raysan5/custom_game_engines](https://github.com/raysan5/custom_game_engines) (71)
+- [Ebrizzzz/Youtube-playlist-to-formatted-text](https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text) (61)
+- [TideDra/lmm-r1](https://github.com/TideDra/lmm-r1) (27)
+- [MattBlackOnly/SpotSpot](https://github.com/MattBlackOnly/SpotSpot) (16)
+- [airdropinsiders/Hivello-Auto-Bot](https://github.com/airdropinsiders/Hivello-Auto-Bot) (16)
