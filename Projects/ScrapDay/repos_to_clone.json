@@ -1,32 +1,32 @@
 [
   {
+    "name": "Tyranelzvi/MEV-BOT-SOLANA",
+    "clone_url": "https://github.com/Tyranelzvi/MEV-BOT-SOLANA.git",
+    "stars": 92,
+    "size": 56
+  },
+  {
     "name": "raysan5/custom_game_engines",
     "clone_url": "https://github.com/raysan5/custom_game_engines.git",
-    "stars": 71,
+    "stars": 86,
     "size": 110
   },
   {
     "name": "Ebrizzzz/Youtube-playlist-to-formatted-text",
     "clone_url": "https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text.git",
-    "stars": 61,
+    "stars": 83,
     "size": 543
   },
   {
     "name": "TideDra/lmm-r1",
     "clone_url": "https://github.com/TideDra/lmm-r1.git",
-    "stars": 27,
-    "size": 2163
+    "stars": 77,
+    "size": 2835
   },
   {
-    "name": "MattBlackOnly/SpotSpot",
-    "clone_url": "https://github.com/MattBlackOnly/SpotSpot.git",
-    "stars": 16,
-    "size": 961
-  },
-  {
-    "name": "airdropinsiders/Hivello-Auto-Bot",
-    "clone_url": "https://github.com/airdropinsiders/Hivello-Auto-Bot.git",
-    "stars": 16,
-    "size": 146
+    "name": "Bald0Wang/DeepSeek-Oracle",
+    "clone_url": "https://github.com/Bald0Wang/DeepSeek-Oracle.git",
+    "stars": 37,
+    "size": 2631
   }
 ]
