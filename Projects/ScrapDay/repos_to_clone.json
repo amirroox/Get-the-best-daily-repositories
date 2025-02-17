@@ -1,32 +1,32 @@
 [
   {
-    "name": "ccbikai/hacker-news",
-    "clone_url": "https://github.com/ccbikai/hacker-news.git",
-    "stars": 406,
-    "size": 230
-  },
-  {
-    "name": "4Tyroneth6Xs/Solana-Mev_Bot",
-    "clone_url": "https://github.com/4Tyroneth6Xs/Solana-Mev_Bot.git",
-    "stars": 204,
-    "size": 344
-  },
-  {
     "name": "addyosmani/tunnel-bear-login",
     "clone_url": "https://github.com/addyosmani/tunnel-bear-login.git",
-    "stars": 93,
-    "size": 218
+    "stars": 201,
+    "size": 280
   },
   {
-    "name": "t3dotgg/unduck",
-    "clone_url": "https://github.com/t3dotgg/unduck.git",
-    "stars": 93,
-    "size": 1159
+    "name": "CodeXTF2/WebcamBOF",
+    "clone_url": "https://github.com/CodeXTF2/WebcamBOF.git",
+    "stars": 26,
+    "size": 193
   },
   {
-    "name": "37tt/tang-love",
-    "clone_url": "https://github.com/37tt/tang-love.git",
-    "stars": 46,
-    "size": 190
+    "name": "mallahyari/nova-assistant",
+    "clone_url": "https://github.com/mallahyari/nova-assistant.git",
+    "stars": 26,
+    "size": 158
+  },
+  {
+    "name": "c7w/papersgpt-for-zotero-sidebar",
+    "clone_url": "https://github.com/c7w/papersgpt-for-zotero-sidebar.git",
+    "stars": 25,
+    "size": 2653
+  },
+  {
+    "name": "HKUDS/Auto-Deep-Research",
+    "clone_url": "https://github.com/HKUDS/Auto-Deep-Research.git",
+    "stars": 23,
+    "size": 1027
   }
 ]
