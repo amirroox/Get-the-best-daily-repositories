@@ -1,32 +1,32 @@
 [
   {
-    "name": "addyosmani/tunnel-bear-login",
-    "clone_url": "https://github.com/addyosmani/tunnel-bear-login.git",
-    "stars": 231,
-    "size": 280
-  },
-  {
     "name": "antfu/shiki-stream",
     "clone_url": "https://github.com/antfu/shiki-stream.git",
-    "stars": 69,
-    "size": 208
+    "stars": 229,
+    "size": 212
   },
   {
-    "name": "yfzhang114/MM-RLHF",
-    "clone_url": "https://github.com/yfzhang114/MM-RLHF.git",
-    "stars": 65,
-    "size": 3658
+    "name": "dotnetfactory/fluid-calendar",
+    "clone_url": "https://github.com/dotnetfactory/fluid-calendar.git",
+    "stars": 128,
+    "size": 227
   },
   {
-    "name": "coleam00/local-ai-packaged",
-    "clone_url": "https://github.com/coleam00/local-ai-packaged.git",
-    "stars": 56,
-    "size": 3996
+    "name": "solanamark0/pump-fun-bot",
+    "clone_url": "https://github.com/solanamark0/pump-fun-bot.git",
+    "stars": 55,
+    "size": 571
   },
   {
-    "name": "BlueSkyXN/DeepAI",
-    "clone_url": "https://github.com/BlueSkyXN/DeepAI.git",
-    "stars": 52,
-    "size": 131
+    "name": "cromsdevrb/xeno-executor",
+    "clone_url": "https://github.com/cromsdevrb/xeno-executor.git",
+    "stars": 46,
+    "size": 205
+  },
+  {
+    "name": "MindScape-Lab/Marsai",
+    "clone_url": "https://github.com/MindScape-Lab/Marsai.git",
+    "stars": 39,
+    "size": 69
   }
 ]
