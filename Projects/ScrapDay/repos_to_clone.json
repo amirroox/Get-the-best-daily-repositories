@@ -1,32 +1,32 @@
 [
   {
-    "name": "antfu/shiki-stream",
-    "clone_url": "https://github.com/antfu/shiki-stream.git",
-    "stars": 308,
-    "size": 404
-  },
-  {
-    "name": "dotnetfactory/fluid-calendar",
-    "clone_url": "https://github.com/dotnetfactory/fluid-calendar.git",
-    "stars": 160,
-    "size": 316
-  },
-  {
     "name": "Norinthkm/Mev-Bot_SOLANA",
     "clone_url": "https://github.com/Norinthkm/Mev-Bot_SOLANA.git",
-    "stars": 144,
-    "size": 111
+    "stars": 202,
+    "size": 222
   },
   {
-    "name": "MoonshotAI/MoBA",
-    "clone_url": "https://github.com/MoonshotAI/MoBA.git",
-    "stars": 107,
-    "size": 2270
+    "name": "Hurley-AI/Hurley-AI",
+    "clone_url": "https://github.com/Hurley-AI/Hurley-AI.git",
+    "stars": 36,
+    "size": 1027
   },
   {
-    "name": "straightpup/eddy",
-    "clone_url": "https://github.com/straightpup/eddy.git",
-    "stars": 81,
-    "size": 93
+    "name": "yibie/Copy-as-org-mode-chrome",
+    "clone_url": "https://github.com/yibie/Copy-as-org-mode-chrome.git",
+    "stars": 17,
+    "size": 242
+  },
+  {
+    "name": "Vector1002/blockchain",
+    "clone_url": "https://github.com/Vector1002/blockchain.git",
+    "stars": 17,
+    "size": 192
+  },
+  {
+    "name": "airdropinsiders/Gata-Auto-Bot",
+    "clone_url": "https://github.com/airdropinsiders/Gata-Auto-Bot.git",
+    "stars": 16,
+    "size": 60
   }
 ]

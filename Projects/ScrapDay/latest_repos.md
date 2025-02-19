@@ -1,7 +1,7 @@
-# Latest Repositories (2025-02-16 .. 2025-02-18)
+# Latest Repositories (2025-02-17 .. 2025-02-19)
 
-- [antfu/shiki-stream](https://github.com/antfu/shiki-stream) (308)
-- [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) (160)
-- [Norinthkm/Mev-Bot_SOLANA](https://github.com/Norinthkm/Mev-Bot_SOLANA) (144)
-- [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) (107)
-- [straightpup/eddy](https://github.com/straightpup/eddy) (81)
+- [Norinthkm/Mev-Bot_SOLANA](https://github.com/Norinthkm/Mev-Bot_SOLANA) (202)
+- [Hurley-AI/Hurley-AI](https://github.com/Hurley-AI/Hurley-AI) (36)
+- [yibie/Copy-as-org-mode-chrome](https://github.com/yibie/Copy-as-org-mode-chrome) (17)
+- [Vector1002/blockchain](https://github.com/Vector1002/blockchain) (17)
+- [airdropinsiders/Gata-Auto-Bot](https://github.com/airdropinsiders/Gata-Auto-Bot) (16)
