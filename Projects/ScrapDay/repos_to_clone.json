@@ -2,31 +2,31 @@
   {
     "name": "Norinthkm/Mev-Bot_SOLANA",
     "clone_url": "https://github.com/Norinthkm/Mev-Bot_SOLANA.git",
-    "stars": 202,
-    "size": 222
+    "stars": 265,
+    "size": 314
+  },
+  {
+    "name": "HiveNexus/HiveChat",
+    "clone_url": "https://github.com/HiveNexus/HiveChat.git",
+    "stars": 154,
+    "size": 483
+  },
+  {
+    "name": "lucidrains/native-sparse-attention-pytorch",
+    "clone_url": "https://github.com/lucidrains/native-sparse-attention-pytorch.git",
+    "stars": 128,
+    "size": 249
   },
   {
     "name": "Hurley-AI/Hurley-AI",
     "clone_url": "https://github.com/Hurley-AI/Hurley-AI.git",
-    "stars": 36,
+    "stars": 50,
     "size": 1027
   },
   {
-    "name": "yibie/Copy-as-org-mode-chrome",
-    "clone_url": "https://github.com/yibie/Copy-as-org-mode-chrome.git",
-    "stars": 17,
-    "size": 242
-  },
-  {
-    "name": "Vector1002/blockchain",
-    "clone_url": "https://github.com/Vector1002/blockchain.git",
-    "stars": 17,
-    "size": 192
-  },
-  {
-    "name": "airdropinsiders/Gata-Auto-Bot",
-    "clone_url": "https://github.com/airdropinsiders/Gata-Auto-Bot.git",
-    "stars": 16,
-    "size": 60
+    "name": "setube/vue-idle-xiuxian",
+    "clone_url": "https://github.com/setube/vue-idle-xiuxian.git",
+    "stars": 42,
+    "size": 770
   }
 ]
