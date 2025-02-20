@@ -2,31 +2,31 @@
   {
     "name": "HiveNexus/HiveChat",
     "clone_url": "https://github.com/HiveNexus/HiveChat.git",
-    "stars": 364,
-    "size": 496
+    "stars": 465,
+    "size": 499
   },
   {
-    "name": "mtfuji25/shredstream-sniper",
-    "clone_url": "https://github.com/mtfuji25/shredstream-sniper.git",
-    "stars": 31,
-    "size": 90
+    "name": "Dhravya/apple-mcp",
+    "clone_url": "https://github.com/Dhravya/apple-mcp.git",
+    "stars": 119,
+    "size": 51
+  },
+  {
+    "name": "jarrodnorwell/rpcs3droid",
+    "clone_url": "https://github.com/jarrodnorwell/rpcs3droid.git",
+    "stars": 44,
+    "size": 4576
+  },
+  {
+    "name": "OpenSparseLLMs/MoM",
+    "clone_url": "https://github.com/OpenSparseLLMs/MoM.git",
+    "stars": 36,
+    "size": 748
   },
   {
     "name": "fal-ai-community/NativeSparseAttention",
     "clone_url": "https://github.com/fal-ai-community/NativeSparseAttention.git",
-    "stars": 29,
+    "stars": 35,
     "size": 101
-  },
-  {
-    "name": "stcoid1/Grok-3",
-    "clone_url": "https://github.com/stcoid1/Grok-3.git",
-    "stars": 29,
-    "size": 1023
-  },
-  {
-    "name": "javiersteven0612/ts-express",
-    "clone_url": "https://github.com/javiersteven0612/ts-express.git",
-    "stars": 27,
-    "size": 1342
   }
 ]

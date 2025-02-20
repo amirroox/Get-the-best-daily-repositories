@@ -1,7 +1,7 @@
 # Latest Repositories (2025-02-18 .. 2025-02-20)
 
-- [HiveNexus/HiveChat](https://github.com/HiveNexus/HiveChat) (364)
-- [mtfuji25/shredstream-sniper](https://github.com/mtfuji25/shredstream-sniper) (31)
-- [fal-ai-community/NativeSparseAttention](https://github.com/fal-ai-community/NativeSparseAttention) (29)
-- [stcoid1/Grok-3](https://github.com/stcoid1/Grok-3) (29)
-- [javiersteven0612/ts-express](https://github.com/javiersteven0612/ts-express) (27)
+- [HiveNexus/HiveChat](https://github.com/HiveNexus/HiveChat) (465)
+- [Dhravya/apple-mcp](https://github.com/Dhravya/apple-mcp) (119)
+- [jarrodnorwell/rpcs3droid](https://github.com/jarrodnorwell/rpcs3droid) (44)
+- [OpenSparseLLMs/MoM](https://github.com/OpenSparseLLMs/MoM) (36)
+- [fal-ai-community/NativeSparseAttention](https://github.com/fal-ai-community/NativeSparseAttention) (35)
