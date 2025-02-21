@@ -1,32 +1,32 @@
 [
   {
+    "name": "jackfriks/expo-app-boilerplate",
+    "clone_url": "https://github.com/jackfriks/expo-app-boilerplate.git",
+    "stars": 80,
+    "size": 772
+  },
+  {
+    "name": "zzzdajb/DickHelper",
+    "clone_url": "https://github.com/zzzdajb/DickHelper.git",
+    "stars": 60,
+    "size": 114
+  },
+  {
     "name": "HumanAIGC-Engineering/OpenAvatarChat",
     "clone_url": "https://github.com/HumanAIGC-Engineering/OpenAvatarChat.git",
-    "stars": 33,
+    "stars": 53,
     "size": 67
   },
   {
     "name": "cbh34680/WinCse",
     "clone_url": "https://github.com/cbh34680/WinCse.git",
-    "stars": 30,
-    "size": 84
+    "stars": 40,
+    "size": 86
   },
   {
     "name": "FradSer/qa-generator",
     "clone_url": "https://github.com/FradSer/qa-generator.git",
-    "stars": 28,
-    "size": 104
-  },
-  {
-    "name": "jackfriks/expo-app-boilerplate",
-    "clone_url": "https://github.com/jackfriks/expo-app-boilerplate.git",
-    "stars": 23,
-    "size": 772
-  },
-  {
-    "name": "top-bot-developer/pump-fun-sniper-bot",
-    "clone_url": "https://github.com/top-bot-developer/pump-fun-sniper-bot.git",
-    "stars": 18,
-    "size": 69
+    "stars": 39,
+    "size": 146
   }
 ]
