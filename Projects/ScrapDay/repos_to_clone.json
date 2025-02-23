@@ -1,32 +1,32 @@
 [
   {
+    "name": "MoonshotAI/Moonlight",
+    "clone_url": "https://github.com/MoonshotAI/Moonlight.git",
+    "stars": 388,
+    "size": 2765
+  },
+  {
     "name": "Zalithorbp/BNB-Smart-Mev-Bot",
     "clone_url": "https://github.com/Zalithorbp/BNB-Smart-Mev-Bot.git",
     "stars": 180,
-    "size": 150
+    "size": 226
   },
   {
-    "name": "MoonshotAI/Moonlight",
-    "clone_url": "https://github.com/MoonshotAI/Moonlight.git",
-    "stars": 111,
-    "size": 2760
+    "name": "weepyairfor/terraform-provider-dokku",
+    "clone_url": "https://github.com/weepyairfor/terraform-provider-dokku.git",
+    "stars": 70,
+    "size": 76
   },
   {
-    "name": "Hipxel-dev/HipOS",
-    "clone_url": "https://github.com/Hipxel-dev/HipOS.git",
-    "stars": 27,
-    "size": 94
+    "name": "antfu/quansync",
+    "clone_url": "https://github.com/antfu/quansync.git",
+    "stars": 59,
+    "size": 77
   },
   {
-    "name": "devhorse99/next.js-blog-app",
-    "clone_url": "https://github.com/devhorse99/next.js-blog-app.git",
-    "stars": 19,
-    "size": 2875
-  },
-  {
-    "name": "hiyouga/EasyR1",
-    "clone_url": "https://github.com/hiyouga/EasyR1.git",
-    "stars": 18,
-    "size": 206
+    "name": "wornlarder/noe",
+    "clone_url": "https://github.com/wornlarder/noe.git",
+    "stars": 53,
+    "size": 98
   }
 ]
