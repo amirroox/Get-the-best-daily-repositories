@@ -1,7 +1,7 @@
-# Latest Repositories (2025-02-21 .. 2025-02-23)
+# Latest Repositories (2025-02-22 .. 2025-02-24)
 
-- [MoonshotAI/Moonlight](https://github.com/MoonshotAI/Moonlight) (388)
-- [Zalithorbp/BNB-Smart-Mev-Bot](https://github.com/Zalithorbp/BNB-Smart-Mev-Bot) (180)
-- [weepyairfor/terraform-provider-dokku](https://github.com/weepyairfor/terraform-provider-dokku) (70)
-- [antfu/quansync](https://github.com/antfu/quansync) (59)
-- [wornlarder/noe](https://github.com/wornlarder/noe) (53)
+- [antfu/quansync](https://github.com/antfu/quansync) (99)
+- [tigerabrodi/sakuraflow](https://github.com/tigerabrodi/sakuraflow) (56)
+- [glinford/dns-easy-switcher](https://github.com/glinford/dns-easy-switcher) (41)
+- [AprilNEA/vmboard](https://github.com/AprilNEA/vmboard) (26)
+- [daboynb/Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) (16)
