@@ -2,31 +2,31 @@
   {
     "name": "antfu/quansync",
     "clone_url": "https://github.com/antfu/quansync.git",
-    "stars": 99,
-    "size": 77
+    "stars": 118,
+    "size": 92
+  },
+  {
+    "name": "Quorina2/Arbitrage-Mev-Bot",
+    "clone_url": "https://github.com/Quorina2/Arbitrage-Mev-Bot.git",
+    "stars": 94,
+    "size": 72
   },
   {
     "name": "tigerabrodi/sakuraflow",
     "clone_url": "https://github.com/tigerabrodi/sakuraflow.git",
-    "stars": 56,
+    "stars": 77,
     "size": 63
   },
   {
     "name": "glinford/dns-easy-switcher",
     "clone_url": "https://github.com/glinford/dns-easy-switcher.git",
-    "stars": 41,
+    "stars": 54,
     "size": 3263
   },
   {
-    "name": "AprilNEA/vmboard",
-    "clone_url": "https://github.com/AprilNEA/vmboard.git",
-    "stars": 26,
-    "size": 469
-  },
-  {
-    "name": "daboynb/Safetycore-placeholder",
-    "clone_url": "https://github.com/daboynb/Safetycore-placeholder.git",
-    "stars": 16,
-    "size": 104
+    "name": "danieaneta/Web-App-Builders-Bootcamp",
+    "clone_url": "https://github.com/danieaneta/Web-App-Builders-Bootcamp.git",
+    "stars": 54,
+    "size": 442
   }
 ]
