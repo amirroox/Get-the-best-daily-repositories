@@ -1,7 +1,7 @@
-# Latest Repositories (2025-02-22 .. 2025-02-24)
+# Latest Repositories (2025-02-23 .. 2025-02-25)
 
-- [antfu/quansync](https://github.com/antfu/quansync) (118)
-- [Quorina2/Arbitrage-Mev-Bot](https://github.com/Quorina2/Arbitrage-Mev-Bot) (94)
-- [tigerabrodi/sakuraflow](https://github.com/tigerabrodi/sakuraflow) (77)
-- [glinford/dns-easy-switcher](https://github.com/glinford/dns-easy-switcher) (54)
-- [danieaneta/Web-App-Builders-Bootcamp](https://github.com/danieaneta/Web-App-Builders-Bootcamp) (54)
+- [Quorina2/Arbitrage-Mev-Bot](https://github.com/Quorina2/Arbitrage-Mev-Bot) (95)
+- [hankrbdev/xeno-executor-free](https://github.com/hankrbdev/xeno-executor-free) (58)
+- [hankrbdev/Luna-Executor](https://github.com/hankrbdev/Luna-Executor) (56)
+- [yangleicms/DeepVanDoc](https://github.com/yangleicms/DeepVanDoc) (45)
+- [AsharibAli/q3-giaic-monday](https://github.com/AsharibAli/q3-giaic-monday) (30)
