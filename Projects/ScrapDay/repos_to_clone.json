@@ -1,9 +1,21 @@
 [
   {
+    "name": "yangleicms/DeepVanDoc",
+    "clone_url": "https://github.com/yangleicms/DeepVanDoc.git",
+    "stars": 102,
+    "size": 489
+  },
+  {
     "name": "Quorina2/Arbitrage-Mev-Bot",
     "clone_url": "https://github.com/Quorina2/Arbitrage-Mev-Bot.git",
-    "stars": 95,
-    "size": 168
+    "stars": 94,
+    "size": 240
+  },
+  {
+    "name": "forrany/Awesome-Ollama-Server",
+    "clone_url": "https://github.com/forrany/Awesome-Ollama-Server.git",
+    "stars": 63,
+    "size": 222
   },
   {
     "name": "hankrbdev/xeno-executor-free",
@@ -16,17 +28,5 @@
     "clone_url": "https://github.com/hankrbdev/Luna-Executor.git",
     "stars": 56,
     "size": 773
-  },
-  {
-    "name": "yangleicms/DeepVanDoc",
-    "clone_url": "https://github.com/yangleicms/DeepVanDoc.git",
-    "stars": 45,
-    "size": 489
-  },
-  {
-    "name": "AsharibAli/q3-giaic-monday",
-    "clone_url": "https://github.com/AsharibAli/q3-giaic-monday.git",
-    "stars": 30,
-    "size": 66
   }
 ]
