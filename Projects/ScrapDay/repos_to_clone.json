@@ -2,31 +2,31 @@
   {
     "name": "deepseek-ai/DualPipe",
     "clone_url": "https://github.com/deepseek-ai/DualPipe.git",
-    "stars": 365,
-    "size": 84
+    "stars": 1620,
+    "size": 88
   },
   {
     "name": "deepseek-ai/profile-data",
     "clone_url": "https://github.com/deepseek-ai/profile-data.git",
-    "stars": 106,
-    "size": 2307
+    "stars": 493,
+    "size": 2187
+  },
+  {
+    "name": "context-labs/autodelve",
+    "clone_url": "https://github.com/context-labs/autodelve.git",
+    "stars": 97,
+    "size": 57
   },
   {
     "name": "Wack0/entii-for-workcubes",
     "clone_url": "https://github.com/Wack0/entii-for-workcubes.git",
-    "stars": 55,
+    "stars": 95,
     "size": 4064
   },
   {
-    "name": "whozkarma/Discord-Promotion-Redeemer",
-    "clone_url": "https://github.com/whozkarma/Discord-Promotion-Redeemer.git",
-    "stars": 48,
-    "size": 67
-  },
-  {
-    "name": "S3cur3Th1sSh1t/My-starred-Repositories",
-    "clone_url": "https://github.com/S3cur3Th1sSh1t/My-starred-Repositories.git",
-    "stars": 20,
-    "size": 104
+    "name": "MekkCyber/CutlassAcademy",
+    "clone_url": "https://github.com/MekkCyber/CutlassAcademy.git",
+    "stars": 89,
+    "size": 1337
   }
 ]
