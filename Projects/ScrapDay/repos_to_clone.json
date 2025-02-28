@@ -2,31 +2,31 @@
   {
     "name": "ShenSeanChen/yt-stripe-nextjs-supabase",
     "clone_url": "https://github.com/ShenSeanChen/yt-stripe-nextjs-supabase.git",
-    "stars": 115,
+    "stars": 218,
     "size": 187
+  },
+  {
+    "name": "Jiang-Yidi/UniCodec",
+    "clone_url": "https://github.com/Jiang-Yidi/UniCodec.git",
+    "stars": 48,
+    "size": 1438
+  },
+  {
+    "name": "DEEP-IOS/cosmos-ai",
+    "clone_url": "https://github.com/DEEP-IOS/cosmos-ai.git",
+    "stars": 39,
+    "size": 2242
   },
   {
     "name": "hanxunyu/Inst3D-LMM",
     "clone_url": "https://github.com/hanxunyu/Inst3D-LMM.git",
-    "stars": 31,
+    "stars": 34,
     "size": 2234
   },
   {
-    "name": "TuralSuleymani/activity-analytics-microservices-app",
-    "clone_url": "https://github.com/TuralSuleymani/activity-analytics-microservices-app.git",
-    "stars": 28,
-    "size": 675
-  },
-  {
-    "name": "dashpilot/alpinejs-page-editor",
-    "clone_url": "https://github.com/dashpilot/alpinejs-page-editor.git",
-    "stars": 26,
-    "size": 319
-  },
-  {
-    "name": "tech-shrimp/grok-playground",
-    "clone_url": "https://github.com/tech-shrimp/grok-playground.git",
-    "stars": 23,
-    "size": 435
+    "name": "MrAle98/CVE-2025-21333-POC",
+    "clone_url": "https://github.com/MrAle98/CVE-2025-21333-POC.git",
+    "stars": 33,
+    "size": 51
   }
 ]
