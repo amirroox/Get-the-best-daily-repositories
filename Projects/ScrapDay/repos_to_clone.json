@@ -1,32 +1,32 @@
 [
   {
-    "name": "deepseek-ai/DualPipe",
-    "clone_url": "https://github.com/deepseek-ai/DualPipe.git",
-    "stars": 1620,
-    "size": 88
+    "name": "ShenSeanChen/yt-stripe-nextjs-supabase",
+    "clone_url": "https://github.com/ShenSeanChen/yt-stripe-nextjs-supabase.git",
+    "stars": 115,
+    "size": 187
   },
   {
-    "name": "deepseek-ai/profile-data",
-    "clone_url": "https://github.com/deepseek-ai/profile-data.git",
-    "stars": 493,
-    "size": 2187
+    "name": "hanxunyu/Inst3D-LMM",
+    "clone_url": "https://github.com/hanxunyu/Inst3D-LMM.git",
+    "stars": 31,
+    "size": 2234
   },
   {
-    "name": "context-labs/autodelve",
-    "clone_url": "https://github.com/context-labs/autodelve.git",
-    "stars": 97,
-    "size": 57
+    "name": "TuralSuleymani/activity-analytics-microservices-app",
+    "clone_url": "https://github.com/TuralSuleymani/activity-analytics-microservices-app.git",
+    "stars": 28,
+    "size": 675
   },
   {
-    "name": "Wack0/entii-for-workcubes",
-    "clone_url": "https://github.com/Wack0/entii-for-workcubes.git",
-    "stars": 95,
-    "size": 4064
+    "name": "dashpilot/alpinejs-page-editor",
+    "clone_url": "https://github.com/dashpilot/alpinejs-page-editor.git",
+    "stars": 26,
+    "size": 319
   },
   {
-    "name": "MekkCyber/CutlassAcademy",
-    "clone_url": "https://github.com/MekkCyber/CutlassAcademy.git",
-    "stars": 89,
-    "size": 1337
+    "name": "tech-shrimp/grok-playground",
+    "clone_url": "https://github.com/tech-shrimp/grok-playground.git",
+    "stars": 23,
+    "size": 435
   }
 ]
