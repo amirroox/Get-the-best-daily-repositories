@@ -2,31 +2,31 @@
   {
     "name": "PeterGriffinJin/Search-R1",
     "clone_url": "https://github.com/PeterGriffinJin/Search-R1.git",
-    "stars": 121,
-    "size": 1357
+    "stars": 334,
+    "size": 1362
+  },
+  {
+    "name": "torvalds/1590A",
+    "clone_url": "https://github.com/torvalds/1590A.git",
+    "stars": 77,
+    "size": 883
   },
   {
     "name": "buildthehomelab/storage-planner",
     "clone_url": "https://github.com/buildthehomelab/storage-planner.git",
-    "stars": 26,
+    "stars": 47,
     "size": 70
   },
   {
-    "name": "shokuninstudio/Ollama-VIC-20",
-    "clone_url": "https://github.com/shokuninstudio/Ollama-VIC-20.git",
-    "stars": 15,
-    "size": 51
+    "name": "YashjitPal/Arc-2.0",
+    "clone_url": "https://github.com/YashjitPal/Arc-2.0.git",
+    "stars": 44,
+    "size": 3717
   },
   {
-    "name": "anti-work/helper",
-    "clone_url": "https://github.com/anti-work/helper.git",
-    "stars": 14,
-    "size": 3517
-  },
-  {
-    "name": "ripe0x/zora-coins-dynamic-artwork",
-    "clone_url": "https://github.com/ripe0x/zora-coins-dynamic-artwork.git",
-    "stars": 13,
-    "size": 408
+    "name": "discus0434/nook",
+    "clone_url": "https://github.com/discus0434/nook.git",
+    "stars": 31,
+    "size": 3169
   }
 ]
