@@ -1,32 +1,32 @@
 [
   {
-    "name": "ShenSeanChen/yt-stripe-nextjs-supabase",
-    "clone_url": "https://github.com/ShenSeanChen/yt-stripe-nextjs-supabase.git",
-    "stars": 218,
-    "size": 187
+    "name": "PeterGriffinJin/Search-R1",
+    "clone_url": "https://github.com/PeterGriffinJin/Search-R1.git",
+    "stars": 121,
+    "size": 1357
   },
   {
-    "name": "Jiang-Yidi/UniCodec",
-    "clone_url": "https://github.com/Jiang-Yidi/UniCodec.git",
-    "stars": 48,
-    "size": 1438
+    "name": "buildthehomelab/storage-planner",
+    "clone_url": "https://github.com/buildthehomelab/storage-planner.git",
+    "stars": 26,
+    "size": 70
   },
   {
-    "name": "DEEP-IOS/cosmos-ai",
-    "clone_url": "https://github.com/DEEP-IOS/cosmos-ai.git",
-    "stars": 39,
-    "size": 2242
-  },
-  {
-    "name": "hanxunyu/Inst3D-LMM",
-    "clone_url": "https://github.com/hanxunyu/Inst3D-LMM.git",
-    "stars": 34,
-    "size": 2234
-  },
-  {
-    "name": "MrAle98/CVE-2025-21333-POC",
-    "clone_url": "https://github.com/MrAle98/CVE-2025-21333-POC.git",
-    "stars": 33,
+    "name": "shokuninstudio/Ollama-VIC-20",
+    "clone_url": "https://github.com/shokuninstudio/Ollama-VIC-20.git",
+    "stars": 15,
     "size": 51
+  },
+  {
+    "name": "anti-work/helper",
+    "clone_url": "https://github.com/anti-work/helper.git",
+    "stars": 14,
+    "size": 3517
+  },
+  {
+    "name": "ripe0x/zora-coins-dynamic-artwork",
+    "clone_url": "https://github.com/ripe0x/zora-coins-dynamic-artwork.git",
+    "stars": 13,
+    "size": 408
   }
 ]
