@@ -2,31 +2,31 @@
   {
     "name": "QuantVela/build-your-onchain-agent",
     "clone_url": "https://github.com/QuantVela/build-your-onchain-agent.git",
-    "stars": 87,
-    "size": 325
+    "stars": 132,
+    "size": 326
   },
   {
-    "name": "Othmerinwjo/BNB-Arbitrage-Passive-Income",
-    "clone_url": "https://github.com/Othmerinwjo/BNB-Arbitrage-Passive-Income.git",
-    "stars": 85,
-    "size": 150
+    "name": "Agent-RL/ReSearch",
+    "clone_url": "https://github.com/Agent-RL/ReSearch.git",
+    "stars": 117,
+    "size": 1273
   },
   {
     "name": "tearflake/flake-ui",
     "clone_url": "https://github.com/tearflake/flake-ui.git",
-    "stars": 74,
+    "stars": 102,
     "size": 205
   },
   {
     "name": "MrMinimal/godot-vfx-sketchbook",
     "clone_url": "https://github.com/MrMinimal/godot-vfx-sketchbook.git",
-    "stars": 73,
+    "stars": 88,
     "size": 4881
   },
   {
-    "name": "alexnikop/VFEZ-godot",
-    "clone_url": "https://github.com/alexnikop/VFEZ-godot.git",
-    "stars": 50,
-    "size": 640
+    "name": "intrepidwri/dolphin",
+    "clone_url": "https://github.com/intrepidwri/dolphin.git",
+    "stars": 70,
+    "size": 186
   }
 ]
