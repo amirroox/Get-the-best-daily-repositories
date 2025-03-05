@@ -1,32 +1,32 @@
 [
   {
-    "name": "QuantVela/build-your-onchain-agent",
-    "clone_url": "https://github.com/QuantVela/build-your-onchain-agent.git",
-    "stars": 132,
-    "size": 326
+    "name": "esteemedpar/guetzli-go",
+    "clone_url": "https://github.com/esteemedpar/guetzli-go.git",
+    "stars": 138,
+    "size": 877
   },
   {
-    "name": "Agent-RL/ReSearch",
-    "clone_url": "https://github.com/Agent-RL/ReSearch.git",
-    "stars": 117,
-    "size": 1273
+    "name": "jumpytiming/gotlang",
+    "clone_url": "https://github.com/jumpytiming/gotlang.git",
+    "stars": 135,
+    "size": 175
   },
   {
-    "name": "tearflake/flake-ui",
-    "clone_url": "https://github.com/tearflake/flake-ui.git",
-    "stars": 102,
-    "size": 205
+    "name": "deficientike/cmctl",
+    "clone_url": "https://github.com/deficientike/cmctl.git",
+    "stars": 131,
+    "size": 333
   },
   {
-    "name": "MrMinimal/godot-vfx-sketchbook",
-    "clone_url": "https://github.com/MrMinimal/godot-vfx-sketchbook.git",
-    "stars": 88,
-    "size": 4881
+    "name": "swifttofu/telegraph-go",
+    "clone_url": "https://github.com/swifttofu/telegraph-go.git",
+    "stars": 130,
+    "size": 415
   },
   {
-    "name": "intrepidwri/dolphin",
-    "clone_url": "https://github.com/intrepidwri/dolphin.git",
-    "stars": 70,
-    "size": 186
+    "name": "uncommonrad/structuresmith",
+    "clone_url": "https://github.com/uncommonrad/structuresmith.git",
+    "stars": 130,
+    "size": 229
   }
 ]
