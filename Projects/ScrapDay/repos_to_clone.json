@@ -1,32 +1,32 @@
 [
   {
+    "name": "lynx-family/primjs",
+    "clone_url": "https://github.com/lynx-family/primjs.git",
+    "stars": 174,
+    "size": 2083
+  },
+  {
     "name": "esteemedpar/guetzli-go",
     "clone_url": "https://github.com/esteemedpar/guetzli-go.git",
     "stars": 138,
     "size": 877
   },
   {
+    "name": "uncommonrad/structuresmith",
+    "clone_url": "https://github.com/uncommonrad/structuresmith.git",
+    "stars": 138,
+    "size": 229
+  },
+  {
     "name": "jumpytiming/gotlang",
     "clone_url": "https://github.com/jumpytiming/gotlang.git",
-    "stars": 135,
+    "stars": 136,
     "size": 175
   },
   {
     "name": "deficientike/cmctl",
     "clone_url": "https://github.com/deficientike/cmctl.git",
-    "stars": 131,
+    "stars": 132,
     "size": 333
-  },
-  {
-    "name": "swifttofu/telegraph-go",
-    "clone_url": "https://github.com/swifttofu/telegraph-go.git",
-    "stars": 130,
-    "size": 415
-  },
-  {
-    "name": "uncommonrad/structuresmith",
-    "clone_url": "https://github.com/uncommonrad/structuresmith.git",
-    "stars": 130,
-    "size": 229
   }
 ]
