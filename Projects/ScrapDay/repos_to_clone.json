@@ -1,32 +1,32 @@
 [
   {
+    "name": "x1xhlol/v0-system-prompts",
+    "clone_url": "https://github.com/x1xhlol/v0-system-prompts.git",
+    "stars": 608,
+    "size": 134
+  },
+  {
     "name": "Uxandorpj0/Solana-Mev-Bot",
     "clone_url": "https://github.com/Uxandorpj0/Solana-Mev-Bot.git",
-    "stars": 176,
-    "size": 104
+    "stars": 242,
+    "size": 221
   },
   {
     "name": "toolbeam/opencontrol",
     "clone_url": "https://github.com/toolbeam/opencontrol.git",
-    "stars": 141,
-    "size": 62
+    "stars": 219,
+    "size": 64
   },
   {
     "name": "ln-dev7/circle",
     "clone_url": "https://github.com/ln-dev7/circle.git",
-    "stars": 97,
-    "size": 147
+    "stars": 167,
+    "size": 149
   },
   {
-    "name": "Chirurgix/Chirurgix-AnatoGen",
-    "clone_url": "https://github.com/Chirurgix/Chirurgix-AnatoGen.git",
-    "stars": 59,
-    "size": 916
-  },
-  {
-    "name": "sky887766/Discordchatbot",
-    "clone_url": "https://github.com/sky887766/Discordchatbot.git",
-    "stars": 44,
-    "size": 897
+    "name": "Vorolski/MeltStealer",
+    "clone_url": "https://github.com/Vorolski/MeltStealer.git",
+    "stars": 68,
+    "size": 721
   }
 ]
