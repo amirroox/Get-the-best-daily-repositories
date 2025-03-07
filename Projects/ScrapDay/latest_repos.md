@@ -1,7 +1,7 @@
-# Latest Repositories (2025-03-04 .. 2025-03-06)
+# Latest Repositories (2025-03-05 .. 2025-03-07)
 
-- [x1xhlol/v0-system-prompts](https://github.com/x1xhlol/v0-system-prompts) (608)
-- [Uxandorpj0/Solana-Mev-Bot](https://github.com/Uxandorpj0/Solana-Mev-Bot) (242)
-- [toolbeam/opencontrol](https://github.com/toolbeam/opencontrol) (219)
-- [ln-dev7/circle](https://github.com/ln-dev7/circle) (167)
-- [Vorolski/MeltStealer](https://github.com/Vorolski/MeltStealer) (68)
+- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) (925)
+- [Zenobrinav/Solana-Trading-MEV-BOT](https://github.com/Zenobrinav/Solana-Trading-MEV-BOT) (173)
+- [PioSol7/Solana_Dex_Toolkit](https://github.com/PioSol7/Solana_Dex_Toolkit) (171)
+- [nerficg-project/HTGS](https://github.com/nerficg-project/HTGS) (18)
+- [thomasvergne/donald.css](https://github.com/thomasvergne/donald.css) (16)
