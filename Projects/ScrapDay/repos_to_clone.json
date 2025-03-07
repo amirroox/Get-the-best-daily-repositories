@@ -2,31 +2,31 @@
   {
     "name": "mannaandpoem/OpenManus",
     "clone_url": "https://github.com/mannaandpoem/OpenManus.git",
-    "stars": 925,
-    "size": 85
-  },
-  {
-    "name": "Zenobrinav/Solana-Trading-MEV-BOT",
-    "clone_url": "https://github.com/Zenobrinav/Solana-Trading-MEV-BOT.git",
-    "stars": 173,
-    "size": 105
+    "stars": 9171,
+    "size": 1778
   },
   {
     "name": "PioSol7/Solana_Dex_Toolkit",
     "clone_url": "https://github.com/PioSol7/Solana_Dex_Toolkit.git",
-    "stars": 171,
+    "stars": 174,
     "size": 101
+  },
+  {
+    "name": "adysec/POC",
+    "clone_url": "https://github.com/adysec/POC.git",
+    "stars": 130,
+    "size": 2123
   },
   {
     "name": "nerficg-project/HTGS",
     "clone_url": "https://github.com/nerficg-project/HTGS.git",
-    "stars": 18,
+    "stars": 35,
     "size": 70
   },
   {
-    "name": "thomasvergne/donald.css",
-    "clone_url": "https://github.com/thomasvergne/donald.css.git",
-    "stars": 16,
-    "size": 118
+    "name": "delbaoliveira/next-view-transitions",
+    "clone_url": "https://github.com/delbaoliveira/next-view-transitions.git",
+    "stars": 30,
+    "size": 571
   }
 ]
