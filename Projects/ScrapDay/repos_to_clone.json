@@ -1,32 +1,32 @@
 [
   {
-    "name": "vatsi2/DeFi-Cross-Chain-RWA-Bot-with-MEV-Protection",
-    "clone_url": "https://github.com/vatsi2/DeFi-Cross-Chain-RWA-Bot-with-MEV-Protection.git",
-    "stars": 410,
-    "size": 123
-  },
-  {
-    "name": "Valyssiagmd/MEV-BOT-SOLANA",
-    "clone_url": "https://github.com/Valyssiagmd/MEV-BOT-SOLANA.git",
-    "stars": 145,
-    "size": 266
-  },
-  {
-    "name": "adysec/POC",
-    "clone_url": "https://github.com/adysec/POC.git",
-    "stars": 135,
-    "size": 2123
-  },
-  {
-    "name": "LYiHub/liars-bar-llm",
-    "clone_url": "https://github.com/LYiHub/liars-bar-llm.git",
-    "stars": 132,
-    "size": 4540
-  },
-  {
     "name": "agnt-gg/slop",
     "clone_url": "https://github.com/agnt-gg/slop.git",
-    "stars": 132,
-    "size": 50
+    "stars": 231,
+    "size": 170
+  },
+  {
+    "name": "zaidmukaddam/youtube-transcripts-machine",
+    "clone_url": "https://github.com/zaidmukaddam/youtube-transcripts-machine.git",
+    "stars": 79,
+    "size": 119
+  },
+  {
+    "name": "themanojdesai/genai-llm-ml-case-studies",
+    "clone_url": "https://github.com/themanojdesai/genai-llm-ml-case-studies.git",
+    "stars": 63,
+    "size": 275
+  },
+  {
+    "name": "cyb3rfortr3ss/Phone",
+    "clone_url": "https://github.com/cyb3rfortr3ss/Phone.git",
+    "stars": 42,
+    "size": 55
+  },
+  {
+    "name": "WildByDesign/ACLViewer",
+    "clone_url": "https://github.com/WildByDesign/ACLViewer.git",
+    "stars": 33,
+    "size": 106
   }
 ]
