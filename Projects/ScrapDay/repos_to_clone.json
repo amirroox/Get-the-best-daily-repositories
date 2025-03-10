@@ -2,31 +2,31 @@
   {
     "name": "nikmcfly/ANUS",
     "clone_url": "https://github.com/nikmcfly/ANUS.git",
-    "stars": 234,
+    "stars": 806,
     "size": 329
+  },
+  {
+    "name": "adysec/Ollama_Load_Balancer",
+    "clone_url": "https://github.com/adysec/Ollama_Load_Balancer.git",
+    "stars": 128,
+    "size": 1556
   },
   {
     "name": "ganeshnikhil/J.A.R.V.I.S.2.0",
     "clone_url": "https://github.com/ganeshnikhil/J.A.R.V.I.S.2.0.git",
-    "stars": 61,
+    "stars": 78,
     "size": 579
   },
   {
     "name": "z80dev/cryo-mcp",
     "clone_url": "https://github.com/z80dev/cryo-mcp.git",
-    "stars": 47,
-    "size": 80
+    "stars": 61,
+    "size": 174
   },
   {
-    "name": "franklioxygen/MyTube",
-    "clone_url": "https://github.com/franklioxygen/MyTube.git",
-    "stars": 28,
-    "size": 109
-  },
-  {
-    "name": "duriantaco/jonq",
-    "clone_url": "https://github.com/duriantaco/jonq.git",
-    "stars": 18,
-    "size": 256
+    "name": "willccbb/mcp-client-server",
+    "clone_url": "https://github.com/willccbb/mcp-client-server.git",
+    "stars": 40,
+    "size": 141
   }
 ]
