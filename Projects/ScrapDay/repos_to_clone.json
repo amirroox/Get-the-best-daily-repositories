@@ -1,32 +1,32 @@
 [
   {
-    "name": "nikmcfly/ANUS",
-    "clone_url": "https://github.com/nikmcfly/ANUS.git",
-    "stars": 806,
-    "size": 329
-  },
-  {
     "name": "adysec/Ollama_Load_Balancer",
     "clone_url": "https://github.com/adysec/Ollama_Load_Balancer.git",
-    "stars": 128,
+    "stars": 129,
     "size": 1556
-  },
-  {
-    "name": "ganeshnikhil/J.A.R.V.I.S.2.0",
-    "clone_url": "https://github.com/ganeshnikhil/J.A.R.V.I.S.2.0.git",
-    "stars": 78,
-    "size": 579
-  },
-  {
-    "name": "z80dev/cryo-mcp",
-    "clone_url": "https://github.com/z80dev/cryo-mcp.git",
-    "stars": 61,
-    "size": 174
   },
   {
     "name": "willccbb/mcp-client-server",
     "clone_url": "https://github.com/willccbb/mcp-client-server.git",
-    "stars": 40,
+    "stars": 65,
     "size": 141
+  },
+  {
+    "name": "skydoves/compose-effects",
+    "clone_url": "https://github.com/skydoves/compose-effects.git",
+    "stars": 59,
+    "size": 143
+  },
+  {
+    "name": "Sedlacek-Solutions/RatingsKit",
+    "clone_url": "https://github.com/Sedlacek-Solutions/RatingsKit.git",
+    "stars": 24,
+    "size": 319
+  },
+  {
+    "name": "orlyjamie/spinningcat",
+    "clone_url": "https://github.com/orlyjamie/spinningcat.git",
+    "stars": 18,
+    "size": 3511
   }
 ]
