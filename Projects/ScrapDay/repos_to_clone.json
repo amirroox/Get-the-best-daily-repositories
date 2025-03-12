@@ -1,32 +1,32 @@
 [
   {
-    "name": "adysec/Ollama_Load_Balancer",
-    "clone_url": "https://github.com/adysec/Ollama_Load_Balancer.git",
-    "stars": 129,
-    "size": 1556
+    "name": "openai/openai-agents-python",
+    "clone_url": "https://github.com/openai/openai-agents-python.git",
+    "stars": 1349,
+    "size": 2535
   },
   {
-    "name": "willccbb/mcp-client-server",
-    "clone_url": "https://github.com/willccbb/mcp-client-server.git",
-    "stars": 78,
-    "size": 141
+    "name": "lumalabs/imm",
+    "clone_url": "https://github.com/lumalabs/imm.git",
+    "stars": 89,
+    "size": 1239
   },
   {
-    "name": "skydoves/compose-effects",
-    "clone_url": "https://github.com/skydoves/compose-effects.git",
-    "stars": 69,
-    "size": 143
+    "name": "niconielsen32/opencv-python-tutorials",
+    "clone_url": "https://github.com/niconielsen32/opencv-python-tutorials.git",
+    "stars": 65,
+    "size": 197
   },
   {
-    "name": "Sedlacek-Solutions/RatingsKit",
-    "clone_url": "https://github.com/Sedlacek-Solutions/RatingsKit.git",
-    "stars": 64,
-    "size": 319
+    "name": "antfu/nuxt-mcp",
+    "clone_url": "https://github.com/antfu/nuxt-mcp.git",
+    "stars": 55,
+    "size": 159
   },
   {
-    "name": "Wang-Xiaodong1899/CVPR25-MLLM-Paper-List",
-    "clone_url": "https://github.com/Wang-Xiaodong1899/CVPR25-MLLM-Paper-List.git",
-    "stars": 61,
-    "size": 62
+    "name": "kleinrui/sub-box",
+    "clone_url": "https://github.com/kleinrui/sub-box.git",
+    "stars": 41,
+    "size": 684
   }
 ]
