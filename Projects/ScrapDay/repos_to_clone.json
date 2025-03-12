@@ -2,31 +2,31 @@
   {
     "name": "openai/openai-agents-python",
     "clone_url": "https://github.com/openai/openai-agents-python.git",
-    "stars": 1349,
-    "size": 2535
+    "stars": 2607,
+    "size": 2484
   },
   {
     "name": "lumalabs/imm",
     "clone_url": "https://github.com/lumalabs/imm.git",
-    "stars": 89,
+    "stars": 240,
     "size": 1239
+  },
+  {
+    "name": "DesertScripts/MonadTestnetBot",
+    "clone_url": "https://github.com/DesertScripts/MonadTestnetBot.git",
+    "stars": 135,
+    "size": 2181
+  },
+  {
+    "name": "vcode771/Solana-MEV-bot",
+    "clone_url": "https://github.com/vcode771/Solana-MEV-bot.git",
+    "stars": 103,
+    "size": 54
   },
   {
     "name": "niconielsen32/opencv-python-tutorials",
     "clone_url": "https://github.com/niconielsen32/opencv-python-tutorials.git",
-    "stars": 65,
+    "stars": 79,
     "size": 197
-  },
-  {
-    "name": "antfu/nuxt-mcp",
-    "clone_url": "https://github.com/antfu/nuxt-mcp.git",
-    "stars": 55,
-    "size": 159
-  },
-  {
-    "name": "kleinrui/sub-box",
-    "clone_url": "https://github.com/kleinrui/sub-box.git",
-    "stars": 41,
-    "size": 684
   }
 ]
