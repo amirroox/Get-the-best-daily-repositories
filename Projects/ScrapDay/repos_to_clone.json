@@ -1,32 +1,32 @@
 [
   {
-    "name": "openai/openai-agents-python",
-    "clone_url": "https://github.com/openai/openai-agents-python.git",
-    "stars": 2607,
-    "size": 2484
+    "name": "SeiynJie/Complete-WebDev-Cheatsheet",
+    "clone_url": "https://github.com/SeiynJie/Complete-WebDev-Cheatsheet.git",
+    "stars": 69,
+    "size": 1339
   },
   {
-    "name": "lumalabs/imm",
-    "clone_url": "https://github.com/lumalabs/imm.git",
-    "stars": 240,
-    "size": 1239
+    "name": "EvanBacon/expo-router-spotify",
+    "clone_url": "https://github.com/EvanBacon/expo-router-spotify.git",
+    "stars": 40,
+    "size": 832
   },
   {
-    "name": "DesertScripts/MonadTestnetBot",
-    "clone_url": "https://github.com/DesertScripts/MonadTestnetBot.git",
-    "stars": 135,
-    "size": 2181
+    "name": "Aeastr/RenderMeThis",
+    "clone_url": "https://github.com/Aeastr/RenderMeThis.git",
+    "stars": 37,
+    "size": 3874
   },
   {
-    "name": "vcode771/Solana-MEV-bot",
-    "clone_url": "https://github.com/vcode771/Solana-MEV-bot.git",
-    "stars": 103,
+    "name": "maticarmy/free_cursor_pro",
+    "clone_url": "https://github.com/maticarmy/free_cursor_pro.git",
+    "stars": 32,
     "size": 54
   },
   {
-    "name": "niconielsen32/opencv-python-tutorials",
-    "clone_url": "https://github.com/niconielsen32/opencv-python-tutorials.git",
-    "stars": 79,
-    "size": 197
+    "name": "DesktopAuthenticator/Google-Desktop-Authenticator",
+    "clone_url": "https://github.com/DesktopAuthenticator/Google-Desktop-Authenticator.git",
+    "stars": 30,
+    "size": 3038
   }
 ]
