@@ -1,32 +1,32 @@
 [
   {
+    "name": "Yndorawaa/Mev-bot-BNB",
+    "clone_url": "https://github.com/Yndorawaa/Mev-bot-BNB.git",
+    "stars": 115,
+    "size": 274
+  },
+  {
+    "name": "aigc3d/LHM",
+    "clone_url": "https://github.com/aigc3d/LHM.git",
+    "stars": 81,
+    "size": 4829
+  },
+  {
     "name": "conikeec/mcpr",
     "clone_url": "https://github.com/conikeec/mcpr.git",
-    "stars": 44,
+    "stars": 53,
     "size": 51
   },
   {
-    "name": "Yndorawaa/Mev-bot-BNB",
-    "clone_url": "https://github.com/Yndorawaa/Mev-bot-BNB.git",
-    "stars": 38,
-    "size": 197
+    "name": "ekbsa/Wave-Executor",
+    "clone_url": "https://github.com/ekbsa/Wave-Executor.git",
+    "stars": 33,
+    "size": 381
   },
   {
-    "name": "YiXin-AILab/YiXin-Distill-Qwen-72B",
-    "clone_url": "https://github.com/YiXin-AILab/YiXin-Distill-Qwen-72B.git",
-    "stars": 27,
-    "size": 192
-  },
-  {
-    "name": "kciray8/zerolambda",
-    "clone_url": "https://github.com/kciray8/zerolambda.git",
-    "stars": 19,
-    "size": 81
-  },
-  {
-    "name": "link2004/pdf2md",
-    "clone_url": "https://github.com/link2004/pdf2md.git",
-    "stars": 17,
-    "size": 134
+    "name": "ekbsa/Luna-Executor",
+    "clone_url": "https://github.com/ekbsa/Luna-Executor.git",
+    "stars": 33,
+    "size": 715
   }
 ]
