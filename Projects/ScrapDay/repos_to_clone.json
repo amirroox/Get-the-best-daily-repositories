@@ -1,32 +1,32 @@
 [
   {
-    "name": "giacomo-b/rust-stakeholder",
-    "clone_url": "https://github.com/giacomo-b/rust-stakeholder.git",
-    "stars": 932,
-    "size": 259
+    "name": "hoxvc/grass-bot",
+    "clone_url": "https://github.com/hoxvc/grass-bot.git",
+    "stars": 96,
+    "size": 508
   },
   {
-    "name": "KalyanKS-NLP/rag-zero-to-hero-guide",
-    "clone_url": "https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide.git",
-    "stars": 106,
-    "size": 3489
-  },
-  {
-    "name": "thelastbackspace/traceperf",
-    "clone_url": "https://github.com/thelastbackspace/traceperf.git",
-    "stars": 50,
-    "size": 139
+    "name": "atineiatte/deep-research-at-home",
+    "clone_url": "https://github.com/atineiatte/deep-research-at-home.git",
+    "stars": 68,
+    "size": 117
   },
   {
     "name": "mindverse/Second-Me",
     "clone_url": "https://github.com/mindverse/Second-Me.git",
-    "stars": 44,
+    "stars": 66,
     "size": 593
   },
   {
-    "name": "qiaoshouqing/familytree",
-    "clone_url": "https://github.com/qiaoshouqing/familytree.git",
-    "stars": 42,
-    "size": 142
+    "name": "h311d1n3r/Arion",
+    "clone_url": "https://github.com/h311d1n3r/Arion.git",
+    "stars": 31,
+    "size": 872
+  },
+  {
+    "name": "Tylersuard/easy-torchcraft",
+    "clone_url": "https://github.com/Tylersuard/easy-torchcraft.git",
+    "stars": 21,
+    "size": 409
   }
 ]
