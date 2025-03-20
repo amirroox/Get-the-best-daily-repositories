@@ -1,7 +1,7 @@
-# Latest Repositories (2025-03-17 .. 2025-03-19)
+# Latest Repositories (2025-03-18 .. 2025-03-20)
 
-- [justinpbarnett/unity-mcp](https://github.com/justinpbarnett/unity-mcp) (309)
-- [amasad/jfk_files](https://github.com/amasad/jfk_files) (134)
-- [lvgalvao/etl-python-excel-aovivo](https://github.com/lvgalvao/etl-python-excel-aovivo) (93)
-- [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server) (64)
-- [zqq-nuli/TaleStreamAI](https://github.com/zqq-nuli/TaleStreamAI) (56)
+- [Orynthilo31/Solana_Trading_Mev-Bot](https://github.com/Orynthilo31/Solana_Trading_Mev-Bot) (137)
+- [1rgs/claude-code-openai](https://github.com/1rgs/claude-code-openai) (65)
+- [IT-BAER/glance](https://github.com/IT-BAER/glance) (22)
+- [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) (21)
+- [zxcvbnmkl112/UnrealVTDbg](https://github.com/zxcvbnmkl112/UnrealVTDbg) (18)
