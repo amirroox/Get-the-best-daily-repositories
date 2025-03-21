@@ -2,31 +2,31 @@
   {
     "name": "isaiahbjork/orpheus-tts-local",
     "clone_url": "https://github.com/isaiahbjork/orpheus-tts-local.git",
-    "stars": 173,
+    "stars": 196,
     "size": 317
   },
   {
     "name": "yvalnaxrs/MeV-BoT_SOLANA",
     "clone_url": "https://github.com/yvalnaxrs/MeV-BoT_SOLANA.git",
-    "stars": 159,
-    "size": 102
+    "stars": 182,
+    "size": 160
+  },
+  {
+    "name": "vercel/ai-chatbot-svelte",
+    "clone_url": "https://github.com/vercel/ai-chatbot-svelte.git",
+    "stars": 102,
+    "size": 399
+  },
+  {
+    "name": "AabyssZG/NavicatPwn",
+    "clone_url": "https://github.com/AabyssZG/NavicatPwn.git",
+    "stars": 99,
+    "size": 1500
   },
   {
     "name": "BlackFan/BFScan",
     "clone_url": "https://github.com/BlackFan/BFScan.git",
-    "stars": 73,
+    "stars": 90,
     "size": 105
-  },
-  {
-    "name": "ViggoZ/hackernews-cn",
-    "clone_url": "https://github.com/ViggoZ/hackernews-cn.git",
-    "stars": 41,
-    "size": 311
-  },
-  {
-    "name": "rinadelph/CursorCustomModels",
-    "clone_url": "https://github.com/rinadelph/CursorCustomModels.git",
-    "stars": 32,
-    "size": 1550
   }
 ]
