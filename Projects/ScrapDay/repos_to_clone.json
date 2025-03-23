@@ -2,31 +2,31 @@
   {
     "name": "ygwyg/diverce",
     "clone_url": "https://github.com/ygwyg/diverce.git",
-    "stars": 91,
-    "size": 58
+    "stars": 224,
+    "size": 68
   },
   {
     "name": "Dr-Ai-0018/Siliconflow-API-Management",
     "clone_url": "https://github.com/Dr-Ai-0018/Siliconflow-API-Management.git",
-    "stars": 45,
+    "stars": 55,
     "size": 354
-  },
-  {
-    "name": "mshojaei77/ollama_rag",
-    "clone_url": "https://github.com/mshojaei77/ollama_rag.git",
-    "stars": 20,
-    "size": 1410
   },
   {
     "name": "fayazara/animated-lucide-vue",
     "clone_url": "https://github.com/fayazara/animated-lucide-vue.git",
-    "stars": 19,
-    "size": 130
+    "stars": 33,
+    "size": 147
   },
   {
-    "name": "puang59/xtoxic",
-    "clone_url": "https://github.com/puang59/xtoxic.git",
-    "stars": 18,
-    "size": 81
+    "name": "mshojaei77/ollama_rag",
+    "clone_url": "https://github.com/mshojaei77/ollama_rag.git",
+    "stars": 31,
+    "size": 1410
+  },
+  {
+    "name": "LAOGOU-666/Comfyui-Memory_Cleanup",
+    "clone_url": "https://github.com/LAOGOU-666/Comfyui-Memory_Cleanup.git",
+    "stars": 26,
+    "size": 189
   }
 ]
