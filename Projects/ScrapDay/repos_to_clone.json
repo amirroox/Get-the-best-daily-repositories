@@ -1,32 +1,32 @@
 [
   {
-    "name": "ygwyg/diverce",
-    "clone_url": "https://github.com/ygwyg/diverce.git",
-    "stars": 224,
-    "size": 68
-  },
-  {
-    "name": "Dr-Ai-0018/Siliconflow-API-Management",
-    "clone_url": "https://github.com/Dr-Ai-0018/Siliconflow-API-Management.git",
-    "stars": 55,
-    "size": 354
-  },
-  {
-    "name": "fayazara/animated-lucide-vue",
-    "clone_url": "https://github.com/fayazara/animated-lucide-vue.git",
-    "stars": 33,
-    "size": 147
-  },
-  {
-    "name": "mshojaei77/ollama_rag",
-    "clone_url": "https://github.com/mshojaei77/ollama_rag.git",
-    "stars": 31,
-    "size": 1410
-  },
-  {
     "name": "LAOGOU-666/Comfyui-Memory_Cleanup",
     "clone_url": "https://github.com/LAOGOU-666/Comfyui-Memory_Cleanup.git",
-    "stars": 26,
+    "stars": 43,
     "size": 189
+  },
+  {
+    "name": "afshinea/stanford-cme-295-transformers-large-language-models",
+    "clone_url": "https://github.com/afshinea/stanford-cme-295-transformers-large-language-models.git",
+    "stars": 40,
+    "size": 1319
+  },
+  {
+    "name": "DayuanJiang/next-ai-draw-io",
+    "clone_url": "https://github.com/DayuanJiang/next-ai-draw-io.git",
+    "stars": 33,
+    "size": 183
+  },
+  {
+    "name": "attilatorda/Shift-To-Middle_Array",
+    "clone_url": "https://github.com/attilatorda/Shift-To-Middle_Array.git",
+    "stars": 29,
+    "size": 199
+  },
+  {
+    "name": "4DBug/nix-ansi",
+    "clone_url": "https://github.com/4DBug/nix-ansi.git",
+    "stars": 22,
+    "size": 407
   }
 ]
