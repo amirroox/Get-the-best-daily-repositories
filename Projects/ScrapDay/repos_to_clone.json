@@ -1,32 +1,32 @@
 [
   {
-    "name": "LAOGOU-666/Comfyui-Memory_Cleanup",
-    "clone_url": "https://github.com/LAOGOU-666/Comfyui-Memory_Cleanup.git",
-    "stars": 43,
+    "name": "DayuanJiang/next-ai-draw-io",
+    "clone_url": "https://github.com/DayuanJiang/next-ai-draw-io.git",
+    "stars": 73,
     "size": 189
+  },
+  {
+    "name": "caioricciuti/cr-mac-helper",
+    "clone_url": "https://github.com/caioricciuti/cr-mac-helper.git",
+    "stars": 67,
+    "size": 54
   },
   {
     "name": "afshinea/stanford-cme-295-transformers-large-language-models",
     "clone_url": "https://github.com/afshinea/stanford-cme-295-transformers-large-language-models.git",
-    "stars": 40,
+    "stars": 67,
     "size": 1319
-  },
-  {
-    "name": "DayuanJiang/next-ai-draw-io",
-    "clone_url": "https://github.com/DayuanJiang/next-ai-draw-io.git",
-    "stars": 33,
-    "size": 183
   },
   {
     "name": "attilatorda/Shift-To-Middle_Array",
     "clone_url": "https://github.com/attilatorda/Shift-To-Middle_Array.git",
-    "stars": 29,
+    "stars": 67,
     "size": 199
   },
   {
-    "name": "4DBug/nix-ansi",
-    "clone_url": "https://github.com/4DBug/nix-ansi.git",
-    "stars": 22,
-    "size": 407
+    "name": "LAOGOU-666/Comfyui-Memory_Cleanup",
+    "clone_url": "https://github.com/LAOGOU-666/Comfyui-Memory_Cleanup.git",
+    "stars": 52,
+    "size": 189
   }
 ]
