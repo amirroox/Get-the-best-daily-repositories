@@ -1,7 +1,7 @@
-# Latest Repositories (2025-03-22 .. 2025-03-24)
+# Latest Repositories (2025-03-23 .. 2025-03-25)
 
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) (73)
-- [caioricciuti/cr-mac-helper](https://github.com/caioricciuti/cr-mac-helper) (67)
-- [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) (67)
-- [attilatorda/Shift-To-Middle_Array](https://github.com/attilatorda/Shift-To-Middle_Array) (67)
-- [LAOGOU-666/Comfyui-Memory_Cleanup](https://github.com/LAOGOU-666/Comfyui-Memory_Cleanup) (52)
+- [cyfyifanchen/one-person-company](https://github.com/cyfyifanchen/one-person-company) (96)
+- [rolstu/MeV-BoT_SOLANA](https://github.com/rolstu/MeV-BoT_SOLANA) (60)
+- [cloneofsimo/ptx-tutorial-by-aislop](https://github.com/cloneofsimo/ptx-tutorial-by-aislop) (44)
+- [mario-andreschak/mcp-windows-desktop-automation](https://github.com/mario-andreschak/mcp-windows-desktop-automation) (25)
+- [Archetapp/BubbleBar](https://github.com/Archetapp/BubbleBar) (24)
