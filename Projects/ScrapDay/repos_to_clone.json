@@ -2,31 +2,31 @@
   {
     "name": "cyfyifanchen/one-person-company",
     "clone_url": "https://github.com/cyfyifanchen/one-person-company.git",
-    "stars": 96,
-    "size": 324
+    "stars": 159,
+    "size": 496
+  },
+  {
+    "name": "kepano/defuddle-cli",
+    "clone_url": "https://github.com/kepano/defuddle-cli.git",
+    "stars": 74,
+    "size": 50
   },
   {
     "name": "rolstu/MeV-BoT_SOLANA",
     "clone_url": "https://github.com/rolstu/MeV-BoT_SOLANA.git",
     "stars": 60,
-    "size": 502
+    "size": 503
+  },
+  {
+    "name": "yushangxiao/claude2api",
+    "clone_url": "https://github.com/yushangxiao/claude2api.git",
+    "stars": 56,
+    "size": 78
   },
   {
     "name": "cloneofsimo/ptx-tutorial-by-aislop",
     "clone_url": "https://github.com/cloneofsimo/ptx-tutorial-by-aislop.git",
-    "stars": 44,
+    "stars": 56,
     "size": 1344
-  },
-  {
-    "name": "mario-andreschak/mcp-windows-desktop-automation",
-    "clone_url": "https://github.com/mario-andreschak/mcp-windows-desktop-automation.git",
-    "stars": 25,
-    "size": 126
-  },
-  {
-    "name": "Archetapp/BubbleBar",
-    "clone_url": "https://github.com/Archetapp/BubbleBar.git",
-    "stars": 24,
-    "size": 67
   }
 ]
