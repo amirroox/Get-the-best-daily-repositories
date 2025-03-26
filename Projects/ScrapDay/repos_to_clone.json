@@ -2,31 +2,31 @@
   {
     "name": "mouredev/hello-java",
     "clone_url": "https://github.com/mouredev/hello-java.git",
-    "stars": 224,
+    "stars": 267,
     "size": 520
   },
   {
     "name": "dbccccccc/ttsfm",
     "clone_url": "https://github.com/dbccccccc/ttsfm.git",
-    "stars": 145,
-    "size": 62
-  },
-  {
-    "name": "yushangxiao/claude2api",
-    "clone_url": "https://github.com/yushangxiao/claude2api.git",
-    "stars": 69,
-    "size": 106
+    "stars": 207,
+    "size": 108
   },
   {
     "name": "ddCat-main/cursor-auto-register",
     "clone_url": "https://github.com/ddCat-main/cursor-auto-register.git",
-    "stars": 31,
-    "size": 1123
+    "stars": 107,
+    "size": 1162
   },
   {
-    "name": "akazwz/anonymous-chat",
-    "clone_url": "https://github.com/akazwz/anonymous-chat.git",
-    "stars": 27,
-    "size": 713
+    "name": "yushangxiao/claude2api",
+    "clone_url": "https://github.com/yushangxiao/claude2api.git",
+    "stars": 82,
+    "size": 128
+  },
+  {
+    "name": "MrXujiang/pptx",
+    "clone_url": "https://github.com/MrXujiang/pptx.git",
+    "stars": 40,
+    "size": 2089
   }
 ]
