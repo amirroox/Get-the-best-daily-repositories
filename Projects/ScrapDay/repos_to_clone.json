@@ -2,31 +2,31 @@
   {
     "name": "hyperlight-dev/hyperlight-wasm",
     "clone_url": "https://github.com/hyperlight-dev/hyperlight-wasm.git",
-    "stars": 141,
-    "size": 118
+    "stars": 251,
+    "size": 198
   },
   {
-    "name": "lehoanglong95/rag-all-in-one",
-    "clone_url": "https://github.com/lehoanglong95/rag-all-in-one.git",
-    "stars": 68,
-    "size": 67
+    "name": "Selrionsb/Mev-Bot-Solana",
+    "clone_url": "https://github.com/Selrionsb/Mev-Bot-Solana.git",
+    "stars": 148,
+    "size": 51
+  },
+  {
+    "name": "ThumpBo/CVE-2025-30208-EXP",
+    "clone_url": "https://github.com/ThumpBo/CVE-2025-30208-EXP.git",
+    "stars": 137,
+    "size": 63
   },
   {
     "name": "browser-use/awesome-prompts",
     "clone_url": "https://github.com/browser-use/awesome-prompts.git",
-    "stars": 55,
+    "stars": 134,
     "size": 59
   },
   {
-    "name": "MrXujiang/pptx",
-    "clone_url": "https://github.com/MrXujiang/pptx.git",
-    "stars": 52,
-    "size": 2089
-  },
-  {
-    "name": "deanxv/chutesAI2api",
-    "clone_url": "https://github.com/deanxv/chutesAI2api.git",
-    "stars": 44,
-    "size": 2498
+    "name": "DosX-dev/Astral-PE",
+    "clone_url": "https://github.com/DosX-dev/Astral-PE.git",
+    "stars": 87,
+    "size": 1777
   }
 ]
