@@ -1,32 +1,32 @@
 [
   {
-    "name": "mouredev/hello-java",
-    "clone_url": "https://github.com/mouredev/hello-java.git",
-    "stars": 267,
-    "size": 520
+    "name": "hyperlight-dev/hyperlight-wasm",
+    "clone_url": "https://github.com/hyperlight-dev/hyperlight-wasm.git",
+    "stars": 141,
+    "size": 118
   },
   {
-    "name": "dbccccccc/ttsfm",
-    "clone_url": "https://github.com/dbccccccc/ttsfm.git",
-    "stars": 207,
-    "size": 108
+    "name": "lehoanglong95/rag-all-in-one",
+    "clone_url": "https://github.com/lehoanglong95/rag-all-in-one.git",
+    "stars": 68,
+    "size": 67
   },
   {
-    "name": "ddCat-main/cursor-auto-register",
-    "clone_url": "https://github.com/ddCat-main/cursor-auto-register.git",
-    "stars": 107,
-    "size": 1162
-  },
-  {
-    "name": "yushangxiao/claude2api",
-    "clone_url": "https://github.com/yushangxiao/claude2api.git",
-    "stars": 82,
-    "size": 128
+    "name": "browser-use/awesome-prompts",
+    "clone_url": "https://github.com/browser-use/awesome-prompts.git",
+    "stars": 55,
+    "size": 59
   },
   {
     "name": "MrXujiang/pptx",
     "clone_url": "https://github.com/MrXujiang/pptx.git",
-    "stars": 40,
+    "stars": 52,
     "size": 2089
+  },
+  {
+    "name": "deanxv/chutesAI2api",
+    "clone_url": "https://github.com/deanxv/chutesAI2api.git",
+    "stars": 44,
+    "size": 2498
   }
 ]
