@@ -1,32 +1,32 @@
 [
   {
-    "name": "hyperlight-dev/hyperlight-wasm",
-    "clone_url": "https://github.com/hyperlight-dev/hyperlight-wasm.git",
-    "stars": 251,
-    "size": 198
+    "name": "doggy8088/github-copilot-configs",
+    "clone_url": "https://github.com/doggy8088/github-copilot-configs.git",
+    "stars": 195,
+    "size": 3753
   },
   {
     "name": "Selrionsb/Mev-Bot-Solana",
     "clone_url": "https://github.com/Selrionsb/Mev-Bot-Solana.git",
-    "stars": 148,
-    "size": 51
+    "stars": 147,
+    "size": 121
   },
   {
-    "name": "ThumpBo/CVE-2025-30208-EXP",
-    "clone_url": "https://github.com/ThumpBo/CVE-2025-30208-EXP.git",
-    "stars": 137,
-    "size": 63
+    "name": "yushangxiao/pplx2api",
+    "clone_url": "https://github.com/yushangxiao/pplx2api.git",
+    "stars": 79,
+    "size": 76
   },
   {
-    "name": "browser-use/awesome-prompts",
-    "clone_url": "https://github.com/browser-use/awesome-prompts.git",
-    "stars": 134,
-    "size": 59
+    "name": "zqq-nuli/Gemini-Token-Manager",
+    "clone_url": "https://github.com/zqq-nuli/Gemini-Token-Manager.git",
+    "stars": 41,
+    "size": 244
   },
   {
-    "name": "DosX-dev/Astral-PE",
-    "clone_url": "https://github.com/DosX-dev/Astral-PE.git",
-    "stars": 87,
-    "size": 1777
+    "name": "mediar-ai/MCP-server-client-computer-use-ai-sdk",
+    "clone_url": "https://github.com/mediar-ai/MCP-server-client-computer-use-ai-sdk.git",
+    "stars": 31,
+    "size": 248
   }
 ]

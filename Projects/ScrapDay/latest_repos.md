@@ -1,7 +1,7 @@
-# Latest Repositories (2025-03-25 .. 2025-03-27)
+# Latest Repositories (2025-03-26 .. 2025-03-28)
 
-- [hyperlight-dev/hyperlight-wasm](https://github.com/hyperlight-dev/hyperlight-wasm) (251)
-- [Selrionsb/Mev-Bot-Solana](https://github.com/Selrionsb/Mev-Bot-Solana) (148)
-- [ThumpBo/CVE-2025-30208-EXP](https://github.com/ThumpBo/CVE-2025-30208-EXP) (137)
-- [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) (134)
-- [DosX-dev/Astral-PE](https://github.com/DosX-dev/Astral-PE) (87)
+- [doggy8088/github-copilot-configs](https://github.com/doggy8088/github-copilot-configs) (195)
+- [Selrionsb/Mev-Bot-Solana](https://github.com/Selrionsb/Mev-Bot-Solana) (147)
+- [yushangxiao/pplx2api](https://github.com/yushangxiao/pplx2api) (79)
+- [zqq-nuli/Gemini-Token-Manager](https://github.com/zqq-nuli/Gemini-Token-Manager) (41)
+- [mediar-ai/MCP-server-client-computer-use-ai-sdk](https://github.com/mediar-ai/MCP-server-client-computer-use-ai-sdk) (31)
