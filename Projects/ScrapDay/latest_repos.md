@@ -1,7 +1,7 @@
-# Latest Repositories (2025-03-26 .. 2025-03-28)
+# Latest Repositories (2025-03-27 .. 2025-03-29)
 
-- [doggy8088/github-copilot-configs](https://github.com/doggy8088/github-copilot-configs) (240)
-- [Selrionsb/Mev-Bot-Solana](https://github.com/Selrionsb/Mev-Bot-Solana) (148)
-- [yushangxiao/pplx2api](https://github.com/yushangxiao/pplx2api) (84)
-- [zqq-nuli/Gemini-Token-Manager](https://github.com/zqq-nuli/Gemini-Token-Manager) (53)
-- [mediar-ai/MCP-server-client-computer-use-ai-sdk](https://github.com/mediar-ai/MCP-server-client-computer-use-ai-sdk) (32)
+- [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher) (32)
+- [hoaphamduc/jd-assistant](https://github.com/hoaphamduc/jd-assistant) (21)
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) (20)
+- [0xKoda/WireMCP](https://github.com/0xKoda/WireMCP) (15)
+- [mrexodia/mcp-reversing-dataset](https://github.com/mrexodia/mcp-reversing-dataset) (11)
