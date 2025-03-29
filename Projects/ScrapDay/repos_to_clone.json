@@ -2,31 +2,31 @@
   {
     "name": "Intelligent-Internet/ii-researcher",
     "clone_url": "https://github.com/Intelligent-Internet/ii-researcher.git",
-    "stars": 32,
-    "size": 564
+    "stars": 55,
+    "size": 569
+  },
+  {
+    "name": "deanxv/kilo2api",
+    "clone_url": "https://github.com/deanxv/kilo2api.git",
+    "stars": 39,
+    "size": 567
   },
   {
     "name": "hoaphamduc/jd-assistant",
     "clone_url": "https://github.com/hoaphamduc/jd-assistant.git",
-    "stars": 21,
-    "size": 335
+    "stars": 39,
+    "size": 338
   },
   {
     "name": "ayangweb/BongoCat",
     "clone_url": "https://github.com/ayangweb/BongoCat.git",
+    "stars": 27,
+    "size": 3310
+  },
+  {
+    "name": "Byrom90/XeUnshackle",
+    "clone_url": "https://github.com/Byrom90/XeUnshackle.git",
     "stars": 20,
-    "size": 2968
-  },
-  {
-    "name": "0xKoda/WireMCP",
-    "clone_url": "https://github.com/0xKoda/WireMCP.git",
-    "stars": 15,
-    "size": 197
-  },
-  {
-    "name": "mrexodia/mcp-reversing-dataset",
-    "clone_url": "https://github.com/mrexodia/mcp-reversing-dataset.git",
-    "stars": 11,
-    "size": 78
+    "size": 2510
   }
 ]
