@@ -1,32 +1,32 @@
 [
   {
-    "name": "FareedKhan-dev/all-rl-algorithms",
-    "clone_url": "https://github.com/FareedKhan-dev/all-rl-algorithms.git",
-    "stars": 180,
-    "size": 4392
+    "name": "zhtyyx/ioe",
+    "clone_url": "https://github.com/zhtyyx/ioe.git",
+    "stars": 88,
+    "size": 1204
   },
   {
-    "name": "teddynote-lab/langgraph-mcp-agents",
-    "clone_url": "https://github.com/teddynote-lab/langgraph-mcp-agents.git",
-    "stars": 77,
-    "size": 2132
-  },
-  {
-    "name": "hellangleZ/hospital_multiagent_system",
-    "clone_url": "https://github.com/hellangleZ/hospital_multiagent_system.git",
+    "name": "Stable-X/ComfyUI-Hi3DGen",
+    "clone_url": "https://github.com/Stable-X/ComfyUI-Hi3DGen.git",
     "stars": 41,
-    "size": 1098
+    "size": 1242
   },
   {
-    "name": "AEPAX/VerbaAurea",
-    "clone_url": "https://github.com/AEPAX/VerbaAurea.git",
-    "stars": 39,
-    "size": 103
+    "name": "mediar-ai/uniOCR",
+    "clone_url": "https://github.com/mediar-ai/uniOCR.git",
+    "stars": 35,
+    "size": 2696
   },
   {
-    "name": "plexguide/Sonarr-Hunter",
-    "clone_url": "https://github.com/plexguide/Sonarr-Hunter.git",
-    "stars": 38,
-    "size": 90
+    "name": "KrevTos/SOLANA_SNIPER_BOT",
+    "clone_url": "https://github.com/KrevTos/SOLANA_SNIPER_BOT.git",
+    "stars": 31,
+    "size": 630
+  },
+  {
+    "name": "SideStore/StosVPN",
+    "clone_url": "https://github.com/SideStore/StosVPN.git",
+    "stars": 25,
+    "size": 81
   }
 ]
