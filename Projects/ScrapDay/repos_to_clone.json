@@ -2,31 +2,31 @@
   {
     "name": "zhtyyx/ioe",
     "clone_url": "https://github.com/zhtyyx/ioe.git",
-    "stars": 88,
+    "stars": 178,
     "size": 1204
-  },
-  {
-    "name": "Stable-X/ComfyUI-Hi3DGen",
-    "clone_url": "https://github.com/Stable-X/ComfyUI-Hi3DGen.git",
-    "stars": 41,
-    "size": 1242
   },
   {
     "name": "mediar-ai/uniOCR",
     "clone_url": "https://github.com/mediar-ai/uniOCR.git",
-    "stars": 35,
+    "stars": 67,
     "size": 2696
   },
   {
-    "name": "KrevTos/SOLANA_SNIPER_BOT",
-    "clone_url": "https://github.com/KrevTos/SOLANA_SNIPER_BOT.git",
-    "stars": 31,
-    "size": 630
+    "name": "Stable-X/ComfyUI-Hi3DGen",
+    "clone_url": "https://github.com/Stable-X/ComfyUI-Hi3DGen.git",
+    "stars": 61,
+    "size": 1245
   },
   {
-    "name": "SideStore/StosVPN",
-    "clone_url": "https://github.com/SideStore/StosVPN.git",
-    "stars": 25,
-    "size": 81
+    "name": "xiaoxiunique/xhs",
+    "clone_url": "https://github.com/xiaoxiunique/xhs.git",
+    "stars": 40,
+    "size": 1399
+  },
+  {
+    "name": "ActiveTK/gff",
+    "clone_url": "https://github.com/ActiveTK/gff.git",
+    "stars": 37,
+    "size": 1280
   }
 ]
