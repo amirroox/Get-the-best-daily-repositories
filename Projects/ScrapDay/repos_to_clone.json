@@ -1,32 +1,32 @@
 [
   {
-    "name": "zhtyyx/ioe",
-    "clone_url": "https://github.com/zhtyyx/ioe.git",
-    "stars": 178,
-    "size": 1204
-  },
-  {
-    "name": "mediar-ai/uniOCR",
-    "clone_url": "https://github.com/mediar-ai/uniOCR.git",
-    "stars": 67,
-    "size": 2696
-  },
-  {
-    "name": "Stable-X/ComfyUI-Hi3DGen",
-    "clone_url": "https://github.com/Stable-X/ComfyUI-Hi3DGen.git",
-    "stars": 61,
-    "size": 1245
-  },
-  {
-    "name": "xiaoxiunique/xhs",
-    "clone_url": "https://github.com/xiaoxiunique/xhs.git",
-    "stars": 40,
-    "size": 1399
-  },
-  {
     "name": "ActiveTK/gff",
     "clone_url": "https://github.com/ActiveTK/gff.git",
-    "stars": 37,
+    "stars": 84,
     "size": 1280
+  },
+  {
+    "name": "for1000k/Crypto_Betting_Casino_Gambling_App_Platform",
+    "clone_url": "https://github.com/for1000k/Crypto_Betting_Casino_Gambling_App_Platform.git",
+    "stars": 35,
+    "size": 3929
+  },
+  {
+    "name": "sellooh/effect-cluster-via-sst",
+    "clone_url": "https://github.com/sellooh/effect-cluster-via-sst.git",
+    "stars": 33,
+    "size": 3827
+  },
+  {
+    "name": "weareclean/WeAreCleanApp",
+    "clone_url": "https://github.com/weareclean/WeAreCleanApp.git",
+    "stars": 24,
+    "size": 794
+  },
+  {
+    "name": "VatsaDev/NanoPoor",
+    "clone_url": "https://github.com/VatsaDev/NanoPoor.git",
+    "stars": 22,
+    "size": 84
   }
 ]
