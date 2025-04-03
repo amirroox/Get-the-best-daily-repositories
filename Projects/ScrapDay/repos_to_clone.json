@@ -2,31 +2,31 @@
   {
     "name": "algariis/Raydium-Sniper-Bot",
     "clone_url": "https://github.com/algariis/Raydium-Sniper-Bot.git",
-    "stars": 72,
+    "stars": 97,
     "size": 75
+  },
+  {
+    "name": "hanyang-21/VideoScene",
+    "clone_url": "https://github.com/hanyang-21/VideoScene.git",
+    "stars": 91,
+    "size": 2214
+  },
+  {
+    "name": "Haian-Jin/LVSM",
+    "clone_url": "https://github.com/Haian-Jin/LVSM.git",
+    "stars": 70,
+    "size": 198
+  },
+  {
+    "name": "enhancedformysql/tech-explorer-hub",
+    "clone_url": "https://github.com/enhancedformysql/tech-explorer-hub.git",
+    "stars": 44,
+    "size": 61
   },
   {
     "name": "tarun7r/Vocal-Agent",
     "clone_url": "https://github.com/tarun7r/Vocal-Agent.git",
-    "stars": 39,
+    "stars": 44,
     "size": 453
-  },
-  {
-    "name": "Queso081/Oringo-Client",
-    "clone_url": "https://github.com/Queso081/Oringo-Client.git",
-    "stars": 37,
-    "size": 719
-  },
-  {
-    "name": "Mahmud0808/PixelLauncherEnhanced",
-    "clone_url": "https://github.com/Mahmud0808/PixelLauncherEnhanced.git",
-    "stars": 22,
-    "size": 1697
-  },
-  {
-    "name": "blaiszik/awesome-matchem-datasets",
-    "clone_url": "https://github.com/blaiszik/awesome-matchem-datasets.git",
-    "stars": 21,
-    "size": 1813
   }
 ]
