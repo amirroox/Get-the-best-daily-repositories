@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-01 .. 2025-04-03)
+# Latest Repositories (2025-04-02 .. 2025-04-04)
 
-- [algariis/Raydium-Sniper-Bot](https://github.com/algariis/Raydium-Sniper-Bot) (97)
-- [hanyang-21/VideoScene](https://github.com/hanyang-21/VideoScene) (91)
-- [Haian-Jin/LVSM](https://github.com/Haian-Jin/LVSM) (70)
-- [enhancedformysql/tech-explorer-hub](https://github.com/enhancedformysql/tech-explorer-hub) (44)
-- [tarun7r/Vocal-Agent](https://github.com/tarun7r/Vocal-Agent) (44)
+- [ratacat/slurp-ai](https://github.com/ratacat/slurp-ai) (78)
+- [stevenyu113228/BloodHound-MCP](https://github.com/stevenyu113228/BloodHound-MCP) (48)
+- [Guido1Alessandro1Trevisan/linkedin-ghostwriter](https://github.com/Guido1Alessandro1Trevisan/linkedin-ghostwriter) (26)
+- [MrXujiang/flowmix-print](https://github.com/MrXujiang/flowmix-print) (15)
+- [ptcbink/magiceden-nutmarket](https://github.com/ptcbink/magiceden-nutmarket) (15)
