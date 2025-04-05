@@ -2,31 +2,31 @@
   {
     "name": "lusionltd/WebGL-Scroll-Sync",
     "clone_url": "https://github.com/lusionltd/WebGL-Scroll-Sync.git",
-    "stars": 88,
+    "stars": 125,
     "size": 595
   },
   {
     "name": "TensorBlock/awesome-mcp-servers",
     "clone_url": "https://github.com/TensorBlock/awesome-mcp-servers.git",
-    "stars": 33,
+    "stars": 75,
     "size": 521
+  },
+  {
+    "name": "gezuka77/versionvault",
+    "clone_url": "https://github.com/gezuka77/versionvault.git",
+    "stars": 34,
+    "size": 377
   },
   {
     "name": "hoangsonww/Collabify-Project-Manager",
     "clone_url": "https://github.com/hoangsonww/Collabify-Project-Manager.git",
     "stars": 20,
-    "size": 1464
+    "size": 1503
   },
   {
     "name": "hoangsonww/FRED-Banking-Data-Analysis",
     "clone_url": "https://github.com/hoangsonww/FRED-Banking-Data-Analysis.git",
     "stars": 20,
     "size": 4375
-  },
-  {
-    "name": "deanxv/qodo2api",
-    "clone_url": "https://github.com/deanxv/qodo2api.git",
-    "stars": 16,
-    "size": 894
   }
 ]
