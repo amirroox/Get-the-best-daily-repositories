@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-02 .. 2025-04-04)
+# Latest Repositories (2025-04-03 .. 2025-04-05)
 
-- [ratacat/slurp-ai](https://github.com/ratacat/slurp-ai) (107)
-- [stevenyu113228/BloodHound-MCP](https://github.com/stevenyu113228/BloodHound-MCP) (64)
-- [Guido1Alessandro1Trevisan/linkedin-ghostwriter](https://github.com/Guido1Alessandro1Trevisan/linkedin-ghostwriter) (48)
-- [mrkeyiano/interview-coder-clone](https://github.com/mrkeyiano/interview-coder-clone) (20)
-- [ptcbink/magiceden-nutmarket](https://github.com/ptcbink/magiceden-nutmarket) (20)
+- [lusionltd/WebGL-Scroll-Sync](https://github.com/lusionltd/WebGL-Scroll-Sync) (88)
+- [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) (33)
+- [hoangsonww/Collabify-Project-Manager](https://github.com/hoangsonww/Collabify-Project-Manager) (20)
+- [hoangsonww/FRED-Banking-Data-Analysis](https://github.com/hoangsonww/FRED-Banking-Data-Analysis) (20)
+- [deanxv/qodo2api](https://github.com/deanxv/qodo2api) (16)

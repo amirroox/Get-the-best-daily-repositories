@@ -1,32 +1,32 @@
 [
   {
-    "name": "ratacat/slurp-ai",
-    "clone_url": "https://github.com/ratacat/slurp-ai.git",
-    "stars": 107,
-    "size": 567
+    "name": "lusionltd/WebGL-Scroll-Sync",
+    "clone_url": "https://github.com/lusionltd/WebGL-Scroll-Sync.git",
+    "stars": 88,
+    "size": 595
   },
   {
-    "name": "stevenyu113228/BloodHound-MCP",
-    "clone_url": "https://github.com/stevenyu113228/BloodHound-MCP.git",
-    "stars": 64,
-    "size": 256
+    "name": "TensorBlock/awesome-mcp-servers",
+    "clone_url": "https://github.com/TensorBlock/awesome-mcp-servers.git",
+    "stars": 33,
+    "size": 521
   },
   {
-    "name": "Guido1Alessandro1Trevisan/linkedin-ghostwriter",
-    "clone_url": "https://github.com/Guido1Alessandro1Trevisan/linkedin-ghostwriter.git",
-    "stars": 48,
-    "size": 538
-  },
-  {
-    "name": "mrkeyiano/interview-coder-clone",
-    "clone_url": "https://github.com/mrkeyiano/interview-coder-clone.git",
+    "name": "hoangsonww/Collabify-Project-Manager",
+    "clone_url": "https://github.com/hoangsonww/Collabify-Project-Manager.git",
     "stars": 20,
-    "size": 1593
+    "size": 1464
   },
   {
-    "name": "ptcbink/magiceden-nutmarket",
-    "clone_url": "https://github.com/ptcbink/magiceden-nutmarket.git",
+    "name": "hoangsonww/FRED-Banking-Data-Analysis",
+    "clone_url": "https://github.com/hoangsonww/FRED-Banking-Data-Analysis.git",
     "stars": 20,
-    "size": 3512
+    "size": 4375
+  },
+  {
+    "name": "deanxv/qodo2api",
+    "clone_url": "https://github.com/deanxv/qodo2api.git",
+    "stars": 16,
+    "size": 894
   }
 ]
