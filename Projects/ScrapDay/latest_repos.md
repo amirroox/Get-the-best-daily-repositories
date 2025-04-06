@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-03 .. 2025-04-05)
+# Latest Repositories (2025-04-04 .. 2025-04-06)
 
-- [lusionltd/WebGL-Scroll-Sync](https://github.com/lusionltd/WebGL-Scroll-Sync) (125)
-- [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) (75)
-- [gezuka77/versionvault](https://github.com/gezuka77/versionvault) (34)
-- [hoangsonww/Collabify-Project-Manager](https://github.com/hoangsonww/Collabify-Project-Manager) (20)
-- [hoangsonww/FRED-Banking-Data-Analysis](https://github.com/hoangsonww/FRED-Banking-Data-Analysis) (20)
+- [djyde/browser-mcp](https://github.com/djyde/browser-mcp) (20)
+- [datascienceworld-kan/agentools](https://github.com/datascienceworld-kan/agentools) (16)
+- [teddynote-lab/langgraph-react-mcp-chat](https://github.com/teddynote-lab/langgraph-react-mcp-chat) (13)
+- [BennyThink/xjdpj](https://github.com/BennyThink/xjdpj) (9)
+- [emirror-de/axum-gate](https://github.com/emirror-de/axum-gate) (9)
