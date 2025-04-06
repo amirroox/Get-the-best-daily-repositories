@@ -2,8 +2,14 @@
   {
     "name": "djyde/browser-mcp",
     "clone_url": "https://github.com/djyde/browser-mcp.git",
-    "stars": 20,
+    "stars": 39,
     "size": 113
+  },
+  {
+    "name": "lmnzx/rescon25",
+    "clone_url": "https://github.com/lmnzx/rescon25.git",
+    "stars": 27,
+    "size": 2613
   },
   {
     "name": "datascienceworld-kan/agentools",
@@ -14,19 +20,13 @@
   {
     "name": "teddynote-lab/langgraph-react-mcp-chat",
     "clone_url": "https://github.com/teddynote-lab/langgraph-react-mcp-chat.git",
-    "stars": 13,
+    "stars": 14,
     "size": 1290
   },
   {
-    "name": "BennyThink/xjdpj",
-    "clone_url": "https://github.com/BennyThink/xjdpj.git",
-    "stars": 9,
-    "size": 312
-  },
-  {
-    "name": "emirror-de/axum-gate",
-    "clone_url": "https://github.com/emirror-de/axum-gate.git",
-    "stars": 9,
-    "size": 95
+    "name": "upamune/human-mcp",
+    "clone_url": "https://github.com/upamune/human-mcp.git",
+    "stars": 11,
+    "size": 2831
   }
 ]
