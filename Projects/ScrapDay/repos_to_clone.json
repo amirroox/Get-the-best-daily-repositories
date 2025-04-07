@@ -1,32 +1,32 @@
 [
   {
-    "name": "djyde/browser-mcp",
-    "clone_url": "https://github.com/djyde/browser-mcp.git",
-    "stars": 39,
-    "size": 113
+    "name": "turboderp-org/exllamav3",
+    "clone_url": "https://github.com/turboderp-org/exllamav3.git",
+    "stars": 90,
+    "size": 3053
   },
   {
-    "name": "lmnzx/rescon25",
-    "clone_url": "https://github.com/lmnzx/rescon25.git",
-    "stars": 27,
-    "size": 2613
+    "name": "ulvi376/Delta-Executor",
+    "clone_url": "https://github.com/ulvi376/Delta-Executor.git",
+    "stars": 28,
+    "size": 101
   },
   {
-    "name": "datascienceworld-kan/agentools",
-    "clone_url": "https://github.com/datascienceworld-kan/agentools.git",
-    "stars": 16,
-    "size": 330
+    "name": "jasonppy/VoiceStar",
+    "clone_url": "https://github.com/jasonppy/VoiceStar.git",
+    "stars": 24,
+    "size": 762
   },
   {
-    "name": "teddynote-lab/langgraph-react-mcp-chat",
-    "clone_url": "https://github.com/teddynote-lab/langgraph-react-mcp-chat.git",
+    "name": "ActiveTK/fs-png",
+    "clone_url": "https://github.com/ActiveTK/fs-png.git",
+    "stars": 21,
+    "size": 2452
+  },
+  {
+    "name": "llSourcell/Poly-Trader",
+    "clone_url": "https://github.com/llSourcell/Poly-Trader.git",
     "stars": 14,
-    "size": 1290
-  },
-  {
-    "name": "upamune/human-mcp",
-    "clone_url": "https://github.com/upamune/human-mcp.git",
-    "stars": 11,
-    "size": 2831
+    "size": 73
   }
 ]

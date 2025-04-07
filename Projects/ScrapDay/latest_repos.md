@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-04 .. 2025-04-06)
+# Latest Repositories (2025-04-05 .. 2025-04-07)
 
-- [djyde/browser-mcp](https://github.com/djyde/browser-mcp) (39)
-- [lmnzx/rescon25](https://github.com/lmnzx/rescon25) (27)
-- [datascienceworld-kan/agentools](https://github.com/datascienceworld-kan/agentools) (16)
-- [teddynote-lab/langgraph-react-mcp-chat](https://github.com/teddynote-lab/langgraph-react-mcp-chat) (14)
-- [upamune/human-mcp](https://github.com/upamune/human-mcp) (11)
+- [turboderp-org/exllamav3](https://github.com/turboderp-org/exllamav3) (90)
+- [ulvi376/Delta-Executor](https://github.com/ulvi376/Delta-Executor) (28)
+- [jasonppy/VoiceStar](https://github.com/jasonppy/VoiceStar) (24)
+- [ActiveTK/fs-png](https://github.com/ActiveTK/fs-png) (21)
+- [llSourcell/Poly-Trader](https://github.com/llSourcell/Poly-Trader) (14)
