@@ -1,32 +1,32 @@
 [
   {
-    "name": "turboderp-org/exllamav3",
-    "clone_url": "https://github.com/turboderp-org/exllamav3.git",
-    "stars": 120,
-    "size": 3054
+    "name": "test-time-training/ttt-video-dit",
+    "clone_url": "https://github.com/test-time-training/ttt-video-dit.git",
+    "stars": 83,
+    "size": 552
   },
   {
-    "name": "jasonppy/VoiceStar",
-    "clone_url": "https://github.com/jasonppy/VoiceStar.git",
-    "stars": 52,
-    "size": 762
+    "name": "cryptocj520/bphltaoli",
+    "clone_url": "https://github.com/cryptocj520/bphltaoli.git",
+    "stars": 80,
+    "size": 124
   },
   {
-    "name": "ActiveTK/fs-png",
-    "clone_url": "https://github.com/ActiveTK/fs-png.git",
-    "stars": 38,
-    "size": 2452
+    "name": "TuanKiri/weather-mcp-server",
+    "clone_url": "https://github.com/TuanKiri/weather-mcp-server.git",
+    "stars": 57,
+    "size": 100
+  },
+  {
+    "name": "Darsh-A/Ai-TabGroups-ZenBrowser",
+    "clone_url": "https://github.com/Darsh-A/Ai-TabGroups-ZenBrowser.git",
+    "stars": 33,
+    "size": 103
   },
   {
     "name": "0xheli0x/Helius_Crypter",
     "clone_url": "https://github.com/0xheli0x/Helius_Crypter.git",
     "stars": 32,
-    "size": 92
-  },
-  {
-    "name": "ulvi376/Delta-Executor",
-    "clone_url": "https://github.com/ulvi376/Delta-Executor.git",
-    "stars": 28,
-    "size": 101
+    "size": 84
   }
 ]

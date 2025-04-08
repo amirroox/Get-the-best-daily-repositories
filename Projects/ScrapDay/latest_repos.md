@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-05 .. 2025-04-07)
+# Latest Repositories (2025-04-06 .. 2025-04-08)
 
-- [turboderp-org/exllamav3](https://github.com/turboderp-org/exllamav3) (120)
-- [jasonppy/VoiceStar](https://github.com/jasonppy/VoiceStar) (52)
-- [ActiveTK/fs-png](https://github.com/ActiveTK/fs-png) (38)
+- [test-time-training/ttt-video-dit](https://github.com/test-time-training/ttt-video-dit) (83)
+- [cryptocj520/bphltaoli](https://github.com/cryptocj520/bphltaoli) (80)
+- [TuanKiri/weather-mcp-server](https://github.com/TuanKiri/weather-mcp-server) (57)
+- [Darsh-A/Ai-TabGroups-ZenBrowser](https://github.com/Darsh-A/Ai-TabGroups-ZenBrowser) (33)
 - [0xheli0x/Helius_Crypter](https://github.com/0xheli0x/Helius_Crypter) (32)
-- [ulvi376/Delta-Executor](https://github.com/ulvi376/Delta-Executor) (28)
