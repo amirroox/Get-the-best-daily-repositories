@@ -1,32 +1,32 @@
 [
   {
-    "name": "test-time-training/ttt-video-dit",
-    "clone_url": "https://github.com/test-time-training/ttt-video-dit.git",
-    "stars": 281,
-    "size": 554
+    "name": "SakanaAI/AI-Scientist-v2",
+    "clone_url": "https://github.com/SakanaAI/AI-Scientist-v2.git",
+    "stars": 201,
+    "size": 4585
   },
   {
-    "name": "cryptocj520/bphltaoli",
-    "clone_url": "https://github.com/cryptocj520/bphltaoli.git",
-    "stars": 153,
-    "size": 124
-  },
-  {
-    "name": "TuanKiri/weather-mcp-server",
-    "clone_url": "https://github.com/TuanKiri/weather-mcp-server.git",
-    "stars": 128,
-    "size": 100
+    "name": "lvgalvao/WebScraping-2025-Jornada-Aovivo",
+    "clone_url": "https://github.com/lvgalvao/WebScraping-2025-Jornada-Aovivo.git",
+    "stars": 129,
+    "size": 97
   },
   {
     "name": "valyssiaro/Mev-bot-BNB-ARBITRAGE",
     "clone_url": "https://github.com/valyssiaro/Mev-bot-BNB-ARBITRAGE.git",
-    "stars": 94,
-    "size": 65
+    "stars": 95,
+    "size": 136
   },
   {
-    "name": "SakanaAI/AI-Scientist-v2",
-    "clone_url": "https://github.com/SakanaAI/AI-Scientist-v2.git",
-    "stars": 94,
-    "size": 4576
+    "name": "ibrahimadams254/BWM-XMD-QUANTUM",
+    "clone_url": "https://github.com/ibrahimadams254/BWM-XMD-QUANTUM.git",
+    "stars": 29,
+    "size": 189
+  },
+  {
+    "name": "Azure-Samples/python-ai-agent-frameworks-demos",
+    "clone_url": "https://github.com/Azure-Samples/python-ai-agent-frameworks-demos.git",
+    "stars": 25,
+    "size": 1272
   }
 ]
