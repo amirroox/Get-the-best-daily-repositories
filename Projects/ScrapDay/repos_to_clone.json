@@ -3,30 +3,30 @@
     "name": "88valtheraqi/Mev-Bot-Solana-Jupiter",
     "clone_url": "https://github.com/88valtheraqi/Mev-Bot-Solana-Jupiter.git",
     "stars": 224,
-    "size": 80
+    "size": 125
   },
   {
     "name": "twostraws/Prismic",
     "clone_url": "https://github.com/twostraws/Prismic.git",
-    "stars": 101,
+    "stars": 123,
     "size": 326
   },
   {
-    "name": "nellimonix/warp-config-generator-vercel",
-    "clone_url": "https://github.com/nellimonix/warp-config-generator-vercel.git",
-    "stars": 39,
-    "size": 722
-  },
-  {
-    "name": "yagizkarakus/Huawei_Devops_bootcamp",
-    "clone_url": "https://github.com/yagizkarakus/Huawei_Devops_bootcamp.git",
-    "stars": 30,
-    "size": 4171
+    "name": "ByteDance-Seed/Seed-Thinking-v1.5",
+    "clone_url": "https://github.com/ByteDance-Seed/Seed-Thinking-v1.5.git",
+    "stars": 100,
+    "size": 1708
   },
   {
     "name": "WilliamAvHolmberg/glenn-explore",
     "clone_url": "https://github.com/WilliamAvHolmberg/glenn-explore.git",
-    "stars": 23,
-    "size": 4891
+    "stars": 52,
+    "size": 4893
+  },
+  {
+    "name": "nellimonix/warp-config-generator-vercel",
+    "clone_url": "https://github.com/nellimonix/warp-config-generator-vercel.git",
+    "stars": 43,
+    "size": 722
   }
 ]
