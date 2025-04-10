@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-07 .. 2025-04-09)
+# Latest Repositories (2025-04-08 .. 2025-04-10)
 
-- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) (290)
-- [lvgalvao/WebScraping-2025-Jornada-Aovivo](https://github.com/lvgalvao/WebScraping-2025-Jornada-Aovivo) (132)
-- [valyssiaro/Mev-bot-BNB-ARBITRAGE](https://github.com/valyssiaro/Mev-bot-BNB-ARBITRAGE) (95)
-- [yaqiin/yaqiin-boycott](https://github.com/yaqiin/yaqiin-boycott) (44)
-- [twostraws/Prismic](https://github.com/twostraws/Prismic) (42)
+- [88valtheraqi/Mev-Bot-Solana-Jupiter](https://github.com/88valtheraqi/Mev-Bot-Solana-Jupiter) (224)
+- [twostraws/Prismic](https://github.com/twostraws/Prismic) (101)
+- [nellimonix/warp-config-generator-vercel](https://github.com/nellimonix/warp-config-generator-vercel) (39)
+- [yagizkarakus/Huawei_Devops_bootcamp](https://github.com/yagizkarakus/Huawei_Devops_bootcamp) (30)
+- [WilliamAvHolmberg/glenn-explore](https://github.com/WilliamAvHolmberg/glenn-explore) (23)
