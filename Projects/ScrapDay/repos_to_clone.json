@@ -1,32 +1,32 @@
 [
   {
-    "name": "88valtheraqi/Mev-Bot-Solana-Jupiter",
-    "clone_url": "https://github.com/88valtheraqi/Mev-Bot-Solana-Jupiter.git",
-    "stars": 224,
-    "size": 125
-  },
-  {
-    "name": "twostraws/Prismic",
-    "clone_url": "https://github.com/twostraws/Prismic.git",
-    "stars": 123,
-    "size": 326
-  },
-  {
     "name": "ByteDance-Seed/Seed-Thinking-v1.5",
     "clone_url": "https://github.com/ByteDance-Seed/Seed-Thinking-v1.5.git",
-    "stars": 100,
+    "stars": 265,
     "size": 1708
   },
   {
-    "name": "WilliamAvHolmberg/glenn-explore",
-    "clone_url": "https://github.com/WilliamAvHolmberg/glenn-explore.git",
-    "stars": 52,
-    "size": 4893
+    "name": "justlovemaki/CloudFlare-AI-Image",
+    "clone_url": "https://github.com/justlovemaki/CloudFlare-AI-Image.git",
+    "stars": 57,
+    "size": 3996
   },
   {
-    "name": "nellimonix/warp-config-generator-vercel",
-    "clone_url": "https://github.com/nellimonix/warp-config-generator-vercel.git",
-    "stars": 43,
-    "size": 722
+    "name": "jax-explorer/ComfyUI-UNO",
+    "clone_url": "https://github.com/jax-explorer/ComfyUI-UNO.git",
+    "stars": 34,
+    "size": 3405
+  },
+  {
+    "name": "MiniMax-AI/MiniMax-MCP",
+    "clone_url": "https://github.com/MiniMax-AI/MiniMax-MCP.git",
+    "stars": 33,
+    "size": 74
+  },
+  {
+    "name": "iFurySt/RedNote-MCP",
+    "clone_url": "https://github.com/iFurySt/RedNote-MCP.git",
+    "stars": 28,
+    "size": 65
   }
 ]

@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-08 .. 2025-04-10)
+# Latest Repositories (2025-04-09 .. 2025-04-11)
 
-- [88valtheraqi/Mev-Bot-Solana-Jupiter](https://github.com/88valtheraqi/Mev-Bot-Solana-Jupiter) (224)
-- [twostraws/Prismic](https://github.com/twostraws/Prismic) (123)
-- [ByteDance-Seed/Seed-Thinking-v1.5](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5) (100)
-- [WilliamAvHolmberg/glenn-explore](https://github.com/WilliamAvHolmberg/glenn-explore) (52)
-- [nellimonix/warp-config-generator-vercel](https://github.com/nellimonix/warp-config-generator-vercel) (43)
+- [ByteDance-Seed/Seed-Thinking-v1.5](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5) (265)
+- [justlovemaki/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image) (57)
+- [jax-explorer/ComfyUI-UNO](https://github.com/jax-explorer/ComfyUI-UNO) (34)
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) (33)
+- [iFurySt/RedNote-MCP](https://github.com/iFurySt/RedNote-MCP) (28)
