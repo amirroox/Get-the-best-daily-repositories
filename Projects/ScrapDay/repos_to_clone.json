@@ -2,31 +2,31 @@
   {
     "name": "ByteDance-Seed/Seed-Thinking-v1.5",
     "clone_url": "https://github.com/ByteDance-Seed/Seed-Thinking-v1.5.git",
-    "stars": 265,
-    "size": 1708
+    "stars": 429,
+    "size": 1740
   },
   {
-    "name": "justlovemaki/CloudFlare-AI-Image",
-    "clone_url": "https://github.com/justlovemaki/CloudFlare-AI-Image.git",
-    "stars": 57,
-    "size": 3996
+    "name": "eds2002/immersive-overlay-example",
+    "clone_url": "https://github.com/eds2002/immersive-overlay-example.git",
+    "stars": 91,
+    "size": 325
   },
   {
-    "name": "jax-explorer/ComfyUI-UNO",
-    "clone_url": "https://github.com/jax-explorer/ComfyUI-UNO.git",
-    "stars": 34,
-    "size": 3405
-  },
-  {
-    "name": "MiniMax-AI/MiniMax-MCP",
-    "clone_url": "https://github.com/MiniMax-AI/MiniMax-MCP.git",
-    "stars": 33,
-    "size": 74
+    "name": "star7th/jisuxiang",
+    "clone_url": "https://github.com/star7th/jisuxiang.git",
+    "stars": 87,
+    "size": 1030
   },
   {
     "name": "iFurySt/RedNote-MCP",
     "clone_url": "https://github.com/iFurySt/RedNote-MCP.git",
-    "stars": 28,
-    "size": 65
+    "stars": 78,
+    "size": 76
+  },
+  {
+    "name": "justlovemaki/CloudFlare-AI-Image",
+    "clone_url": "https://github.com/justlovemaki/CloudFlare-AI-Image.git",
+    "stars": 66,
+    "size": 3996
   }
 ]
