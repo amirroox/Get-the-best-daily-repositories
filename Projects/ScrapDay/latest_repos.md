@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-09 .. 2025-04-11)
+# Latest Repositories (2025-04-10 .. 2025-04-12)
 
-- [ByteDance-Seed/Seed-Thinking-v1.5](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5) (429)
-- [eds2002/immersive-overlay-example](https://github.com/eds2002/immersive-overlay-example) (91)
-- [star7th/jisuxiang](https://github.com/star7th/jisuxiang) (87)
-- [iFurySt/RedNote-MCP](https://github.com/iFurySt/RedNote-MCP) (78)
-- [justlovemaki/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image) (66)
+- [Sonivexravendir/SOLANA_MEV-BOT_TRADING](https://github.com/Sonivexravendir/SOLANA_MEV-BOT_TRADING) (132)
+- [reachingforthejack/cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) (86)
+- [ShoufaChen/PixelFlow](https://github.com/ShoufaChen/PixelFlow) (53)
+- [nunomaduro/essentials](https://github.com/nunomaduro/essentials) (52)
+- [Arley9011/Fluxus-Executor](https://github.com/Arley9011/Fluxus-Executor) (25)
