@@ -3,30 +3,30 @@
     "name": "Sonivexravendir/SOLANA_MEV-BOT_TRADING",
     "clone_url": "https://github.com/Sonivexravendir/SOLANA_MEV-BOT_TRADING.git",
     "stars": 132,
-    "size": 111
+    "size": 171
   },
   {
     "name": "reachingforthejack/cursortab.nvim",
     "clone_url": "https://github.com/reachingforthejack/cursortab.nvim.git",
-    "stars": 86,
+    "stars": 110,
     "size": 336
-  },
-  {
-    "name": "ShoufaChen/PixelFlow",
-    "clone_url": "https://github.com/ShoufaChen/PixelFlow.git",
-    "stars": 53,
-    "size": 51
   },
   {
     "name": "nunomaduro/essentials",
     "clone_url": "https://github.com/nunomaduro/essentials.git",
-    "stars": 52,
+    "stars": 80,
     "size": 154
   },
   {
-    "name": "Arley9011/Fluxus-Executor",
-    "clone_url": "https://github.com/Arley9011/Fluxus-Executor.git",
-    "stars": 25,
-    "size": 3339
+    "name": "ShoufaChen/PixelFlow",
+    "clone_url": "https://github.com/ShoufaChen/PixelFlow.git",
+    "stars": 75,
+    "size": 51
+  },
+  {
+    "name": "dolleymexank39/Mev-Sandwich-Bot",
+    "clone_url": "https://github.com/dolleymexank39/Mev-Sandwich-Bot.git",
+    "stars": 57,
+    "size": 191
   }
 ]
