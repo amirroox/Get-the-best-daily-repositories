@@ -2,31 +2,31 @@
   {
     "name": "nathanhleung/protobuf-ts-types",
     "clone_url": "https://github.com/nathanhleung/protobuf-ts-types.git",
-    "stars": 117,
+    "stars": 169,
     "size": 195
   },
   {
     "name": "MoonshotAI/Kimina-Prover-Preview",
     "clone_url": "https://github.com/MoonshotAI/Kimina-Prover-Preview.git",
-    "stars": 114,
+    "stars": 153,
     "size": 4091
+  },
+  {
+    "name": "riseandignite/mcp-shield",
+    "clone_url": "https://github.com/riseandignite/mcp-shield.git",
+    "stars": 135,
+    "size": 50
   },
   {
     "name": "arpanghosh8453/garmin-grafana",
     "clone_url": "https://github.com/arpanghosh8453/garmin-grafana.git",
-    "stars": 36,
-    "size": 918
+    "stars": 131,
+    "size": 965
   },
   {
-    "name": "Diffusion-Dynamics/watermark-segmentation",
-    "clone_url": "https://github.com/Diffusion-Dynamics/watermark-segmentation.git",
-    "stars": 35,
-    "size": 4385
-  },
-  {
-    "name": "xBlackAttack/x99-vehicleradio",
-    "clone_url": "https://github.com/xBlackAttack/x99-vehicleradio.git",
-    "stars": 35,
-    "size": 2092
+    "name": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+    "clone_url": "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts.git",
+    "stars": 94,
+    "size": 84
   }
 ]
