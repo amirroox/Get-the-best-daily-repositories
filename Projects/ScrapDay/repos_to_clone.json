@@ -1,32 +1,32 @@
 [
   {
-    "name": "riseandignite/mcp-shield",
-    "clone_url": "https://github.com/riseandignite/mcp-shield.git",
-    "stars": 257,
-    "size": 50
-  },
-  {
     "name": "123xiao/sex-agreement-app",
     "clone_url": "https://github.com/123xiao/sex-agreement-app.git",
-    "stars": 247,
+    "stars": 384,
     "size": 1721
   },
   {
-    "name": "archetyp-onion-online/archetyp-onion",
-    "clone_url": "https://github.com/archetyp-onion-online/archetyp-onion.git",
-    "stars": 89,
-    "size": 56
+    "name": "harishsg993010/damn-vulnerable-MCP-server",
+    "clone_url": "https://github.com/harishsg993010/damn-vulnerable-MCP-server.git",
+    "stars": 313,
+    "size": 119
   },
   {
-    "name": "archetyp-market-secure-innovative/archetyp-market-secure-innovative",
-    "clone_url": "https://github.com/archetyp-market-secure-innovative/archetyp-market-secure-innovative.git",
-    "stars": 86,
-    "size": 66
+    "name": "tanishqkumar/beyond-nanogpt",
+    "clone_url": "https://github.com/tanishqkumar/beyond-nanogpt.git",
+    "stars": 84,
+    "size": 778
   },
   {
-    "name": "archetyp-market-main/archetyp-market-main",
-    "clone_url": "https://github.com/archetyp-market-main/archetyp-market-main.git",
-    "stars": 51,
-    "size": 79
+    "name": "togethercomputer/open_deep_research",
+    "clone_url": "https://github.com/togethercomputer/open_deep_research.git",
+    "stars": 52,
+    "size": 240
+  },
+  {
+    "name": "voxmenthe/coding-agent",
+    "clone_url": "https://github.com/voxmenthe/coding-agent.git",
+    "stars": 27,
+    "size": 394
   }
 ]
