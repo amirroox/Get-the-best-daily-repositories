@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-15 .. 2025-04-17)
+# Latest Repositories (2025-04-16 .. 2025-04-18)
 
-- [123xiao/sex-agreement-app](https://github.com/123xiao/sex-agreement-app) (812)
-- [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) (484)
-- [tanishqkumar/beyond-nanogpt](https://github.com/tanishqkumar/beyond-nanogpt) (116)
-- [togethercomputer/open_deep_research](https://github.com/togethercomputer/open_deep_research) (81)
-- [nexus-darknet-online/nexus-darknet-online](https://github.com/nexus-darknet-online/nexus-darknet-online) (70)
+- [kijai/ComfyUI-FramePackWrapper](https://github.com/kijai/ComfyUI-FramePackWrapper) (175)
+- [torzon-link-torzonurl/torzon-link-torzonurl](https://github.com/torzon-link-torzonurl/torzon-link-torzonurl) (57)
+- [PaulShiLi/Siliv](https://github.com/PaulShiLi/Siliv) (56)
+- [torzon-marketplace/torzon-marketplace](https://github.com/torzon-marketplace/torzon-marketplace) (54)
+- [torzon-official-links/torzon-official-links](https://github.com/torzon-official-links/torzon-official-links) (53)
