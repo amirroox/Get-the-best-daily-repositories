@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-16 .. 2025-04-18)
+# Latest Repositories (2025-04-17 .. 2025-04-19)
 
-- [kijai/ComfyUI-FramePackWrapper](https://github.com/kijai/ComfyUI-FramePackWrapper) (322)
-- [torzon-official-links/torzon-official-links](https://github.com/torzon-official-links/torzon-official-links) (138)
-- [torzon-url/torzon-url](https://github.com/torzon-url/torzon-url) (127)
-- [torzon-marketplace/torzon-marketplace](https://github.com/torzon-marketplace/torzon-marketplace) (112)
-- [torzon-link-torzonurl/torzon-link-torzonurl](https://github.com/torzon-link-torzonurl/torzon-link-torzonurl) (91)
+- [aculix/bitplay](https://github.com/aculix/bitplay) (59)
+- [tunnckoCore/zodest](https://github.com/tunnckoCore/zodest) (40)
+- [chryzsh/awesome-bof](https://github.com/chryzsh/awesome-bof) (27)
+- [banteg/legible-math](https://github.com/banteg/legible-math) (27)
+- [liujuntao123/smart-markmap](https://github.com/liujuntao123/smart-markmap) (20)
