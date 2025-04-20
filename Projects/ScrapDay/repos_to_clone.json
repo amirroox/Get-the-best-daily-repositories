@@ -2,13 +2,25 @@
   {
     "name": "unibeck/uptime-monitor",
     "clone_url": "https://github.com/unibeck/uptime-monitor.git",
-    "stars": 95,
-    "size": 443
+    "stars": 372,
+    "size": 480
+  },
+  {
+    "name": "Xyrionsfw/Uniswap-mev-trading-bot",
+    "clone_url": "https://github.com/Xyrionsfw/Uniswap-mev-trading-bot.git",
+    "stars": 68,
+    "size": 72
+  },
+  {
+    "name": "oversoul/xmb-fm",
+    "clone_url": "https://github.com/oversoul/xmb-fm.git",
+    "stars": 35,
+    "size": 252
   },
   {
     "name": "bdhdhvd/CraxsRAT-Official",
     "clone_url": "https://github.com/bdhdhvd/CraxsRAT-Official.git",
-    "stars": 31,
+    "stars": 32,
     "size": 864
   },
   {
@@ -16,17 +28,5 @@
     "clone_url": "https://github.com/grhrg4h/CraxsRAT-V7.8-Offficial.git",
     "stars": 31,
     "size": 319
-  },
-  {
-    "name": "backpine/tanstack-start-on-cloudflare-workers-v0",
-    "clone_url": "https://github.com/backpine/tanstack-start-on-cloudflare-workers-v0.git",
-    "stars": 18,
-    "size": 241
-  },
-  {
-    "name": "oversoul/xmb-fm",
-    "clone_url": "https://github.com/oversoul/xmb-fm.git",
-    "stars": 17,
-    "size": 232
   }
 ]
