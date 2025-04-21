@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-18 .. 2025-04-20)
+# Latest Repositories (2025-04-19 .. 2025-04-21)
 
-- [unibeck/uptime-monitor](https://github.com/unibeck/uptime-monitor) (372)
-- [Xyrionsfw/Uniswap-mev-trading-bot](https://github.com/Xyrionsfw/Uniswap-mev-trading-bot) (68)
-- [oversoul/xmb-fm](https://github.com/oversoul/xmb-fm) (35)
-- [bdhdhvd/CraxsRAT-Official](https://github.com/bdhdhvd/CraxsRAT-Official) (32)
-- [grhrg4h/CraxsRAT-V7.8-Offficial](https://github.com/grhrg4h/CraxsRAT-V7.8-Offficial) (31)
+- [1998code/SwiftGlass](https://github.com/1998code/SwiftGlass) (164)
+- [sincover/Symphony](https://github.com/sincover/Symphony) (61)
+- [monroe31s/Nullpoint-Stealer](https://github.com/monroe31s/Nullpoint-Stealer) (45)
+- [cryptocj520/madingspot420](https://github.com/cryptocj520/madingspot420) (43)
+- [LukasOgunfeitimi/TikTok-ReverseEngineering](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering) (27)
