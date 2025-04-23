@@ -1,32 +1,32 @@
 [
   {
-    "name": "Aeastr/Portal",
-    "clone_url": "https://github.com/Aeastr/Portal.git",
-    "stars": 200,
-    "size": 3759
-  },
-  {
-    "name": "30quinxbs/Mev-Bot-Uniswap",
-    "clone_url": "https://github.com/30quinxbs/Mev-Bot-Uniswap.git",
-    "stars": 56,
-    "size": 91
-  },
-  {
-    "name": "zaidmukaddam/scira-mcp-chat",
-    "clone_url": "https://github.com/zaidmukaddam/scira-mcp-chat.git",
-    "stars": 47,
-    "size": 820
-  },
-  {
     "name": "yonggekkk/ArgoSB",
     "clone_url": "https://github.com/yonggekkk/ArgoSB.git",
-    "stars": 40,
+    "stars": 53,
     "size": 70
   },
   {
-    "name": "Arya7766/EDA-Analaysis-Using-Python-on-Commoditiy-Data-Set",
-    "clone_url": "https://github.com/Arya7766/EDA-Analaysis-Using-Python-on-Commoditiy-Data-Set.git",
-    "stars": 34,
-    "size": 626
+    "name": "KaraBharat/shadcn-crm-dashboard",
+    "clone_url": "https://github.com/KaraBharat/shadcn-crm-dashboard.git",
+    "stars": 43,
+    "size": 3571
+  },
+  {
+    "name": "Nutlope/deep-research",
+    "clone_url": "https://github.com/Nutlope/deep-research.git",
+    "stars": 35,
+    "size": 77
+  },
+  {
+    "name": "JulesMellot/PlexIs",
+    "clone_url": "https://github.com/JulesMellot/PlexIs.git",
+    "stars": 20,
+    "size": 72
+  },
+  {
+    "name": "a00012025/crawler-scripts",
+    "clone_url": "https://github.com/a00012025/crawler-scripts.git",
+    "stars": 19,
+    "size": 1850
   }
 ]
