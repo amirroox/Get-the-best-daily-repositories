@@ -2,31 +2,31 @@
   {
     "name": "skanger/zifei-panel",
     "clone_url": "https://github.com/skanger/zifei-panel.git",
-    "stars": 149,
+    "stars": 251,
     "size": 1577
   },
   {
     "name": "PRIME-RL/TTRL",
     "clone_url": "https://github.com/PRIME-RL/TTRL.git",
-    "stars": 91,
-    "size": 1699
+    "stars": 134,
+    "size": 1988
+  },
+  {
+    "name": "Tencent-TDS/KuiklyUI",
+    "clone_url": "https://github.com/Tencent-TDS/KuiklyUI.git",
+    "stars": 124,
+    "size": 2507
   },
   {
     "name": "cogiceo/GPOHound",
     "clone_url": "https://github.com/cogiceo/GPOHound.git",
-    "stars": 43,
+    "stars": 78,
     "size": 89
   },
   {
-    "name": "qualifiedlit/any-sync-bundle",
-    "clone_url": "https://github.com/qualifiedlit/any-sync-bundle.git",
-    "stars": 31,
-    "size": 183
-  },
-  {
-    "name": "fastnetball/cost-manager",
-    "clone_url": "https://github.com/fastnetball/cost-manager.git",
-    "stars": 31,
-    "size": 71
+    "name": "neatethnicity/fiber",
+    "clone_url": "https://github.com/neatethnicity/fiber.git",
+    "stars": 43,
+    "size": 64
   }
 ]
