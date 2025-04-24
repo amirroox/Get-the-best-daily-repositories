@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-21 .. 2025-04-23)
+# Latest Repositories (2025-04-22 .. 2025-04-24)
 
-- [Valyssia83t/Mev-Bot-SOLANA](https://github.com/Valyssia83t/Mev-Bot-SOLANA) (105)
-- [yonggekkk/ArgoSB](https://github.com/yonggekkk/ArgoSB) (69)
-- [PRIME-RL/TTRL](https://github.com/PRIME-RL/TTRL) (67)
-- [KaraBharat/shadcn-crm-dashboard](https://github.com/KaraBharat/shadcn-crm-dashboard) (59)
-- [Nutlope/deep-research](https://github.com/Nutlope/deep-research) (52)
+- [skanger/zifei-panel](https://github.com/skanger/zifei-panel) (149)
+- [PRIME-RL/TTRL](https://github.com/PRIME-RL/TTRL) (91)
+- [cogiceo/GPOHound](https://github.com/cogiceo/GPOHound) (43)
+- [qualifiedlit/any-sync-bundle](https://github.com/qualifiedlit/any-sync-bundle) (31)
+- [fastnetball/cost-manager](https://github.com/fastnetball/cost-manager) (31)

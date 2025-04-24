@@ -1,32 +1,32 @@
 [
   {
-    "name": "Valyssia83t/Mev-Bot-SOLANA",
-    "clone_url": "https://github.com/Valyssia83t/Mev-Bot-SOLANA.git",
-    "stars": 105,
-    "size": 104
-  },
-  {
-    "name": "yonggekkk/ArgoSB",
-    "clone_url": "https://github.com/yonggekkk/ArgoSB.git",
-    "stars": 69,
-    "size": 70
+    "name": "skanger/zifei-panel",
+    "clone_url": "https://github.com/skanger/zifei-panel.git",
+    "stars": 149,
+    "size": 1577
   },
   {
     "name": "PRIME-RL/TTRL",
     "clone_url": "https://github.com/PRIME-RL/TTRL.git",
-    "stars": 67,
+    "stars": 91,
     "size": 1699
   },
   {
-    "name": "KaraBharat/shadcn-crm-dashboard",
-    "clone_url": "https://github.com/KaraBharat/shadcn-crm-dashboard.git",
-    "stars": 59,
-    "size": 3571
+    "name": "cogiceo/GPOHound",
+    "clone_url": "https://github.com/cogiceo/GPOHound.git",
+    "stars": 43,
+    "size": 89
   },
   {
-    "name": "Nutlope/deep-research",
-    "clone_url": "https://github.com/Nutlope/deep-research.git",
-    "stars": 52,
-    "size": 77
+    "name": "qualifiedlit/any-sync-bundle",
+    "clone_url": "https://github.com/qualifiedlit/any-sync-bundle.git",
+    "stars": 31,
+    "size": 183
+  },
+  {
+    "name": "fastnetball/cost-manager",
+    "clone_url": "https://github.com/fastnetball/cost-manager.git",
+    "stars": 31,
+    "size": 71
   }
 ]
