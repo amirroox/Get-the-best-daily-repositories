@@ -2,31 +2,31 @@
   {
     "name": "Tencent-TDS/KuiklyUI",
     "clone_url": "https://github.com/Tencent-TDS/KuiklyUI.git",
-    "stars": 168,
-    "size": 2507
+    "stars": 215,
+    "size": 2510
   },
   {
     "name": "Calindra54z05L/Mev-Bot-Uniswap",
     "clone_url": "https://github.com/Calindra54z05L/Mev-Bot-Uniswap.git",
     "stars": 35,
-    "size": 98
+    "size": 151
   },
   {
     "name": "keta1930/mcp-agent-graph",
     "clone_url": "https://github.com/keta1930/mcp-agent-graph.git",
-    "stars": 32,
+    "stars": 33,
     "size": 1256
+  },
+  {
+    "name": "Pleias/Pleias-RAG-Library",
+    "clone_url": "https://github.com/Pleias/Pleias-RAG-Library.git",
+    "stars": 25,
+    "size": 1520
   },
   {
     "name": "Sangam919/Gliomo-Grading-Brain-Tumor-LGG-GBM-Analysis",
     "clone_url": "https://github.com/Sangam919/Gliomo-Grading-Brain-Tumor-LGG-GBM-Analysis.git",
     "stars": 24,
     "size": 865
-  },
-  {
-    "name": "Pleias/Pleias-RAG-Library",
-    "clone_url": "https://github.com/Pleias/Pleias-RAG-Library.git",
-    "stars": 21,
-    "size": 1520
   }
 ]
