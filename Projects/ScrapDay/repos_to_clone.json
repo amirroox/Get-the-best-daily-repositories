@@ -2,8 +2,20 @@
   {
     "name": "going-doer/Paper2Code",
     "clone_url": "https://github.com/going-doer/Paper2Code.git",
-    "stars": 130,
+    "stars": 273,
     "size": 1699
+  },
+  {
+    "name": "sgh370/ml-django-brain",
+    "clone_url": "https://github.com/sgh370/ml-django-brain.git",
+    "stars": 39,
+    "size": 388
+  },
+  {
+    "name": "eriktaveras/django-saas-boilerplate",
+    "clone_url": "https://github.com/eriktaveras/django-saas-boilerplate.git",
+    "stars": 34,
+    "size": 60
   },
   {
     "name": "jax-25/E2E_FULL_API_Demo",
@@ -12,21 +24,9 @@
     "size": 53
   },
   {
-    "name": "eriktaveras/django-saas-boilerplate",
-    "clone_url": "https://github.com/eriktaveras/django-saas-boilerplate.git",
-    "stars": 31,
-    "size": 60
-  },
-  {
-    "name": "kristianfreeman/react-router-hono-vite-cf-example",
-    "clone_url": "https://github.com/kristianfreeman/react-router-hono-vite-cf-example.git",
-    "stars": 23,
-    "size": 68
-  },
-  {
-    "name": "sgh370/ml-django-brain",
-    "clone_url": "https://github.com/sgh370/ml-django-brain.git",
-    "stars": 22,
-    "size": 388
+    "name": "sergiodxa/react-router-color-scheme-example",
+    "clone_url": "https://github.com/sergiodxa/react-router-color-scheme-example.git",
+    "stars": 30,
+    "size": 62
   }
 ]
