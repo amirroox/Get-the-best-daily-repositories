@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-23 .. 2025-04-25)
+# Latest Repositories (2025-04-24 .. 2025-04-26)
 
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) (215)
-- [Calindra54z05L/Mev-Bot-Uniswap](https://github.com/Calindra54z05L/Mev-Bot-Uniswap) (35)
-- [keta1930/mcp-agent-graph](https://github.com/keta1930/mcp-agent-graph) (33)
-- [Pleias/Pleias-RAG-Library](https://github.com/Pleias/Pleias-RAG-Library) (25)
-- [Sangam919/Gliomo-Grading-Brain-Tumor-LGG-GBM-Analysis](https://github.com/Sangam919/Gliomo-Grading-Brain-Tumor-LGG-GBM-Analysis) (24)
+- [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) (130)
+- [jax-25/E2E_FULL_API_Demo](https://github.com/jax-25/E2E_FULL_API_Demo) (34)
+- [eriktaveras/django-saas-boilerplate](https://github.com/eriktaveras/django-saas-boilerplate) (31)
+- [kristianfreeman/react-router-hono-vite-cf-example](https://github.com/kristianfreeman/react-router-hono-vite-cf-example) (23)
+- [sgh370/ml-django-brain](https://github.com/sgh370/ml-django-brain) (22)
