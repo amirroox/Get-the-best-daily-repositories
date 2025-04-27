@@ -1,32 +1,32 @@
 [
   {
-    "name": "going-doer/Paper2Code",
-    "clone_url": "https://github.com/going-doer/Paper2Code.git",
-    "stars": 273,
-    "size": 1699
-  },
-  {
-    "name": "sgh370/ml-django-brain",
-    "clone_url": "https://github.com/sgh370/ml-django-brain.git",
-    "stars": 39,
-    "size": 388
-  },
-  {
-    "name": "eriktaveras/django-saas-boilerplate",
-    "clone_url": "https://github.com/eriktaveras/django-saas-boilerplate.git",
-    "stars": 34,
+    "name": "tokenizer-decode/email-sleuth",
+    "clone_url": "https://github.com/tokenizer-decode/email-sleuth.git",
+    "stars": 100,
     "size": 60
   },
   {
-    "name": "jax-25/E2E_FULL_API_Demo",
-    "clone_url": "https://github.com/jax-25/E2E_FULL_API_Demo.git",
-    "stars": 34,
-    "size": 53
+    "name": "CJackHwang/AIstudioProxyAPI",
+    "clone_url": "https://github.com/CJackHwang/AIstudioProxyAPI.git",
+    "stars": 81,
+    "size": 3318
   },
   {
     "name": "sergiodxa/react-router-color-scheme-example",
     "clone_url": "https://github.com/sergiodxa/react-router-color-scheme-example.git",
-    "stars": 30,
+    "stars": 35,
     "size": 62
+  },
+  {
+    "name": "thecybersandeep/Frida-Launcher",
+    "clone_url": "https://github.com/thecybersandeep/Frida-Launcher.git",
+    "stars": 28,
+    "size": 200
+  },
+  {
+    "name": "NaitikJoshiPro/Trading-ZettleKasten",
+    "clone_url": "https://github.com/NaitikJoshiPro/Trading-ZettleKasten.git",
+    "stars": 21,
+    "size": 218
   }
 ]
