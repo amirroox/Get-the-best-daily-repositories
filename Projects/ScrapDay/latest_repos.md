@@ -1,7 +1,7 @@
 # Latest Repositories (2025-04-26 .. 2025-04-28)
 
-- [LiquidAI-FUN/LiquidAI](https://github.com/LiquidAI-FUN/LiquidAI) (21)
-- [AlexBefest/highCompute.py](https://github.com/AlexBefest/highCompute.py) (18)
-- [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) (18)
-- [Rsxio/domain_scanner_dns_version](https://github.com/Rsxio/domain_scanner_dns_version) (18)
-- [wangle201210/go-rag](https://github.com/wangle201210/go-rag) (14)
+- [zoowayss/cursor-auto-account](https://github.com/zoowayss/cursor-auto-account) (52)
+- [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) (34)
+- [byJoey/wk-Auto-update](https://github.com/byJoey/wk-Auto-update) (26)
+- [AlexBefest/highCompute.py](https://github.com/AlexBefest/highCompute.py) (24)
+- [slowmist/MasterMCP](https://github.com/slowmist/MasterMCP) (23)

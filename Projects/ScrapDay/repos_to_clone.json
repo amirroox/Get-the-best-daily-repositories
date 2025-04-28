@@ -1,32 +1,32 @@
 [
   {
-    "name": "LiquidAI-FUN/LiquidAI",
-    "clone_url": "https://github.com/LiquidAI-FUN/LiquidAI.git",
-    "stars": 21,
-    "size": 169
-  },
-  {
-    "name": "AlexBefest/highCompute.py",
-    "clone_url": "https://github.com/AlexBefest/highCompute.py.git",
-    "stars": 18,
-    "size": 172
+    "name": "zoowayss/cursor-auto-account",
+    "clone_url": "https://github.com/zoowayss/cursor-auto-account.git",
+    "stars": 52,
+    "size": 895
   },
   {
     "name": "punkpeye/awesome-mcp-devtools",
     "clone_url": "https://github.com/punkpeye/awesome-mcp-devtools.git",
-    "stars": 18,
+    "stars": 34,
     "size": 62
   },
   {
-    "name": "Rsxio/domain_scanner_dns_version",
-    "clone_url": "https://github.com/Rsxio/domain_scanner_dns_version.git",
-    "stars": 18,
-    "size": 60
+    "name": "byJoey/wk-Auto-update",
+    "clone_url": "https://github.com/byJoey/wk-Auto-update.git",
+    "stars": 26,
+    "size": 572
   },
   {
-    "name": "wangle201210/go-rag",
-    "clone_url": "https://github.com/wangle201210/go-rag.git",
-    "stars": 14,
-    "size": 222
+    "name": "AlexBefest/highCompute.py",
+    "clone_url": "https://github.com/AlexBefest/highCompute.py.git",
+    "stars": 24,
+    "size": 173
+  },
+  {
+    "name": "slowmist/MasterMCP",
+    "clone_url": "https://github.com/slowmist/MasterMCP.git",
+    "stars": 23,
+    "size": 68
   }
 ]
