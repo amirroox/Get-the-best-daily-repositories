@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-25 .. 2025-04-27)
+# Latest Repositories (2025-04-26 .. 2025-04-28)
 
-- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) (228)
-- [tokenizer-decode/email-sleuth](https://github.com/tokenizer-decode/email-sleuth) (167)
-- [sergiodxa/react-router-color-scheme-example](https://github.com/sergiodxa/react-router-color-scheme-example) (37)
-- [NaitikJoshiPro/Trading-ZettleKasten](https://github.com/NaitikJoshiPro/Trading-ZettleKasten) (37)
-- [thecybersandeep/Frida-Launcher](https://github.com/thecybersandeep/Frida-Launcher) (33)
+- [LiquidAI-FUN/LiquidAI](https://github.com/LiquidAI-FUN/LiquidAI) (21)
+- [AlexBefest/highCompute.py](https://github.com/AlexBefest/highCompute.py) (18)
+- [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) (18)
+- [Rsxio/domain_scanner_dns_version](https://github.com/Rsxio/domain_scanner_dns_version) (18)
+- [wangle201210/go-rag](https://github.com/wangle201210/go-rag) (14)
