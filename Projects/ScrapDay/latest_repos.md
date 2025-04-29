@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-26 .. 2025-04-28)
+# Latest Repositories (2025-04-27 .. 2025-04-29)
 
-- [zoowayss/cursor-auto-account](https://github.com/zoowayss/cursor-auto-account) (52)
-- [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) (34)
-- [byJoey/wk-Auto-update](https://github.com/byJoey/wk-Auto-update) (26)
-- [AlexBefest/highCompute.py](https://github.com/AlexBefest/highCompute.py) (24)
-- [slowmist/MasterMCP](https://github.com/slowmist/MasterMCP) (23)
+- [byJoey/wk-Auto-update](https://github.com/byJoey/wk-Auto-update) (61)
+- [Chirag-Main1/ChatBot_perosnal](https://github.com/Chirag-Main1/ChatBot_perosnal) (48)
+- [rainmanjam/jobspy-api](https://github.com/rainmanjam/jobspy-api) (38)
+- [slowmist/MasterMCP](https://github.com/slowmist/MasterMCP) (34)
+- [al-sultani/prokzee](https://github.com/al-sultani/prokzee) (28)

@@ -1,32 +1,32 @@
 [
   {
-    "name": "zoowayss/cursor-auto-account",
-    "clone_url": "https://github.com/zoowayss/cursor-auto-account.git",
-    "stars": 52,
-    "size": 895
-  },
-  {
-    "name": "punkpeye/awesome-mcp-devtools",
-    "clone_url": "https://github.com/punkpeye/awesome-mcp-devtools.git",
-    "stars": 34,
-    "size": 62
-  },
-  {
     "name": "byJoey/wk-Auto-update",
     "clone_url": "https://github.com/byJoey/wk-Auto-update.git",
-    "stars": 26,
-    "size": 572
+    "stars": 61,
+    "size": 574
   },
   {
-    "name": "AlexBefest/highCompute.py",
-    "clone_url": "https://github.com/AlexBefest/highCompute.py.git",
-    "stars": 24,
-    "size": 173
+    "name": "Chirag-Main1/ChatBot_perosnal",
+    "clone_url": "https://github.com/Chirag-Main1/ChatBot_perosnal.git",
+    "stars": 48,
+    "size": 112
+  },
+  {
+    "name": "rainmanjam/jobspy-api",
+    "clone_url": "https://github.com/rainmanjam/jobspy-api.git",
+    "stars": 38,
+    "size": 71
   },
   {
     "name": "slowmist/MasterMCP",
     "clone_url": "https://github.com/slowmist/MasterMCP.git",
-    "stars": 23,
+    "stars": 34,
     "size": 68
+  },
+  {
+    "name": "al-sultani/prokzee",
+    "clone_url": "https://github.com/al-sultani/prokzee.git",
+    "stars": 28,
+    "size": 2367
   }
 ]
