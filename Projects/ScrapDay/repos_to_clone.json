@@ -1,32 +1,32 @@
 [
   {
+    "name": "rainmanjam/jobspy-api",
+    "clone_url": "https://github.com/rainmanjam/jobspy-api.git",
+    "stars": 130,
+    "size": 71
+  },
+  {
     "name": "byJoey/wk-Auto-update",
     "clone_url": "https://github.com/byJoey/wk-Auto-update.git",
-    "stars": 61,
+    "stars": 98,
     "size": 574
   },
   {
     "name": "Chirag-Main1/ChatBot_perosnal",
     "clone_url": "https://github.com/Chirag-Main1/ChatBot_perosnal.git",
-    "stars": 48,
+    "stars": 71,
     "size": 112
   },
   {
-    "name": "rainmanjam/jobspy-api",
-    "clone_url": "https://github.com/rainmanjam/jobspy-api.git",
-    "stars": 38,
-    "size": 71
-  },
-  {
-    "name": "slowmist/MasterMCP",
-    "clone_url": "https://github.com/slowmist/MasterMCP.git",
-    "stars": 34,
-    "size": 68
+    "name": "blinddumper/LayerEdgeBot",
+    "clone_url": "https://github.com/blinddumper/LayerEdgeBot.git",
+    "stars": 67,
+    "size": 2047
   },
   {
     "name": "al-sultani/prokzee",
     "clone_url": "https://github.com/al-sultani/prokzee.git",
-    "stars": 28,
+    "stars": 53,
     "size": 2367
   }
 ]
