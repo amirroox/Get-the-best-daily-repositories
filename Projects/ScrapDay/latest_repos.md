@@ -1,7 +1,7 @@
-# Latest Repositories (2025-04-28 .. 2025-04-30)
+# Latest Repositories (2025-04-29 .. 2025-05-01)
 
-- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) (238)
-- [robb/Redline](https://github.com/robb/Redline) (167)
-- [NousResearch/atropos](https://github.com/NousResearch/atropos) (142)
-- [NSG650/LinuxInExcel](https://github.com/NSG650/LinuxInExcel) (70)
-- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) (52)
+- [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) (375)
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) (238)
+- [24mlight/a_share_mcp_is_just_I_need](https://github.com/24mlight/a_share_mcp_is_just_I_need) (68)
+- [wgcyeo/UniversalRAG](https://github.com/wgcyeo/UniversalRAG) (20)
+- [wesbos/bracket.engineer](https://github.com/wesbos/bracket.engineer) (16)

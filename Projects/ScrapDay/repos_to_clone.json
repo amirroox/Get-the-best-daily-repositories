@@ -1,32 +1,32 @@
 [
   {
-    "name": "hotheadhacker/no-as-a-service",
-    "clone_url": "https://github.com/hotheadhacker/no-as-a-service.git",
-    "stars": 238,
-    "size": 623
-  },
-  {
-    "name": "robb/Redline",
-    "clone_url": "https://github.com/robb/Redline.git",
-    "stars": 167,
-    "size": 314
-  },
-  {
-    "name": "NousResearch/atropos",
-    "clone_url": "https://github.com/NousResearch/atropos.git",
-    "stars": 142,
-    "size": 2461
-  },
-  {
-    "name": "NSG650/LinuxInExcel",
-    "clone_url": "https://github.com/NSG650/LinuxInExcel.git",
-    "stars": 70,
-    "size": 2777
+    "name": "deepseek-ai/DeepSeek-Prover-V2",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-Prover-V2.git",
+    "stars": 375,
+    "size": 2126
   },
   {
     "name": "AsyncFuncAI/deepwiki-open",
     "clone_url": "https://github.com/AsyncFuncAI/deepwiki-open.git",
-    "stars": 52,
-    "size": 2336
+    "stars": 238,
+    "size": 2540
+  },
+  {
+    "name": "24mlight/a_share_mcp_is_just_I_need",
+    "clone_url": "https://github.com/24mlight/a_share_mcp_is_just_I_need.git",
+    "stars": 68,
+    "size": 395
+  },
+  {
+    "name": "wgcyeo/UniversalRAG",
+    "clone_url": "https://github.com/wgcyeo/UniversalRAG.git",
+    "stars": 20,
+    "size": 638
+  },
+  {
+    "name": "wesbos/bracket.engineer",
+    "clone_url": "https://github.com/wesbos/bracket.engineer.git",
+    "stars": 16,
+    "size": 363
   }
 ]
