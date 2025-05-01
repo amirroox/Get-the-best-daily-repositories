@@ -2,31 +2,31 @@
   {
     "name": "deepseek-ai/DeepSeek-Prover-V2",
     "clone_url": "https://github.com/deepseek-ai/DeepSeek-Prover-V2.git",
-    "stars": 375,
+    "stars": 529,
     "size": 2126
   },
   {
     "name": "AsyncFuncAI/deepwiki-open",
     "clone_url": "https://github.com/AsyncFuncAI/deepwiki-open.git",
-    "stars": 238,
-    "size": 2540
+    "stars": 444,
+    "size": 2542
   },
   {
     "name": "24mlight/a_share_mcp_is_just_I_need",
     "clone_url": "https://github.com/24mlight/a_share_mcp_is_just_I_need.git",
-    "stars": 68,
-    "size": 395
-  },
-  {
-    "name": "wgcyeo/UniversalRAG",
-    "clone_url": "https://github.com/wgcyeo/UniversalRAG.git",
-    "stars": 20,
-    "size": 638
+    "stars": 75,
+    "size": 418
   },
   {
     "name": "wesbos/bracket.engineer",
     "clone_url": "https://github.com/wesbos/bracket.engineer.git",
-    "stars": 16,
-    "size": 363
+    "stars": 39,
+    "size": 369
+  },
+  {
+    "name": "wgcyeo/UniversalRAG",
+    "clone_url": "https://github.com/wgcyeo/UniversalRAG.git",
+    "stars": 33,
+    "size": 638
   }
 ]
