@@ -2,31 +2,31 @@
   {
     "name": "rvrsh3ll/Bolthole",
     "clone_url": "https://github.com/rvrsh3ll/Bolthole.git",
-    "stars": 34,
+    "stars": 51,
     "size": 2140
-  },
-  {
-    "name": "SeniorMatt/Mattthew-s-Dotfiles",
-    "clone_url": "https://github.com/SeniorMatt/Mattthew-s-Dotfiles.git",
-    "stars": 28,
-    "size": 59
   },
   {
     "name": "vercel/ios-web-payments",
     "clone_url": "https://github.com/vercel/ios-web-payments.git",
-    "stars": 24,
+    "stars": 46,
     "size": 1478
   },
   {
-    "name": "MEMozki/ClashCore-V6",
-    "clone_url": "https://github.com/MEMozki/ClashCore-V6.git",
-    "stars": 19,
-    "size": 3732
+    "name": "SeniorMatt/Mattthew-s-Dotfiles",
+    "clone_url": "https://github.com/SeniorMatt/Mattthew-s-Dotfiles.git",
+    "stars": 41,
+    "size": 89
   },
   {
     "name": "kivvi3412/TextPix",
     "clone_url": "https://github.com/kivvi3412/TextPix.git",
-    "stars": 11,
+    "stars": 21,
     "size": 2161
+  },
+  {
+    "name": "MEMozki/ClashCore-V6",
+    "clone_url": "https://github.com/MEMozki/ClashCore-V6.git",
+    "stars": 20,
+    "size": 3732
   }
 ]
