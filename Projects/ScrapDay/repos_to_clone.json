@@ -1,5 +1,11 @@
 [
   {
+    "name": "neLNABR/Somnia-Auto",
+    "clone_url": "https://github.com/neLNABR/Somnia-Auto.git",
+    "stars": 93,
+    "size": 294
+  },
+  {
     "name": "secretservitu/generic-controlplane",
     "clone_url": "https://github.com/secretservitu/generic-controlplane.git",
     "stars": 69,
@@ -22,11 +28,5 @@
     "clone_url": "https://github.com/stiffromain/perseus.git",
     "stars": 68,
     "size": 138
-  },
-  {
-    "name": "hummingbitte/tair-go",
-    "clone_url": "https://github.com/hummingbitte/tair-go.git",
-    "stars": 67,
-    "size": 66
   }
 ]
