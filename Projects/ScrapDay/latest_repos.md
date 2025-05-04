@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-01 .. 2025-05-03)
+# Latest Repositories (2025-05-02 .. 2025-05-04)
 
-- [neLNABR/Somnia-Auto](https://github.com/neLNABR/Somnia-Auto) (93)
-- [secretservitu/generic-controlplane](https://github.com/secretservitu/generic-controlplane) (69)
-- [glassculture/prom-authzed-proxy](https://github.com/glassculture/prom-authzed-proxy) (68)
-- [stainedvein/go-mqtt-to-influx](https://github.com/stainedvein/go-mqtt-to-influx) (68)
-- [stiffromain/perseus](https://github.com/stiffromain/perseus) (68)
+- [AaronFriel/qmodem-4.51](https://github.com/AaronFriel/qmodem-4.51) (71)
+- [unsungcorps/jobs-manager-operator](https://github.com/unsungcorps/jobs-manager-operator) (69)
+- [judiciousric/backend](https://github.com/judiciousric/backend) (68)
+- [snappyfrost/elf_reader](https://github.com/snappyfrost/elf_reader) (68)
+- [excitedforger/goup](https://github.com/excitedforger/goup) (67)
