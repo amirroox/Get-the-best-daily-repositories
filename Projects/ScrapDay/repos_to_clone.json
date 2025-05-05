@@ -1,15 +1,15 @@
 [
   {
-    "name": "doganarif/GoVisual",
-    "clone_url": "https://github.com/doganarif/GoVisual.git",
-    "stars": 127,
-    "size": 519
-  },
-  {
     "name": "kanshurichard/enableAppleAI",
     "clone_url": "https://github.com/kanshurichard/enableAppleAI.git",
-    "stars": 73,
-    "size": 108
+    "stars": 242,
+    "size": 146
+  },
+  {
+    "name": "doganarif/GoVisual",
+    "clone_url": "https://github.com/doganarif/GoVisual.git",
+    "stars": 149,
+    "size": 537
   },
   {
     "name": "selfishspee/frodo",
@@ -18,15 +18,15 @@
     "size": 1329
   },
   {
-    "name": "uniformbandol/sftpgo-plugin-auth",
-    "clone_url": "https://github.com/uniformbandol/sftpgo-plugin-auth.git",
-    "stars": 67,
-    "size": 63
-  },
-  {
     "name": "overjoyedhu/guard",
     "clone_url": "https://github.com/overjoyedhu/guard.git",
-    "stars": 66,
+    "stars": 69,
     "size": 381
+  },
+  {
+    "name": "scentedstake/gio-v",
+    "clone_url": "https://github.com/scentedstake/gio-v.git",
+    "stars": 69,
+    "size": 562
   }
 ]
