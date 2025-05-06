@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-03 .. 2025-05-05)
+# Latest Repositories (2025-05-04 .. 2025-05-06)
 
-- [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) (242)
-- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (149)
-- [selfishspee/frodo](https://github.com/selfishspee/frodo) (69)
-- [overjoyedhu/guard](https://github.com/overjoyedhu/guard) (69)
-- [scentedstake/gio-v](https://github.com/scentedstake/gio-v) (69)
+- [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) (67)
+- [excitedpost/grain](https://github.com/excitedpost/grain) (64)
+- [juvenilearcha/astar](https://github.com/juvenilearcha/astar) (59)
+- [24mlight/a-share-platform-stocks-selection](https://github.com/24mlight/a-share-platform-stocks-selection) (58)
+- [plainincisio/gotransip](https://github.com/plainincisio/gotransip) (58)
