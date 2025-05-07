@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-04 .. 2025-05-06)
+# Latest Repositories (2025-05-05 .. 2025-05-07)
 
-- [24mlight/a-share-platform-stocks-selection](https://github.com/24mlight/a-share-platform-stocks-selection) (110)
-- [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) (77)
-- [excitedpost/grain](https://github.com/excitedpost/grain) (64)
-- [Artemis-labs-official/Artemis](https://github.com/Artemis-labs-official/Artemis) (63)
-- [juvenilearcha/astar](https://github.com/juvenilearcha/astar) (59)
+- [wildbriefly/vbalancer](https://github.com/wildbriefly/vbalancer) (59)
+- [pitifulspool/imps](https://github.com/pitifulspool/imps) (57)
+- [dimpleddignit/signalfx-go](https://github.com/dimpleddignit/signalfx-go) (55)
+- [whiteswath/element-portable](https://github.com/whiteswath/element-portable) (54)
+- [athleticrace/grol](https://github.com/athleticrace/grol) (52)
