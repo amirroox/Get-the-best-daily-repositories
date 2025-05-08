@@ -1,32 +1,32 @@
 [
   {
-    "name": "webhooked/kanso.nvim",
-    "clone_url": "https://github.com/webhooked/kanso.nvim.git",
-    "stars": 73,
-    "size": 4265
+    "name": "skinnyheat/aws-parameter-bulk",
+    "clone_url": "https://github.com/skinnyheat/aws-parameter-bulk.git",
+    "stars": 60,
+    "size": 245
   },
   {
-    "name": "peskybar/linstor-gateway",
-    "clone_url": "https://github.com/peskybar/linstor-gateway.git",
-    "stars": 68,
-    "size": 151
+    "name": "farawayimagi/eks-controller",
+    "clone_url": "https://github.com/farawayimagi/eks-controller.git",
+    "stars": 55,
+    "size": 263
   },
   {
-    "name": "physicalveal/tts-deckconverter",
-    "clone_url": "https://github.com/physicalveal/tts-deckconverter.git",
-    "stars": 67,
-    "size": 220
+    "name": "boilingsitar/mss-boot",
+    "clone_url": "https://github.com/boilingsitar/mss-boot.git",
+    "stars": 53,
+    "size": 178
   },
   {
-    "name": "pastelpetiti/cli",
-    "clone_url": "https://github.com/pastelpetiti/cli.git",
-    "stars": 67,
-    "size": 486
+    "name": "HKUSTDial/Alpha-SQL",
+    "clone_url": "https://github.com/HKUSTDial/Alpha-SQL.git",
+    "stars": 25,
+    "size": 810
   },
   {
-    "name": "clearairman/detect-angular-dashboards",
-    "clone_url": "https://github.com/clearairman/detect-angular-dashboards.git",
-    "stars": 67,
-    "size": 58
+    "name": "billwuhao/ComfyUI_ACE-Step",
+    "clone_url": "https://github.com/billwuhao/ComfyUI_ACE-Step.git",
+    "stars": 20,
+    "size": 738
   }
 ]
