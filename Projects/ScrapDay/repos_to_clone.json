@@ -1,5 +1,17 @@
 [
   {
+    "name": "bytedance/deer-flow",
+    "clone_url": "https://github.com/bytedance/deer-flow.git",
+    "stars": 368,
+    "size": 1344
+  },
+  {
+    "name": "DIFFfeng/Cursor-free-student",
+    "clone_url": "https://github.com/DIFFfeng/Cursor-free-student.git",
+    "stars": 76,
+    "size": 205
+  },
+  {
     "name": "skinnyheat/aws-parameter-bulk",
     "clone_url": "https://github.com/skinnyheat/aws-parameter-bulk.git",
     "stars": 60,
@@ -16,17 +28,5 @@
     "clone_url": "https://github.com/boilingsitar/mss-boot.git",
     "stars": 53,
     "size": 178
-  },
-  {
-    "name": "HKUSTDial/Alpha-SQL",
-    "clone_url": "https://github.com/HKUSTDial/Alpha-SQL.git",
-    "stars": 25,
-    "size": 810
-  },
-  {
-    "name": "billwuhao/ComfyUI_ACE-Step",
-    "clone_url": "https://github.com/billwuhao/ComfyUI_ACE-Step.git",
-    "stars": 20,
-    "size": 738
   }
 ]
