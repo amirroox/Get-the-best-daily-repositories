@@ -2,31 +2,31 @@
   {
     "name": "jailbreakdotparty/dirtyZero",
     "clone_url": "https://github.com/jailbreakdotparty/dirtyZero.git",
-    "stars": 42,
-    "size": 77
+    "stars": 65,
+    "size": 120
+  },
+  {
+    "name": "34306/mdc0",
+    "clone_url": "https://github.com/34306/mdc0.git",
+    "stars": 57,
+    "size": 54
+  },
+  {
+    "name": "mahdidavoodi7/expo-apple-music-bottom-sheet",
+    "clone_url": "https://github.com/mahdidavoodi7/expo-apple-music-bottom-sheet.git",
+    "stars": 51,
+    "size": 320
   },
   {
     "name": "weise25/LocalSite-ai",
     "clone_url": "https://github.com/weise25/LocalSite-ai.git",
-    "stars": 25,
-    "size": 89
+    "stars": 34,
+    "size": 135
   },
   {
-    "name": "nkzw-tech/server-template",
-    "clone_url": "https://github.com/nkzw-tech/server-template.git",
-    "stars": 22,
-    "size": 96
-  },
-  {
-    "name": "thomino/expo-playground",
-    "clone_url": "https://github.com/thomino/expo-playground.git",
-    "stars": 20,
-    "size": 2274
-  },
-  {
-    "name": "samunderSingh12/cutieAPI",
-    "clone_url": "https://github.com/samunderSingh12/cutieAPI.git",
-    "stars": 13,
-    "size": 100
+    "name": "rotger/Simple-Ollama-Chatbot",
+    "clone_url": "https://github.com/rotger/Simple-Ollama-Chatbot.git",
+    "stars": 28,
+    "size": 54
   }
 ]
