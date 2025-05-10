@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-07 .. 2025-05-09)
+# Latest Repositories (2025-05-08 .. 2025-05-10)
 
-- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (119)
-- [sgInnora/sharpeye](https://github.com/sgInnora/sharpeye) (51)
-- [markflorkowski/neverjust](https://github.com/markflorkowski/neverjust) (42)
-- [AaronFeng753/Better-Qwen3](https://github.com/AaronFeng753/Better-Qwen3) (41)
-- [vgel/logitloom](https://github.com/vgel/logitloom) (38)
+- [jailbreakdotparty/dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) (42)
+- [weise25/LocalSite-ai](https://github.com/weise25/LocalSite-ai) (25)
+- [nkzw-tech/server-template](https://github.com/nkzw-tech/server-template) (22)
+- [thomino/expo-playground](https://github.com/thomino/expo-playground) (20)
+- [samunderSingh12/cutieAPI](https://github.com/samunderSingh12/cutieAPI) (13)
