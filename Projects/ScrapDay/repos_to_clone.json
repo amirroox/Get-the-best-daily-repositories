@@ -1,32 +1,32 @@
 [
   {
-    "name": "jailbreakdotparty/dirtyZero",
-    "clone_url": "https://github.com/jailbreakdotparty/dirtyZero.git",
-    "stars": 65,
-    "size": 120
-  },
-  {
-    "name": "34306/mdc0",
-    "clone_url": "https://github.com/34306/mdc0.git",
-    "stars": 57,
-    "size": 54
-  },
-  {
     "name": "mahdidavoodi7/expo-apple-music-bottom-sheet",
     "clone_url": "https://github.com/mahdidavoodi7/expo-apple-music-bottom-sheet.git",
-    "stars": 51,
+    "stars": 103,
     "size": 320
   },
   {
-    "name": "weise25/LocalSite-ai",
-    "clone_url": "https://github.com/weise25/LocalSite-ai.git",
-    "stars": 34,
-    "size": 135
+    "name": "0xTriboulet/rdll-rs",
+    "clone_url": "https://github.com/0xTriboulet/rdll-rs.git",
+    "stars": 25,
+    "size": 86
   },
   {
-    "name": "rotger/Simple-Ollama-Chatbot",
-    "clone_url": "https://github.com/rotger/Simple-Ollama-Chatbot.git",
-    "stars": 28,
-    "size": 54
+    "name": "Raninatarajan/InsightEd-Analyzing-Student-Sentiments-to-Refine-Education",
+    "clone_url": "https://github.com/Raninatarajan/InsightEd-Analyzing-Student-Sentiments-to-Refine-Education.git",
+    "stars": 20,
+    "size": 889
+  },
+  {
+    "name": "Raninatarajan/Salary-vs-Expenses-tracking-system",
+    "clone_url": "https://github.com/Raninatarajan/Salary-vs-Expenses-tracking-system.git",
+    "stars": 20,
+    "size": 309
+  },
+  {
+    "name": "kasparsd/wp-docs-md",
+    "clone_url": "https://github.com/kasparsd/wp-docs-md.git",
+    "stars": 19,
+    "size": 2286
   }
 ]

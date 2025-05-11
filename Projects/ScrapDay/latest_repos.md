@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-08 .. 2025-05-10)
+# Latest Repositories (2025-05-09 .. 2025-05-11)
 
-- [jailbreakdotparty/dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) (65)
-- [34306/mdc0](https://github.com/34306/mdc0) (57)
-- [mahdidavoodi7/expo-apple-music-bottom-sheet](https://github.com/mahdidavoodi7/expo-apple-music-bottom-sheet) (51)
-- [weise25/LocalSite-ai](https://github.com/weise25/LocalSite-ai) (34)
-- [rotger/Simple-Ollama-Chatbot](https://github.com/rotger/Simple-Ollama-Chatbot) (28)
+- [mahdidavoodi7/expo-apple-music-bottom-sheet](https://github.com/mahdidavoodi7/expo-apple-music-bottom-sheet) (103)
+- [0xTriboulet/rdll-rs](https://github.com/0xTriboulet/rdll-rs) (25)
+- [Raninatarajan/InsightEd-Analyzing-Student-Sentiments-to-Refine-Education](https://github.com/Raninatarajan/InsightEd-Analyzing-Student-Sentiments-to-Refine-Education) (20)
+- [Raninatarajan/Salary-vs-Expenses-tracking-system](https://github.com/Raninatarajan/Salary-vs-Expenses-tracking-system) (20)
+- [kasparsd/wp-docs-md](https://github.com/kasparsd/wp-docs-md) (19)
