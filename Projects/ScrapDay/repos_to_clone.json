@@ -1,32 +1,32 @@
 [
   {
-    "name": "mahdidavoodi7/expo-apple-music-bottom-sheet",
-    "clone_url": "https://github.com/mahdidavoodi7/expo-apple-music-bottom-sheet.git",
-    "stars": 123,
-    "size": 320
-  },
-  {
     "name": "qindrith1Aa/Mev-Bot_SOLANA",
     "clone_url": "https://github.com/qindrith1Aa/Mev-Bot_SOLANA.git",
     "stars": 86,
-    "size": 54
+    "size": 109
   },
   {
-    "name": "0xTriboulet/rdll-rs",
-    "clone_url": "https://github.com/0xTriboulet/rdll-rs.git",
-    "stars": 34,
-    "size": 132
-  },
-  {
-    "name": "kasparsd/wp-docs-md",
-    "clone_url": "https://github.com/kasparsd/wp-docs-md.git",
-    "stars": 29,
-    "size": 7361
+    "name": "brycebostwick/WidgetAnimation",
+    "clone_url": "https://github.com/brycebostwick/WidgetAnimation.git",
+    "stars": 68,
+    "size": 241
   },
   {
     "name": "PingAIFun/ping-mcp",
     "clone_url": "https://github.com/PingAIFun/ping-mcp.git",
-    "stars": 27,
+    "stars": 29,
     "size": 148
+  },
+  {
+    "name": "ahmetb/kubectl-node_resource",
+    "clone_url": "https://github.com/ahmetb/kubectl-node_resource.git",
+    "stars": 23,
+    "size": 2478
+  },
+  {
+    "name": "Oft3r/Ollama-Chat",
+    "clone_url": "https://github.com/Oft3r/Ollama-Chat.git",
+    "stars": 17,
+    "size": 126
   }
 ]
