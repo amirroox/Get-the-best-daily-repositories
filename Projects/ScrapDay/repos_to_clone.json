@@ -1,32 +1,32 @@
 [
   {
-    "name": "qindrith1Aa/Mev-Bot_SOLANA",
-    "clone_url": "https://github.com/qindrith1Aa/Mev-Bot_SOLANA.git",
-    "stars": 86,
-    "size": 109
-  },
-  {
     "name": "brycebostwick/WidgetAnimation",
     "clone_url": "https://github.com/brycebostwick/WidgetAnimation.git",
-    "stars": 68,
+    "stars": 127,
     "size": 241
   },
   {
-    "name": "PingAIFun/ping-mcp",
-    "clone_url": "https://github.com/PingAIFun/ping-mcp.git",
-    "stars": 29,
-    "size": 148
+    "name": "qindrith1Aa/Mev-Bot_SOLANA",
+    "clone_url": "https://github.com/qindrith1Aa/Mev-Bot_SOLANA.git",
+    "stars": 86,
+    "size": 153
+  },
+  {
+    "name": "egebese/brainrot-generator",
+    "clone_url": "https://github.com/egebese/brainrot-generator.git",
+    "stars": 35,
+    "size": 440
   },
   {
     "name": "ahmetb/kubectl-node_resource",
     "clone_url": "https://github.com/ahmetb/kubectl-node_resource.git",
-    "stars": 23,
-    "size": 2478
+    "stars": 33,
+    "size": 2480
   },
   {
-    "name": "Oft3r/Ollama-Chat",
-    "clone_url": "https://github.com/Oft3r/Ollama-Chat.git",
-    "stars": 17,
-    "size": 126
+    "name": "PingAIFun/ping-mcp",
+    "clone_url": "https://github.com/PingAIFun/ping-mcp.git",
+    "stars": 30,
+    "size": 148
   }
 ]
