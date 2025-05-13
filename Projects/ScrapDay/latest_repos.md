@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-10 .. 2025-05-12)
+# Latest Repositories (2025-05-11 .. 2025-05-13)
 
-- [brycebostwick/WidgetAnimation](https://github.com/brycebostwick/WidgetAnimation) (127)
-- [qindrith1Aa/Mev-Bot_SOLANA](https://github.com/qindrith1Aa/Mev-Bot_SOLANA) (86)
-- [egebese/brainrot-generator](https://github.com/egebese/brainrot-generator) (35)
-- [ahmetb/kubectl-node_resource](https://github.com/ahmetb/kubectl-node_resource) (33)
-- [PingAIFun/ping-mcp](https://github.com/PingAIFun/ping-mcp) (30)
+- [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam) (375)
+- [KriptoSensei/DuelBrawls](https://github.com/KriptoSensei/DuelBrawls) (53)
+- [MhmRdd/NoHello](https://github.com/MhmRdd/NoHello) (45)
+- [collidingScopes/shape-creator-tutorial](https://github.com/collidingScopes/shape-creator-tutorial) (24)
+- [yuvarajan-s-16/Simple-stock-investment-platform](https://github.com/yuvarajan-s-16/Simple-stock-investment-platform) (15)
