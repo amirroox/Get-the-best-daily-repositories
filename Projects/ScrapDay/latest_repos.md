@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-12 .. 2025-05-14)
+# Latest Repositories (2025-05-13 .. 2025-05-15)
 
-- [mswnlz/edu-knowlege](https://github.com/mswnlz/edu-knowlege) (729)
-- [vijay2181/k8s-500-prod-issues](https://github.com/vijay2181/k8s-500-prod-issues) (375)
-- [fastokasd/GTA-5-MENU](https://github.com/fastokasd/GTA-5-MENU) (90)
-- [rinadelph/Agent-MCP](https://github.com/rinadelph/Agent-MCP) (80)
-- [kijai/ComfyUI-LBMWrapper](https://github.com/kijai/ComfyUI-LBMWrapper) (71)
+- [murtaza-nasir/maestro](https://github.com/murtaza-nasir/maestro) (72)
+- [Fastod/league-of-legends-mod-menu](https://github.com/Fastod/league-of-legends-mod-menu) (59)
+- [ktinsu/tinsuProject](https://github.com/ktinsu/tinsuProject) (52)
+- [Amanuel-Fikadie/Pure-OS](https://github.com/Amanuel-Fikadie/Pure-OS) (52)
+- [nad132/OSSP_Nardos_Ayalneh](https://github.com/nad132/OSSP_Nardos_Ayalneh) (50)
