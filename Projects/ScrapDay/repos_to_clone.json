@@ -2,31 +2,31 @@
   {
     "name": "dujonwalker/project-nova",
     "clone_url": "https://github.com/dujonwalker/project-nova.git",
-    "stars": 71,
+    "stars": 95,
     "size": 427
+  },
+  {
+    "name": "badsectorlabs/ludus_adaptix_c2",
+    "clone_url": "https://github.com/badsectorlabs/ludus_adaptix_c2.git",
+    "stars": 72,
+    "size": 82
   },
   {
     "name": "codebyabel/OSSP-KWORTLINUX-Abel",
     "clone_url": "https://github.com/codebyabel/OSSP-KWORTLINUX-Abel.git",
-    "stars": 63,
+    "stars": 70,
     "size": 1943
   },
   {
-    "name": "Nuhamin-Enbakum/Android",
-    "clone_url": "https://github.com/Nuhamin-Enbakum/Android.git",
-    "stars": 61,
-    "size": 1574
+    "name": "alazaralebel/Knoppix-Os-installation",
+    "clone_url": "https://github.com/alazaralebel/Knoppix-Os-installation.git",
+    "stars": 68,
+    "size": 2207
   },
   {
-    "name": "yase2024/Solaris_OS",
-    "clone_url": "https://github.com/yase2024/Solaris_OS.git",
-    "stars": 59,
-    "size": 1136
-  },
-  {
-    "name": "kidestkibertie/CentOS",
-    "clone_url": "https://github.com/kidestkibertie/CentOS.git",
-    "stars": 58,
-    "size": 3197
+    "name": "mahlet-em/OSSP_Project_Mahlet-Nigussie",
+    "clone_url": "https://github.com/mahlet-em/OSSP_Project_Mahlet-Nigussie.git",
+    "stars": 68,
+    "size": 4148
   }
 ]
