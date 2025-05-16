@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-13 .. 2025-05-15)
+# Latest Repositories (2025-05-14 .. 2025-05-16)
 
-- [Dr-Setsuna/LitPyWeb](https://github.com/Dr-Setsuna/LitPyWeb) (94)
-- [Polylanger/MetaCSE](https://github.com/Polylanger/MetaCSE) (93)
-- [murtaza-nasir/maestro](https://github.com/murtaza-nasir/maestro) (87)
-- [Sirrrrri/Cyber_NER-RE](https://github.com/Sirrrrri/Cyber_NER-RE) (77)
-- [ktinsu/tinsuProject](https://github.com/ktinsu/tinsuProject) (70)
+- [dujonwalker/project-nova](https://github.com/dujonwalker/project-nova) (71)
+- [codebyabel/OSSP-KWORTLINUX-Abel](https://github.com/codebyabel/OSSP-KWORTLINUX-Abel) (63)
+- [Nuhamin-Enbakum/Android](https://github.com/Nuhamin-Enbakum/Android) (61)
+- [yase2024/Solaris_OS](https://github.com/yase2024/Solaris_OS) (59)
+- [kidestkibertie/CentOS](https://github.com/kidestkibertie/CentOS) (58)
