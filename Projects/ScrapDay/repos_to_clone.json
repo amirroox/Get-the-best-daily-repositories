@@ -2,31 +2,31 @@
   {
     "name": "dipampaul17/KVSplit",
     "clone_url": "https://github.com/dipampaul17/KVSplit.git",
-    "stars": 178,
-    "size": 735
+    "stars": 258,
+    "size": 744
   },
   {
     "name": "giovapanasiti/active_storage_dashboard",
     "clone_url": "https://github.com/giovapanasiti/active_storage_dashboard.git",
-    "stars": 135,
-    "size": 1177
-  },
-  {
-    "name": "Kazuha787/Pharos-Auto-Bot",
-    "clone_url": "https://github.com/Kazuha787/Pharos-Auto-Bot.git",
-    "stars": 54,
-    "size": 82
-  },
-  {
-    "name": "Hiyab21/Inferno-OS",
-    "clone_url": "https://github.com/Hiyab21/Inferno-OS.git",
-    "stars": 51,
-    "size": 1401
+    "stars": 159,
+    "size": 1179
   },
   {
     "name": "iluxu/llmbasedos",
     "clone_url": "https://github.com/iluxu/llmbasedos.git",
-    "stars": 48,
+    "stars": 84,
     "size": 90
+  },
+  {
+    "name": "vcms-io/solidis",
+    "clone_url": "https://github.com/vcms-io/solidis.git",
+    "stars": 59,
+    "size": 171
+  },
+  {
+    "name": "Hiyab21/Inferno-OS",
+    "clone_url": "https://github.com/Hiyab21/Inferno-OS.git",
+    "stars": 56,
+    "size": 1401
   }
 ]
