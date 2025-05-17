@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-14 .. 2025-05-16)
+# Latest Repositories (2025-05-15 .. 2025-05-17)
 
-- [dujonwalker/project-nova](https://github.com/dujonwalker/project-nova) (95)
-- [badsectorlabs/ludus_adaptix_c2](https://github.com/badsectorlabs/ludus_adaptix_c2) (72)
-- [codebyabel/OSSP-KWORTLINUX-Abel](https://github.com/codebyabel/OSSP-KWORTLINUX-Abel) (70)
-- [alazaralebel/Knoppix-Os-installation](https://github.com/alazaralebel/Knoppix-Os-installation) (68)
-- [mahlet-em/OSSP_Project_Mahlet-Nigussie](https://github.com/mahlet-em/OSSP_Project_Mahlet-Nigussie) (68)
+- [dipampaul17/KVSplit](https://github.com/dipampaul17/KVSplit) (178)
+- [giovapanasiti/active_storage_dashboard](https://github.com/giovapanasiti/active_storage_dashboard) (135)
+- [Kazuha787/Pharos-Auto-Bot](https://github.com/Kazuha787/Pharos-Auto-Bot) (54)
+- [Hiyab21/Inferno-OS](https://github.com/Hiyab21/Inferno-OS) (51)
+- [iluxu/llmbasedos](https://github.com/iluxu/llmbasedos) (48)
