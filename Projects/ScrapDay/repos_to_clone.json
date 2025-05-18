@@ -2,8 +2,20 @@
   {
     "name": "shyamsaktawat/OpenAlpha_Evolve",
     "clone_url": "https://github.com/shyamsaktawat/OpenAlpha_Evolve.git",
-    "stars": 80,
-    "size": 64
+    "stars": 243,
+    "size": 57
+  },
+  {
+    "name": "curated-intel/Attribution-to-IP",
+    "clone_url": "https://github.com/curated-intel/Attribution-to-IP.git",
+    "stars": 71,
+    "size": 122
+  },
+  {
+    "name": "Triomill/Yonas_Elementary-Os",
+    "clone_url": "https://github.com/Triomill/Yonas_Elementary-Os.git",
+    "stars": 58,
+    "size": 3218
   },
   {
     "name": "Sined003/BNBRevoke",
@@ -12,21 +24,9 @@
     "size": 409
   },
   {
-    "name": "curated-intel/Attribution-to-IP",
-    "clone_url": "https://github.com/curated-intel/Attribution-to-IP.git",
-    "stars": 48,
-    "size": 93
-  },
-  {
-    "name": "Julianhornero/JPG-to-PDF",
-    "clone_url": "https://github.com/Julianhornero/JPG-to-PDF.git",
-    "stars": 37,
-    "size": 793
-  },
-  {
     "name": "Veroni2300/NetBSD",
     "clone_url": "https://github.com/Veroni2300/NetBSD.git",
-    "stars": 32,
+    "stars": 50,
     "size": 1938
   }
 ]
