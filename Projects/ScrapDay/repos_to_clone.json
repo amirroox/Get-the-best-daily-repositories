@@ -2,31 +2,31 @@
   {
     "name": "brianmg/voynich-nlp-analysis",
     "clone_url": "https://github.com/brianmg/voynich-nlp-analysis.git",
-    "stars": 67,
+    "stars": 95,
     "size": 953
+  },
+  {
+    "name": "evangelosmeklis/deepdrone",
+    "clone_url": "https://github.com/evangelosmeklis/deepdrone.git",
+    "stars": 70,
+    "size": 168
   },
   {
     "name": "DrizzleTime/Foxel",
     "clone_url": "https://github.com/DrizzleTime/Foxel.git",
-    "stars": 21,
-    "size": 2026
+    "stars": 32,
+    "size": 2055
   },
   {
-    "name": "Quintenvw/hetzner-auction-discord-bot",
-    "clone_url": "https://github.com/Quintenvw/hetzner-auction-discord-bot.git",
-    "stars": 16,
-    "size": 166
-  },
-  {
-    "name": "haileyok/yippy",
-    "clone_url": "https://github.com/haileyok/yippy.git",
-    "stars": 15,
-    "size": 73
+    "name": "88JC/88JC",
+    "clone_url": "https://github.com/88JC/88JC.git",
+    "stars": 20,
+    "size": 517
   },
   {
     "name": "turtacn/PersonalAI",
     "clone_url": "https://github.com/turtacn/PersonalAI.git",
-    "stars": 11,
-    "size": 331
+    "stars": 18,
+    "size": 4359
   }
 ]
