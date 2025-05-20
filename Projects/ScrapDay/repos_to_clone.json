@@ -1,32 +1,32 @@
 [
   {
-    "name": "anthropics/claude-code-action",
-    "clone_url": "https://github.com/anthropics/claude-code-action.git",
-    "stars": 37,
-    "size": 89
+    "name": "wassupjay/n8n-free-templates",
+    "clone_url": "https://github.com/wassupjay/n8n-free-templates.git",
+    "stars": 96,
+    "size": 130
   },
   {
     "name": "haojiang99/hacker_news_reader",
     "clone_url": "https://github.com/haojiang99/hacker_news_reader.git",
-    "stars": 36,
-    "size": 2078
+    "stars": 68,
+    "size": 2171
   },
   {
-    "name": "88JC/88JC",
-    "clone_url": "https://github.com/88JC/88JC.git",
-    "stars": 23,
-    "size": 517
+    "name": "anthropics/claude-code-action",
+    "clone_url": "https://github.com/anthropics/claude-code-action.git",
+    "stars": 63,
+    "size": 89
   },
   {
-    "name": "rhulha/StreamingKokoroJS",
-    "clone_url": "https://github.com/rhulha/StreamingKokoroJS.git",
-    "stars": 22,
-    "size": 915
+    "name": "agistry-dev/agistry-framework-v1",
+    "clone_url": "https://github.com/agistry-dev/agistry-framework-v1.git",
+    "stars": 61,
+    "size": 128
   },
   {
     "name": "mattgemmell/pandoc-novel",
     "clone_url": "https://github.com/mattgemmell/pandoc-novel.git",
-    "stars": 22,
-    "size": 339
+    "stars": 36,
+    "size": 348
   }
 ]
