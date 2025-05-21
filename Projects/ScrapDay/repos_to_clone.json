@@ -1,32 +1,32 @@
 [
   {
-    "name": "wassupjay/n8n-free-templates",
-    "clone_url": "https://github.com/wassupjay/n8n-free-templates.git",
-    "stars": 96,
-    "size": 130
+    "name": "raphaeliyamu/machine-translation-nlp-african-languages-v2",
+    "clone_url": "https://github.com/raphaeliyamu/machine-translation-nlp-african-languages-v2.git",
+    "stars": 119,
+    "size": 179
   },
   {
-    "name": "haojiang99/hacker_news_reader",
-    "clone_url": "https://github.com/haojiang99/hacker_news_reader.git",
-    "stars": 68,
-    "size": 2171
-  },
-  {
-    "name": "anthropics/claude-code-action",
-    "clone_url": "https://github.com/anthropics/claude-code-action.git",
-    "stars": 63,
-    "size": 89
+    "name": "raphaeliyamu/machine-translation-for-african-languages",
+    "clone_url": "https://github.com/raphaeliyamu/machine-translation-for-african-languages.git",
+    "stars": 119,
+    "size": 179
   },
   {
     "name": "agistry-dev/agistry-framework-v1",
     "clone_url": "https://github.com/agistry-dev/agistry-framework-v1.git",
-    "stars": 61,
+    "stars": 81,
     "size": 128
   },
   {
-    "name": "mattgemmell/pandoc-novel",
-    "clone_url": "https://github.com/mattgemmell/pandoc-novel.git",
-    "stars": 36,
-    "size": 348
+    "name": "Caldegorn/SPLTokenSolana",
+    "clone_url": "https://github.com/Caldegorn/SPLTokenSolana.git",
+    "stars": 49,
+    "size": 858
+  },
+  {
+    "name": "bloom42/markdown-ninja",
+    "clone_url": "https://github.com/bloom42/markdown-ninja.git",
+    "stars": 46,
+    "size": 3761
   }
 ]
