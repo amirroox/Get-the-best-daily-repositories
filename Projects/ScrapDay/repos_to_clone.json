@@ -14,19 +14,19 @@
   {
     "name": "agistry-dev/agistry-framework-v1",
     "clone_url": "https://github.com/agistry-dev/agistry-framework-v1.git",
-    "stars": 81,
+    "stars": 91,
     "size": 128
+  },
+  {
+    "name": "bloom42/markdown-ninja",
+    "clone_url": "https://github.com/bloom42/markdown-ninja.git",
+    "stars": 58,
+    "size": 3818
   },
   {
     "name": "Caldegorn/SPLTokenSolana",
     "clone_url": "https://github.com/Caldegorn/SPLTokenSolana.git",
     "stars": 49,
     "size": 858
-  },
-  {
-    "name": "bloom42/markdown-ninja",
-    "clone_url": "https://github.com/bloom42/markdown-ninja.git",
-    "stars": 46,
-    "size": 3761
   }
 ]
