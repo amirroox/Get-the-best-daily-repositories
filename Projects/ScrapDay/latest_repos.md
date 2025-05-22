@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-19 .. 2025-05-21)
+# Latest Repositories (2025-05-20 .. 2025-05-22)
 
-- [raphaeliyamu/machine-translation-nlp-african-languages-v2](https://github.com/raphaeliyamu/machine-translation-nlp-african-languages-v2) (119)
-- [raphaeliyamu/machine-translation-for-african-languages](https://github.com/raphaeliyamu/machine-translation-for-african-languages) (119)
-- [agistry-dev/agistry-framework-v1](https://github.com/agistry-dev/agistry-framework-v1) (91)
-- [bloom42/markdown-ninja](https://github.com/bloom42/markdown-ninja) (58)
-- [Caldegorn/SPLTokenSolana](https://github.com/Caldegorn/SPLTokenSolana) (49)
+- [Brooooooklyn/system-ocr](https://github.com/Brooooooklyn/system-ocr) (43)
+- [EvanBacon/expo-beautiful-torus](https://github.com/EvanBacon/expo-beautiful-torus) (22)
+- [ronald-debugging/Ronald-miniSpring](https://github.com/ronald-debugging/Ronald-miniSpring) (21)
+- [Lakr233/ListViewKit](https://github.com/Lakr233/ListViewKit) (17)
+- [saidsurucu/yargi-mcp](https://github.com/saidsurucu/yargi-mcp) (17)
