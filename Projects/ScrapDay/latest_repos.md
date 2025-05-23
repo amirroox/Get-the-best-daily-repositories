@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-20 .. 2025-05-22)
+# Latest Repositories (2025-05-21 .. 2025-05-23)
 
-- [Brooooooklyn/system-ocr](https://github.com/Brooooooklyn/system-ocr) (70)
-- [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) (64)
-- [saidsurucu/yargi-mcp](https://github.com/saidsurucu/yargi-mcp) (55)
-- [cyclosresearch/ring-buffers-research](https://github.com/cyclosresearch/ring-buffers-research) (34)
-- [EvanBacon/expo-beautiful-torus](https://github.com/EvanBacon/expo-beautiful-torus) (32)
+- [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) (94)
+- [WusThanhDieu/zLocket-Tool-Pro](https://github.com/WusThanhDieu/zLocket-Tool-Pro) (41)
+- [hydropix/TranslateBookWithLLM](https://github.com/hydropix/TranslateBookWithLLM) (32)
+- [WildPixelGames/gdt-cpus](https://github.com/WildPixelGames/gdt-cpus) (30)
+- [ronald-debugging/Ronald-KVstorageBaseRaft](https://github.com/ronald-debugging/Ronald-KVstorageBaseRaft) (22)

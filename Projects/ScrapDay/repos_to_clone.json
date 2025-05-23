@@ -1,32 +1,32 @@
 [
   {
-    "name": "Brooooooklyn/system-ocr",
-    "clone_url": "https://github.com/Brooooooklyn/system-ocr.git",
-    "stars": 70,
-    "size": 1852
-  },
-  {
     "name": "liujuntao123/smart-mermaid",
     "clone_url": "https://github.com/liujuntao123/smart-mermaid.git",
-    "stars": 64,
+    "stars": 94,
     "size": 345
   },
   {
-    "name": "saidsurucu/yargi-mcp",
-    "clone_url": "https://github.com/saidsurucu/yargi-mcp.git",
-    "stars": 55,
-    "size": 674
+    "name": "WusThanhDieu/zLocket-Tool-Pro",
+    "clone_url": "https://github.com/WusThanhDieu/zLocket-Tool-Pro.git",
+    "stars": 41,
+    "size": 1220
   },
   {
-    "name": "cyclosresearch/ring-buffers-research",
-    "clone_url": "https://github.com/cyclosresearch/ring-buffers-research.git",
-    "stars": 34,
-    "size": 1589
-  },
-  {
-    "name": "EvanBacon/expo-beautiful-torus",
-    "clone_url": "https://github.com/EvanBacon/expo-beautiful-torus.git",
+    "name": "hydropix/TranslateBookWithLLM",
+    "clone_url": "https://github.com/hydropix/TranslateBookWithLLM.git",
     "stars": 32,
-    "size": 2688
+    "size": 205
+  },
+  {
+    "name": "WildPixelGames/gdt-cpus",
+    "clone_url": "https://github.com/WildPixelGames/gdt-cpus.git",
+    "stars": 30,
+    "size": 337
+  },
+  {
+    "name": "ronald-debugging/Ronald-KVstorageBaseRaft",
+    "clone_url": "https://github.com/ronald-debugging/Ronald-KVstorageBaseRaft.git",
+    "stars": 22,
+    "size": 792
   }
 ]
