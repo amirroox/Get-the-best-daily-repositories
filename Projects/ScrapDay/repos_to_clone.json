@@ -2,31 +2,31 @@
   {
     "name": "Dhaxor/super-utils-plus",
     "clone_url": "https://github.com/Dhaxor/super-utils-plus.git",
-    "stars": 114,
+    "stars": 132,
     "size": 152
-  },
-  {
-    "name": "SolarisFN/Solaris-Document",
-    "clone_url": "https://github.com/SolarisFN/Solaris-Document.git",
-    "stars": 41,
-    "size": 56
   },
   {
     "name": "cofedream/extensions-copymanga",
     "clone_url": "https://github.com/cofedream/extensions-copymanga.git",
-    "stars": 35,
-    "size": 371
+    "stars": 51,
+    "size": 517
   },
   {
-    "name": "saint1415/powershell",
-    "clone_url": "https://github.com/saint1415/powershell.git",
-    "stars": 23,
-    "size": 102
+    "name": "SolarisFN/Solaris-Document",
+    "clone_url": "https://github.com/SolarisFN/Solaris-Document.git",
+    "stars": 48,
+    "size": 82
   },
   {
-    "name": "surendranb/google-analytics-mcp",
-    "clone_url": "https://github.com/surendranb/google-analytics-mcp.git",
-    "stars": 18,
-    "size": 662
+    "name": "byJoey/ladefree",
+    "clone_url": "https://github.com/byJoey/ladefree.git",
+    "stars": 47,
+    "size": 127
+  },
+  {
+    "name": "H0xrn/SOLANA_SNIPER_BOT",
+    "clone_url": "https://github.com/H0xrn/SOLANA_SNIPER_BOT.git",
+    "stars": 30,
+    "size": 824
   }
 ]
