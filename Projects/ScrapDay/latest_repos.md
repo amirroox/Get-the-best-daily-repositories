@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-23 .. 2025-05-25)
+# Latest Repositories (2025-05-24 .. 2025-05-26)
 
-- [Dhaxor/super-utils-plus](https://github.com/Dhaxor/super-utils-plus) (132)
-- [cofedream/extensions-copymanga](https://github.com/cofedream/extensions-copymanga) (51)
-- [SolarisFN/Solaris-Document](https://github.com/SolarisFN/Solaris-Document) (48)
-- [byJoey/ladefree](https://github.com/byJoey/ladefree) (47)
+- [xPOURY4/xPOURY4-recon](https://github.com/xPOURY4/xPOURY4-recon) (38)
+- [facebookresearch/Multi-SpatialMLLM](https://github.com/facebookresearch/Multi-SpatialMLLM) (33)
 - [H0xrn/SOLANA_SNIPER_BOT](https://github.com/H0xrn/SOLANA_SNIPER_BOT) (30)
+- [farhan-syah/myinvois-client](https://github.com/farhan-syah/myinvois-client) (21)
+- [Synaptic-MCP/Synaptic](https://github.com/Synaptic-MCP/Synaptic) (16)

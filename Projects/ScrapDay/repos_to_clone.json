@@ -1,32 +1,32 @@
 [
   {
-    "name": "Dhaxor/super-utils-plus",
-    "clone_url": "https://github.com/Dhaxor/super-utils-plus.git",
-    "stars": 132,
-    "size": 152
+    "name": "xPOURY4/xPOURY4-recon",
+    "clone_url": "https://github.com/xPOURY4/xPOURY4-recon.git",
+    "stars": 38,
+    "size": 2393
   },
   {
-    "name": "cofedream/extensions-copymanga",
-    "clone_url": "https://github.com/cofedream/extensions-copymanga.git",
-    "stars": 51,
-    "size": 517
-  },
-  {
-    "name": "SolarisFN/Solaris-Document",
-    "clone_url": "https://github.com/SolarisFN/Solaris-Document.git",
-    "stars": 48,
-    "size": 82
-  },
-  {
-    "name": "byJoey/ladefree",
-    "clone_url": "https://github.com/byJoey/ladefree.git",
-    "stars": 47,
-    "size": 127
+    "name": "facebookresearch/Multi-SpatialMLLM",
+    "clone_url": "https://github.com/facebookresearch/Multi-SpatialMLLM.git",
+    "stars": 33,
+    "size": 4055
   },
   {
     "name": "H0xrn/SOLANA_SNIPER_BOT",
     "clone_url": "https://github.com/H0xrn/SOLANA_SNIPER_BOT.git",
     "stars": 30,
-    "size": 824
+    "size": 683
+  },
+  {
+    "name": "farhan-syah/myinvois-client",
+    "clone_url": "https://github.com/farhan-syah/myinvois-client.git",
+    "stars": 21,
+    "size": 112
+  },
+  {
+    "name": "Synaptic-MCP/Synaptic",
+    "clone_url": "https://github.com/Synaptic-MCP/Synaptic.git",
+    "stars": 16,
+    "size": 2028
   }
 ]
