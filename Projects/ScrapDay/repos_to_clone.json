@@ -2,31 +2,31 @@
   {
     "name": "GtxFury/FlyClash-Android",
     "clone_url": "https://github.com/GtxFury/FlyClash-Android.git",
-    "stars": 90,
+    "stars": 116,
     "size": 1105
   },
   {
-    "name": "facebookresearch/Multi-SpatialMLLM",
-    "clone_url": "https://github.com/facebookresearch/Multi-SpatialMLLM.git",
-    "stars": 47,
-    "size": 4061
+    "name": "0xsline/GeminiImageApp",
+    "clone_url": "https://github.com/0xsline/GeminiImageApp.git",
+    "stars": 68,
+    "size": 2401
   },
   {
-    "name": "xPOURY4/xPOURY4-recon",
-    "clone_url": "https://github.com/xPOURY4/xPOURY4-recon.git",
-    "stars": 38,
-    "size": 2393
+    "name": "p2r3/HTTPortal",
+    "clone_url": "https://github.com/p2r3/HTTPortal.git",
+    "stars": 57,
+    "size": 54
   },
   {
-    "name": "H0xrn/SOLANA_SNIPER_BOT",
-    "clone_url": "https://github.com/H0xrn/SOLANA_SNIPER_BOT.git",
-    "stars": 30,
-    "size": 698
-  },
-  {
-    "name": "Synaptic-MCP/Synaptic",
-    "clone_url": "https://github.com/Synaptic-MCP/Synaptic.git",
+    "name": "apkunpacker/DetectZygisk",
+    "clone_url": "https://github.com/apkunpacker/DetectZygisk.git",
     "stars": 29,
-    "size": 2060
+    "size": 69
+  },
+  {
+    "name": "webwww123/linuxdo-bash",
+    "clone_url": "https://github.com/webwww123/linuxdo-bash.git",
+    "stars": 20,
+    "size": 220
   }
 ]
