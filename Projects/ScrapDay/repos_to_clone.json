@@ -2,31 +2,31 @@
   {
     "name": "aizhimou/jav-play",
     "clone_url": "https://github.com/aizhimou/jav-play.git",
-    "stars": 94,
-    "size": 79
+    "stars": 256,
+    "size": 188
   },
   {
     "name": "Tencent-Hunyuan/HunyuanPortrait",
     "clone_url": "https://github.com/Tencent-Hunyuan/HunyuanPortrait.git",
-    "stars": 87,
+    "stars": 129,
     "size": 1023
   },
   {
     "name": "HazyResearch/Megakernels",
     "clone_url": "https://github.com/HazyResearch/Megakernels.git",
-    "stars": 34,
-    "size": 71
-  },
-  {
-    "name": "aubler/SelfyAI",
-    "clone_url": "https://github.com/aubler/SelfyAI.git",
-    "stars": 27,
-    "size": 74
+    "stars": 121,
+    "size": 76
   },
   {
     "name": "hexdocom/lemonai",
     "clone_url": "https://github.com/hexdocom/lemonai.git",
-    "stars": 25,
+    "stars": 59,
     "size": 3140
+  },
+  {
+    "name": "aubler/SelfyAI",
+    "clone_url": "https://github.com/aubler/SelfyAI.git",
+    "stars": 41,
+    "size": 74
   }
 ]
