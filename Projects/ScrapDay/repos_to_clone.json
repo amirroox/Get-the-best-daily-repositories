@@ -1,32 +1,32 @@
 [
   {
-    "name": "GtxFury/FlyClash-Android",
-    "clone_url": "https://github.com/GtxFury/FlyClash-Android.git",
-    "stars": 132,
-    "size": 1105
-  },
-  {
-    "name": "0xsline/GeminiImageApp",
-    "clone_url": "https://github.com/0xsline/GeminiImageApp.git",
-    "stars": 108,
-    "size": 2419
-  },
-  {
-    "name": "p2r3/HTTPortal",
-    "clone_url": "https://github.com/p2r3/HTTPortal.git",
-    "stars": 77,
-    "size": 54
-  },
-  {
-    "name": "shiyi11yi/Sub-Hub",
-    "clone_url": "https://github.com/shiyi11yi/Sub-Hub.git",
-    "stars": 56,
-    "size": 89
-  },
-  {
     "name": "aizhimou/jav-play",
     "clone_url": "https://github.com/aizhimou/jav-play.git",
-    "stars": 46,
+    "stars": 94,
     "size": 79
+  },
+  {
+    "name": "Tencent-Hunyuan/HunyuanPortrait",
+    "clone_url": "https://github.com/Tencent-Hunyuan/HunyuanPortrait.git",
+    "stars": 87,
+    "size": 1023
+  },
+  {
+    "name": "HazyResearch/Megakernels",
+    "clone_url": "https://github.com/HazyResearch/Megakernels.git",
+    "stars": 34,
+    "size": 71
+  },
+  {
+    "name": "aubler/SelfyAI",
+    "clone_url": "https://github.com/aubler/SelfyAI.git",
+    "stars": 27,
+    "size": 74
+  },
+  {
+    "name": "hexdocom/lemonai",
+    "clone_url": "https://github.com/hexdocom/lemonai.git",
+    "stars": 25,
+    "size": 3140
   }
 ]
