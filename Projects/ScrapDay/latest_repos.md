@@ -1,7 +1,7 @@
-# Latest Repositories (2025-05-26 .. 2025-05-28)
+# Latest Repositories (2025-05-27 .. 2025-05-29)
 
-- [aizhimou/jav-play](https://github.com/aizhimou/jav-play) (256)
-- [Tencent-Hunyuan/HunyuanPortrait](https://github.com/Tencent-Hunyuan/HunyuanPortrait) (129)
-- [HazyResearch/Megakernels](https://github.com/HazyResearch/Megakernels) (121)
-- [hexdocom/lemonai](https://github.com/hexdocom/lemonai) (59)
-- [aubler/SelfyAI](https://github.com/aubler/SelfyAI) (41)
+- [robertdevore/db-version-control](https://github.com/robertdevore/db-version-control) (31)
+- [marpple/kotlin-multi-paradigm-iteration](https://github.com/marpple/kotlin-multi-paradigm-iteration) (20)
+- [hq-King/Awesome-Affordance-Learning](https://github.com/hq-King/Awesome-Affordance-Learning) (19)
+- [LIDR-academy/text2sql-agent](https://github.com/LIDR-academy/text2sql-agent) (18)
+- [Adamsmith6300/alder-security-scanner](https://github.com/Adamsmith6300/alder-security-scanner) (18)
