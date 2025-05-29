@@ -1,32 +1,32 @@
 [
   {
-    "name": "robertdevore/db-version-control",
-    "clone_url": "https://github.com/robertdevore/db-version-control.git",
-    "stars": 31,
-    "size": 145
+    "name": "Xposed-Modules-Repo/top.hookvip.wxtablet",
+    "clone_url": "https://github.com/Xposed-Modules-Repo/top.hookvip.wxtablet.git",
+    "stars": 46,
+    "size": 113
   },
   {
-    "name": "marpple/kotlin-multi-paradigm-iteration",
-    "clone_url": "https://github.com/marpple/kotlin-multi-paradigm-iteration.git",
-    "stars": 20,
-    "size": 1139
+    "name": "Lessica/XcodeAnyTroll",
+    "clone_url": "https://github.com/Lessica/XcodeAnyTroll.git",
+    "stars": 45,
+    "size": 510
+  },
+  {
+    "name": "robertdevore/db-version-control",
+    "clone_url": "https://github.com/robertdevore/db-version-control.git",
+    "stars": 34,
+    "size": 145
   },
   {
     "name": "hq-King/Awesome-Affordance-Learning",
     "clone_url": "https://github.com/hq-King/Awesome-Affordance-Learning.git",
-    "stars": 19,
-    "size": 121
+    "stars": 25,
+    "size": 135
   },
   {
     "name": "LIDR-academy/text2sql-agent",
     "clone_url": "https://github.com/LIDR-academy/text2sql-agent.git",
-    "stars": 18,
+    "stars": 25,
     "size": 4846
-  },
-  {
-    "name": "Adamsmith6300/alder-security-scanner",
-    "clone_url": "https://github.com/Adamsmith6300/alder-security-scanner.git",
-    "stars": 18,
-    "size": 90
   }
 ]
