@@ -1,32 +1,32 @@
 [
   {
-    "name": "Xposed-Modules-Repo/top.hookvip.wxtablet",
-    "clone_url": "https://github.com/Xposed-Modules-Repo/top.hookvip.wxtablet.git",
-    "stars": 62,
-    "size": 113
-  },
-  {
     "name": "rs-4/expo-auto-resizing-input",
     "clone_url": "https://github.com/rs-4/expo-auto-resizing-input.git",
-    "stars": 62,
+    "stars": 85,
     "size": 311
   },
   {
-    "name": "filliptm/ComfyUI_Fill-ChatterBox",
-    "clone_url": "https://github.com/filliptm/ComfyUI_Fill-ChatterBox.git",
-    "stars": 35,
-    "size": 250
+    "name": "Xposed-Modules-Repo/top.hookvip.wxtablet",
+    "clone_url": "https://github.com/Xposed-Modules-Repo/top.hookvip.wxtablet.git",
+    "stars": 78,
+    "size": 118
   },
   {
-    "name": "Ascend/triton-ascend",
-    "clone_url": "https://github.com/Ascend/triton-ascend.git",
-    "stars": 33,
-    "size": 462
+    "name": "zhom/donutbrowser",
+    "clone_url": "https://github.com/zhom/donutbrowser.git",
+    "stars": 70,
+    "size": 1840
   },
   {
-    "name": "SecFathy/sectracker",
-    "clone_url": "https://github.com/SecFathy/sectracker.git",
-    "stars": 27,
-    "size": 300
+    "name": "altendorfme/yadnsb",
+    "clone_url": "https://github.com/altendorfme/yadnsb.git",
+    "stars": 48,
+    "size": 90
+  },
+  {
+    "name": "merlavik08/stake-june-monthly-bonus",
+    "clone_url": "https://github.com/merlavik08/stake-june-monthly-bonus.git",
+    "stars": 43,
+    "size": 397
   }
 ]
