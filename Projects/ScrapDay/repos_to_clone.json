@@ -2,31 +2,31 @@
   {
     "name": "rudrodip/nexfaster",
     "clone_url": "https://github.com/rudrodip/nexfaster.git",
-    "stars": 88,
+    "stars": 141,
     "size": 433
   },
   {
     "name": "robb/FolderIconGenerator",
     "clone_url": "https://github.com/robb/FolderIconGenerator.git",
-    "stars": 75,
-    "size": 4591
+    "stars": 116,
+    "size": 4592
+  },
+  {
+    "name": "ijnek/launch_graph",
+    "clone_url": "https://github.com/ijnek/launch_graph.git",
+    "stars": 33,
+    "size": 91
+  },
+  {
+    "name": "OpenRobotLab/AnySplat",
+    "clone_url": "https://github.com/OpenRobotLab/AnySplat.git",
+    "stars": 25,
+    "size": 98
   },
   {
     "name": "brandoncscript/react-bestpractise",
     "clone_url": "https://github.com/brandoncscript/react-bestpractise.git",
     "stars": 18,
     "size": 323
-  },
-  {
-    "name": "lc03lc/Comfyui_OmniConsistency",
-    "clone_url": "https://github.com/lc03lc/Comfyui_OmniConsistency.git",
-    "stars": 13,
-    "size": 4753
-  },
-  {
-    "name": "Erzambayu/WA-BOT",
-    "clone_url": "https://github.com/Erzambayu/WA-BOT.git",
-    "stars": 13,
-    "size": 106
   }
 ]
