@@ -1,7 +1,7 @@
 # Latest Repositories (2025-06-01 .. 2025-06-03)
 
-- [charlieclark/thiings-grid](https://github.com/charlieclark/thiings-grid) (82)
-- [OpenRobotLab/AnySplat](https://github.com/OpenRobotLab/AnySplat) (51)
-- [altudev/noobgg](https://github.com/altudev/noobgg) (37)
-- [observ33r/object-equals](https://github.com/observ33r/object-equals) (24)
-- [buddy0323/AI-Assistant-WhatsApp-Bot](https://github.com/buddy0323/AI-Assistant-WhatsApp-Bot) (15)
+- [aki66938/xhs-toolkit](https://github.com/aki66938/xhs-toolkit) (136)
+- [charlieclark/thiings-grid](https://github.com/charlieclark/thiings-grid) (120)
+- [OpenRobotLab/AnySplat](https://github.com/OpenRobotLab/AnySplat) (81)
+- [simonbs/TextDiffing](https://github.com/simonbs/TextDiffing) (61)
+- [altudev/noobgg](https://github.com/altudev/noobgg) (38)
