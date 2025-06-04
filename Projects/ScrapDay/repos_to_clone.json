@@ -2,31 +2,31 @@
   {
     "name": "collidingScopes/3d-model-playground",
     "clone_url": "https://github.com/collidingScopes/3d-model-playground.git",
-    "stars": 102,
+    "stars": 122,
     "size": 2303
   },
   {
     "name": "simonbs/TextDiffing",
     "clone_url": "https://github.com/simonbs/TextDiffing.git",
-    "stars": 98,
+    "stars": 106,
     "size": 397
-  },
-  {
-    "name": "rocketseat-education/desafio-microsservicos-nodejs",
-    "clone_url": "https://github.com/rocketseat-education/desafio-microsservicos-nodejs.git",
-    "stars": 50,
-    "size": 57
   },
   {
     "name": "rockettpunk/dead-canary",
     "clone_url": "https://github.com/rockettpunk/dead-canary.git",
-    "stars": 40,
-    "size": 880
+    "stars": 67,
+    "size": 929
   },
   {
-    "name": "xPOURY4/Prompt-Assistant",
-    "clone_url": "https://github.com/xPOURY4/Prompt-Assistant.git",
-    "stars": 40,
-    "size": 50
+    "name": "rocketseat-education/desafio-microsservicos-nodejs",
+    "clone_url": "https://github.com/rocketseat-education/desafio-microsservicos-nodejs.git",
+    "stars": 59,
+    "size": 57
+  },
+  {
+    "name": "taprwhiz/solana-trading-ai-agent",
+    "clone_url": "https://github.com/taprwhiz/solana-trading-ai-agent.git",
+    "stars": 53,
+    "size": 520
   }
 ]
