@@ -1,32 +1,32 @@
 [
   {
-    "name": "aki66938/xhs-toolkit",
-    "clone_url": "https://github.com/aki66938/xhs-toolkit.git",
-    "stars": 136,
-    "size": 53
-  },
-  {
-    "name": "charlieclark/thiings-grid",
-    "clone_url": "https://github.com/charlieclark/thiings-grid.git",
-    "stars": 120,
-    "size": 1380
-  },
-  {
-    "name": "OpenRobotLab/AnySplat",
-    "clone_url": "https://github.com/OpenRobotLab/AnySplat.git",
-    "stars": 81,
-    "size": 98
+    "name": "collidingScopes/3d-model-playground",
+    "clone_url": "https://github.com/collidingScopes/3d-model-playground.git",
+    "stars": 102,
+    "size": 2303
   },
   {
     "name": "simonbs/TextDiffing",
     "clone_url": "https://github.com/simonbs/TextDiffing.git",
-    "stars": 61,
+    "stars": 98,
     "size": 397
   },
   {
-    "name": "altudev/noobgg",
-    "clone_url": "https://github.com/altudev/noobgg.git",
-    "stars": 38,
-    "size": 1312
+    "name": "rocketseat-education/desafio-microsservicos-nodejs",
+    "clone_url": "https://github.com/rocketseat-education/desafio-microsservicos-nodejs.git",
+    "stars": 50,
+    "size": 57
+  },
+  {
+    "name": "rockettpunk/dead-canary",
+    "clone_url": "https://github.com/rockettpunk/dead-canary.git",
+    "stars": 40,
+    "size": 880
+  },
+  {
+    "name": "xPOURY4/Prompt-Assistant",
+    "clone_url": "https://github.com/xPOURY4/Prompt-Assistant.git",
+    "stars": 40,
+    "size": 50
   }
 ]

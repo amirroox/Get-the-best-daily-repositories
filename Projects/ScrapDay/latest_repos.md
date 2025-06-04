@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-01 .. 2025-06-03)
+# Latest Repositories (2025-06-02 .. 2025-06-04)
 
-- [aki66938/xhs-toolkit](https://github.com/aki66938/xhs-toolkit) (136)
-- [charlieclark/thiings-grid](https://github.com/charlieclark/thiings-grid) (120)
-- [OpenRobotLab/AnySplat](https://github.com/OpenRobotLab/AnySplat) (81)
-- [simonbs/TextDiffing](https://github.com/simonbs/TextDiffing) (61)
-- [altudev/noobgg](https://github.com/altudev/noobgg) (38)
+- [collidingScopes/3d-model-playground](https://github.com/collidingScopes/3d-model-playground) (102)
+- [simonbs/TextDiffing](https://github.com/simonbs/TextDiffing) (98)
+- [rocketseat-education/desafio-microsservicos-nodejs](https://github.com/rocketseat-education/desafio-microsservicos-nodejs) (50)
+- [rockettpunk/dead-canary](https://github.com/rockettpunk/dead-canary) (40)
+- [xPOURY4/Prompt-Assistant](https://github.com/xPOURY4/Prompt-Assistant) (40)
