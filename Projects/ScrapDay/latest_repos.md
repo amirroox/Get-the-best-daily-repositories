@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-02 .. 2025-06-04)
+# Latest Repositories (2025-06-03 .. 2025-06-05)
 
-- [collidingScopes/3d-model-playground](https://github.com/collidingScopes/3d-model-playground) (122)
-- [simonbs/TextDiffing](https://github.com/simonbs/TextDiffing) (106)
-- [rockettpunk/dead-canary](https://github.com/rockettpunk/dead-canary) (67)
-- [rocketseat-education/desafio-microsservicos-nodejs](https://github.com/rocketseat-education/desafio-microsservicos-nodejs) (59)
-- [taprwhiz/solana-trading-ai-agent](https://github.com/taprwhiz/solana-trading-ai-agent) (53)
+- [ElusionCheats/warzone-cheat](https://github.com/ElusionCheats/warzone-cheat) (186)
+- [2-fly-4-ai/awesome-shadcnui](https://github.com/2-fly-4-ai/awesome-shadcnui) (100)
+- [AIDotNet/auto-prompt](https://github.com/AIDotNet/auto-prompt) (85)
+- [Trans-N-ai/swama](https://github.com/Trans-N-ai/swama) (57)
+- [darkdock-onion-url-git/darkdock-onion-url](https://github.com/darkdock-onion-url-git/darkdock-onion-url) (37)
