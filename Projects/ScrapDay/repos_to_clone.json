@@ -2,31 +2,31 @@
   {
     "name": "l-portet/tiktok-warmup-bot",
     "clone_url": "https://github.com/l-portet/tiktok-warmup-bot.git",
-    "stars": 373,
+    "stars": 415,
     "size": 164
   },
   {
-    "name": "assetnote/newtowner",
-    "clone_url": "https://github.com/assetnote/newtowner.git",
-    "stars": 117,
-    "size": 86
+    "name": "wey-gu/py-pglite",
+    "clone_url": "https://github.com/wey-gu/py-pglite.git",
+    "stars": 177,
+    "size": 84
   },
   {
     "name": "ScalingIntelligence/tokasaurus",
     "clone_url": "https://github.com/ScalingIntelligence/tokasaurus.git",
-    "stars": 71,
+    "stars": 174,
     "size": 94
   },
   {
-    "name": "dkorecko/Ticky",
-    "clone_url": "https://github.com/dkorecko/Ticky.git",
-    "stars": 30,
-    "size": 505
+    "name": "assetnote/newtowner",
+    "clone_url": "https://github.com/assetnote/newtowner.git",
+    "stars": 140,
+    "size": 86
   },
   {
-    "name": "nwiizo/cctx",
-    "clone_url": "https://github.com/nwiizo/cctx.git",
-    "stars": 31,
-    "size": 59
+    "name": "CharlieLZ/flux-kontext-template",
+    "clone_url": "https://github.com/CharlieLZ/flux-kontext-template.git",
+    "stars": 83,
+    "size": 496
   }
 ]
