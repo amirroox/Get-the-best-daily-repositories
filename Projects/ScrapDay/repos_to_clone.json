@@ -1,32 +1,32 @@
 [
   {
-    "name": "ElusionCheats/warzone-cheat",
-    "clone_url": "https://github.com/ElusionCheats/warzone-cheat.git",
-    "stars": 268,
-    "size": 134
-  },
-  {
     "name": "l-portet/tiktok-warmup-bot",
     "clone_url": "https://github.com/l-portet/tiktok-warmup-bot.git",
-    "stars": 147,
-    "size": 158
-  },
-  {
-    "name": "2-fly-4-ai/awesome-shadcnui",
-    "clone_url": "https://github.com/2-fly-4-ai/awesome-shadcnui.git",
-    "stars": 136,
-    "size": 698
-  },
-  {
-    "name": "AIDotNet/auto-prompt",
-    "clone_url": "https://github.com/AIDotNet/auto-prompt.git",
-    "stars": 103,
-    "size": 435
+    "stars": 373,
+    "size": 164
   },
   {
     "name": "assetnote/newtowner",
     "clone_url": "https://github.com/assetnote/newtowner.git",
-    "stars": 86,
+    "stars": 117,
     "size": 86
+  },
+  {
+    "name": "ScalingIntelligence/tokasaurus",
+    "clone_url": "https://github.com/ScalingIntelligence/tokasaurus.git",
+    "stars": 71,
+    "size": 94
+  },
+  {
+    "name": "dkorecko/Ticky",
+    "clone_url": "https://github.com/dkorecko/Ticky.git",
+    "stars": 30,
+    "size": 505
+  },
+  {
+    "name": "nwiizo/cctx",
+    "clone_url": "https://github.com/nwiizo/cctx.git",
+    "stars": 31,
+    "size": 59
   }
 ]
