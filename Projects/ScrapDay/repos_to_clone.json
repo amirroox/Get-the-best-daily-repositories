@@ -1,32 +1,32 @@
 [
   {
-    "name": "l-portet/tiktok-warmup-bot",
-    "clone_url": "https://github.com/l-portet/tiktok-warmup-bot.git",
-    "stars": 415,
-    "size": 164
-  },
-  {
-    "name": "wey-gu/py-pglite",
-    "clone_url": "https://github.com/wey-gu/py-pglite.git",
-    "stars": 177,
-    "size": 84
-  },
-  {
-    "name": "ScalingIntelligence/tokasaurus",
-    "clone_url": "https://github.com/ScalingIntelligence/tokasaurus.git",
-    "stars": 174,
-    "size": 94
-  },
-  {
-    "name": "assetnote/newtowner",
-    "clone_url": "https://github.com/assetnote/newtowner.git",
-    "stars": 140,
-    "size": 86
-  },
-  {
     "name": "CharlieLZ/flux-kontext-template",
     "clone_url": "https://github.com/CharlieLZ/flux-kontext-template.git",
-    "stars": 83,
+    "stars": 121,
     "size": 496
+  },
+  {
+    "name": "LebCit/aether-cms",
+    "clone_url": "https://github.com/LebCit/aether-cms.git",
+    "stars": 39,
+    "size": 467
+  },
+  {
+    "name": "TG-Twilight/Starstruck",
+    "clone_url": "https://github.com/TG-Twilight/Starstruck.git",
+    "stars": 32,
+    "size": 2348
+  },
+  {
+    "name": "pxx917144686/GPS",
+    "clone_url": "https://github.com/pxx917144686/GPS.git",
+    "stars": 25,
+    "size": 2214
+  },
+  {
+    "name": "linux-do/2048",
+    "clone_url": "https://github.com/linux-do/2048.git",
+    "stars": 19,
+    "size": 94
   }
 ]
