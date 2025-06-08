@@ -1,32 +1,32 @@
 [
   {
-    "name": "apex-undetected/Apex-Cheat",
-    "clone_url": "https://github.com/apex-undetected/Apex-Cheat.git",
-    "stars": 319,
-    "size": 179
-  },
-  {
-    "name": "CharlieLZ/flux-kontext-template",
-    "clone_url": "https://github.com/CharlieLZ/flux-kontext-template.git",
-    "stars": 150,
-    "size": 496
-  },
-  {
-    "name": "chaoss177938/yingshi",
-    "clone_url": "https://github.com/chaoss177938/yingshi.git",
-    "stars": 105,
-    "size": 3659
+    "name": "8090-inc/top-coder-challenge",
+    "clone_url": "https://github.com/8090-inc/top-coder-challenge.git",
+    "stars": 138,
+    "size": 75
   },
   {
     "name": "udeth/godex",
     "clone_url": "https://github.com/udeth/godex.git",
-    "stars": 66,
+    "stars": 130,
     "size": 74
   },
   {
-    "name": "LebCit/aether-cms",
-    "clone_url": "https://github.com/LebCit/aether-cms.git",
-    "stars": 45,
-    "size": 467
+    "name": "love-ha/liteai-writer",
+    "clone_url": "https://github.com/love-ha/liteai-writer.git",
+    "stars": 34,
+    "size": 65
+  },
+  {
+    "name": "chaoss177938/yingshi",
+    "clone_url": "https://github.com/chaoss177938/yingshi.git",
+    "stars": 26,
+    "size": 3659
+  },
+  {
+    "name": "supermemoryai/supermemory-mcp",
+    "clone_url": "https://github.com/supermemoryai/supermemory-mcp.git",
+    "stars": 25,
+    "size": 403
   }
 ]
