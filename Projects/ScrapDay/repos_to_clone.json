@@ -1,8 +1,14 @@
 [
   {
+    "name": "supermemoryai/supermemory-mcp",
+    "clone_url": "https://github.com/supermemoryai/supermemory-mcp.git",
+    "stars": 238,
+    "size": 405
+  },
+  {
     "name": "8090-inc/top-coder-challenge",
     "clone_url": "https://github.com/8090-inc/top-coder-challenge.git",
-    "stars": 138,
+    "stars": 183,
     "size": 75
   },
   {
@@ -12,21 +18,15 @@
     "size": 74
   },
   {
+    "name": "t3dotgg/t3-cloneathon",
+    "clone_url": "https://github.com/t3dotgg/t3-cloneathon.git",
+    "stars": 52,
+    "size": 240
+  },
+  {
     "name": "love-ha/liteai-writer",
     "clone_url": "https://github.com/love-ha/liteai-writer.git",
-    "stars": 34,
+    "stars": 51,
     "size": 65
-  },
-  {
-    "name": "chaoss177938/yingshi",
-    "clone_url": "https://github.com/chaoss177938/yingshi.git",
-    "stars": 26,
-    "size": 3659
-  },
-  {
-    "name": "supermemoryai/supermemory-mcp",
-    "clone_url": "https://github.com/supermemoryai/supermemory-mcp.git",
-    "stars": 25,
-    "size": 403
   }
 ]
