@@ -2,31 +2,31 @@
   {
     "name": "supermemoryai/supermemory-mcp",
     "clone_url": "https://github.com/supermemoryai/supermemory-mcp.git",
-    "stars": 549,
+    "stars": 692,
     "size": 405
   },
   {
     "name": "rust-undetected/rust-cheat",
     "clone_url": "https://github.com/rust-undetected/rust-cheat.git",
-    "stars": 35,
-    "size": 186
+    "stars": 235,
+    "size": 194
   },
   {
     "name": "BeehiveInnovations/gemini-mcp-server",
     "clone_url": "https://github.com/BeehiveInnovations/gemini-mcp-server.git",
-    "stars": 25,
-    "size": 138
+    "stars": 72,
+    "size": 379
   },
   {
-    "name": "PhantasmAI/PromptMicroTune-Revolution",
-    "clone_url": "https://github.com/PhantasmAI/PromptMicroTune-Revolution.git",
-    "stars": 19,
-    "size": 1087
+    "name": "wgsxm/PartCrafter",
+    "clone_url": "https://github.com/wgsxm/PartCrafter.git",
+    "stars": 46,
+    "size": 3327
   },
   {
-    "name": "Bonkiats221/SynapseX-For-Roblox-Game",
-    "clone_url": "https://github.com/Bonkiats221/SynapseX-For-Roblox-Game.git",
-    "stars": 19,
-    "size": 2397
+    "name": "nik-rev/simply-colored",
+    "clone_url": "https://github.com/nik-rev/simply-colored.git",
+    "stars": 28,
+    "size": 512
   }
 ]
