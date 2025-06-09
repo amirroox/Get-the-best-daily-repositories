@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-06 .. 2025-06-08)
+# Latest Repositories (2025-06-07 .. 2025-06-09)
 
-- [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) (238)
-- [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge) (183)
-- [udeth/godex](https://github.com/udeth/godex) (130)
-- [t3dotgg/t3-cloneathon](https://github.com/t3dotgg/t3-cloneathon) (52)
-- [love-ha/liteai-writer](https://github.com/love-ha/liteai-writer) (51)
+- [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) (549)
+- [rust-undetected/rust-cheat](https://github.com/rust-undetected/rust-cheat) (35)
+- [BeehiveInnovations/gemini-mcp-server](https://github.com/BeehiveInnovations/gemini-mcp-server) (25)
+- [PhantasmAI/PromptMicroTune-Revolution](https://github.com/PhantasmAI/PromptMicroTune-Revolution) (19)
+- [Bonkiats221/SynapseX-For-Roblox-Game](https://github.com/Bonkiats221/SynapseX-For-Roblox-Game) (19)
