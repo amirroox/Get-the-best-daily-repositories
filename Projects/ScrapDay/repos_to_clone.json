@@ -1,32 +1,32 @@
 [
   {
-    "name": "supermemoryai/supermemory-mcp",
-    "clone_url": "https://github.com/supermemoryai/supermemory-mcp.git",
-    "stars": 692,
-    "size": 405
-  },
-  {
-    "name": "rust-undetected/rust-cheat",
-    "clone_url": "https://github.com/rust-undetected/rust-cheat.git",
-    "stars": 235,
-    "size": 194
-  },
-  {
-    "name": "BeehiveInnovations/gemini-mcp-server",
-    "clone_url": "https://github.com/BeehiveInnovations/gemini-mcp-server.git",
-    "stars": 72,
-    "size": 379
+    "name": "pubg-undetected/pubg-cheat",
+    "clone_url": "https://github.com/pubg-undetected/pubg-cheat.git",
+    "stars": 154,
+    "size": 167
   },
   {
     "name": "wgsxm/PartCrafter",
     "clone_url": "https://github.com/wgsxm/PartCrafter.git",
-    "stars": 46,
+    "stars": 102,
     "size": 3327
   },
   {
-    "name": "nik-rev/simply-colored",
-    "clone_url": "https://github.com/nik-rev/simply-colored.git",
+    "name": "guandeh17/Self-Forcing",
+    "clone_url": "https://github.com/guandeh17/Self-Forcing.git",
+    "stars": 52,
+    "size": 696
+  },
+  {
+    "name": "digvijay-s-todiwal/phrasesync",
+    "clone_url": "https://github.com/digvijay-s-todiwal/phrasesync.git",
+    "stars": 33,
+    "size": 1372
+  },
+  {
+    "name": "deanxv/done-hub",
+    "clone_url": "https://github.com/deanxv/done-hub.git",
     "stars": 28,
-    "size": 512
+    "size": 1601
   }
 ]
