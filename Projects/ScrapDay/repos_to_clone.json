@@ -2,31 +2,31 @@
   {
     "name": "HdShare/NullAvatar",
     "clone_url": "https://github.com/HdShare/NullAvatar.git",
-    "stars": 52,
-    "size": 116
-  },
-  {
-    "name": "pfnet/plamo-translate-cli",
-    "clone_url": "https://github.com/pfnet/plamo-translate-cli.git",
-    "stars": 43,
-    "size": 164
-  },
-  {
-    "name": "dunamismax/C-From-the-Ground-Up---A-Project-Based-Approach",
-    "clone_url": "https://github.com/dunamismax/C-From-the-Ground-Up---A-Project-Based-Approach.git",
-    "stars": 40,
-    "size": 89
+    "stars": 80,
+    "size": 119
   },
   {
     "name": "ktiays/GlassExplorer",
     "clone_url": "https://github.com/ktiays/GlassExplorer.git",
-    "stars": 35,
+    "stars": 79,
     "size": 1970
   },
   {
-    "name": "callbacked/qwen3-semantic-search",
-    "clone_url": "https://github.com/callbacked/qwen3-semantic-search.git",
-    "stars": 35,
-    "size": 118
+    "name": "dunamismax/C-From-the-Ground-Up---A-Project-Based-Approach",
+    "clone_url": "https://github.com/dunamismax/C-From-the-Ground-Up---A-Project-Based-Approach.git",
+    "stars": 61,
+    "size": 89
+  },
+  {
+    "name": "pfnet/plamo-translate-cli",
+    "clone_url": "https://github.com/pfnet/plamo-translate-cli.git",
+    "stars": 54,
+    "size": 164
+  },
+  {
+    "name": "cryptocj520/pancake",
+    "clone_url": "https://github.com/cryptocj520/pancake.git",
+    "stars": 53,
+    "size": 533
   }
 ]
