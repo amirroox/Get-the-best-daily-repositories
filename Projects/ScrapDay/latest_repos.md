@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-09 .. 2025-06-11)
+# Latest Repositories (2025-06-10 .. 2025-06-12)
 
-- [HdShare/NullAvatar](https://github.com/HdShare/NullAvatar) (80)
-- [ktiays/GlassExplorer](https://github.com/ktiays/GlassExplorer) (79)
-- [dunamismax/C-From-the-Ground-Up---A-Project-Based-Approach](https://github.com/dunamismax/C-From-the-Ground-Up---A-Project-Based-Approach) (61)
-- [pfnet/plamo-translate-cli](https://github.com/pfnet/plamo-translate-cli) (54)
-- [cryptocj520/pancake](https://github.com/cryptocj520/pancake) (53)
+- [midudev/landing-gta-vi](https://github.com/midudev/landing-gta-vi) (147)
+- [cryptocj520/pancake](https://github.com/cryptocj520/pancake) (76)
+- [mikkelkrogsholm/api-mapper](https://github.com/mikkelkrogsholm/api-mapper) (60)
+- [pickles4evaaaa/bibliotheca](https://github.com/pickles4evaaaa/bibliotheca) (55)
+- [L4ys/LazyCross](https://github.com/L4ys/LazyCross) (51)
