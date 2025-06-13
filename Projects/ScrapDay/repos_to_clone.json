@@ -2,31 +2,31 @@
   {
     "name": "steipete/agent-rules",
     "clone_url": "https://github.com/steipete/agent-rules.git",
-    "stars": 128,
-    "size": 418
+    "stars": 274,
+    "size": 428
   },
   {
     "name": "bergice/liquidglass",
     "clone_url": "https://github.com/bergice/liquidglass.git",
-    "stars": 71,
+    "stars": 96,
     "size": 3552
+  },
+  {
+    "name": "zuydd/vn-geo",
+    "clone_url": "https://github.com/zuydd/vn-geo.git",
+    "stars": 80,
+    "size": 1251
   },
   {
     "name": "Aaronontheweb/mssql-mcp",
     "clone_url": "https://github.com/Aaronontheweb/mssql-mcp.git",
-    "stars": 39,
+    "stars": 55,
     "size": 57
   },
   {
     "name": "morph-labs/lean-abc-true-almost-always",
     "clone_url": "https://github.com/morph-labs/lean-abc-true-almost-always.git",
-    "stars": 38,
+    "stars": 46,
     "size": 689
-  },
-  {
-    "name": "notemrovsky/tiktok-reverse-engineering",
-    "clone_url": "https://github.com/notemrovsky/tiktok-reverse-engineering.git",
-    "stars": 19,
-    "size": 2884
   }
 ]
