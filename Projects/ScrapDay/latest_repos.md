@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-10 .. 2025-06-12)
+# Latest Repositories (2025-06-11 .. 2025-06-13)
 
-- [midudev/landing-gta-vi](https://github.com/midudev/landing-gta-vi) (168)
-- [cryptocj520/pancake](https://github.com/cryptocj520/pancake) (91)
-- [mikkelkrogsholm/api-mapper](https://github.com/mikkelkrogsholm/api-mapper) (86)
-- [L4ys/LazyCross](https://github.com/L4ys/LazyCross) (73)
-- [pickles4evaaaa/bibliotheca](https://github.com/pickles4evaaaa/bibliotheca) (63)
+- [steipete/agent-rules](https://github.com/steipete/agent-rules) (128)
+- [bergice/liquidglass](https://github.com/bergice/liquidglass) (71)
+- [Aaronontheweb/mssql-mcp](https://github.com/Aaronontheweb/mssql-mcp) (39)
+- [morph-labs/lean-abc-true-almost-always](https://github.com/morph-labs/lean-abc-true-almost-always) (38)
+- [notemrovsky/tiktok-reverse-engineering](https://github.com/notemrovsky/tiktok-reverse-engineering) (19)

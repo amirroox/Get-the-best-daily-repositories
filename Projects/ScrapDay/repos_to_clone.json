@@ -1,32 +1,32 @@
 [
   {
-    "name": "midudev/landing-gta-vi",
-    "clone_url": "https://github.com/midudev/landing-gta-vi.git",
-    "stars": 168,
-    "size": 1775
+    "name": "steipete/agent-rules",
+    "clone_url": "https://github.com/steipete/agent-rules.git",
+    "stars": 128,
+    "size": 418
   },
   {
-    "name": "cryptocj520/pancake",
-    "clone_url": "https://github.com/cryptocj520/pancake.git",
-    "stars": 91,
-    "size": 533
+    "name": "bergice/liquidglass",
+    "clone_url": "https://github.com/bergice/liquidglass.git",
+    "stars": 71,
+    "size": 3552
   },
   {
-    "name": "mikkelkrogsholm/api-mapper",
-    "clone_url": "https://github.com/mikkelkrogsholm/api-mapper.git",
-    "stars": 86,
-    "size": 225
+    "name": "Aaronontheweb/mssql-mcp",
+    "clone_url": "https://github.com/Aaronontheweb/mssql-mcp.git",
+    "stars": 39,
+    "size": 57
   },
   {
-    "name": "L4ys/LazyCross",
-    "clone_url": "https://github.com/L4ys/LazyCross.git",
-    "stars": 73,
-    "size": 312
+    "name": "morph-labs/lean-abc-true-almost-always",
+    "clone_url": "https://github.com/morph-labs/lean-abc-true-almost-always.git",
+    "stars": 38,
+    "size": 689
   },
   {
-    "name": "pickles4evaaaa/bibliotheca",
-    "clone_url": "https://github.com/pickles4evaaaa/bibliotheca.git",
-    "stars": 63,
-    "size": 4538
+    "name": "notemrovsky/tiktok-reverse-engineering",
+    "clone_url": "https://github.com/notemrovsky/tiktok-reverse-engineering.git",
+    "stars": 19,
+    "size": 2884
   }
 ]
