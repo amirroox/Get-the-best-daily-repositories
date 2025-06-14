@@ -1,32 +1,32 @@
 [
   {
-    "name": "steipete/agent-rules",
-    "clone_url": "https://github.com/steipete/agent-rules.git",
-    "stars": 274,
-    "size": 428
+    "name": "yaldobaoth/OSCP-Scripts",
+    "clone_url": "https://github.com/yaldobaoth/OSCP-Scripts.git",
+    "stars": 74,
+    "size": 114
   },
   {
-    "name": "bergice/liquidglass",
-    "clone_url": "https://github.com/bergice/liquidglass.git",
-    "stars": 96,
-    "size": 3552
+    "name": "mverschu/CVE-2025-33073",
+    "clone_url": "https://github.com/mverschu/CVE-2025-33073.git",
+    "stars": 47,
+    "size": 73
   },
   {
-    "name": "zuydd/vn-geo",
-    "clone_url": "https://github.com/zuydd/vn-geo.git",
-    "stars": 80,
-    "size": 1251
+    "name": "qdhenry/Claude-Command-Suite",
+    "clone_url": "https://github.com/qdhenry/Claude-Command-Suite.git",
+    "stars": 38,
+    "size": 94
   },
   {
-    "name": "Aaronontheweb/mssql-mcp",
-    "clone_url": "https://github.com/Aaronontheweb/mssql-mcp.git",
-    "stars": 55,
-    "size": 57
+    "name": "tim-smart/effect-mcp",
+    "clone_url": "https://github.com/tim-smart/effect-mcp.git",
+    "stars": 25,
+    "size": 62
   },
   {
-    "name": "morph-labs/lean-abc-true-almost-always",
-    "clone_url": "https://github.com/morph-labs/lean-abc-true-almost-always.git",
-    "stars": 46,
-    "size": 689
+    "name": "sayidhe/hongkong-mtr-mosaic",
+    "clone_url": "https://github.com/sayidhe/hongkong-mtr-mosaic.git",
+    "stars": 21,
+    "size": 2036
   }
 ]

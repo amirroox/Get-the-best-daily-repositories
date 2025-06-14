@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-11 .. 2025-06-13)
+# Latest Repositories (2025-06-12 .. 2025-06-14)
 
-- [steipete/agent-rules](https://github.com/steipete/agent-rules) (274)
-- [bergice/liquidglass](https://github.com/bergice/liquidglass) (96)
-- [zuydd/vn-geo](https://github.com/zuydd/vn-geo) (80)
-- [Aaronontheweb/mssql-mcp](https://github.com/Aaronontheweb/mssql-mcp) (55)
-- [morph-labs/lean-abc-true-almost-always](https://github.com/morph-labs/lean-abc-true-almost-always) (46)
+- [yaldobaoth/OSCP-Scripts](https://github.com/yaldobaoth/OSCP-Scripts) (74)
+- [mverschu/CVE-2025-33073](https://github.com/mverschu/CVE-2025-33073) (47)
+- [qdhenry/Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite) (38)
+- [tim-smart/effect-mcp](https://github.com/tim-smart/effect-mcp) (25)
+- [sayidhe/hongkong-mtr-mosaic](https://github.com/sayidhe/hongkong-mtr-mosaic) (21)
