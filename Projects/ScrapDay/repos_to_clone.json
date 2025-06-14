@@ -2,31 +2,31 @@
   {
     "name": "yaldobaoth/OSCP-Scripts",
     "clone_url": "https://github.com/yaldobaoth/OSCP-Scripts.git",
-    "stars": 74,
-    "size": 114
+    "stars": 95,
+    "size": 115
+  },
+  {
+    "name": "valorant-undetected/valorant-best-cheat",
+    "clone_url": "https://github.com/valorant-undetected/valorant-best-cheat.git",
+    "stars": 92,
+    "size": 162
   },
   {
     "name": "mverschu/CVE-2025-33073",
     "clone_url": "https://github.com/mverschu/CVE-2025-33073.git",
-    "stars": 47,
-    "size": 73
+    "stars": 88,
+    "size": 128
   },
   {
-    "name": "qdhenry/Claude-Command-Suite",
-    "clone_url": "https://github.com/qdhenry/Claude-Command-Suite.git",
-    "stars": 38,
-    "size": 94
+    "name": "ccbikai/ssh-ai-chat",
+    "clone_url": "https://github.com/ccbikai/ssh-ai-chat.git",
+    "stars": 53,
+    "size": 201
   },
   {
-    "name": "tim-smart/effect-mcp",
-    "clone_url": "https://github.com/tim-smart/effect-mcp.git",
-    "stars": 25,
-    "size": 62
-  },
-  {
-    "name": "sayidhe/hongkong-mtr-mosaic",
-    "clone_url": "https://github.com/sayidhe/hongkong-mtr-mosaic.git",
-    "stars": 21,
-    "size": 2036
+    "name": "fsndzomga/metadspy",
+    "clone_url": "https://github.com/fsndzomga/metadspy.git",
+    "stars": 50,
+    "size": 109
   }
 ]
