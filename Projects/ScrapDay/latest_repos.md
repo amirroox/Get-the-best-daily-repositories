@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-12 .. 2025-06-14)
+# Latest Repositories (2025-06-13 .. 2025-06-15)
 
-- [yaldobaoth/OSCP-Scripts](https://github.com/yaldobaoth/OSCP-Scripts) (95)
-- [valorant-undetected/valorant-best-cheat](https://github.com/valorant-undetected/valorant-best-cheat) (92)
-- [mverschu/CVE-2025-33073](https://github.com/mverschu/CVE-2025-33073) (88)
-- [ccbikai/ssh-ai-chat](https://github.com/ccbikai/ssh-ai-chat) (53)
-- [fsndzomga/metadspy](https://github.com/fsndzomga/metadspy) (50)
+- [Dige945/WHUCS_SoftwareEngineeringData](https://github.com/Dige945/WHUCS_SoftwareEngineeringData) (100)
+- [ccbikai/ssh-ai-chat](https://github.com/ccbikai/ssh-ai-chat) (78)
+- [codeprimate/personfromvid](https://github.com/codeprimate/personfromvid) (52)
+- [DevDreed/claude-task-master-extension](https://github.com/DevDreed/claude-task-master-extension) (46)
+- [KuekHaoYang/KResearch](https://github.com/KuekHaoYang/KResearch) (33)
