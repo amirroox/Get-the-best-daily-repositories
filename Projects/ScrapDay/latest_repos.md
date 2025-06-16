@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-13 .. 2025-06-15)
+# Latest Repositories (2025-06-14 .. 2025-06-16)
 
-- [Dige945/WHUCS_SoftwareEngineeringData](https://github.com/Dige945/WHUCS_SoftwareEngineeringData) (116)
-- [ccbikai/ssh-ai-chat](https://github.com/ccbikai/ssh-ai-chat) (98)
-- [codeprimate/personfromvid](https://github.com/codeprimate/personfromvid) (74)
-- [DevDreed/claude-task-master-extension](https://github.com/DevDreed/claude-task-master-extension) (51)
-- [KuekHaoYang/KResearch](https://github.com/KuekHaoYang/KResearch) (40)
+- [gety-ai/apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) (53)
+- [cnpj-chat/cnpj-data-pipeline](https://github.com/cnpj-chat/cnpj-data-pipeline) (34)
+- [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) (27)
+- [OpenListApp/OpenListApp](https://github.com/OpenListApp/OpenListApp) (27)
+- [pookjw/PhoneMenuBar](https://github.com/pookjw/PhoneMenuBar) (27)
