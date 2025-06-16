@@ -2,31 +2,31 @@
   {
     "name": "gety-ai/apple-on-device-openai",
     "clone_url": "https://github.com/gety-ai/apple-on-device-openai.git",
-    "stars": 53,
-    "size": 390
-  },
-  {
-    "name": "cnpj-chat/cnpj-data-pipeline",
-    "clone_url": "https://github.com/cnpj-chat/cnpj-data-pipeline.git",
-    "stars": 34,
-    "size": 351
+    "stars": 164,
+    "size": 393
   },
   {
     "name": "xiao-zaiyi/illa-helper",
     "clone_url": "https://github.com/xiao-zaiyi/illa-helper.git",
-    "stars": 27,
-    "size": 882
+    "stars": 60,
+    "size": 992
+  },
+  {
+    "name": "cnpj-chat/cnpj-data-pipeline",
+    "clone_url": "https://github.com/cnpj-chat/cnpj-data-pipeline.git",
+    "stars": 42,
+    "size": 351
   },
   {
     "name": "OpenListApp/OpenListApp",
     "clone_url": "https://github.com/OpenListApp/OpenListApp.git",
-    "stars": 27,
+    "stars": 34,
     "size": 2797
   },
   {
     "name": "pookjw/PhoneMenuBar",
     "clone_url": "https://github.com/pookjw/PhoneMenuBar.git",
-    "stars": 27,
+    "stars": 31,
     "size": 749
   }
 ]
