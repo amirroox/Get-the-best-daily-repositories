@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-15 .. 2025-06-17)
+# Latest Repositories (2025-06-16 .. 2025-06-18)
 
-- [MoonshotAI/Kimi-Dev](https://github.com/MoonshotAI/Kimi-Dev) (198)
-- [collidingScopes/arpeggiator](https://github.com/collidingScopes/arpeggiator) (52)
-- [deveix/react-native-apple-llm](https://github.com/deveix/react-native-apple-llm) (47)
-- [LiQiiiii/DLLM-Survey](https://github.com/LiQiiiii/DLLM-Survey) (34)
-- [SebastienZh/StockTradebyZ](https://github.com/SebastienZh/StockTradebyZ) (26)
+- [KyvithadzQd/Mev-Bot-AI](https://github.com/KyvithadzQd/Mev-Bot-AI) (90)
+- [Axarb/NFTIAI](https://github.com/Axarb/NFTIAI) (59)
+- [Brynthosoqvsb/Trading-bot](https://github.com/Brynthosoqvsb/Trading-bot) (58)
+- [d-sec-net/VPK](https://github.com/d-sec-net/VPK) (36)
+- [pumpfun-sol/Solana-Pumpfun-Trading-Bot](https://github.com/pumpfun-sol/Solana-Pumpfun-Trading-Bot) (33)
