@@ -1,32 +1,32 @@
 [
   {
+    "name": "Web3Marshal/AITrading",
+    "clone_url": "https://github.com/Web3Marshal/AITrading.git",
+    "stars": 99,
+    "size": 123
+  },
+  {
     "name": "KyvithadzQd/Mev-Bot-AI",
     "clone_url": "https://github.com/KyvithadzQd/Mev-Bot-AI.git",
-    "stars": 90,
-    "size": 91
+    "stars": 91,
+    "size": 149
   },
   {
     "name": "Axarb/NFTIAI",
     "clone_url": "https://github.com/Axarb/NFTIAI.git",
-    "stars": 59,
+    "stars": 72,
     "size": 3598
+  },
+  {
+    "name": "Neuralk-AI/TabBench",
+    "clone_url": "https://github.com/Neuralk-AI/TabBench.git",
+    "stars": 72,
+    "size": 3793
   },
   {
     "name": "Brynthosoqvsb/Trading-bot",
     "clone_url": "https://github.com/Brynthosoqvsb/Trading-bot.git",
     "stars": 58,
-    "size": 90
-  },
-  {
-    "name": "d-sec-net/VPK",
-    "clone_url": "https://github.com/d-sec-net/VPK.git",
-    "stars": 36,
-    "size": 3918
-  },
-  {
-    "name": "pumpfun-sol/Solana-Pumpfun-Trading-Bot",
-    "clone_url": "https://github.com/pumpfun-sol/Solana-Pumpfun-Trading-Bot.git",
-    "stars": 33,
-    "size": 432
+    "size": 148
   }
 ]

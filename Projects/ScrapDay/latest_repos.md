@@ -1,7 +1,7 @@
 # Latest Repositories (2025-06-16 .. 2025-06-18)
 
-- [KyvithadzQd/Mev-Bot-AI](https://github.com/KyvithadzQd/Mev-Bot-AI) (90)
-- [Axarb/NFTIAI](https://github.com/Axarb/NFTIAI) (59)
+- [Web3Marshal/AITrading](https://github.com/Web3Marshal/AITrading) (99)
+- [KyvithadzQd/Mev-Bot-AI](https://github.com/KyvithadzQd/Mev-Bot-AI) (91)
+- [Axarb/NFTIAI](https://github.com/Axarb/NFTIAI) (72)
+- [Neuralk-AI/TabBench](https://github.com/Neuralk-AI/TabBench) (72)
 - [Brynthosoqvsb/Trading-bot](https://github.com/Brynthosoqvsb/Trading-bot) (58)
-- [d-sec-net/VPK](https://github.com/d-sec-net/VPK) (36)
-- [pumpfun-sol/Solana-Pumpfun-Trading-Bot](https://github.com/pumpfun-sol/Solana-Pumpfun-Trading-Bot) (33)
