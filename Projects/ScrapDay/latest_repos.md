@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-16 .. 2025-06-18)
+# Latest Repositories (2025-06-17 .. 2025-06-19)
 
-- [Web3Marshal/AITrading](https://github.com/Web3Marshal/AITrading) (99)
-- [KyvithadzQd/Mev-Bot-AI](https://github.com/KyvithadzQd/Mev-Bot-AI) (91)
-- [Axarb/NFTIAI](https://github.com/Axarb/NFTIAI) (72)
-- [Neuralk-AI/TabBench](https://github.com/Neuralk-AI/TabBench) (72)
-- [Brynthosoqvsb/Trading-bot](https://github.com/Brynthosoqvsb/Trading-bot) (58)
+- [kikus50lovemoney/SelfDiscord](https://github.com/kikus50lovemoney/SelfDiscord) (307)
+- [mubokoxnardur3/ZPhisher-Python](https://github.com/mubokoxnardur3/ZPhisher-Python) (246)
+- [Meridius-Labs/apple-on-device-ai](https://github.com/Meridius-Labs/apple-on-device-ai) (55)
+- [NtDallas/MemLoader](https://github.com/NtDallas/MemLoader) (43)
+- [mitsuhiko/vibe-minisentry](https://github.com/mitsuhiko/vibe-minisentry) (42)
