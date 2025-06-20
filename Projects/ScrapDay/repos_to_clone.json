@@ -2,31 +2,31 @@
   {
     "name": "Maciek-roboblog/Claude-Code-Usage-Monitor",
     "clone_url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor.git",
-    "stars": 630,
-    "size": 141
-  },
-  {
-    "name": "ElusionUndetected/warzone-cheat",
-    "clone_url": "https://github.com/ElusionUndetected/warzone-cheat.git",
-    "stars": 350,
-    "size": 874
-  },
-  {
-    "name": "ApexElusion/apex-cheat",
-    "clone_url": "https://github.com/ApexElusion/apex-cheat.git",
-    "stars": 251,
-    "size": 1379
+    "stars": 795,
+    "size": 146
   },
   {
     "name": "getAsterisk/claudia",
     "clone_url": "https://github.com/getAsterisk/claudia.git",
-    "stars": 228,
+    "stars": 475,
     "size": 859
+  },
+  {
+    "name": "r6sx-tools/r6-cheat",
+    "clone_url": "https://github.com/r6sx-tools/r6-cheat.git",
+    "stars": 132,
+    "size": 1086
   },
   {
     "name": "HUST-AI-HYZ/FARMS",
     "clone_url": "https://github.com/HUST-AI-HYZ/FARMS.git",
-    "stars": 27,
+    "stars": 32,
     "size": 68
+  },
+  {
+    "name": "thu-ml/MLA-Trust",
+    "clone_url": "https://github.com/thu-ml/MLA-Trust.git",
+    "stars": 27,
+    "size": 1773
   }
 ]
