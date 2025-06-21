@@ -1,32 +1,32 @@
 [
   {
+    "name": "pubgundetected/pubg-cheat",
+    "clone_url": "https://github.com/pubgundetected/pubg-cheat.git",
+    "stars": 203,
+    "size": 359
+  },
+  {
     "name": "r6sx-tools/r6-cheat",
     "clone_url": "https://github.com/r6sx-tools/r6-cheat.git",
     "stars": 132,
     "size": 1086
   },
   {
-    "name": "kristianfreeman/pdf",
-    "clone_url": "https://github.com/kristianfreeman/pdf.git",
-    "stars": 33,
-    "size": 108
+    "name": "tokenbender/agent-guides",
+    "clone_url": "https://github.com/tokenbender/agent-guides.git",
+    "stars": 47,
+    "size": 53
   },
   {
     "name": "fox493/uptop-tge-bot",
     "clone_url": "https://github.com/fox493/uptop-tge-bot.git",
-    "stars": 28,
+    "stars": 37,
     "size": 72
   },
   {
-    "name": "tokenbender/agent-guides",
-    "clone_url": "https://github.com/tokenbender/agent-guides.git",
-    "stars": 27,
-    "size": 53
-  },
-  {
-    "name": "tsoding/pogfish",
-    "clone_url": "https://github.com/tsoding/pogfish.git",
-    "stars": 16,
-    "size": 54
+    "name": "JimLiu/agent-translator",
+    "clone_url": "https://github.com/JimLiu/agent-translator.git",
+    "stars": 35,
+    "size": 4960
   }
 ]
