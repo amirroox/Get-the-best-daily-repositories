@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-18 .. 2025-06-20)
+# Latest Repositories (2025-06-19 .. 2025-06-21)
 
-- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) (795)
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) (475)
 - [r6sx-tools/r6-cheat](https://github.com/r6sx-tools/r6-cheat) (132)
-- [HUST-AI-HYZ/FARMS](https://github.com/HUST-AI-HYZ/FARMS) (32)
-- [thu-ml/MLA-Trust](https://github.com/thu-ml/MLA-Trust) (27)
+- [kristianfreeman/pdf](https://github.com/kristianfreeman/pdf) (33)
+- [fox493/uptop-tge-bot](https://github.com/fox493/uptop-tge-bot) (28)
+- [tokenbender/agent-guides](https://github.com/tokenbender/agent-guides) (27)
+- [tsoding/pogfish](https://github.com/tsoding/pogfish) (16)

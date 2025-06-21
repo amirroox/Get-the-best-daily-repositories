@@ -1,32 +1,32 @@
 [
   {
-    "name": "Maciek-roboblog/Claude-Code-Usage-Monitor",
-    "clone_url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor.git",
-    "stars": 795,
-    "size": 146
-  },
-  {
-    "name": "getAsterisk/claudia",
-    "clone_url": "https://github.com/getAsterisk/claudia.git",
-    "stars": 475,
-    "size": 859
-  },
-  {
     "name": "r6sx-tools/r6-cheat",
     "clone_url": "https://github.com/r6sx-tools/r6-cheat.git",
     "stars": 132,
     "size": 1086
   },
   {
-    "name": "HUST-AI-HYZ/FARMS",
-    "clone_url": "https://github.com/HUST-AI-HYZ/FARMS.git",
-    "stars": 32,
-    "size": 68
+    "name": "kristianfreeman/pdf",
+    "clone_url": "https://github.com/kristianfreeman/pdf.git",
+    "stars": 33,
+    "size": 108
   },
   {
-    "name": "thu-ml/MLA-Trust",
-    "clone_url": "https://github.com/thu-ml/MLA-Trust.git",
+    "name": "fox493/uptop-tge-bot",
+    "clone_url": "https://github.com/fox493/uptop-tge-bot.git",
+    "stars": 28,
+    "size": 72
+  },
+  {
+    "name": "tokenbender/agent-guides",
+    "clone_url": "https://github.com/tokenbender/agent-guides.git",
     "stars": 27,
-    "size": 1773
+    "size": 53
+  },
+  {
+    "name": "tsoding/pogfish",
+    "clone_url": "https://github.com/tsoding/pogfish.git",
+    "stars": 16,
+    "size": 54
   }
 ]
