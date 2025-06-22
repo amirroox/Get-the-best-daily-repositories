@@ -2,8 +2,14 @@
   {
     "name": "Tej-Sharma/horizon-overlay-open-source-cluely",
     "clone_url": "https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely.git",
-    "stars": 248,
+    "stars": 337,
     "size": 4107
+  },
+  {
+    "name": "warzone-tool/warzone-cheat",
+    "clone_url": "https://github.com/warzone-tool/warzone-cheat.git",
+    "stars": 326,
+    "size": 1113
   },
   {
     "name": "pubgundetected/pubg-cheat",
@@ -12,21 +18,15 @@
     "size": 359
   },
   {
-    "name": "warzone-tool/warzone-cheat",
-    "clone_url": "https://github.com/warzone-tool/warzone-cheat.git",
-    "stars": 112,
-    "size": 1113
-  },
-  {
     "name": "ashish0kumar/mufetch",
     "clone_url": "https://github.com/ashish0kumar/mufetch.git",
-    "stars": 45,
-    "size": 275
+    "stars": 56,
+    "size": 280
   },
   {
-    "name": "hdm/ctail",
-    "clone_url": "https://github.com/hdm/ctail.git",
-    "stars": 36,
-    "size": 841
+    "name": "mitsuhiko/sloppy-xml-py",
+    "clone_url": "https://github.com/mitsuhiko/sloppy-xml-py.git",
+    "stars": 50,
+    "size": 186
   }
 ]
