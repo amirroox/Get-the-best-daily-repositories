@@ -1,32 +1,32 @@
 [
   {
+    "name": "Tej-Sharma/horizon-overlay-open-source-cluely",
+    "clone_url": "https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely.git",
+    "stars": 248,
+    "size": 4107
+  },
+  {
     "name": "pubgundetected/pubg-cheat",
     "clone_url": "https://github.com/pubgundetected/pubg-cheat.git",
-    "stars": 203,
+    "stars": 213,
     "size": 359
   },
   {
-    "name": "r6sx-tools/r6-cheat",
-    "clone_url": "https://github.com/r6sx-tools/r6-cheat.git",
-    "stars": 132,
-    "size": 1086
+    "name": "warzone-tool/warzone-cheat",
+    "clone_url": "https://github.com/warzone-tool/warzone-cheat.git",
+    "stars": 112,
+    "size": 1113
   },
   {
-    "name": "tokenbender/agent-guides",
-    "clone_url": "https://github.com/tokenbender/agent-guides.git",
-    "stars": 47,
-    "size": 53
+    "name": "ashish0kumar/mufetch",
+    "clone_url": "https://github.com/ashish0kumar/mufetch.git",
+    "stars": 45,
+    "size": 275
   },
   {
-    "name": "fox493/uptop-tge-bot",
-    "clone_url": "https://github.com/fox493/uptop-tge-bot.git",
-    "stars": 37,
-    "size": 72
-  },
-  {
-    "name": "JimLiu/agent-translator",
-    "clone_url": "https://github.com/JimLiu/agent-translator.git",
-    "stars": 35,
-    "size": 4960
+    "name": "hdm/ctail",
+    "clone_url": "https://github.com/hdm/ctail.git",
+    "stars": 36,
+    "size": 841
   }
 ]
