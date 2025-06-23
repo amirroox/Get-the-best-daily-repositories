@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-20 .. 2025-06-22)
+# Latest Repositories (2025-06-21 .. 2025-06-23)
 
-- [Tej-Sharma/horizon-overlay-open-source-cluely](https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely) (337)
-- [warzone-tool/warzone-cheat](https://github.com/warzone-tool/warzone-cheat) (326)
-- [pubgundetected/pubg-cheat](https://github.com/pubgundetected/pubg-cheat) (213)
-- [ashish0kumar/mufetch](https://github.com/ashish0kumar/mufetch) (56)
-- [mitsuhiko/sloppy-xml-py](https://github.com/mitsuhiko/sloppy-xml-py) (50)
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) (627)
+- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) (196)
+- [ElusionW/apex-cheat](https://github.com/ElusionW/apex-cheat) (102)
+- [whisdev/rust-copy-trading](https://github.com/whisdev/rust-copy-trading) (49)
+- [p2r3/bf16](https://github.com/p2r3/bf16) (36)
