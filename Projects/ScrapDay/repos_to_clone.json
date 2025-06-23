@@ -1,21 +1,15 @@
 [
   {
-    "name": "OpenCut-app/OpenCut",
-    "clone_url": "https://github.com/OpenCut-app/OpenCut.git",
-    "stars": 627,
-    "size": 516
-  },
-  {
     "name": "NomenAK/SuperClaude",
     "clone_url": "https://github.com/NomenAK/SuperClaude.git",
-    "stars": 196,
+    "stars": 310,
     "size": 120
   },
   {
-    "name": "ElusionW/apex-cheat",
-    "clone_url": "https://github.com/ElusionW/apex-cheat.git",
-    "stars": 102,
-    "size": 509
+    "name": "fuergaosi233/claude-code-proxy",
+    "clone_url": "https://github.com/fuergaosi233/claude-code-proxy.git",
+    "stars": 67,
+    "size": 759
   },
   {
     "name": "whisdev/rust-copy-trading",
@@ -26,7 +20,13 @@
   {
     "name": "p2r3/bf16",
     "clone_url": "https://github.com/p2r3/bf16.git",
-    "stars": 36,
-    "size": 1588
+    "stars": 41,
+    "size": 1596
+  },
+  {
+    "name": "MrRobotoGit/DiscoveryLastFM",
+    "clone_url": "https://github.com/MrRobotoGit/DiscoveryLastFM.git",
+    "stars": 35,
+    "size": 211
   }
 ]
