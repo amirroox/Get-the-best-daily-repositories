@@ -1,32 +1,32 @@
 [
   {
-    "name": "Dimillian/FoundationChat",
-    "clone_url": "https://github.com/Dimillian/FoundationChat.git",
-    "stars": 104,
-    "size": 540
+    "name": "anthropics/dxt",
+    "clone_url": "https://github.com/anthropics/dxt.git",
+    "stars": 165,
+    "size": 628
   },
   {
-    "name": "baaivision/UniVLA",
-    "clone_url": "https://github.com/baaivision/UniVLA.git",
-    "stars": 57,
-    "size": 4505
+    "name": "shinshin86/oh-my-logo",
+    "clone_url": "https://github.com/shinshin86/oh-my-logo.git",
+    "stars": 79,
+    "size": 171
   },
   {
-    "name": "xuemian168/android-locker",
-    "clone_url": "https://github.com/xuemian168/android-locker.git",
-    "stars": 40,
-    "size": 3738
+    "name": "oDaiSuno/OutlookManager",
+    "clone_url": "https://github.com/oDaiSuno/OutlookManager.git",
+    "stars": 37,
+    "size": 2260
   },
   {
-    "name": "Done-0/fuck-u-code",
-    "clone_url": "https://github.com/Done-0/fuck-u-code.git",
-    "stars": 40,
-    "size": 4725
+    "name": "steipete/xcsentinel",
+    "clone_url": "https://github.com/steipete/xcsentinel.git",
+    "stars": 35,
+    "size": 240
   },
   {
-    "name": "revonetworx/scanmywifi",
-    "clone_url": "https://github.com/revonetworx/scanmywifi.git",
-    "stars": 38,
-    "size": 576
+    "name": "obie/claude-on-rails",
+    "clone_url": "https://github.com/obie/claude-on-rails.git",
+    "stars": 35,
+    "size": 67
   }
 ]
