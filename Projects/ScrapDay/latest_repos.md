@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-26 .. 2025-06-28)
+# Latest Repositories (2025-06-27 .. 2025-06-29)
 
-- [cheats-warzone/warzone-cheats](https://github.com/cheats-warzone/warzone-cheats) (195)
-- [Tencent-Hunyuan/Hunyuan-A13B](https://github.com/Tencent-Hunyuan/Hunyuan-A13B) (152)
-- [lovisdotio/workflow-comfyui-single-image-to-lora-flux](https://github.com/lovisdotio/workflow-comfyui-single-image-to-lora-flux) (103)
-- [nofresh31moldranz/AdobeAcrobatPro](https://github.com/nofresh31moldranz/AdobeAcrobatPro) (71)
-- [crashtestmrzadrot2/SketchUp-Pro](https://github.com/crashtestmrzadrot2/SketchUp-Pro) (71)
+- [apex-legend-cheat/ApexUltimateSoftware](https://github.com/apex-legend-cheat/ApexUltimateSoftware) (174)
+- [cmriat/l0](https://github.com/cmriat/l0) (20)
+- [dagmawibabi/ScholarXIVWeb](https://github.com/dagmawibabi/ScholarXIVWeb) (14)
+- [edricgsh/Readwise-Reader-MCP](https://github.com/edricgsh/Readwise-Reader-MCP) (13)
+- [lunarissigma/Core-Backend](https://github.com/lunarissigma/Core-Backend) (12)
