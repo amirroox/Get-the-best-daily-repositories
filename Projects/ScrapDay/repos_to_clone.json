@@ -2,31 +2,31 @@
   {
     "name": "yoshiko-pg/reviewit",
     "clone_url": "https://github.com/yoshiko-pg/reviewit.git",
-    "stars": 50,
-    "size": 3947
+    "stars": 220,
+    "size": 4011
+  },
+  {
+    "name": "yuzheng14/huawei-od-active-manage",
+    "clone_url": "https://github.com/yuzheng14/huawei-od-active-manage.git",
+    "stars": 130,
+    "size": 3730
   },
   {
     "name": "davidkimai/Context-Engineering",
     "clone_url": "https://github.com/davidkimai/Context-Engineering.git",
-    "stars": 29,
-    "size": 480
+    "stars": 61,
+    "size": 813
   },
   {
     "name": "dvhamham/GPSRider",
     "clone_url": "https://github.com/dvhamham/GPSRider.git",
-    "stars": 14,
+    "stars": 23,
     "size": 2025
   },
   {
-    "name": "stupside/moley",
-    "clone_url": "https://github.com/stupside/moley.git",
-    "stars": 10,
-    "size": 960
-  },
-  {
-    "name": "WW-AI-Lab/Awesome-MCP-Scaffold",
-    "clone_url": "https://github.com/WW-AI-Lab/Awesome-MCP-Scaffold.git",
-    "stars": 10,
-    "size": 391
+    "name": "Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-",
+    "clone_url": "https://github.com/Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-.git",
+    "stars": 17,
+    "size": 2710
   }
 ]
