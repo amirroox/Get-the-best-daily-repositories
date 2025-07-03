@@ -1,7 +1,7 @@
-# Latest Repositories (2025-06-30 .. 2025-07-02)
+# Latest Repositories (2025-07-01 .. 2025-07-03)
 
-- [evanlong-me/sidepanel-extension-template](https://github.com/evanlong-me/sidepanel-extension-template) (90)
-- [apple/ml-diffucoder](https://github.com/apple/ml-diffucoder) (76)
-- [Zheaoli/huawei-od-active-manage](https://github.com/Zheaoli/huawei-od-active-manage) (38)
-- [AbdullahAbuHassann/GenerativeAICourse](https://github.com/AbdullahAbuHassann/GenerativeAICourse) (38)
-- [hailveron2000/OpenSeaBidd](https://github.com/hailveron2000/OpenSeaBidd) (36)
+- [RichardAtCT/claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) (40)
+- [ceilf6/Auto_courseGrabber](https://github.com/ceilf6/Auto_courseGrabber) (33)
+- [xxiaouw/SteamSmartBuy](https://github.com/xxiaouw/SteamSmartBuy) (23)
+- [opengeos/anymap](https://github.com/opengeos/anymap) (20)
+- [MohamedKhalilHermassi/use-confirm-dialog](https://github.com/MohamedKhalilHermassi/use-confirm-dialog) (17)
