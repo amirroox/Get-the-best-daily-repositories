@@ -1,32 +1,32 @@
 [
   {
-    "name": "RichardAtCT/claude-code-openai-wrapper",
-    "clone_url": "https://github.com/RichardAtCT/claude-code-openai-wrapper.git",
-    "stars": 40,
-    "size": 149
+    "name": "HonestAGI/LLM-Fingerprint",
+    "clone_url": "https://github.com/HonestAGI/LLM-Fingerprint.git",
+    "stars": 92,
+    "size": 305
   },
   {
     "name": "ceilf6/Auto_courseGrabber",
     "clone_url": "https://github.com/ceilf6/Auto_courseGrabber.git",
-    "stars": 33,
+    "stars": 59,
     "size": 570
   },
   {
-    "name": "xxiaouw/SteamSmartBuy",
-    "clone_url": "https://github.com/xxiaouw/SteamSmartBuy.git",
-    "stars": 23,
-    "size": 124
+    "name": "RichardAtCT/claude-code-openai-wrapper",
+    "clone_url": "https://github.com/RichardAtCT/claude-code-openai-wrapper.git",
+    "stars": 50,
+    "size": 149
   },
   {
-    "name": "opengeos/anymap",
-    "clone_url": "https://github.com/opengeos/anymap.git",
-    "stars": 20,
-    "size": 880
+    "name": "TopChina/proxy-list",
+    "clone_url": "https://github.com/TopChina/proxy-list.git",
+    "stars": 41,
+    "size": 83
   },
   {
-    "name": "MohamedKhalilHermassi/use-confirm-dialog",
-    "clone_url": "https://github.com/MohamedKhalilHermassi/use-confirm-dialog.git",
-    "stars": 17,
-    "size": 72
+    "name": "kh4sh3i/CVE-2025-32463",
+    "clone_url": "https://github.com/kh4sh3i/CVE-2025-32463.git",
+    "stars": 37,
+    "size": 56
   }
 ]
