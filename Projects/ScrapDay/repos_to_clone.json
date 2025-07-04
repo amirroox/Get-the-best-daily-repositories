@@ -2,31 +2,31 @@
   {
     "name": "TopChina/proxy-list",
     "clone_url": "https://github.com/TopChina/proxy-list.git",
-    "stars": 54,
-    "size": 186
+    "stars": 77,
+    "size": 288
   },
   {
     "name": "cy33r/IR-NET",
     "clone_url": "https://github.com/cy33r/IR-NET.git",
-    "stars": 29,
+    "stars": 37,
     "size": 263
+  },
+  {
+    "name": "tkaufmann/claude-gemini-bridge",
+    "clone_url": "https://github.com/tkaufmann/claude-gemini-bridge.git",
+    "stars": 36,
+    "size": 123
   },
   {
     "name": "GGPrompts/ClaudeGlobalCommands",
     "clone_url": "https://github.com/GGPrompts/ClaudeGlobalCommands.git",
-    "stars": 28,
+    "stars": 35,
     "size": 122
   },
   {
     "name": "Cybr-Inc/fwdcloudsec-2025-summaries",
     "clone_url": "https://github.com/Cybr-Inc/fwdcloudsec-2025-summaries.git",
-    "stars": 14,
+    "stars": 30,
     "size": 460
-  },
-  {
-    "name": "SCSHIRKER/cftgsx",
-    "clone_url": "https://github.com/SCSHIRKER/cftgsx.git",
-    "stars": 13,
-    "size": 59
   }
 ]
