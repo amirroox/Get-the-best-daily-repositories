@@ -1,7 +1,7 @@
-# Latest Repositories (2025-07-01 .. 2025-07-03)
+# Latest Repositories (2025-07-02 .. 2025-07-04)
 
-- [HonestAGI/LLM-Fingerprint](https://github.com/HonestAGI/LLM-Fingerprint) (92)
-- [ceilf6/Auto_courseGrabber](https://github.com/ceilf6/Auto_courseGrabber) (59)
-- [RichardAtCT/claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) (50)
-- [TopChina/proxy-list](https://github.com/TopChina/proxy-list) (41)
-- [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463) (37)
+- [TopChina/proxy-list](https://github.com/TopChina/proxy-list) (54)
+- [cy33r/IR-NET](https://github.com/cy33r/IR-NET) (29)
+- [GGPrompts/ClaudeGlobalCommands](https://github.com/GGPrompts/ClaudeGlobalCommands) (28)
+- [Cybr-Inc/fwdcloudsec-2025-summaries](https://github.com/Cybr-Inc/fwdcloudsec-2025-summaries) (14)
+- [SCSHIRKER/cftgsx](https://github.com/SCSHIRKER/cftgsx) (13)
