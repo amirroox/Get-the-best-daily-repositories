@@ -1,32 +1,32 @@
 [
   {
-    "name": "TopChina/proxy-list",
-    "clone_url": "https://github.com/TopChina/proxy-list.git",
-    "stars": 77,
-    "size": 288
+    "name": "devdacian/ai-auditor-primers",
+    "clone_url": "https://github.com/devdacian/ai-auditor-primers.git",
+    "stars": 68,
+    "size": 91
   },
   {
-    "name": "cy33r/IR-NET",
-    "clone_url": "https://github.com/cy33r/IR-NET.git",
-    "stars": 37,
-    "size": 263
+    "name": "rebellions-sw/vllm-rbln",
+    "clone_url": "https://github.com/rebellions-sw/vllm-rbln.git",
+    "stars": 16,
+    "size": 222
   },
   {
-    "name": "tkaufmann/claude-gemini-bridge",
-    "clone_url": "https://github.com/tkaufmann/claude-gemini-bridge.git",
-    "stars": 36,
-    "size": 123
+    "name": "Loptsecurity/CvnH",
+    "clone_url": "https://github.com/Loptsecurity/CvnH.git",
+    "stars": 13,
+    "size": 3099
   },
   {
-    "name": "GGPrompts/ClaudeGlobalCommands",
-    "clone_url": "https://github.com/GGPrompts/ClaudeGlobalCommands.git",
-    "stars": 35,
-    "size": 122
+    "name": "shootthesound/lora-the-explorer",
+    "clone_url": "https://github.com/shootthesound/lora-the-explorer.git",
+    "stars": 13,
+    "size": 549
   },
   {
-    "name": "Cybr-Inc/fwdcloudsec-2025-summaries",
-    "clone_url": "https://github.com/Cybr-Inc/fwdcloudsec-2025-summaries.git",
-    "stars": 30,
-    "size": 460
+    "name": "0xTan1319/chess-smart-contract-solana",
+    "clone_url": "https://github.com/0xTan1319/chess-smart-contract-solana.git",
+    "stars": 13,
+    "size": 2488
   }
 ]
