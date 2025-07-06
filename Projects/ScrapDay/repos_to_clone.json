@@ -1,32 +1,32 @@
 [
   {
+    "name": "HW-whistleblower/True-Story-of-Pangu",
+    "clone_url": "https://github.com/HW-whistleblower/True-Story-of-Pangu.git",
+    "stars": 1451,
+    "size": 381
+  },
+  {
     "name": "leroiduflow/Wallsync",
     "clone_url": "https://github.com/leroiduflow/Wallsync.git",
-    "stars": 99,
+    "stars": 186,
     "size": 1220
+  },
+  {
+    "name": "HonestyAGI/LLM-Fingerprint",
+    "clone_url": "https://github.com/HonestyAGI/LLM-Fingerprint.git",
+    "stars": 92,
+    "size": 506
   },
   {
     "name": "sammwyy/MiniLaunch",
     "clone_url": "https://github.com/sammwyy/MiniLaunch.git",
-    "stars": 78,
+    "stars": 87,
     "size": 65
   },
   {
     "name": "rinadelph/rins_hooks",
     "clone_url": "https://github.com/rinadelph/rins_hooks.git",
-    "stars": 43,
+    "stars": 45,
     "size": 159
-  },
-  {
-    "name": "0xkrevX/SOLANA_SNIPER_BOT",
-    "clone_url": "https://github.com/0xkrevX/SOLANA_SNIPER_BOT.git",
-    "stars": 31,
-    "size": 1359
-  },
-  {
-    "name": "Bill13579/beltout",
-    "clone_url": "https://github.com/Bill13579/beltout.git",
-    "stars": 30,
-    "size": 156
   }
 ]
