@@ -1,32 +1,32 @@
 [
   {
-    "name": "devdacian/ai-auditor-primers",
-    "clone_url": "https://github.com/devdacian/ai-auditor-primers.git",
-    "stars": 92,
-    "size": 91
+    "name": "leroiduflow/Wallsync",
+    "clone_url": "https://github.com/leroiduflow/Wallsync.git",
+    "stars": 99,
+    "size": 1220
+  },
+  {
+    "name": "sammwyy/MiniLaunch",
+    "clone_url": "https://github.com/sammwyy/MiniLaunch.git",
+    "stars": 78,
+    "size": 65
+  },
+  {
+    "name": "rinadelph/rins_hooks",
+    "clone_url": "https://github.com/rinadelph/rins_hooks.git",
+    "stars": 43,
+    "size": 159
   },
   {
     "name": "0xkrevX/SOLANA_SNIPER_BOT",
     "clone_url": "https://github.com/0xkrevX/SOLANA_SNIPER_BOT.git",
     "stars": 31,
-    "size": 1349
+    "size": 1359
   },
   {
-    "name": "ahmedbna/ui",
-    "clone_url": "https://github.com/ahmedbna/ui.git",
-    "stars": 26,
-    "size": 1029
-  },
-  {
-    "name": "shootthesound/lora-the-explorer",
-    "clone_url": "https://github.com/shootthesound/lora-the-explorer.git",
-    "stars": 23,
-    "size": 586
-  },
-  {
-    "name": "sammwyy/MiniLaunch",
-    "clone_url": "https://github.com/sammwyy/MiniLaunch.git",
-    "stars": 18,
-    "size": 65
+    "name": "Bill13579/beltout",
+    "clone_url": "https://github.com/Bill13579/beltout.git",
+    "stars": 30,
+    "size": 156
   }
 ]
