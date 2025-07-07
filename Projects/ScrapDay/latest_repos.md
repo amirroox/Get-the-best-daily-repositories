@@ -1,7 +1,7 @@
-# Latest Repositories (2025-07-04 .. 2025-07-06)
+# Latest Repositories (2025-07-05 .. 2025-07-07)
 
-- [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) (1451)
-- [leroiduflow/Wallsync](https://github.com/leroiduflow/Wallsync) (186)
-- [HonestyAGI/LLM-Fingerprint](https://github.com/HonestyAGI/LLM-Fingerprint) (92)
-- [sammwyy/MiniLaunch](https://github.com/sammwyy/MiniLaunch) (87)
-- [rinadelph/rins_hooks](https://github.com/rinadelph/rins_hooks) (45)
+- [TikTok-Scraper/TikTok-Scraper-Video-Downloader-Reporter](https://github.com/TikTok-Scraper/TikTok-Scraper-Video-Downloader-Reporter) (91)
+- [Yutarop/ga-pixel-art](https://github.com/Yutarop/ga-pixel-art) (27)
+- [sigridjineth/muvera-py](https://github.com/sigridjineth/muvera-py) (25)
+- [its-pratyushpandey/IntervIQ](https://github.com/its-pratyushpandey/IntervIQ) (13)
+- [its-pratyushpandey/Codivue](https://github.com/its-pratyushpandey/Codivue) (13)
