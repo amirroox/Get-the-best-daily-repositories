@@ -1,32 +1,32 @@
 [
   {
-    "name": "TikTok-Scraper/TikTok-Scraper-Video-Downloader-Reporter",
-    "clone_url": "https://github.com/TikTok-Scraper/TikTok-Scraper-Video-Downloader-Reporter.git",
-    "stars": 91,
-    "size": 78
+    "name": "sigridjineth/muvera-py",
+    "clone_url": "https://github.com/sigridjineth/muvera-py.git",
+    "stars": 54,
+    "size": 1952
   },
   {
     "name": "Yutarop/ga-pixel-art",
     "clone_url": "https://github.com/Yutarop/ga-pixel-art.git",
-    "stars": 27,
-    "size": 230
+    "stars": 32,
+    "size": 232
   },
   {
-    "name": "sigridjineth/muvera-py",
-    "clone_url": "https://github.com/sigridjineth/muvera-py.git",
+    "name": "rizkimuhammada/cosmic-ui",
+    "clone_url": "https://github.com/rizkimuhammada/cosmic-ui.git",
+    "stars": 32,
+    "size": 312
+  },
+  {
+    "name": "tallesborges/agentic-system-prompts",
+    "clone_url": "https://github.com/tallesborges/agentic-system-prompts.git",
     "stars": 25,
-    "size": 1952
+    "size": 129
   },
   {
-    "name": "its-pratyushpandey/IntervIQ",
-    "clone_url": "https://github.com/its-pratyushpandey/IntervIQ.git",
-    "stars": 13,
-    "size": 3337
-  },
-  {
-    "name": "its-pratyushpandey/Codivue",
-    "clone_url": "https://github.com/its-pratyushpandey/Codivue.git",
-    "stars": 13,
-    "size": 1189
+    "name": "ourines/drizzleflow",
+    "clone_url": "https://github.com/ourines/drizzleflow.git",
+    "stars": 15,
+    "size": 681
   }
 ]
