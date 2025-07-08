@@ -1,32 +1,32 @@
 [
   {
+    "name": "inliver233/Ai-Novel-Editor",
+    "clone_url": "https://github.com/inliver233/Ai-Novel-Editor.git",
+    "stars": 82,
+    "size": 3030
+  },
+  {
+    "name": "cogwheel0/luci-mobile",
+    "clone_url": "https://github.com/cogwheel0/luci-mobile.git",
+    "stars": 68,
+    "size": 1333
+  },
+  {
+    "name": "hellangleZ/Agent-MemoryForge",
+    "clone_url": "https://github.com/hellangleZ/Agent-MemoryForge.git",
+    "stars": 64,
+    "size": 99
+  },
+  {
     "name": "slunfuedrac/solana-trading-bot-v2",
     "clone_url": "https://github.com/slunfuedrac/solana-trading-bot-v2.git",
     "stars": 60,
-    "size": 113
+    "size": 5199
   },
   {
     "name": "cnaovalles/hyperliquid-trading-bot",
     "clone_url": "https://github.com/cnaovalles/hyperliquid-trading-bot.git",
     "stars": 54,
-    "size": 548
-  },
-  {
-    "name": "itsportmelvin/Ethereum-MEV_Bot",
-    "clone_url": "https://github.com/itsportmelvin/Ethereum-MEV_Bot.git",
-    "stars": 52,
-    "size": 189
-  },
-  {
-    "name": "cogwheel0/luci-mobile",
-    "clone_url": "https://github.com/cogwheel0/luci-mobile.git",
-    "stars": 50,
-    "size": 1333
-  },
-  {
-    "name": "inliver233/Ai-Novel-Editor",
-    "clone_url": "https://github.com/inliver233/Ai-Novel-Editor.git",
-    "stars": 43,
-    "size": 2441
+    "size": 2710
   }
 ]
