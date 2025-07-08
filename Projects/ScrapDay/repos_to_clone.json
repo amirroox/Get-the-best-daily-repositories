@@ -1,32 +1,32 @@
 [
   {
-    "name": "sigridjineth/muvera-py",
-    "clone_url": "https://github.com/sigridjineth/muvera-py.git",
+    "name": "slunfuedrac/solana-trading-bot-v2",
+    "clone_url": "https://github.com/slunfuedrac/solana-trading-bot-v2.git",
+    "stars": 60,
+    "size": 113
+  },
+  {
+    "name": "cnaovalles/hyperliquid-trading-bot",
+    "clone_url": "https://github.com/cnaovalles/hyperliquid-trading-bot.git",
     "stars": 54,
-    "size": 1952
+    "size": 548
   },
   {
-    "name": "Yutarop/ga-pixel-art",
-    "clone_url": "https://github.com/Yutarop/ga-pixel-art.git",
-    "stars": 32,
-    "size": 232
+    "name": "itsportmelvin/Ethereum-MEV_Bot",
+    "clone_url": "https://github.com/itsportmelvin/Ethereum-MEV_Bot.git",
+    "stars": 52,
+    "size": 189
   },
   {
-    "name": "rizkimuhammada/cosmic-ui",
-    "clone_url": "https://github.com/rizkimuhammada/cosmic-ui.git",
-    "stars": 32,
-    "size": 312
+    "name": "cogwheel0/luci-mobile",
+    "clone_url": "https://github.com/cogwheel0/luci-mobile.git",
+    "stars": 50,
+    "size": 1333
   },
   {
-    "name": "tallesborges/agentic-system-prompts",
-    "clone_url": "https://github.com/tallesborges/agentic-system-prompts.git",
-    "stars": 25,
-    "size": 129
-  },
-  {
-    "name": "ourines/drizzleflow",
-    "clone_url": "https://github.com/ourines/drizzleflow.git",
-    "stars": 15,
-    "size": 681
+    "name": "inliver233/Ai-Novel-Editor",
+    "clone_url": "https://github.com/inliver233/Ai-Novel-Editor.git",
+    "stars": 43,
+    "size": 2441
   }
 ]
