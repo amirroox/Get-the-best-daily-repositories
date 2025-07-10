@@ -2,31 +2,31 @@
   {
     "name": "iosifache/annas-mcp",
     "clone_url": "https://github.com/iosifache/annas-mcp.git",
-    "stars": 81,
-    "size": 505
-  },
-  {
-    "name": "antirez/historical-redis-versions",
-    "clone_url": "https://github.com/antirez/historical-redis-versions.git",
-    "stars": 77,
-    "size": 64
-  },
-  {
-    "name": "JongChulPark/grok-4",
-    "clone_url": "https://github.com/JongChulPark/grok-4.git",
-    "stars": 50,
-    "size": 1020
-  },
-  {
-    "name": "MrSupW/ContextASR-Bench",
-    "clone_url": "https://github.com/MrSupW/ContextASR-Bench.git",
-    "stars": 40,
-    "size": 709
+    "stars": 212,
+    "size": 557
   },
   {
     "name": "braindotcode/grass-bot",
     "clone_url": "https://github.com/braindotcode/grass-bot.git",
-    "stars": 38,
-    "size": 818
+    "stars": 176,
+    "size": 1591
+  },
+  {
+    "name": "antirez/historical-redis-versions",
+    "clone_url": "https://github.com/antirez/historical-redis-versions.git",
+    "stars": 104,
+    "size": 64
+  },
+  {
+    "name": "AidaxoJun/DawnBot",
+    "clone_url": "https://github.com/AidaxoJun/DawnBot.git",
+    "stars": 89,
+    "size": 1595
+  },
+  {
+    "name": "MrSupW/ContextASR-Bench",
+    "clone_url": "https://github.com/MrSupW/ContextASR-Bench.git",
+    "stars": 53,
+    "size": 709
   }
 ]
