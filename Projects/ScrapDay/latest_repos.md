@@ -1,7 +1,7 @@
-# Latest Repositories (2025-07-07 .. 2025-07-09)
+# Latest Repositories (2025-07-08 .. 2025-07-10)
 
-- [callebtc/bitchat-android](https://github.com/callebtc/bitchat-android) (449)
-- [skitSkills/TikTok-Scraper-Video-Downloader-Auto-Reporter-2025](https://github.com/skitSkills/TikTok-Scraper-Video-Downloader-Auto-Reporter-2025) (95)
-- [easyfrag8h8/SeedsTool](https://github.com/easyfrag8h8/SeedsTool) (87)
-- [opidora19rusty/HWID-Spoofer-and-Cleaner](https://github.com/opidora19rusty/HWID-Spoofer-and-Cleaner) (87)
-- [conkel-20001u/SpotifyPremium-for-free](https://github.com/conkel-20001u/SpotifyPremium-for-free) (87)
+- [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) (81)
+- [antirez/historical-redis-versions](https://github.com/antirez/historical-redis-versions) (77)
+- [JongChulPark/grok-4](https://github.com/JongChulPark/grok-4) (50)
+- [MrSupW/ContextASR-Bench](https://github.com/MrSupW/ContextASR-Bench) (40)
+- [braindotcode/grass-bot](https://github.com/braindotcode/grass-bot) (38)
