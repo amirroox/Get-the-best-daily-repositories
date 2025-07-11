@@ -2,31 +2,31 @@
   {
     "name": "mouredev/hello-bash-shell",
     "clone_url": "https://github.com/mouredev/hello-bash-shell.git",
-    "stars": 45,
+    "stars": 55,
     "size": 373
   },
   {
     "name": "bh-rat/asyncmcp",
     "clone_url": "https://github.com/bh-rat/asyncmcp.git",
-    "stars": 37,
+    "stars": 51,
     "size": 137
   },
   {
     "name": "alg-znsy-li/mofe-time",
     "clone_url": "https://github.com/alg-znsy-li/mofe-time.git",
-    "stars": 34,
-    "size": 1904
+    "stars": 36,
+    "size": 1941
   },
   {
     "name": "KwaiVGI/MODA",
     "clone_url": "https://github.com/KwaiVGI/MODA.git",
-    "stars": 21,
+    "stars": 34,
     "size": 4262
   },
   {
-    "name": "mydev-history/chatbot-editor",
-    "clone_url": "https://github.com/mydev-history/chatbot-editor.git",
-    "stars": 19,
-    "size": 3609
+    "name": "ColinQiyangLi/qc",
+    "clone_url": "https://github.com/ColinQiyangLi/qc.git",
+    "stars": 32,
+    "size": 1252
   }
 ]
