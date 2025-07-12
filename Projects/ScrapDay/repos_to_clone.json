@@ -2,31 +2,31 @@
   {
     "name": "goombalab/hnet",
     "clone_url": "https://github.com/goombalab/hnet.git",
-    "stars": 31,
+    "stars": 77,
     "size": 622
-  },
-  {
-    "name": "ZhaoYujie2002/LangSplatV2",
-    "clone_url": "https://github.com/ZhaoYujie2002/LangSplatV2.git",
-    "stars": 29,
-    "size": 2050
-  },
-  {
-    "name": "nickberckley/kabadoni",
-    "clone_url": "https://github.com/nickberckley/kabadoni.git",
-    "stars": 22,
-    "size": 1178
   },
   {
     "name": "Ravish-Vishwakarma/Youtube-Skip-Add",
     "clone_url": "https://github.com/Ravish-Vishwakarma/Youtube-Skip-Add.git",
-    "stars": 17,
+    "stars": 53,
     "size": 60
+  },
+  {
+    "name": "nickberckley/kabadoni",
+    "clone_url": "https://github.com/nickberckley/kabadoni.git",
+    "stars": 36,
+    "size": 1178
   },
   {
     "name": "ohmydevops/arvancloud-radar-notif",
     "clone_url": "https://github.com/ohmydevops/arvancloud-radar-notif.git",
-    "stars": 16,
+    "stars": 34,
     "size": 174
+  },
+  {
+    "name": "fa0311/xserver-auto-renew",
+    "clone_url": "https://github.com/fa0311/xserver-auto-renew.git",
+    "stars": 34,
+    "size": 90
   }
 ]
