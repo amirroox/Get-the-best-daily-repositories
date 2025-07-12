@@ -1,7 +1,7 @@
-# Latest Repositories (2025-07-09 .. 2025-07-11)
+# Latest Repositories (2025-07-10 .. 2025-07-12)
 
-- [mouredev/hello-bash-shell](https://github.com/mouredev/hello-bash-shell) (55)
-- [bh-rat/asyncmcp](https://github.com/bh-rat/asyncmcp) (51)
-- [alg-znsy-li/mofe-time](https://github.com/alg-znsy-li/mofe-time) (36)
-- [KwaiVGI/MODA](https://github.com/KwaiVGI/MODA) (34)
-- [ColinQiyangLi/qc](https://github.com/ColinQiyangLi/qc) (32)
+- [goombalab/hnet](https://github.com/goombalab/hnet) (31)
+- [ZhaoYujie2002/LangSplatV2](https://github.com/ZhaoYujie2002/LangSplatV2) (29)
+- [nickberckley/kabadoni](https://github.com/nickberckley/kabadoni) (22)
+- [Ravish-Vishwakarma/Youtube-Skip-Add](https://github.com/Ravish-Vishwakarma/Youtube-Skip-Add) (17)
+- [ohmydevops/arvancloud-radar-notif](https://github.com/ohmydevops/arvancloud-radar-notif) (16)
