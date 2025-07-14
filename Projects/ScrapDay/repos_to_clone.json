@@ -1,32 +1,32 @@
 [
   {
+    "name": "ShilohEye/bitchat-terminal",
+    "clone_url": "https://github.com/ShilohEye/bitchat-terminal.git",
+    "stars": 112,
+    "size": 92
+  },
+  {
+    "name": "acuraNJoyer/Gift-Buyer-Tg",
+    "clone_url": "https://github.com/acuraNJoyer/Gift-Buyer-Tg.git",
+    "stars": 98,
+    "size": 1187
+  },
+  {
     "name": "jsmmth/SplitPaneKit",
     "clone_url": "https://github.com/jsmmth/SplitPaneKit.git",
-    "stars": 49,
+    "stars": 62,
     "size": 4097
+  },
+  {
+    "name": "nguyenvulebinh/VietVoice-TTS",
+    "clone_url": "https://github.com/nguyenvulebinh/VietVoice-TTS.git",
+    "stars": 53,
+    "size": 256
   },
   {
     "name": "hilmiazizi/tokopaedi",
     "clone_url": "https://github.com/hilmiazizi/tokopaedi.git",
-    "stars": 39,
+    "stars": 46,
     "size": 195
-  },
-  {
-    "name": "hassanhabib/GithubVerify",
-    "clone_url": "https://github.com/hassanhabib/GithubVerify.git",
-    "stars": 11,
-    "size": 992
-  },
-  {
-    "name": "omacom-io/omacon",
-    "clone_url": "https://github.com/omacom-io/omacon.git",
-    "stars": 11,
-    "size": 385
-  },
-  {
-    "name": "kaichen/kimicc",
-    "clone_url": "https://github.com/kaichen/kimicc.git",
-    "stars": 9,
-    "size": 401
   }
 ]

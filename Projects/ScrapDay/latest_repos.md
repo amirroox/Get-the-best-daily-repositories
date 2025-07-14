@@ -1,7 +1,7 @@
 # Latest Repositories (2025-07-12 .. 2025-07-14)
 
-- [jsmmth/SplitPaneKit](https://github.com/jsmmth/SplitPaneKit) (49)
-- [hilmiazizi/tokopaedi](https://github.com/hilmiazizi/tokopaedi) (39)
-- [hassanhabib/GithubVerify](https://github.com/hassanhabib/GithubVerify) (11)
-- [omacom-io/omacon](https://github.com/omacom-io/omacon) (11)
-- [kaichen/kimicc](https://github.com/kaichen/kimicc) (9)
+- [ShilohEye/bitchat-terminal](https://github.com/ShilohEye/bitchat-terminal) (112)
+- [acuraNJoyer/Gift-Buyer-Tg](https://github.com/acuraNJoyer/Gift-Buyer-Tg) (98)
+- [jsmmth/SplitPaneKit](https://github.com/jsmmth/SplitPaneKit) (62)
+- [nguyenvulebinh/VietVoice-TTS](https://github.com/nguyenvulebinh/VietVoice-TTS) (53)
+- [hilmiazizi/tokopaedi](https://github.com/hilmiazizi/tokopaedi) (46)
