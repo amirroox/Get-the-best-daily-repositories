@@ -31,24 +31,24 @@ jobs:
         git config --local user.email "${{ secrets.EMAIL }}"
         git config --local user.name "amirroox"
 
-    - name: Multiple commits
-      run: |
-        echo "Multiple commits Start"
-        commit_count=$(shuf -i 50-90 -n 1)
-        echo "Will create $commit_count commits"
+    # - name: Multiple commits
+    #   run: |
+    #     echo "Multiple commits Start"
+    #     commit_count=$(shuf -i 50-90 -n 1)
+    #     echo "Will create $commit_count commits"
           
-        for i in $(seq 1 $commit_count)
-        do
-          date=$(date +'%Y-%m-%d %H:%M:%S.%N')
-          echo $date > CURRENT_DATE
-          # Commit
-          git add CURRENT_DATE
-          git commit -m "Commit $i of $commit_count at $date"
+    #     for i in $(seq 1 $commit_count)
+    #     do
+    #       date=$(date +'%Y-%m-%d %H:%M:%S.%N')
+    #       echo $date > CURRENT_DATE
+    #       # Commit
+    #       git add CURRENT_DATE
+    #       git commit -m "Commit $i of $commit_count at $date"
             
-          sleep_time=$(shuf -i 7-10 -n 1)
-          sleep $sleep_time
-        done
-        echo "Multiple commits Start"
+    #       sleep_time=$(shuf -i 7-10 -n 1)
+    #       sleep $sleep_time
+    #     done
+    #     echo "Multiple commits Start"
 
     - name: Commit Main Repo
       run: |
