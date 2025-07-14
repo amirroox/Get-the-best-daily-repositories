@@ -2,14 +2,20 @@
   {
     "name": "jsmmth/SplitPaneKit",
     "clone_url": "https://github.com/jsmmth/SplitPaneKit.git",
-    "stars": 44,
+    "stars": 49,
     "size": 4097
   },
   {
     "name": "hilmiazizi/tokopaedi",
     "clone_url": "https://github.com/hilmiazizi/tokopaedi.git",
-    "stars": 38,
+    "stars": 39,
     "size": 195
+  },
+  {
+    "name": "hassanhabib/GithubVerify",
+    "clone_url": "https://github.com/hassanhabib/GithubVerify.git",
+    "stars": 11,
+    "size": 992
   },
   {
     "name": "omacom-io/omacon",
@@ -18,15 +24,9 @@
     "size": 385
   },
   {
-    "name": "hassanhabib/GithubVerify",
-    "clone_url": "https://github.com/hassanhabib/GithubVerify.git",
-    "stars": 10,
-    "size": 992
-  },
-  {
-    "name": "muellerberndt/deep-thought",
-    "clone_url": "https://github.com/muellerberndt/deep-thought.git",
-    "stars": 7,
-    "size": 874
+    "name": "kaichen/kimicc",
+    "clone_url": "https://github.com/kaichen/kimicc.git",
+    "stars": 9,
+    "size": 401
   }
 ]
