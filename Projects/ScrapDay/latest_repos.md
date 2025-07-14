@@ -1,7 +1,7 @@
-# Latest Repositories (2025-07-11 .. 2025-07-13)
+# Latest Repositories (2025-07-12 .. 2025-07-14)
 
-- [imbue-bit/TextGAN-Researcher](https://github.com/imbue-bit/TextGAN-Researcher) (55)
-- [glidea/one-balance](https://github.com/glidea/one-balance) (41)
-- [hilmiazizi/tokopaedi](https://github.com/hilmiazizi/tokopaedi) (21)
-- [ynsmroztas/jsmap_inspector](https://github.com/ynsmroztas/jsmap_inspector) (21)
-- [windymelt/allyas](https://github.com/windymelt/allyas) (19)
+- [jsmmth/SplitPaneKit](https://github.com/jsmmth/SplitPaneKit) (44)
+- [hilmiazizi/tokopaedi](https://github.com/hilmiazizi/tokopaedi) (38)
+- [omacom-io/omacon](https://github.com/omacom-io/omacon) (11)
+- [hassanhabib/GithubVerify](https://github.com/hassanhabib/GithubVerify) (10)
+- [muellerberndt/deep-thought](https://github.com/muellerberndt/deep-thought) (7)
