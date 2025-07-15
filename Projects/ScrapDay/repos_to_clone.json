@@ -2,31 +2,31 @@
   {
     "name": "ShilohEye/bitchat-terminal",
     "clone_url": "https://github.com/ShilohEye/bitchat-terminal.git",
-    "stars": 247,
+    "stars": 300,
     "size": 106
   },
   {
     "name": "acuraNJoyer/Gift-Buyer-Tg",
     "clone_url": "https://github.com/acuraNJoyer/Gift-Buyer-Tg.git",
-    "stars": 209,
+    "stars": 211,
     "size": 2334
   },
   {
-    "name": "joey-melo/payloads",
-    "clone_url": "https://github.com/joey-melo/payloads.git",
-    "stars": 46,
-    "size": 59
+    "name": "ebogdum/callfs",
+    "clone_url": "https://github.com/ebogdum/callfs.git",
+    "stars": 160,
+    "size": 186
   },
   {
-    "name": "iuliaturc/gguf-docs",
-    "clone_url": "https://github.com/iuliaturc/gguf-docs.git",
-    "stars": 36,
-    "size": 4837
+    "name": "Wei-Shaw/claude-relay-service",
+    "clone_url": "https://github.com/Wei-Shaw/claude-relay-service.git",
+    "stars": 128,
+    "size": 3818
   },
   {
     "name": "iamspido/github-release-monitor",
     "clone_url": "https://github.com/iamspido/github-release-monitor.git",
-    "stars": 25,
+    "stars": 97,
     "size": 158
   }
 ]
