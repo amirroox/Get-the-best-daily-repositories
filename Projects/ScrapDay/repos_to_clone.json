@@ -2,31 +2,31 @@
   {
     "name": "ShilohEye/bitchat-terminal",
     "clone_url": "https://github.com/ShilohEye/bitchat-terminal.git",
-    "stars": 112,
-    "size": 92
+    "stars": 247,
+    "size": 106
   },
   {
     "name": "acuraNJoyer/Gift-Buyer-Tg",
     "clone_url": "https://github.com/acuraNJoyer/Gift-Buyer-Tg.git",
-    "stars": 98,
-    "size": 1187
+    "stars": 209,
+    "size": 2334
   },
   {
-    "name": "jsmmth/SplitPaneKit",
-    "clone_url": "https://github.com/jsmmth/SplitPaneKit.git",
-    "stars": 62,
-    "size": 4097
-  },
-  {
-    "name": "nguyenvulebinh/VietVoice-TTS",
-    "clone_url": "https://github.com/nguyenvulebinh/VietVoice-TTS.git",
-    "stars": 53,
-    "size": 256
-  },
-  {
-    "name": "hilmiazizi/tokopaedi",
-    "clone_url": "https://github.com/hilmiazizi/tokopaedi.git",
+    "name": "joey-melo/payloads",
+    "clone_url": "https://github.com/joey-melo/payloads.git",
     "stars": 46,
-    "size": 195
+    "size": 59
+  },
+  {
+    "name": "iuliaturc/gguf-docs",
+    "clone_url": "https://github.com/iuliaturc/gguf-docs.git",
+    "stars": 36,
+    "size": 4837
+  },
+  {
+    "name": "iamspido/github-release-monitor",
+    "clone_url": "https://github.com/iamspido/github-release-monitor.git",
+    "stars": 25,
+    "size": 158
   }
 ]
