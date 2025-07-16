@@ -2,31 +2,31 @@
   {
     "name": "untitleduico/react",
     "clone_url": "https://github.com/untitleduico/react.git",
-    "stars": 119,
+    "stars": 186,
     "size": 471
+  },
+  {
+    "name": "oxygen-fragment/claude-modular",
+    "clone_url": "https://github.com/oxygen-fragment/claude-modular.git",
+    "stars": 82,
+    "size": 63
   },
   {
     "name": "xiamuceer-j/AI-Gamble",
     "clone_url": "https://github.com/xiamuceer-j/AI-Gamble.git",
-    "stars": 57,
+    "stars": 63,
     "size": 3598
+  },
+  {
+    "name": "dingyufei615/ai-goofish-monitor",
+    "clone_url": "https://github.com/dingyufei615/ai-goofish-monitor.git",
+    "stars": 46,
+    "size": 665
   },
   {
     "name": "petabridge/memorizer-v1",
     "clone_url": "https://github.com/petabridge/memorizer-v1.git",
-    "stars": 31,
-    "size": 146
-  },
-  {
-    "name": "choi403/ALG",
-    "clone_url": "https://github.com/choi403/ALG.git",
-    "stars": 19,
-    "size": 1655
-  },
-  {
-    "name": "layer5io/exoscale-academy",
-    "clone_url": "https://github.com/layer5io/exoscale-academy.git",
-    "stars": 18,
-    "size": 2255
+    "stars": 40,
+    "size": 148
   }
 ]
