@@ -1,32 +1,32 @@
 [
   {
-    "name": "untitleduico/react",
-    "clone_url": "https://github.com/untitleduico/react.git",
-    "stars": 186,
-    "size": 471
+    "name": "TherionthpsY3Z/Mev-Smart-Contract-Bot",
+    "clone_url": "https://github.com/TherionthpsY3Z/Mev-Smart-Contract-Bot.git",
+    "stars": 222,
+    "size": 124
   },
   {
     "name": "oxygen-fragment/claude-modular",
     "clone_url": "https://github.com/oxygen-fragment/claude-modular.git",
-    "stars": 82,
+    "stars": 185,
     "size": 63
-  },
-  {
-    "name": "xiamuceer-j/AI-Gamble",
-    "clone_url": "https://github.com/xiamuceer-j/AI-Gamble.git",
-    "stars": 63,
-    "size": 3598
   },
   {
     "name": "dingyufei615/ai-goofish-monitor",
     "clone_url": "https://github.com/dingyufei615/ai-goofish-monitor.git",
-    "stars": 46,
+    "stars": 61,
     "size": 665
   },
   {
-    "name": "petabridge/memorizer-v1",
-    "clone_url": "https://github.com/petabridge/memorizer-v1.git",
-    "stars": 40,
-    "size": 148
+    "name": "vercel/v0-sdk",
+    "clone_url": "https://github.com/vercel/v0-sdk.git",
+    "stars": 32,
+    "size": 52
+  },
+  {
+    "name": "8bither0/whats-that-plane",
+    "clone_url": "https://github.com/8bither0/whats-that-plane.git",
+    "stars": 31,
+    "size": 293
   }
 ]
