@@ -2,31 +2,31 @@
   {
     "name": "maateusilva/jstack-lab-api",
     "clone_url": "https://github.com/maateusilva/jstack-lab-api.git",
-    "stars": 51,
+    "stars": 55,
     "size": 74
   },
   {
-    "name": "0xBundlerBot/Solana_Bundler_Bot",
-    "clone_url": "https://github.com/0xBundlerBot/Solana_Bundler_Bot.git",
-    "stars": 16,
-    "size": 280
-  },
-  {
-    "name": "xixu-me/Claude-Code-Toolkit",
-    "clone_url": "https://github.com/xixu-me/Claude-Code-Toolkit.git",
-    "stars": 14,
-    "size": 66
-  },
-  {
-    "name": "stillfox-lee/kiro-claude-code",
-    "clone_url": "https://github.com/stillfox-lee/kiro-claude-code.git",
-    "stars": 11,
-    "size": 1092
+    "name": "Johnsheng1/cf-ai-TGbot",
+    "clone_url": "https://github.com/Johnsheng1/cf-ai-TGbot.git",
+    "stars": 51,
+    "size": 67
   },
   {
     "name": "MorDavid/BruteForceAI",
     "clone_url": "https://github.com/MorDavid/BruteForceAI.git",
-    "stars": 10,
+    "stars": 36,
     "size": 959
+  },
+  {
+    "name": "0xBundlerBot/Solana_Bundler_Bot",
+    "clone_url": "https://github.com/0xBundlerBot/Solana_Bundler_Bot.git",
+    "stars": 31,
+    "size": 286
+  },
+  {
+    "name": "Caliel666/lsfg-vk-ui",
+    "clone_url": "https://github.com/Caliel666/lsfg-vk-ui.git",
+    "stars": 26,
+    "size": 115
   }
 ]
