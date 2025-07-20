@@ -1,7 +1,7 @@
-# Latest Repositories (2025-07-17 .. 2025-07-19)
+# Latest Repositories (2025-07-18 .. 2025-07-20)
 
-- [jadechoghari/roomi](https://github.com/jadechoghari/roomi) (71)
-- [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) (43)
-- [JackNathan05/Obsidian-Bible-KJV](https://github.com/JackNathan05/Obsidian-Bible-KJV) (36)
-- [dinasaur404/platform-template](https://github.com/dinasaur404/platform-template) (33)
-- [shadcn/rico-chart](https://github.com/shadcn/rico-chart) (32)
+- [maateusilva/jstack-lab-api](https://github.com/maateusilva/jstack-lab-api) (51)
+- [0xBundlerBot/Solana_Bundler_Bot](https://github.com/0xBundlerBot/Solana_Bundler_Bot) (16)
+- [xixu-me/Claude-Code-Toolkit](https://github.com/xixu-me/Claude-Code-Toolkit) (14)
+- [stillfox-lee/kiro-claude-code](https://github.com/stillfox-lee/kiro-claude-code) (11)
+- [MorDavid/BruteForceAI](https://github.com/MorDavid/BruteForceAI) (10)
