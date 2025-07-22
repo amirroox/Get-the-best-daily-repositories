@@ -2,31 +2,31 @@
   {
     "name": "tidwall/pogocache",
     "clone_url": "https://github.com/tidwall/pogocache.git",
-    "stars": 219,
+    "stars": 431,
     "size": 442
   },
   {
     "name": "yl4579/DMOSpeech2",
     "clone_url": "https://github.com/yl4579/DMOSpeech2.git",
-    "stars": 55,
-    "size": 1516
-  },
-  {
-    "name": "OctopusTakopi/binance_l3_est",
-    "clone_url": "https://github.com/OctopusTakopi/binance_l3_est.git",
-    "stars": 45,
-    "size": 1909
+    "stars": 101,
+    "size": 1522
   },
   {
     "name": "rtecCyberSec/RAITrigger",
     "clone_url": "https://github.com/rtecCyberSec/RAITrigger.git",
-    "stars": 38,
-    "size": 1729
+    "stars": 64,
+    "size": 1731
   },
   {
-    "name": "FANGG3/ATTD-GUI",
-    "clone_url": "https://github.com/FANGG3/ATTD-GUI.git",
-    "stars": 33,
-    "size": 981
+    "name": "OctopusTakopi/binance_l3_est",
+    "clone_url": "https://github.com/OctopusTakopi/binance_l3_est.git",
+    "stars": 60,
+    "size": 1915
+  },
+  {
+    "name": "Jiawei-Yang/DeTok",
+    "clone_url": "https://github.com/Jiawei-Yang/DeTok.git",
+    "stars": 49,
+    "size": 2987
   }
 ]
