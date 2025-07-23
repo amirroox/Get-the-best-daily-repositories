@@ -2,31 +2,31 @@
   {
     "name": "Jiawei-Yang/DeTok",
     "clone_url": "https://github.com/Jiawei-Yang/DeTok.git",
-    "stars": 64,
+    "stars": 74,
     "size": 2987
+  },
+  {
+    "name": "dig2pen/LBBapi_study",
+    "clone_url": "https://github.com/dig2pen/LBBapi_study.git",
+    "stars": 53,
+    "size": 88
   },
   {
     "name": "danielroe/nuxt-vapor-demo",
     "clone_url": "https://github.com/danielroe/nuxt-vapor-demo.git",
-    "stars": 39,
+    "stars": 43,
     "size": 112
+  },
+  {
+    "name": "alperdrsnn/clime",
+    "clone_url": "https://github.com/alperdrsnn/clime.git",
+    "stars": 24,
+    "size": 227
   },
   {
     "name": "jjasghar/ai-airport-simulation",
     "clone_url": "https://github.com/jjasghar/ai-airport-simulation.git",
-    "stars": 21,
+    "stars": 22,
     "size": 98
-  },
-  {
-    "name": "krikzz/mega-ppm",
-    "clone_url": "https://github.com/krikzz/mega-ppm.git",
-    "stars": 15,
-    "size": 634
-  },
-  {
-    "name": "NabeelOG/LeetCode-Consolidated-main",
-    "clone_url": "https://github.com/NabeelOG/LeetCode-Consolidated-main.git",
-    "stars": 14,
-    "size": 73
   }
 ]
