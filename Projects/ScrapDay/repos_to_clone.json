@@ -2,8 +2,14 @@
   {
     "name": "IHATEGIVINGAUSERNAME/theProtector",
     "clone_url": "https://github.com/IHATEGIVINGAUSERNAME/theProtector.git",
-    "stars": 137,
-    "size": 51
+    "stars": 258,
+    "size": 68
+  },
+  {
+    "name": "nearmetips/DailiCode",
+    "clone_url": "https://github.com/nearmetips/DailiCode.git",
+    "stars": 62,
+    "size": 3810
   },
   {
     "name": "dig2pen/LBBapi_study",
@@ -12,21 +18,15 @@
     "size": 88
   },
   {
-    "name": "nearmetips/DailiCode",
-    "clone_url": "https://github.com/nearmetips/DailiCode.git",
-    "stars": 47,
-    "size": 4213
-  },
-  {
     "name": "ernestosrf/sigaa-horarios-extension",
     "clone_url": "https://github.com/ernestosrf/sigaa-horarios-extension.git",
     "stars": 31,
     "size": 3536
   },
   {
-    "name": "pritayan/Arctyx",
-    "clone_url": "https://github.com/pritayan/Arctyx.git",
-    "stars": 17,
-    "size": 3946
+    "name": "GeoRetina/Arion",
+    "clone_url": "https://github.com/GeoRetina/Arion.git",
+    "stars": 23,
+    "size": 3129
   }
 ]
