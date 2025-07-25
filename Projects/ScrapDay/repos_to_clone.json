@@ -1,32 +1,32 @@
 [
   {
-    "name": "tsoding/serdec",
-    "clone_url": "https://github.com/tsoding/serdec.git",
-    "stars": 33,
-    "size": 64
+    "name": "GakkiNoOne/hajimi-king",
+    "clone_url": "https://github.com/GakkiNoOne/hajimi-king.git",
+    "stars": 54,
+    "size": 50
   },
   {
-    "name": "AthenaNetworks/ProxMigrate",
-    "clone_url": "https://github.com/AthenaNetworks/ProxMigrate.git",
-    "stars": 26,
-    "size": 92
-  },
-  {
-    "name": "simonw/system-exploration-g",
-    "clone_url": "https://github.com/simonw/system-exploration-g.git",
-    "stars": 21,
-    "size": 730
-  },
-  {
-    "name": "YezQiu/Tiemu",
-    "clone_url": "https://github.com/YezQiu/Tiemu.git",
-    "stars": 19,
-    "size": 149
+    "name": "evilsocket/nyx",
+    "clone_url": "https://github.com/evilsocket/nyx.git",
+    "stars": 45,
+    "size": 1413
   },
   {
     "name": "toss/docflow",
     "clone_url": "https://github.com/toss/docflow.git",
-    "stars": 18,
-    "size": 4628
+    "stars": 43,
+    "size": 4632
+  },
+  {
+    "name": "CanTakeMore/TikTok-Downloader-Scraper-Reporter-2025",
+    "clone_url": "https://github.com/CanTakeMore/TikTok-Downloader-Scraper-Reporter-2025.git",
+    "stars": 41,
+    "size": 71
+  },
+  {
+    "name": "tsoding/serdec",
+    "clone_url": "https://github.com/tsoding/serdec.git",
+    "stars": 39,
+    "size": 64
   }
 ]
