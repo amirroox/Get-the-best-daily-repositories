@@ -1,32 +1,32 @@
 [
   {
-    "name": "GakkiNoOne/hajimi-king",
-    "clone_url": "https://github.com/GakkiNoOne/hajimi-king.git",
-    "stars": 77,
-    "size": 63
-  },
-  {
     "name": "stepfun-ai/Step3",
     "clone_url": "https://github.com/stepfun-ai/Step3.git",
-    "stars": 70,
+    "stars": 110,
     "size": 456
   },
   {
-    "name": "al3rez/ooda-subagents",
-    "clone_url": "https://github.com/al3rez/ooda-subagents.git",
-    "stars": 51,
-    "size": 262
+    "name": "GakkiNoOne/hajimi-king",
+    "clone_url": "https://github.com/GakkiNoOne/hajimi-king.git",
+    "stars": 99,
+    "size": 70
   },
   {
     "name": "cryptocj520/meteora2",
     "clone_url": "https://github.com/cryptocj520/meteora2.git",
-    "stars": 46,
+    "stars": 71,
     "size": 1555
+  },
+  {
+    "name": "al3rez/ooda-subagents",
+    "clone_url": "https://github.com/al3rez/ooda-subagents.git",
+    "stars": 67,
+    "size": 262
   },
   {
     "name": "drizzle-team/fastabase",
     "clone_url": "https://github.com/drizzle-team/fastabase.git",
-    "stars": 28,
+    "stars": 52,
     "size": 294
   }
 ]
