@@ -1,7 +1,7 @@
-# Latest Repositories (2025-07-23 .. 2025-07-25)
+# Latest Repositories (2025-07-24 .. 2025-07-26)
 
-- [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) (54)
-- [evilsocket/nyx](https://github.com/evilsocket/nyx) (45)
-- [toss/docflow](https://github.com/toss/docflow) (43)
-- [CanTakeMore/TikTok-Downloader-Scraper-Reporter-2025](https://github.com/CanTakeMore/TikTok-Downloader-Scraper-Reporter-2025) (41)
-- [tsoding/serdec](https://github.com/tsoding/serdec) (39)
+- [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) (77)
+- [stepfun-ai/Step3](https://github.com/stepfun-ai/Step3) (70)
+- [al3rez/ooda-subagents](https://github.com/al3rez/ooda-subagents) (51)
+- [cryptocj520/meteora2](https://github.com/cryptocj520/meteora2) (46)
+- [drizzle-team/fastabase](https://github.com/drizzle-team/fastabase) (28)
