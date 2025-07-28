@@ -1,7 +1,7 @@
-# Latest Repositories (2025-07-25 .. 2025-07-27)
+# Latest Repositories (2025-07-26 .. 2025-07-28)
 
-- [GaltharazjQsy/Multi-Trading-Bot](https://github.com/GaltharazjQsy/Multi-Trading-Bot) (152)
-- [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) (107)
-- [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) (96)
-- [shuguangnet/dcoker_backup_script](https://github.com/shuguangnet/dcoker_backup_script) (59)
-- [h9-tec/NLP_roadmap](https://github.com/h9-tec/NLP_roadmap) (49)
+- [segmentationf4u1t/trae_telemetry_research](https://github.com/segmentationf4u1t/trae_telemetry_research) (56)
+- [kwindla/macos-local-voice-agents](https://github.com/kwindla/macos-local-voice-agents) (49)
+- [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller) (39)
+- [zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent) (31)
+- [chinrain/Api-Conversion](https://github.com/chinrain/Api-Conversion) (27)
