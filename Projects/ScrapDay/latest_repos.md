@@ -1,7 +1,7 @@
-# Latest Repositories (2025-07-27 .. 2025-07-29)
+# Latest Repositories (2025-07-28 .. 2025-07-30)
 
-- [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) (1533)
-- [contains-studio/agents](https://github.com/contains-studio/agents) (1483)
-- [rit3zh/expo-ios-mesh-gradient](https://github.com/rit3zh/expo-ios-mesh-gradient) (65)
-- [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) (44)
-- [KuekHaoYang/KChat](https://github.com/KuekHaoYang/KChat) (35)
+- [ColvoxvadSex/Ethereum-Trading-Bot](https://github.com/ColvoxvadSex/Ethereum-Trading-Bot) (224)
+- [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) (126)
+- [h9-tec/AI-roadmap](https://github.com/h9-tec/AI-roadmap) (48)
+- [saatvik333/wayland-bongocat](https://github.com/saatvik333/wayland-bongocat) (43)
+- [antiwork/gumboard](https://github.com/antiwork/gumboard) (43)
