@@ -1,32 +1,32 @@
 [
   {
+    "name": "zouzhekang/YJYpaper",
+    "clone_url": "https://github.com/zouzhekang/YJYpaper.git",
+    "stars": 286,
+    "size": 4296
+  },
+  {
     "name": "ColvoxvadSex/Ethereum-Trading-Bot",
     "clone_url": "https://github.com/ColvoxvadSex/Ethereum-Trading-Bot.git",
     "stars": 224,
-    "size": 80
+    "size": 145
   },
   {
-    "name": "zouzhekang/YJYpaper",
-    "clone_url": "https://github.com/zouzhekang/YJYpaper.git",
-    "stars": 126,
-    "size": 4012
+    "name": "X-Omni-Team/X-Omni",
+    "clone_url": "https://github.com/X-Omni-Team/X-Omni.git",
+    "stars": 103,
+    "size": 173
   },
   {
-    "name": "h9-tec/AI-roadmap",
-    "clone_url": "https://github.com/h9-tec/AI-roadmap.git",
-    "stars": 48,
-    "size": 383
-  },
-  {
-    "name": "saatvik333/wayland-bongocat",
-    "clone_url": "https://github.com/saatvik333/wayland-bongocat.git",
-    "stars": 43,
-    "size": 730
+    "name": "Buywatermelon/claude-relay-monorepo",
+    "clone_url": "https://github.com/Buywatermelon/claude-relay-monorepo.git",
+    "stars": 67,
+    "size": 216
   },
   {
     "name": "antiwork/gumboard",
     "clone_url": "https://github.com/antiwork/gumboard.git",
-    "stars": 43,
-    "size": 462
+    "stars": 59,
+    "size": 442
   }
 ]
