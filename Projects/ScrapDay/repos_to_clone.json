@@ -2,31 +2,31 @@
   {
     "name": "groq/openbench",
     "clone_url": "https://github.com/groq/openbench.git",
-    "stars": 84,
+    "stars": 165,
     "size": 206
   },
   {
     "name": "ceocok/Docker_container_migration",
     "clone_url": "https://github.com/ceocok/Docker_container_migration.git",
-    "stars": 67,
+    "stars": 72,
     "size": 51
   },
   {
     "name": "dipampaul17/AgentGuard",
     "clone_url": "https://github.com/dipampaul17/AgentGuard.git",
-    "stars": 59,
+    "stars": 65,
     "size": 259
   },
   {
-    "name": "PennyJoly/FreeTempMail",
-    "clone_url": "https://github.com/PennyJoly/FreeTempMail.git",
-    "stars": 22,
-    "size": 2003
+    "name": "NanoNets/docstrange",
+    "clone_url": "https://github.com/NanoNets/docstrange.git",
+    "stars": 46,
+    "size": 243
   },
   {
     "name": "ExposeYangJingyuan/judgment-of-yangjingyuan",
     "clone_url": "https://github.com/ExposeYangJingyuan/judgment-of-yangjingyuan.git",
-    "stars": 21,
-    "size": 1095
+    "stars": 44,
+    "size": 1180
   }
 ]
