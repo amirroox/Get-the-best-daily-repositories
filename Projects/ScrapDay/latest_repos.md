@@ -1,7 +1,7 @@
-# Latest Repositories (2025-07-30 .. 2025-08-01)
+# Latest Repositories (2025-07-31 .. 2025-08-02)
 
-- [groq/openbench](https://github.com/groq/openbench) (165)
-- [ceocok/Docker_container_migration](https://github.com/ceocok/Docker_container_migration) (72)
-- [dipampaul17/AgentGuard](https://github.com/dipampaul17/AgentGuard) (65)
-- [NanoNets/docstrange](https://github.com/NanoNets/docstrange) (46)
-- [ExposeYangJingyuan/judgment-of-yangjingyuan](https://github.com/ExposeYangJingyuan/judgment-of-yangjingyuan) (44)
+- [Zuhaitz-dev/fat](https://github.com/Zuhaitz-dev/fat) (29)
+- [lucidrains/HS-TasNet](https://github.com/lucidrains/HS-TasNet) (18)
+- [ryoiki-tokuiten/Iterative-Contextual-Refinements](https://github.com/ryoiki-tokuiten/Iterative-Contextual-Refinements) (17)
+- [Haleclipse/Cometix-Tab](https://github.com/Haleclipse/Cometix-Tab) (16)
+- [rankdim/conway](https://github.com/rankdim/conway) (12)
