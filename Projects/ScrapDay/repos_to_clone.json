@@ -2,7 +2,7 @@
   {
     "name": "kyxiaxiang/CobaltStrikeBeaconCppSource",
     "clone_url": "https://github.com/kyxiaxiang/CobaltStrikeBeaconCppSource.git",
-    "stars": 235,
+    "stars": 355,
     "size": 185
   },
   {
@@ -12,21 +12,21 @@
     "size": 130
   },
   {
-    "name": "Bosegluon2/WHUFraud",
-    "clone_url": "https://github.com/Bosegluon2/WHUFraud.git",
-    "stars": 30,
-    "size": 3500
+    "name": "Li-Jinsong/DAEDAL",
+    "clone_url": "https://github.com/Li-Jinsong/DAEDAL.git",
+    "stars": 43,
+    "size": 2906
+  },
+  {
+    "name": "VictoriqueMoe/go-billion-rows",
+    "clone_url": "https://github.com/VictoriqueMoe/go-billion-rows.git",
+    "stars": 32,
+    "size": 437
   },
   {
     "name": "stretchcloud/claude-code-unified-agents",
     "clone_url": "https://github.com/stretchcloud/claude-code-unified-agents.git",
-    "stars": 24,
+    "stars": 30,
     "size": 311
-  },
-  {
-    "name": "twobitapps/480b-setup",
-    "clone_url": "https://github.com/twobitapps/480b-setup.git",
-    "stars": 18,
-    "size": 304
   }
 ]
