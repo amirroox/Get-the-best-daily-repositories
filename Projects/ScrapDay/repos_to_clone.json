@@ -1,32 +1,32 @@
 [
   {
-    "name": "answeryt/Neosgenesis",
-    "clone_url": "https://github.com/answeryt/Neosgenesis.git",
-    "stars": 64,
-    "size": 432
+    "name": "KorthuDev/MonadTestnet-Bot",
+    "clone_url": "https://github.com/KorthuDev/MonadTestnet-Bot.git",
+    "stars": 154,
+    "size": 1167
   },
   {
     "name": "ddCat-main/ai-goofish",
     "clone_url": "https://github.com/ddCat-main/ai-goofish.git",
-    "stars": 56,
-    "size": 3603
+    "stars": 84,
+    "size": 3605
+  },
+  {
+    "name": "FoundationVision/Waver",
+    "clone_url": "https://github.com/FoundationVision/Waver.git",
+    "stars": 84,
+    "size": 4553
+  },
+  {
+    "name": "answeryt/Neosgenesis",
+    "clone_url": "https://github.com/answeryt/Neosgenesis.git",
+    "stars": 76,
+    "size": 559
   },
   {
     "name": "xyTom/cap-worker",
     "clone_url": "https://github.com/xyTom/cap-worker.git",
-    "stars": 27,
+    "stars": 50,
     "size": 88
-  },
-  {
-    "name": "NU-QRG/BiSHop",
-    "clone_url": "https://github.com/NU-QRG/BiSHop.git",
-    "stars": 26,
-    "size": 1174
-  },
-  {
-    "name": "J-Vidale/recipehub-frontend",
-    "clone_url": "https://github.com/J-Vidale/recipehub-frontend.git",
-    "stars": 21,
-    "size": 72
   }
 ]
