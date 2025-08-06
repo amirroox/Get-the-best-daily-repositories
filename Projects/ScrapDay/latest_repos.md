@@ -1,7 +1,7 @@
 # Latest Repositories (2025-08-04 .. 2025-08-06)
 
-- [Mursor/LIVE](https://github.com/Mursor/LIVE) (274)
-- [vesrithll8ci4/MEV-by-JaredFromSubway](https://github.com/vesrithll8ci4/MEV-by-JaredFromSubway) (237)
-- [FoundationVision/Waver](https://github.com/FoundationVision/Waver) (113)
-- [Codehagen/Autoselll](https://github.com/Codehagen/Autoselll) (82)
-- [rit3zh/expo-animated-sticky-header](https://github.com/rit3zh/expo-animated-sticky-header) (40)
+- [Mursor/LIVE](https://github.com/Mursor/LIVE) (463)
+- [vesrithll8ci4/MEV-by-JaredFromSubway](https://github.com/vesrithll8ci4/MEV-by-JaredFromSubway) (417)
+- [FoundationVision/Waver](https://github.com/FoundationVision/Waver) (133)
+- [Codehagen/Autoselll](https://github.com/Codehagen/Autoselll) (97)
+- [kwindla/gpt-oss-space-game](https://github.com/kwindla/gpt-oss-space-game) (49)
