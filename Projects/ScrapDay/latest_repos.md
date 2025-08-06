@@ -1,7 +1,7 @@
-# Latest Repositories (2025-08-03 .. 2025-08-05)
+# Latest Repositories (2025-08-04 .. 2025-08-06)
 
-- [KorthuDev/MonadTestnet-Bot](https://github.com/KorthuDev/MonadTestnet-Bot) (154)
-- [ddCat-main/ai-goofish](https://github.com/ddCat-main/ai-goofish) (84)
-- [FoundationVision/Waver](https://github.com/FoundationVision/Waver) (84)
-- [answeryt/Neosgenesis](https://github.com/answeryt/Neosgenesis) (76)
-- [xyTom/cap-worker](https://github.com/xyTom/cap-worker) (50)
+- [Mursor/LIVE](https://github.com/Mursor/LIVE) (274)
+- [vesrithll8ci4/MEV-by-JaredFromSubway](https://github.com/vesrithll8ci4/MEV-by-JaredFromSubway) (237)
+- [FoundationVision/Waver](https://github.com/FoundationVision/Waver) (113)
+- [Codehagen/Autoselll](https://github.com/Codehagen/Autoselll) (82)
+- [rit3zh/expo-animated-sticky-header](https://github.com/rit3zh/expo-animated-sticky-header) (40)
