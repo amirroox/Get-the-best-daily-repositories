@@ -1,32 +1,32 @@
 [
   {
-    "name": "Mursor/LIVE",
-    "clone_url": "https://github.com/Mursor/LIVE.git",
-    "stars": 463,
-    "size": 274
-  },
-  {
-    "name": "vesrithll8ci4/MEV-by-JaredFromSubway",
-    "clone_url": "https://github.com/vesrithll8ci4/MEV-by-JaredFromSubway.git",
-    "stars": 417,
-    "size": 171
-  },
-  {
-    "name": "FoundationVision/Waver",
-    "clone_url": "https://github.com/FoundationVision/Waver.git",
-    "stars": 133,
-    "size": 4553
-  },
-  {
-    "name": "Codehagen/Autoselll",
-    "clone_url": "https://github.com/Codehagen/Autoselll.git",
-    "stars": 97,
-    "size": 278
+    "name": "4ArvanekhbLt/MEV-by-JaredFromSubway",
+    "clone_url": "https://github.com/4ArvanekhbLt/MEV-by-JaredFromSubway.git",
+    "stars": 272,
+    "size": 55
   },
   {
     "name": "kwindla/gpt-oss-space-game",
     "clone_url": "https://github.com/kwindla/gpt-oss-space-game.git",
-    "stars": 49,
+    "stars": 111,
     "size": 1642
+  },
+  {
+    "name": "berbyte/sinkzone",
+    "clone_url": "https://github.com/berbyte/sinkzone.git",
+    "stars": 106,
+    "size": 1986
+  },
+  {
+    "name": "gmh5225/aug_cleaner",
+    "clone_url": "https://github.com/gmh5225/aug_cleaner.git",
+    "stars": 87,
+    "size": 1670
+  },
+  {
+    "name": "Prorise-cool/Claude-Code-Multi-Agent",
+    "clone_url": "https://github.com/Prorise-cool/Claude-Code-Multi-Agent.git",
+    "stars": 52,
+    "size": 421
   }
 ]

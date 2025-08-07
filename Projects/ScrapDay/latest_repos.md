@@ -1,7 +1,7 @@
-# Latest Repositories (2025-08-04 .. 2025-08-06)
+# Latest Repositories (2025-08-05 .. 2025-08-07)
 
-- [Mursor/LIVE](https://github.com/Mursor/LIVE) (463)
-- [vesrithll8ci4/MEV-by-JaredFromSubway](https://github.com/vesrithll8ci4/MEV-by-JaredFromSubway) (417)
-- [FoundationVision/Waver](https://github.com/FoundationVision/Waver) (133)
-- [Codehagen/Autoselll](https://github.com/Codehagen/Autoselll) (97)
-- [kwindla/gpt-oss-space-game](https://github.com/kwindla/gpt-oss-space-game) (49)
+- [4ArvanekhbLt/MEV-by-JaredFromSubway](https://github.com/4ArvanekhbLt/MEV-by-JaredFromSubway) (272)
+- [kwindla/gpt-oss-space-game](https://github.com/kwindla/gpt-oss-space-game) (111)
+- [berbyte/sinkzone](https://github.com/berbyte/sinkzone) (106)
+- [gmh5225/aug_cleaner](https://github.com/gmh5225/aug_cleaner) (87)
+- [Prorise-cool/Claude-Code-Multi-Agent](https://github.com/Prorise-cool/Claude-Code-Multi-Agent) (52)
