@@ -1,7 +1,7 @@
-# Latest Repositories (2025-08-05 .. 2025-08-07)
+# Latest Repositories (2025-08-06 .. 2025-08-08)
 
-- [berbyte/sinkzone](https://github.com/berbyte/sinkzone) (133)
-- [kwindla/gpt-oss-space-game](https://github.com/kwindla/gpt-oss-space-game) (128)
-- [gmh5225/aug_cleaner](https://github.com/gmh5225/aug_cleaner) (109)
-- [andrewmcwattersandco/git-fetch-file](https://github.com/andrewmcwattersandco/git-fetch-file) (85)
-- [olafhartong/BamboozlEDR](https://github.com/olafhartong/BamboozlEDR) (73)
+- [openai/gpt-5-coding-examples](https://github.com/openai/gpt-5-coding-examples) (367)
+- [Foulvelstingw3S/Github-Mev-Bot](https://github.com/Foulvelstingw3S/Github-Mev-Bot) (272)
+- [Wiseilvaneom0/Solana-bot](https://github.com/Wiseilvaneom0/Solana-bot) (181)
+- [jyntherfb5hN/Phrase-To-Key](https://github.com/jyntherfb5hN/Phrase-To-Key) (91)
+- [r-morato/HASS-epaper-display](https://github.com/r-morato/HASS-epaper-display) (82)
