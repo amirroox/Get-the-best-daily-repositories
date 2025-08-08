@@ -2,31 +2,31 @@
   {
     "name": "openai/gpt-5-coding-examples",
     "clone_url": "https://github.com/openai/gpt-5-coding-examples.git",
-    "stars": 367,
+    "stars": 510,
     "size": 1159
   },
   {
     "name": "Foulvelstingw3S/Github-Mev-Bot",
     "clone_url": "https://github.com/Foulvelstingw3S/Github-Mev-Bot.git",
     "stars": 272,
-    "size": 94
+    "size": 165
+  },
+  {
+    "name": "KorthuDev/Gift-Buyer-Tg",
+    "clone_url": "https://github.com/KorthuDev/Gift-Buyer-Tg.git",
+    "stars": 208,
+    "size": 1091
   },
   {
     "name": "Wiseilvaneom0/Solana-bot",
     "clone_url": "https://github.com/Wiseilvaneom0/Solana-bot.git",
     "stars": 181,
-    "size": 115
-  },
-  {
-    "name": "jyntherfb5hN/Phrase-To-Key",
-    "clone_url": "https://github.com/jyntherfb5hN/Phrase-To-Key.git",
-    "stars": 91,
-    "size": 123
+    "size": 186
   },
   {
     "name": "r-morato/HASS-epaper-display",
     "clone_url": "https://github.com/r-morato/HASS-epaper-display.git",
-    "stars": 82,
+    "stars": 116,
     "size": 716
   }
 ]
