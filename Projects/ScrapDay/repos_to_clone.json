@@ -2,31 +2,31 @@
   {
     "name": "mendableai/open-lovable",
     "clone_url": "https://github.com/mendableai/open-lovable.git",
-    "stars": 357,
+    "stars": 654,
     "size": 251
+  },
+  {
+    "name": "km-clay/nixos-wizard",
+    "clone_url": "https://github.com/km-clay/nixos-wizard.git",
+    "stars": 127,
+    "size": 2484
+  },
+  {
+    "name": "aviraxp/ZN-AuditPatch",
+    "clone_url": "https://github.com/aviraxp/ZN-AuditPatch.git",
+    "stars": 71,
+    "size": 71
   },
   {
     "name": "MiroMindAI/MiroRL",
     "clone_url": "https://github.com/MiroMindAI/MiroRL.git",
-    "stars": 52,
+    "stars": 65,
     "size": 476
   },
   {
     "name": "rit3zh/expo-stack-bottom-sheet",
     "clone_url": "https://github.com/rit3zh/expo-stack-bottom-sheet.git",
-    "stars": 52,
+    "stars": 61,
     "size": 356
-  },
-  {
-    "name": "adamlyttleapps/CinematicOnboardingView-SwiftUI",
-    "clone_url": "https://github.com/adamlyttleapps/CinematicOnboardingView-SwiftUI.git",
-    "stars": 33,
-    "size": 3476
-  },
-  {
-    "name": "yibie/grid-table",
-    "clone_url": "https://github.com/yibie/grid-table.git",
-    "stars": 15,
-    "size": 1186
   }
 ]
