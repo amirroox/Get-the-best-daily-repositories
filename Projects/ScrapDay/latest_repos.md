@@ -1,7 +1,7 @@
-# Latest Repositories (2025-08-07 .. 2025-08-09)
+# Latest Repositories (2025-08-08 .. 2025-08-10)
 
-- [mendableai/open-lovable](https://github.com/mendableai/open-lovable) (654)
-- [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) (127)
-- [aviraxp/ZN-AuditPatch](https://github.com/aviraxp/ZN-AuditPatch) (71)
-- [MiroMindAI/MiroRL](https://github.com/MiroMindAI/MiroRL) (65)
-- [rit3zh/expo-stack-bottom-sheet](https://github.com/rit3zh/expo-stack-bottom-sheet) (61)
+- [rit3zh/expo-ios-visual-blur](https://github.com/rit3zh/expo-ios-visual-blur) (34)
+- [JinjieNi/dlms-are-super-data-learners](https://github.com/JinjieNi/dlms-are-super-data-learners) (21)
+- [pipi20xx/emby-virtual-proxy](https://github.com/pipi20xx/emby-virtual-proxy) (19)
+- [WonderLand33/prompt-optimizer](https://github.com/WonderLand33/prompt-optimizer) (18)
+- [ikanberjalandidarat/vectormancer](https://github.com/ikanberjalandidarat/vectormancer) (15)
