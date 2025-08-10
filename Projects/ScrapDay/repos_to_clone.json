@@ -1,32 +1,32 @@
 [
   {
+    "name": "phishdestroy/Nigerian-dignity",
+    "clone_url": "https://github.com/phishdestroy/Nigerian-dignity.git",
+    "stars": 53,
+    "size": 770
+  },
+  {
     "name": "rit3zh/expo-ios-visual-blur",
     "clone_url": "https://github.com/rit3zh/expo-ios-visual-blur.git",
-    "stars": 34,
+    "stars": 51,
     "size": 1690
   },
   {
     "name": "JinjieNi/dlms-are-super-data-learners",
     "clone_url": "https://github.com/JinjieNi/dlms-are-super-data-learners.git",
-    "stars": 21,
+    "stars": 41,
     "size": 3354
-  },
-  {
-    "name": "pipi20xx/emby-virtual-proxy",
-    "clone_url": "https://github.com/pipi20xx/emby-virtual-proxy.git",
-    "stars": 19,
-    "size": 4142
-  },
-  {
-    "name": "WonderLand33/prompt-optimizer",
-    "clone_url": "https://github.com/WonderLand33/prompt-optimizer.git",
-    "stars": 18,
-    "size": 55
   },
   {
     "name": "ikanberjalandidarat/vectormancer",
     "clone_url": "https://github.com/ikanberjalandidarat/vectormancer.git",
-    "stars": 15,
+    "stars": 22,
     "size": 263
+  },
+  {
+    "name": "pipi20xx/emby-virtual-proxy",
+    "clone_url": "https://github.com/pipi20xx/emby-virtual-proxy.git",
+    "stars": 22,
+    "size": 4161
   }
 ]
