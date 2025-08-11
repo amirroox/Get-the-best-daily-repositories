@@ -1,32 +1,32 @@
 [
   {
+    "name": "mursor1985/LIVE",
+    "clone_url": "https://github.com/mursor1985/LIVE.git",
+    "stars": 93,
+    "size": 526
+  },
+  {
     "name": "cloudstreet-dev/React-is-Awful",
     "clone_url": "https://github.com/cloudstreet-dev/React-is-Awful.git",
-    "stars": 37,
+    "stars": 79,
     "size": 98
+  },
+  {
+    "name": "Owloops/claude-powerline",
+    "clone_url": "https://github.com/Owloops/claude-powerline.git",
+    "stars": 39,
+    "size": 407
   },
   {
     "name": "1nf1n1tysoftt/KMSAuto-Download",
     "clone_url": "https://github.com/1nf1n1tysoftt/KMSAuto-Download.git",
     "stars": 30,
-    "size": 1466
-  },
-  {
-    "name": "Owloops/claude-powerline",
-    "clone_url": "https://github.com/Owloops/claude-powerline.git",
-    "stars": 26,
-    "size": 268
+    "size": 1468
   },
   {
     "name": "laurindoisaac/OpticalCharacter",
     "clone_url": "https://github.com/laurindoisaac/OpticalCharacter.git",
-    "stars": 23,
+    "stars": 28,
     "size": 235
-  },
-  {
-    "name": "code3-dev/ProxyCloud",
-    "clone_url": "https://github.com/code3-dev/ProxyCloud.git",
-    "stars": 16,
-    "size": 722
   }
 ]
