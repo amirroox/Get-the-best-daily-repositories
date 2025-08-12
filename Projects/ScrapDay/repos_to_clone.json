@@ -1,32 +1,32 @@
 [
   {
-    "name": "mursor1985/LIVE",
-    "clone_url": "https://github.com/mursor1985/LIVE.git",
-    "stars": 121,
-    "size": 696
-  },
-  {
     "name": "Matt-Dionis/claude-code-configs",
     "clone_url": "https://github.com/Matt-Dionis/claude-code-configs.git",
-    "stars": 101,
+    "stars": 205,
     "size": 86
   },
   {
-    "name": "WilliamWang1721/Payments-Maps",
-    "clone_url": "https://github.com/WilliamWang1721/Payments-Maps.git",
-    "stars": 33,
-    "size": 100
+    "name": "mursor1985/LIVE",
+    "clone_url": "https://github.com/mursor1985/LIVE.git",
+    "stars": 150,
+    "size": 851
+  },
+  {
+    "name": "yaof20/Flash-RL",
+    "clone_url": "https://github.com/yaof20/Flash-RL.git",
+    "stars": 52,
+    "size": 419
+  },
+  {
+    "name": "WeChatCV/Stand-In",
+    "clone_url": "https://github.com/WeChatCV/Stand-In.git",
+    "stars": 48,
+    "size": 2018
   },
   {
     "name": "Le1a/JarLibsConsolidator",
     "clone_url": "https://github.com/Le1a/JarLibsConsolidator.git",
-    "stars": 29,
+    "stars": 38,
     "size": 80
-  },
-  {
-    "name": "Wangnov/claude-code-statusline-pro",
-    "clone_url": "https://github.com/Wangnov/claude-code-statusline-pro.git",
-    "stars": 25,
-    "size": 59
   }
 ]
