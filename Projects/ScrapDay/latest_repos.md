@@ -1,7 +1,7 @@
-# Latest Repositories (2025-08-10 .. 2025-08-12)
+# Latest Repositories (2025-08-11 .. 2025-08-13)
 
-- [Matt-Dionis/claude-code-configs](https://github.com/Matt-Dionis/claude-code-configs) (205)
-- [mursor1985/LIVE](https://github.com/mursor1985/LIVE) (150)
-- [yaof20/Flash-RL](https://github.com/yaof20/Flash-RL) (52)
-- [WeChatCV/Stand-In](https://github.com/WeChatCV/Stand-In) (48)
-- [Le1a/JarLibsConsolidator](https://github.com/Le1a/JarLibsConsolidator) (38)
+- [dimitritholen/gustav](https://github.com/dimitritholen/gustav) (87)
+- [WeChatCV/Stand-In](https://github.com/WeChatCV/Stand-In) (72)
+- [Zalthorwb6BI/Frontrunning-Mev-Bot](https://github.com/Zalthorwb6BI/Frontrunning-Mev-Bot) (68)
+- [0xJs/BYOVD_read_write_primitive](https://github.com/0xJs/BYOVD_read_write_primitive) (31)
+- [kaichen/local-translator](https://github.com/kaichen/local-translator) (24)
