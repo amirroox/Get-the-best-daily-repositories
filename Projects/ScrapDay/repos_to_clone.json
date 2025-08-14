@@ -2,31 +2,31 @@
   {
     "name": "fuzzland/bonkfun-sniper",
     "clone_url": "https://github.com/fuzzland/bonkfun-sniper.git",
-    "stars": 43,
+    "stars": 108,
     "size": 64
   },
   {
     "name": "whwlsfb/ViewState-Cracker",
     "clone_url": "https://github.com/whwlsfb/ViewState-Cracker.git",
-    "stars": 30,
+    "stars": 67,
     "size": 371
+  },
+  {
+    "name": "wetw0rk/AWE-PREP",
+    "clone_url": "https://github.com/wetw0rk/AWE-PREP.git",
+    "stars": 37,
+    "size": 243
   },
   {
     "name": "SukkaW/fast-escape-regexp",
     "clone_url": "https://github.com/SukkaW/fast-escape-regexp.git",
-    "stars": 29,
+    "stars": 31,
     "size": 73
   },
   {
     "name": "bluesky-social/goat",
     "clone_url": "https://github.com/bluesky-social/goat.git",
-    "stars": 25,
+    "stars": 28,
     "size": 237
-  },
-  {
-    "name": "me-shaon/devtools",
-    "clone_url": "https://github.com/me-shaon/devtools.git",
-    "stars": 21,
-    "size": 723
   }
 ]
