@@ -1,7 +1,7 @@
-# Latest Repositories (2025-08-12 .. 2025-08-14)
+# Latest Repositories (2025-08-13 .. 2025-08-15)
 
-- [fuzzland/bonkfun-sniper](https://github.com/fuzzland/bonkfun-sniper) (108)
-- [whwlsfb/ViewState-Cracker](https://github.com/whwlsfb/ViewState-Cracker) (67)
-- [wetw0rk/AWE-PREP](https://github.com/wetw0rk/AWE-PREP) (37)
-- [SukkaW/fast-escape-regexp](https://github.com/SukkaW/fast-escape-regexp) (31)
-- [bluesky-social/goat](https://github.com/bluesky-social/goat) (28)
+- [MelnorCode/Gift-Buyer-Tg](https://github.com/MelnorCode/Gift-Buyer-Tg) (223)
+- [BnuuySolutions/PSVR2Toolkit](https://github.com/BnuuySolutions/PSVR2Toolkit) (28)
+- [sigmotoa/dev_2025_3_workshop1](https://github.com/sigmotoa/dev_2025_3_workshop1) (26)
+- [Seed3D/Puppeteer](https://github.com/Seed3D/Puppeteer) (22)
+- [ersinkoc/claude-statusline](https://github.com/ersinkoc/claude-statusline) (20)
