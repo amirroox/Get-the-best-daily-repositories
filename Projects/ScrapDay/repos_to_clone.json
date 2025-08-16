@@ -2,31 +2,31 @@
   {
     "name": "l2xu/betterbahn",
     "clone_url": "https://github.com/l2xu/betterbahn.git",
-    "stars": 44,
+    "stars": 53,
     "size": 991
+  },
+  {
+    "name": "RayBytes/ChatMock",
+    "clone_url": "https://github.com/RayBytes/ChatMock.git",
+    "stars": 43,
+    "size": 78
+  },
+  {
+    "name": "blindxvc/Gift-Buyer",
+    "clone_url": "https://github.com/blindxvc/Gift-Buyer.git",
+    "stars": 33,
+    "size": 59
+  },
+  {
+    "name": "KroMiose/claude-code-nexus",
+    "clone_url": "https://github.com/KroMiose/claude-code-nexus.git",
+    "stars": 26,
+    "size": 289
   },
   {
     "name": "easybaseysk/easybaseysk.github.io",
     "clone_url": "https://github.com/easybaseysk/easybaseysk.github.io.git",
-    "stars": 19,
+    "stars": 23,
     "size": 66
-  },
-  {
-    "name": "santa70916/axross",
-    "clone_url": "https://github.com/santa70916/axross.git",
-    "stars": 17,
-    "size": 192
-  },
-  {
-    "name": "arcprize/hierarchical-reasoning-model-analysis",
-    "clone_url": "https://github.com/arcprize/hierarchical-reasoning-model-analysis.git",
-    "stars": 16,
-    "size": 551
-  },
-  {
-    "name": "santa70916/advent-of-code",
-    "clone_url": "https://github.com/santa70916/advent-of-code.git",
-    "stars": 16,
-    "size": 1227
   }
 ]
