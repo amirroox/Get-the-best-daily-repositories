@@ -2,31 +2,31 @@
   {
     "name": "asiddhant/ai_interview_prep_notes_mar_2025",
     "clone_url": "https://github.com/asiddhant/ai_interview_prep_notes_mar_2025.git",
-    "stars": 71,
+    "stars": 78,
     "size": 1192
+  },
+  {
+    "name": "EternityJune25/ComoRAG",
+    "clone_url": "https://github.com/EternityJune25/ComoRAG.git",
+    "stars": 56,
+    "size": 1273
+  },
+  {
+    "name": "juancgarza/claude-in-a-box",
+    "clone_url": "https://github.com/juancgarza/claude-in-a-box.git",
+    "stars": 24,
+    "size": 81
+  },
+  {
+    "name": "dev-tonic/aiproxy",
+    "clone_url": "https://github.com/dev-tonic/aiproxy.git",
+    "stars": 22,
+    "size": 167
   },
   {
     "name": "luozijian1990/kubernetes-resources-recommend",
     "clone_url": "https://github.com/luozijian1990/kubernetes-resources-recommend.git",
     "stars": 22,
     "size": 56
-  },
-  {
-    "name": "juancgarza/claude-in-a-box",
-    "clone_url": "https://github.com/juancgarza/claude-in-a-box.git",
-    "stars": 21,
-    "size": 81
-  },
-  {
-    "name": "BlackSnufkin/HolyGrail",
-    "clone_url": "https://github.com/BlackSnufkin/HolyGrail.git",
-    "stars": 15,
-    "size": 3994
-  },
-  {
-    "name": "futz12/ncnn_mobileclip",
-    "clone_url": "https://github.com/futz12/ncnn_mobileclip.git",
-    "stars": 12,
-    "size": 3598
   }
 ]
