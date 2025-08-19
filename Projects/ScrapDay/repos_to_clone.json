@@ -1,32 +1,32 @@
 [
   {
-    "name": "Hzao/PocketChest",
-    "clone_url": "https://github.com/Hzao/PocketChest.git",
-    "stars": 144,
-    "size": 2317
-  },
-  {
     "name": "asiddhant/ai_interview_prep_notes_mar_2025",
     "clone_url": "https://github.com/asiddhant/ai_interview_prep_notes_mar_2025.git",
-    "stars": 48,
+    "stars": 71,
     "size": 1192
   },
   {
-    "name": "FT-Fetters/tiny-blog-open",
-    "clone_url": "https://github.com/FT-Fetters/tiny-blog-open.git",
-    "stars": 35,
-    "size": 158
-  },
-  {
-    "name": "sikumy/sauron",
-    "clone_url": "https://github.com/sikumy/sauron.git",
+    "name": "luozijian1990/kubernetes-resources-recommend",
+    "clone_url": "https://github.com/luozijian1990/kubernetes-resources-recommend.git",
     "stars": 22,
-    "size": 84
+    "size": 56
   },
   {
-    "name": "ZYPyDoki/Gg_Docking_Kernel",
-    "clone_url": "https://github.com/ZYPyDoki/Gg_Docking_Kernel.git",
-    "stars": 20,
-    "size": 1696
+    "name": "juancgarza/claude-in-a-box",
+    "clone_url": "https://github.com/juancgarza/claude-in-a-box.git",
+    "stars": 21,
+    "size": 81
+  },
+  {
+    "name": "BlackSnufkin/HolyGrail",
+    "clone_url": "https://github.com/BlackSnufkin/HolyGrail.git",
+    "stars": 15,
+    "size": 3994
+  },
+  {
+    "name": "futz12/ncnn_mobileclip",
+    "clone_url": "https://github.com/futz12/ncnn_mobileclip.git",
+    "stars": 12,
+    "size": 3598
   }
 ]
