@@ -2,31 +2,31 @@
   {
     "name": "openai/agents.md",
     "clone_url": "https://github.com/openai/agents.md.git",
-    "stars": 230,
+    "stars": 1080,
     "size": 1668
-  },
-  {
-    "name": "Avarine1nyoTP/Flashloan-Arbitrage-Bot",
-    "clone_url": "https://github.com/Avarine1nyoTP/Flashloan-Arbitrage-Bot.git",
-    "stars": 92,
-    "size": 76
   },
   {
     "name": "auv-sh/av",
     "clone_url": "https://github.com/auv-sh/av.git",
-    "stars": 78,
-    "size": 341
+    "stars": 291,
+    "size": 398
   },
   {
-    "name": "cartesia-ai/line",
-    "clone_url": "https://github.com/cartesia-ai/line.git",
-    "stars": 48,
-    "size": 304
+    "name": "void-faceee/pumpfun-smart-contract",
+    "clone_url": "https://github.com/void-faceee/pumpfun-smart-contract.git",
+    "stars": 170,
+    "size": 155
   },
   {
-    "name": "mchav/granite",
-    "clone_url": "https://github.com/mchav/granite.git",
-    "stars": 25,
-    "size": 172
+    "name": "void-faceee/casino-smart-contract",
+    "clone_url": "https://github.com/void-faceee/casino-smart-contract.git",
+    "stars": 165,
+    "size": 64
+  },
+  {
+    "name": "void-faceee/dex-smart-contract",
+    "clone_url": "https://github.com/void-faceee/dex-smart-contract.git",
+    "stars": 158,
+    "size": 1084
   }
 ]
