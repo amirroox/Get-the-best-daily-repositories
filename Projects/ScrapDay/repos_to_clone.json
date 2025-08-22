@@ -1,32 +1,32 @@
 [
   {
-    "name": "Seratharz7FAJ1/Flashloan-Arbitrage-Bot",
-    "clone_url": "https://github.com/Seratharz7FAJ1/Flashloan-Arbitrage-Bot.git",
-    "stars": 173,
-    "size": 83
-  },
-  {
     "name": "Team-intN18-SoybeanSeclab/Phantom",
     "clone_url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom.git",
-    "stars": 64,
-    "size": 1989
+    "stars": 116,
+    "size": 2022
+  },
+  {
+    "name": "shuding/nstr",
+    "clone_url": "https://github.com/shuding/nstr.git",
+    "stars": 59,
+    "size": 78
+  },
+  {
+    "name": "RevenueCat/slide-to-unlock",
+    "clone_url": "https://github.com/RevenueCat/slide-to-unlock.git",
+    "stars": 45,
+    "size": 2038
   },
   {
     "name": "rit3zh/expo-ios-morph-symbol",
     "clone_url": "https://github.com/rit3zh/expo-ios-morph-symbol.git",
-    "stars": 34,
+    "stars": 39,
     "size": 808
   },
   {
-    "name": "aishwaryashinde26/Skin-Cancer-Detection",
-    "clone_url": "https://github.com/aishwaryashinde26/Skin-Cancer-Detection.git",
-    "stars": 21,
-    "size": 1134
-  },
-  {
-    "name": "WebReflection/file-tree",
-    "clone_url": "https://github.com/WebReflection/file-tree.git",
-    "stars": 16,
-    "size": 122
+    "name": "easychen/miniaiapi",
+    "clone_url": "https://github.com/easychen/miniaiapi.git",
+    "stars": 28,
+    "size": 2106
   }
 ]
