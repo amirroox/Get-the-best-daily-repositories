@@ -1,32 +1,32 @@
 [
   {
+    "name": "PurinNyova/Image-Detection-Bypass-Utility",
+    "clone_url": "https://github.com/PurinNyova/Image-Detection-Bypass-Utility.git",
+    "stars": 72,
+    "size": 57
+  },
+  {
     "name": "vyndrazdw03/Flashloan-Arbitrage-Bot",
     "clone_url": "https://github.com/vyndrazdw03/Flashloan-Arbitrage-Bot.git",
     "stars": 67,
-    "size": 68
-  },
-  {
-    "name": "PurinNyova/Image-Detection-Bypass-Utility",
-    "clone_url": "https://github.com/PurinNyova/Image-Detection-Bypass-Utility.git",
-    "stars": 57,
-    "size": 51
+    "size": 127
   },
   {
     "name": "RevenueCat/slide-to-unlock",
     "clone_url": "https://github.com/RevenueCat/slide-to-unlock.git",
-    "stars": 56,
+    "stars": 65,
     "size": 2038
+  },
+  {
+    "name": "sito-sikino/avatar-ui-core",
+    "clone_url": "https://github.com/sito-sikino/avatar-ui-core.git",
+    "stars": 54,
+    "size": 2935
   },
   {
     "name": "pi0/shiki-image",
     "clone_url": "https://github.com/pi0/shiki-image.git",
-    "stars": 35,
-    "size": 224
-  },
-  {
-    "name": "webwizards-team/wizardpanel",
-    "clone_url": "https://github.com/webwizards-team/wizardpanel.git",
-    "stars": 17,
-    "size": 113
+    "stars": 51,
+    "size": 351
   }
 ]
