@@ -1,7 +1,7 @@
-# Latest Repositories (2025-08-21 .. 2025-08-23)
+# Latest Repositories (2025-08-22 .. 2025-08-24)
 
-- [PurinNyova/Image-Detection-Bypass-Utility](https://github.com/PurinNyova/Image-Detection-Bypass-Utility) (72)
-- [vyndrazdw03/Flashloan-Arbitrage-Bot](https://github.com/vyndrazdw03/Flashloan-Arbitrage-Bot) (67)
-- [RevenueCat/slide-to-unlock](https://github.com/RevenueCat/slide-to-unlock) (65)
-- [sito-sikino/avatar-ui-core](https://github.com/sito-sikino/avatar-ui-core) (54)
-- [pi0/shiki-image](https://github.com/pi0/shiki-image) (51)
+- [liseami/SwiftBits](https://github.com/liseami/SwiftBits) (35)
+- [qrv0/LLM-Ripper](https://github.com/qrv0/LLM-Ripper) (31)
+- [ActiveTK/RecoveryMagic](https://github.com/ActiveTK/RecoveryMagic) (24)
+- [lm0ss/loomis-head-krita](https://github.com/lm0ss/loomis-head-krita) (18)
+- [IstiCusi/docpair.nvim](https://github.com/IstiCusi/docpair.nvim) (17)
