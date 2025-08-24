@@ -1,32 +1,32 @@
 [
   {
+    "name": "kagehq/port-kill",
+    "clone_url": "https://github.com/kagehq/port-kill.git",
+    "stars": 131,
+    "size": 265
+  },
+  {
     "name": "liseami/SwiftBits",
     "clone_url": "https://github.com/liseami/SwiftBits.git",
-    "stars": 35,
+    "stars": 39,
     "size": 130
   },
   {
     "name": "qrv0/LLM-Ripper",
     "clone_url": "https://github.com/qrv0/LLM-Ripper.git",
-    "stars": 31,
+    "stars": 34,
     "size": 218
+  },
+  {
+    "name": "nao1215/filesql",
+    "clone_url": "https://github.com/nao1215/filesql.git",
+    "stars": 29,
+    "size": 184
   },
   {
     "name": "ActiveTK/RecoveryMagic",
     "clone_url": "https://github.com/ActiveTK/RecoveryMagic.git",
-    "stars": 24,
+    "stars": 27,
     "size": 4268
-  },
-  {
-    "name": "lm0ss/loomis-head-krita",
-    "clone_url": "https://github.com/lm0ss/loomis-head-krita.git",
-    "stars": 18,
-    "size": 1230
-  },
-  {
-    "name": "IstiCusi/docpair.nvim",
-    "clone_url": "https://github.com/IstiCusi/docpair.nvim.git",
-    "stars": 17,
-    "size": 1502
   }
 ]
