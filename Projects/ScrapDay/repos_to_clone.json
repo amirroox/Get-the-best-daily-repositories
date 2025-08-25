@@ -2,31 +2,31 @@
   {
     "name": "kagehq/port-kill",
     "clone_url": "https://github.com/kagehq/port-kill.git",
-    "stars": 131,
+    "stars": 230,
     "size": 265
   },
   {
-    "name": "liseami/SwiftBits",
-    "clone_url": "https://github.com/liseami/SwiftBits.git",
-    "stars": 39,
-    "size": 130
+    "name": "siyabendoezdemir/appmafia-calai-clone",
+    "clone_url": "https://github.com/siyabendoezdemir/appmafia-calai-clone.git",
+    "stars": 41,
+    "size": 3478
   },
   {
-    "name": "qrv0/LLM-Ripper",
-    "clone_url": "https://github.com/qrv0/LLM-Ripper.git",
-    "stars": 34,
-    "size": 218
+    "name": "HybridRobotics/motion_tracking_controller",
+    "clone_url": "https://github.com/HybridRobotics/motion_tracking_controller.git",
+    "stars": 30,
+    "size": 1219
   },
   {
-    "name": "nao1215/filesql",
-    "clone_url": "https://github.com/nao1215/filesql.git",
-    "stars": 29,
-    "size": 184
+    "name": "Saganaki22/ComfyUI-ytdl_nodes",
+    "clone_url": "https://github.com/Saganaki22/ComfyUI-ytdl_nodes.git",
+    "stars": 15,
+    "size": 65
   },
   {
-    "name": "ActiveTK/RecoveryMagic",
-    "clone_url": "https://github.com/ActiveTK/RecoveryMagic.git",
-    "stars": 27,
-    "size": 4268
+    "name": "YoungLee-coder/SubMix",
+    "clone_url": "https://github.com/YoungLee-coder/SubMix.git",
+    "stars": 12,
+    "size": 164
   }
 ]
