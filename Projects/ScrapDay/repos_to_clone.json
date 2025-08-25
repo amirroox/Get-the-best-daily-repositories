@@ -2,31 +2,31 @@
   {
     "name": "kagehq/port-kill",
     "clone_url": "https://github.com/kagehq/port-kill.git",
-    "stars": 230,
+    "stars": 268,
     "size": 265
   },
   {
-    "name": "siyabendoezdemir/appmafia-calai-clone",
-    "clone_url": "https://github.com/siyabendoezdemir/appmafia-calai-clone.git",
-    "stars": 41,
-    "size": 3478
+    "name": "30phyndrismu8ij/Ethereum-BOT",
+    "clone_url": "https://github.com/30phyndrismu8ij/Ethereum-BOT.git",
+    "stars": 130,
+    "size": 81
+  },
+  {
+    "name": "ENDESGA/PEP",
+    "clone_url": "https://github.com/ENDESGA/PEP.git",
+    "stars": 119,
+    "size": 54
+  },
+  {
+    "name": "bravenewxyz/agent-c",
+    "clone_url": "https://github.com/bravenewxyz/agent-c.git",
+    "stars": 69,
+    "size": 65
   },
   {
     "name": "HybridRobotics/motion_tracking_controller",
     "clone_url": "https://github.com/HybridRobotics/motion_tracking_controller.git",
-    "stars": 30,
+    "stars": 69,
     "size": 1219
-  },
-  {
-    "name": "Saganaki22/ComfyUI-ytdl_nodes",
-    "clone_url": "https://github.com/Saganaki22/ComfyUI-ytdl_nodes.git",
-    "stars": 15,
-    "size": 65
-  },
-  {
-    "name": "YoungLee-coder/SubMix",
-    "clone_url": "https://github.com/YoungLee-coder/SubMix.git",
-    "stars": 12,
-    "size": 164
   }
 ]
