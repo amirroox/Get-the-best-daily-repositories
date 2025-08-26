@@ -2,31 +2,31 @@
   {
     "name": "bravenewxyz/agent-c",
     "clone_url": "https://github.com/bravenewxyz/agent-c.git",
-    "stars": 221,
+    "stars": 242,
     "size": 65
+  },
+  {
+    "name": "YXYAXA/yangbing_prompt",
+    "clone_url": "https://github.com/YXYAXA/yangbing_prompt.git",
+    "stars": 104,
+    "size": 51
   },
   {
     "name": "ErickWendel/semana-javascript-expert09",
     "clone_url": "https://github.com/ErickWendel/semana-javascript-expert09.git",
-    "stars": 76,
+    "stars": 93,
     "size": 3407
+  },
+  {
+    "name": "belvithmlHeo/ARBITRAGE-ETHEREUM-Instrument",
+    "clone_url": "https://github.com/belvithmlHeo/ARBITRAGE-ETHEREUM-Instrument.git",
+    "stars": 87,
+    "size": 106
   },
   {
     "name": "vyxara0JT2E/Solana-bot",
     "clone_url": "https://github.com/vyxara0JT2E/Solana-bot.git",
     "stars": 75,
-    "size": 116
-  },
-  {
-    "name": "Amery2010/midjourney-prompt-generator",
-    "clone_url": "https://github.com/Amery2010/midjourney-prompt-generator.git",
-    "stars": 37,
-    "size": 195
-  },
-  {
-    "name": "OwnGoalStudio/TrollVNC",
-    "clone_url": "https://github.com/OwnGoalStudio/TrollVNC.git",
-    "stars": 19,
-    "size": 2460
+    "size": 175
   }
 ]
