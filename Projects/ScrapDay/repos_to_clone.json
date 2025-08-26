@@ -1,32 +1,32 @@
 [
   {
-    "name": "kagehq/port-kill",
-    "clone_url": "https://github.com/kagehq/port-kill.git",
-    "stars": 268,
-    "size": 265
-  },
-  {
-    "name": "30phyndrismu8ij/Ethereum-BOT",
-    "clone_url": "https://github.com/30phyndrismu8ij/Ethereum-BOT.git",
-    "stars": 130,
-    "size": 81
-  },
-  {
-    "name": "ENDESGA/PEP",
-    "clone_url": "https://github.com/ENDESGA/PEP.git",
-    "stars": 119,
-    "size": 54
-  },
-  {
     "name": "bravenewxyz/agent-c",
     "clone_url": "https://github.com/bravenewxyz/agent-c.git",
-    "stars": 69,
+    "stars": 221,
     "size": 65
   },
   {
-    "name": "HybridRobotics/motion_tracking_controller",
-    "clone_url": "https://github.com/HybridRobotics/motion_tracking_controller.git",
-    "stars": 69,
-    "size": 1219
+    "name": "ErickWendel/semana-javascript-expert09",
+    "clone_url": "https://github.com/ErickWendel/semana-javascript-expert09.git",
+    "stars": 76,
+    "size": 3407
+  },
+  {
+    "name": "vyxara0JT2E/Solana-bot",
+    "clone_url": "https://github.com/vyxara0JT2E/Solana-bot.git",
+    "stars": 75,
+    "size": 116
+  },
+  {
+    "name": "Amery2010/midjourney-prompt-generator",
+    "clone_url": "https://github.com/Amery2010/midjourney-prompt-generator.git",
+    "stars": 37,
+    "size": 195
+  },
+  {
+    "name": "OwnGoalStudio/TrollVNC",
+    "clone_url": "https://github.com/OwnGoalStudio/TrollVNC.git",
+    "stars": 19,
+    "size": 2460
   }
 ]
