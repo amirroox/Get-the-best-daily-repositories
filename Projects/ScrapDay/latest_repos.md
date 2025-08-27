@@ -1,7 +1,7 @@
-# Latest Repositories (2025-08-24 .. 2025-08-26)
+# Latest Repositories (2025-08-25 .. 2025-08-27)
 
-- [bravenewxyz/agent-c](https://github.com/bravenewxyz/agent-c) (242)
-- [YXYAXA/yangbing_prompt](https://github.com/YXYAXA/yangbing_prompt) (104)
-- [ErickWendel/semana-javascript-expert09](https://github.com/ErickWendel/semana-javascript-expert09) (93)
-- [belvithmlHeo/ARBITRAGE-ETHEREUM-Instrument](https://github.com/belvithmlHeo/ARBITRAGE-ETHEREUM-Instrument) (87)
-- [vyxara0JT2E/Solana-bot](https://github.com/vyxara0JT2E/Solana-bot) (75)
+- [AshlirabjRVG/MEV-BOT-SMARTCONTRACT](https://github.com/AshlirabjRVG/MEV-BOT-SMARTCONTRACT) (204)
+- [YXYAXA/yangbing_prompt](https://github.com/YXYAXA/yangbing_prompt) (130)
+- [Nasogaa/immich-drop](https://github.com/Nasogaa/immich-drop) (69)
+- [Nonanti/MathFlow](https://github.com/Nonanti/MathFlow) (42)
+- [vakovalskii/sgr-deep-research](https://github.com/vakovalskii/sgr-deep-research) (24)
