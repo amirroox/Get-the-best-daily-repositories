@@ -1,7 +1,7 @@
-# Latest Repositories (2025-08-25 .. 2025-08-27)
+# Latest Repositories (2025-08-26 .. 2025-08-28)
 
-- [YXYAXA/yangbing_prompt](https://github.com/YXYAXA/yangbing_prompt) (160)
-- [Nasogaa/immich-drop](https://github.com/Nasogaa/immich-drop) (86)
-- [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server) (72)
-- [vakovalskii/sgr-deep-research](https://github.com/vakovalskii/sgr-deep-research) (42)
-- [iilegacyyii/gdbw](https://github.com/iilegacyyii/gdbw) (26)
+- [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster) (404)
+- [polaroi8d/cactoide](https://github.com/polaroi8d/cactoide) (60)
+- [polamoros/home-assistant-cards](https://github.com/polamoros/home-assistant-cards) (49)
+- [iilegacyyii/gdbw](https://github.com/iilegacyyii/gdbw) (41)
+- [evilmartians/callback_hell](https://github.com/evilmartians/callback_hell) (39)
