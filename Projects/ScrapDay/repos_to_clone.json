@@ -2,31 +2,31 @@
   {
     "name": "renzorlive/vimmaster",
     "clone_url": "https://github.com/renzorlive/vimmaster.git",
-    "stars": 404,
-    "size": 102
+    "stars": 740,
+    "size": 1184
   },
   {
     "name": "polaroi8d/cactoide",
     "clone_url": "https://github.com/polaroi8d/cactoide.git",
-    "stars": 60,
+    "stars": 126,
     "size": 138
   },
   {
-    "name": "polamoros/home-assistant-cards",
-    "clone_url": "https://github.com/polamoros/home-assistant-cards.git",
-    "stars": 49,
-    "size": 2734
-  },
-  {
-    "name": "iilegacyyii/gdbw",
-    "clone_url": "https://github.com/iilegacyyii/gdbw.git",
-    "stars": 41,
-    "size": 4659
+    "name": "Xuanwo/acp-claude-code",
+    "clone_url": "https://github.com/Xuanwo/acp-claude-code.git",
+    "stars": 105,
+    "size": 519
   },
   {
     "name": "evilmartians/callback_hell",
     "clone_url": "https://github.com/evilmartians/callback_hell.git",
-    "stars": 39,
+    "stars": 64,
     "size": 144
+  },
+  {
+    "name": "polamoros/home-assistant-cards",
+    "clone_url": "https://github.com/polamoros/home-assistant-cards.git",
+    "stars": 63,
+    "size": 2734
   }
 ]
