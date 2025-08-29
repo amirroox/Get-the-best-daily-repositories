@@ -1,32 +1,32 @@
 [
   {
-    "name": "xsenon2ov/USDT-Flash-Flasher",
-    "clone_url": "https://github.com/xsenon2ov/USDT-Flash-Flasher.git",
-    "stars": 77,
-    "size": 380
-  },
-  {
-    "name": "evalops/cognitive-dissonance-dspy",
-    "clone_url": "https://github.com/evalops/cognitive-dissonance-dspy.git",
-    "stars": 57,
-    "size": 229
-  },
-  {
-    "name": "Hugo-Dz/exe",
-    "clone_url": "https://github.com/Hugo-Dz/exe.git",
-    "stars": 50,
-    "size": 474
+    "name": "CodeGoat24/Pref-GRPO",
+    "clone_url": "https://github.com/CodeGoat24/Pref-GRPO.git",
+    "stars": 71,
+    "size": 4415
   },
   {
     "name": "sbcheng/dixiagongcheng",
     "clone_url": "https://github.com/sbcheng/dixiagongcheng.git",
-    "stars": 36,
+    "stars": 71,
     "size": 218
   },
   {
-    "name": "lzA6/web-js",
-    "clone_url": "https://github.com/lzA6/web-js.git",
-    "stars": 21,
-    "size": 68
+    "name": "Hugo-Dz/exe",
+    "clone_url": "https://github.com/Hugo-Dz/exe.git",
+    "stars": 64,
+    "size": 476
+  },
+  {
+    "name": "evalops/cognitive-dissonance-dspy",
+    "clone_url": "https://github.com/evalops/cognitive-dissonance-dspy.git",
+    "stars": 64,
+    "size": 229
+  },
+  {
+    "name": "CodeGoat24/UniGenBench",
+    "clone_url": "https://github.com/CodeGoat24/UniGenBench.git",
+    "stars": 33,
+    "size": 2880
   }
 ]
