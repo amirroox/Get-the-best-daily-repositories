@@ -1,7 +1,7 @@
-# Latest Repositories (2025-08-26 .. 2025-08-28)
+# Latest Repositories (2025-08-27 .. 2025-08-29)
 
-- [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster) (740)
-- [polaroi8d/cactoide](https://github.com/polaroi8d/cactoide) (126)
-- [Xuanwo/acp-claude-code](https://github.com/Xuanwo/acp-claude-code) (105)
-- [evilmartians/callback_hell](https://github.com/evilmartians/callback_hell) (64)
-- [polamoros/home-assistant-cards](https://github.com/polamoros/home-assistant-cards) (63)
+- [xsenon2ov/USDT-Flash-Flasher](https://github.com/xsenon2ov/USDT-Flash-Flasher) (77)
+- [evalops/cognitive-dissonance-dspy](https://github.com/evalops/cognitive-dissonance-dspy) (57)
+- [Hugo-Dz/exe](https://github.com/Hugo-Dz/exe) (50)
+- [sbcheng/dixiagongcheng](https://github.com/sbcheng/dixiagongcheng) (36)
+- [lzA6/web-js](https://github.com/lzA6/web-js) (21)
