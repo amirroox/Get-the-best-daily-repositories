@@ -2,7 +2,7 @@
   {
     "name": "ox1nec/NaorisProtocol-bot",
     "clone_url": "https://github.com/ox1nec/NaorisProtocol-bot.git",
-    "stars": 97,
+    "stars": 107,
     "size": 838
   },
   {
@@ -14,19 +14,19 @@
   {
     "name": "JustLookAtNow/flutter_application_m_team",
     "clone_url": "https://github.com/JustLookAtNow/flutter_application_m_team.git",
-    "stars": 36,
-    "size": 1295
+    "stars": 49,
+    "size": 1345
   },
   {
-    "name": "blade47/shadowgit-mcp",
-    "clone_url": "https://github.com/blade47/shadowgit-mcp.git",
-    "stars": 28,
-    "size": 77
+    "name": "ox1nec/AutoStaking-bot",
+    "clone_url": "https://github.com/ox1nec/AutoStaking-bot.git",
+    "stars": 44,
+    "size": 835
   },
   {
-    "name": "BlueprintLabIO/prompt-injector",
-    "clone_url": "https://github.com/BlueprintLabIO/prompt-injector.git",
-    "stars": 25,
-    "size": 378
+    "name": "ox1nec/XosTestnet-bot",
+    "clone_url": "https://github.com/ox1nec/XosTestnet-bot.git",
+    "stars": 42,
+    "size": 835
   }
 ]
