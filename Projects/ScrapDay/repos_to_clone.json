@@ -2,31 +2,31 @@
   {
     "name": "enetx/surf",
     "clone_url": "https://github.com/enetx/surf.git",
-    "stars": 69,
+    "stars": 87,
     "size": 111
   },
   {
     "name": "tahayvr/omarchist",
     "clone_url": "https://github.com/tahayvr/omarchist.git",
-    "stars": 44,
-    "size": 2751
+    "stars": 71,
+    "size": 2770
   },
   {
     "name": "NilsSlui/csv-worldmap",
     "clone_url": "https://github.com/NilsSlui/csv-worldmap.git",
-    "stars": 32,
+    "stars": 36,
     "size": 301
   },
   {
-    "name": "benjiann/NewsFocus",
-    "clone_url": "https://github.com/benjiann/NewsFocus.git",
-    "stars": 21,
-    "size": 84
+    "name": "xaitax/NTSleuth",
+    "clone_url": "https://github.com/xaitax/NTSleuth.git",
+    "stars": 32,
+    "size": 228
   },
   {
-    "name": "Piotr1215/beam.nvim",
-    "clone_url": "https://github.com/Piotr1215/beam.nvim.git",
-    "stars": 21,
-    "size": 112
+    "name": "Dicklesworthstone/kissinger_undergraduate_thesis",
+    "clone_url": "https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis.git",
+    "stars": 28,
+    "size": 3186
   }
 ]
