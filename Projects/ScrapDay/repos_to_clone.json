@@ -1,32 +1,32 @@
 [
   {
+    "name": "0xalberto/bonkfun-sniper-grpc",
+    "clone_url": "https://github.com/0xalberto/bonkfun-sniper-grpc.git",
+    "stars": 59,
+    "size": 2310
+  },
+  {
     "name": "hasaneyldrm/reactnativecliboilerplate",
     "clone_url": "https://github.com/hasaneyldrm/reactnativecliboilerplate.git",
-    "stars": 30,
+    "stars": 37,
     "size": 368
+  },
+  {
+    "name": "xn1cklas/ai-tools-registry",
+    "clone_url": "https://github.com/xn1cklas/ai-tools-registry.git",
+    "stars": 36,
+    "size": 1905
+  },
+  {
+    "name": "dexter-xD/loom",
+    "clone_url": "https://github.com/dexter-xD/loom.git",
+    "stars": 27,
+    "size": 1569
   },
   {
     "name": "mooncitydev/solana-arbitrage-bot-master",
     "clone_url": "https://github.com/mooncitydev/solana-arbitrage-bot-master.git",
-    "stars": 21,
+    "stars": 26,
     "size": 51
-  },
-  {
-    "name": "SovereignSatellite/Spider",
-    "clone_url": "https://github.com/SovereignSatellite/Spider.git",
-    "stars": 17,
-    "size": 130
-  },
-  {
-    "name": "Yaazarai/Volumetric-HRC",
-    "clone_url": "https://github.com/Yaazarai/Volumetric-HRC.git",
-    "stars": 17,
-    "size": 92
-  },
-  {
-    "name": "vvincent1234/VibeSurf",
-    "clone_url": "https://github.com/vvincent1234/VibeSurf.git",
-    "stars": 16,
-    "size": 869
   }
 ]
