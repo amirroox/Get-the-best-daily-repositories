@@ -1,32 +1,32 @@
 [
   {
+    "name": "the-litte-book-of/linear-algebra",
+    "clone_url": "https://github.com/the-litte-book-of/linear-algebra.git",
+    "stars": 576,
+    "size": 524
+  },
+  {
     "name": "TGTools-Free/TG-Adding-Scrapping-FREE-2025",
     "clone_url": "https://github.com/TGTools-Free/TG-Adding-Scrapping-FREE-2025.git",
-    "stars": 79,
+    "stars": 221,
     "size": 397
   },
   {
-    "name": "Lakr233/iphone-mcp",
-    "clone_url": "https://github.com/Lakr233/iphone-mcp.git",
-    "stars": 50,
-    "size": 241
+    "name": "callstack/liquid-glass",
+    "clone_url": "https://github.com/callstack/liquid-glass.git",
+    "stars": 75,
+    "size": 3907
   },
   {
-    "name": "ASLP-lab/WenetSpeech-Yue",
-    "clone_url": "https://github.com/ASLP-lab/WenetSpeech-Yue.git",
-    "stars": 44,
-    "size": 4616
+    "name": "mandatoryprogrammer/thermoptic",
+    "clone_url": "https://github.com/mandatoryprogrammer/thermoptic.git",
+    "stars": 74,
+    "size": 3674
   },
   {
-    "name": "HM-RunningHub/ComfyUI_RH_USO",
-    "clone_url": "https://github.com/HM-RunningHub/ComfyUI_RH_USO.git",
-    "stars": 34,
-    "size": 50
-  },
-  {
-    "name": "NSHipster/sosumi.ai",
-    "clone_url": "https://github.com/NSHipster/sosumi.ai.git",
-    "stars": 32,
-    "size": 190
+    "name": "hackclub/identity-vault",
+    "clone_url": "https://github.com/hackclub/identity-vault.git",
+    "stars": 22,
+    "size": 622
   }
 ]
