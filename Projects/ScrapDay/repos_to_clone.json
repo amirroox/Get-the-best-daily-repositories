@@ -1,32 +1,32 @@
 [
   {
-    "name": "KnightSans/TG-Scrap-Add-FREE",
-    "clone_url": "https://github.com/KnightSans/TG-Scrap-Add-FREE.git",
-    "stars": 95,
-    "size": 397
+    "name": "reylinux/Material-Design-3-Dynamic-Dashboard",
+    "clone_url": "https://github.com/reylinux/Material-Design-3-Dynamic-Dashboard.git",
+    "stars": 139,
+    "size": 505
+  },
+  {
+    "name": "qnguyen3/docpixie",
+    "clone_url": "https://github.com/qnguyen3/docpixie.git",
+    "stars": 84,
+    "size": 3690
   },
   {
     "name": "h9-tec/AI_money",
     "clone_url": "https://github.com/h9-tec/AI_money.git",
-    "stars": 46,
+    "stars": 57,
     "size": 76
   },
   {
-    "name": "midudev/zombie-game-gemini-flash",
-    "clone_url": "https://github.com/midudev/zombie-game-gemini-flash.git",
-    "stars": 42,
-    "size": 94
-  },
-  {
-    "name": "rougier/buffer-box",
-    "clone_url": "https://github.com/rougier/buffer-box.git",
-    "stars": 26,
-    "size": 916
+    "name": "haasonsaas/dspy-0to1-guide",
+    "clone_url": "https://github.com/haasonsaas/dspy-0to1-guide.git",
+    "stars": 55,
+    "size": 95
   },
   {
     "name": "heliusdevlabs/pumpfun-bundler-stealth-mode",
     "clone_url": "https://github.com/heliusdevlabs/pumpfun-bundler-stealth-mode.git",
-    "stars": 24,
+    "stars": 53,
     "size": 53
   }
 ]
