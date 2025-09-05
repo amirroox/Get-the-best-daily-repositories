@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-02 .. 2025-09-04)
+# Latest Repositories (2025-09-03 .. 2025-09-05)
 
-- [reylinux/Material-Design-3-Dynamic-Dashboard](https://github.com/reylinux/Material-Design-3-Dynamic-Dashboard) (139)
-- [qnguyen3/docpixie](https://github.com/qnguyen3/docpixie) (84)
-- [h9-tec/AI_money](https://github.com/h9-tec/AI_money) (57)
-- [haasonsaas/dspy-0to1-guide](https://github.com/haasonsaas/dspy-0to1-guide) (55)
-- [heliusdevlabs/pumpfun-bundler-stealth-mode](https://github.com/heliusdevlabs/pumpfun-bundler-stealth-mode) (53)
+- [haasonsaas/dspy-0to1-guide](https://github.com/haasonsaas/dspy-0to1-guide) (70)
+- [woad76/USDT-Flash-Flasher](https://github.com/woad76/USDT-Flash-Flasher) (44)
+- [chflame163/kontext_hires](https://github.com/chflame163/kontext_hires) (36)
+- [OftenS25/Telegram-Users-Adding-Free](https://github.com/OftenS25/Telegram-Users-Adding-Free) (24)
+- [giba0/awesome-zed](https://github.com/giba0/awesome-zed) (23)
