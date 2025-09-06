@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-03 .. 2025-09-05)
+# Latest Repositories (2025-09-04 .. 2025-09-06)
 
-- [haasonsaas/dspy-0to1-guide](https://github.com/haasonsaas/dspy-0to1-guide) (82)
-- [chflame163/kontext_hires](https://github.com/chflame163/kontext_hires) (47)
-- [GeekyWizKid/GJavaDoc](https://github.com/GeekyWizKid/GJavaDoc) (39)
-- [giba0/awesome-zed](https://github.com/giba0/awesome-zed) (37)
-- [roseforyou/ZtoApi](https://github.com/roseforyou/ZtoApi) (35)
+- [roseforyou/ZtoApi](https://github.com/roseforyou/ZtoApi) (63)
+- [basketballguy999/Quantum-Mechanics-Concise-Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book) (38)
+- [Haydeeberg/Sender](https://github.com/Haydeeberg/Sender) (30)
+- [thaitype/thaitype-stack-mongodb-template](https://github.com/thaitype/thaitype-stack-mongodb-template) (26)
+- [PushFarT/Add-Members-Telegram-FREE](https://github.com/PushFarT/Add-Members-Telegram-FREE) (25)

@@ -1,32 +1,32 @@
 [
   {
-    "name": "haasonsaas/dspy-0to1-guide",
-    "clone_url": "https://github.com/haasonsaas/dspy-0to1-guide.git",
-    "stars": 82,
-    "size": 95
-  },
-  {
-    "name": "chflame163/kontext_hires",
-    "clone_url": "https://github.com/chflame163/kontext_hires.git",
-    "stars": 47,
-    "size": 893
-  },
-  {
-    "name": "GeekyWizKid/GJavaDoc",
-    "clone_url": "https://github.com/GeekyWizKid/GJavaDoc.git",
-    "stars": 39,
-    "size": 229
-  },
-  {
-    "name": "giba0/awesome-zed",
-    "clone_url": "https://github.com/giba0/awesome-zed.git",
-    "stars": 37,
-    "size": 165
-  },
-  {
     "name": "roseforyou/ZtoApi",
     "clone_url": "https://github.com/roseforyou/ZtoApi.git",
-    "stars": 35,
+    "stars": 63,
     "size": 61
+  },
+  {
+    "name": "basketballguy999/Quantum-Mechanics-Concise-Book",
+    "clone_url": "https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book.git",
+    "stars": 38,
+    "size": 954
+  },
+  {
+    "name": "Haydeeberg/Sender",
+    "clone_url": "https://github.com/Haydeeberg/Sender.git",
+    "stars": 30,
+    "size": 1836
+  },
+  {
+    "name": "thaitype/thaitype-stack-mongodb-template",
+    "clone_url": "https://github.com/thaitype/thaitype-stack-mongodb-template.git",
+    "stars": 26,
+    "size": 151
+  },
+  {
+    "name": "PushFarT/Add-Members-Telegram-FREE",
+    "clone_url": "https://github.com/PushFarT/Add-Members-Telegram-FREE.git",
+    "stars": 25,
+    "size": 398
   }
 ]
