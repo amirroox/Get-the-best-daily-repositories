@@ -1,7 +1,7 @@
 # Latest Repositories (2025-09-06 .. 2025-09-08)
 
-- [emarpiee/Retroma](https://github.com/emarpiee/Retroma) (61)
-- [Agelasa/Telegram-Adding-Members-Free](https://github.com/Agelasa/Telegram-Adding-Members-Free) (19)
-- [Jakkiis/Telegram-Members-Adding-Tool-FREE](https://github.com/Jakkiis/Telegram-Members-Adding-Tool-FREE) (18)
-- [Archetapp/Tray](https://github.com/Archetapp/Tray) (16)
-- [micklynch/proxmox-ram-monitor](https://github.com/micklynch/proxmox-ram-monitor) (13)
+- [emarpiee/Retroma](https://github.com/emarpiee/Retroma) (79)
+- [oxbshw/LLM-Agents-Ecosystem-Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook) (51)
+- [greatclock/w-framework](https://github.com/greatclock/w-framework) (37)
+- [TheAuditorTool/Auditor](https://github.com/TheAuditorTool/Auditor) (29)
+- [xn1cklas/tokenlens](https://github.com/xn1cklas/tokenlens) (28)
