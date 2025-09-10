@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-07 .. 2025-09-09)
+# Latest Repositories (2025-09-08 .. 2025-09-10)
 
-- [oxbshw/LLM-Agents-Ecosystem-Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook) (110)
-- [maykonsousa/task-control](https://github.com/maykonsousa/task-control) (51)
-- [ai-auto-register/Warp2Api](https://github.com/ai-auto-register/Warp2Api) (32)
-- [ecoflow-ai/bess-benchmark](https://github.com/ecoflow-ai/bess-benchmark) (27)
-- [AMAP-ML/DSFNet](https://github.com/AMAP-ML/DSFNet) (26)
+- [forasoft/video-testing-tool](https://github.com/forasoft/video-testing-tool) (72)
+- [naugtur/running-qix-malware](https://github.com/naugtur/running-qix-malware) (38)
+- [evalops/dspy-micro-agent](https://github.com/evalops/dspy-micro-agent) (38)
+- [cmliu/CF-Workers-BPSUB](https://github.com/cmliu/CF-Workers-BPSUB) (31)
+- [AMAP-ML/DSFNet](https://github.com/AMAP-ML/DSFNet) (28)
