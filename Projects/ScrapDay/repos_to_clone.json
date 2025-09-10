@@ -2,31 +2,31 @@
   {
     "name": "forasoft/video-testing-tool",
     "clone_url": "https://github.com/forasoft/video-testing-tool.git",
-    "stars": 72,
+    "stars": 156,
     "size": 401
   },
   {
     "name": "naugtur/running-qix-malware",
     "clone_url": "https://github.com/naugtur/running-qix-malware.git",
-    "stars": 38,
+    "stars": 41,
     "size": 281
   },
   {
     "name": "evalops/dspy-micro-agent",
     "clone_url": "https://github.com/evalops/dspy-micro-agent.git",
-    "stars": 38,
+    "stars": 41,
     "size": 143
   },
   {
     "name": "cmliu/CF-Workers-BPSUB",
     "clone_url": "https://github.com/cmliu/CF-Workers-BPSUB.git",
-    "stars": 31,
+    "stars": 36,
     "size": 169
   },
   {
-    "name": "AMAP-ML/DSFNet",
-    "clone_url": "https://github.com/AMAP-ML/DSFNet.git",
-    "stars": 28,
-    "size": 2859
+    "name": "TencentCloud/terraform-provider-tencentcloudenterprise",
+    "clone_url": "https://github.com/TencentCloud/terraform-provider-tencentcloudenterprise.git",
+    "stars": 36,
+    "size": 4739
   }
 ]
