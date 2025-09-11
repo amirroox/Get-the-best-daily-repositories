@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-08 .. 2025-09-10)
+# Latest Repositories (2025-09-09 .. 2025-09-11)
 
-- [forasoft/video-testing-tool](https://github.com/forasoft/video-testing-tool) (156)
-- [naugtur/running-qix-malware](https://github.com/naugtur/running-qix-malware) (41)
-- [evalops/dspy-micro-agent](https://github.com/evalops/dspy-micro-agent) (41)
-- [cmliu/CF-Workers-BPSUB](https://github.com/cmliu/CF-Workers-BPSUB) (36)
-- [TencentCloud/terraform-provider-tencentcloudenterprise](https://github.com/TencentCloud/terraform-provider-tencentcloudenterprise) (36)
+- [arkedge/monazite](https://github.com/arkedge/monazite) (23)
+- [fayazara/twitter-ai-agent](https://github.com/fayazara/twitter-ai-agent) (17)
+- [DEFENSE-SEU/Code2MCP](https://github.com/DEFENSE-SEU/Code2MCP) (16)
+- [knokaaa/Discord-Osint-Multitool](https://github.com/knokaaa/Discord-Osint-Multitool) (12)
+- [yutiansut/qaopenmdgateway](https://github.com/yutiansut/qaopenmdgateway) (11)
