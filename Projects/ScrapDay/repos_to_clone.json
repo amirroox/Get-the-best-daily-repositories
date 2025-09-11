@@ -1,32 +1,32 @@
 [
   {
-    "name": "arkedge/monazite",
-    "clone_url": "https://github.com/arkedge/monazite.git",
-    "stars": 23,
-    "size": 744
+    "name": "indragiek/uniprof",
+    "clone_url": "https://github.com/indragiek/uniprof.git",
+    "stars": 59,
+    "size": 1768
   },
   {
-    "name": "fayazara/twitter-ai-agent",
-    "clone_url": "https://github.com/fayazara/twitter-ai-agent.git",
-    "stars": 17,
-    "size": 183
+    "name": "midday-ai/ai-sdk-devtools",
+    "clone_url": "https://github.com/midday-ai/ai-sdk-devtools.git",
+    "stars": 31,
+    "size": 426
+  },
+  {
+    "name": "arkedge/monazite",
+    "clone_url": "https://github.com/arkedge/monazite.git",
+    "stars": 29,
+    "size": 744
   },
   {
     "name": "DEFENSE-SEU/Code2MCP",
     "clone_url": "https://github.com/DEFENSE-SEU/Code2MCP.git",
-    "stars": 16,
+    "stars": 26,
     "size": 252
   },
   {
-    "name": "knokaaa/Discord-Osint-Multitool",
-    "clone_url": "https://github.com/knokaaa/Discord-Osint-Multitool.git",
-    "stars": 12,
-    "size": 3395
-  },
-  {
-    "name": "yutiansut/qaopenmdgateway",
-    "clone_url": "https://github.com/yutiansut/qaopenmdgateway.git",
-    "stars": 11,
-    "size": 2848
+    "name": "fayazara/twitter-ai-agent",
+    "clone_url": "https://github.com/fayazara/twitter-ai-agent.git",
+    "stars": 18,
+    "size": 183
   }
 ]
