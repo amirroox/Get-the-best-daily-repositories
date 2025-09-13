@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-10 .. 2025-09-12)
+# Latest Repositories (2025-09-11 .. 2025-09-13)
 
-- [iannuttall/fartscroll-lid](https://github.com/iannuttall/fartscroll-lid) (232)
-- [luis22d/ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026) (173)
-- [jacobsonnora202/SimpleMenu](https://github.com/jacobsonnora202/SimpleMenu) (53)
-- [rongyaofang/prism-bench](https://github.com/rongyaofang/prism-bench) (36)
-- [vakovalskii/searxng-docker-tavily-adapter](https://github.com/vakovalskii/searxng-docker-tavily-adapter) (34)
+- [luis22d/ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026) (354)
+- [plutov/oq](https://github.com/plutov/oq) (273)
+- [ScriptedAlchemy/devtools-debugger-mcp](https://github.com/ScriptedAlchemy/devtools-debugger-mcp) (110)
+- [CassiopeiaCode/TenCyclesofFate](https://github.com/CassiopeiaCode/TenCyclesofFate) (34)
+- [SapphoSys/tailname](https://github.com/SapphoSys/tailname) (17)
