@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-11 .. 2025-09-13)
+# Latest Repositories (2025-09-12 .. 2025-09-14)
 
-- [luis22d/ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026) (393)
-- [plutov/oq](https://github.com/plutov/oq) (347)
-- [ScriptedAlchemy/devtools-debugger-mcp](https://github.com/ScriptedAlchemy/devtools-debugger-mcp) (176)
-- [jonathanwithagen/valorant-simple-menu](https://github.com/jonathanwithagen/valorant-simple-menu) (52)
-- [straatmanmarget/FortniteSimple](https://github.com/straatmanmarget/FortniteSimple) (49)
+- [SaltyAom/elden-github](https://github.com/SaltyAom/elden-github) (189)
+- [gavinmn/iOSAppMeshTransform](https://github.com/gavinmn/iOSAppMeshTransform) (67)
+- [thehijacker/ESPHome-E-Ink-Weather-Calendar-Wall-Monitor](https://github.com/thehijacker/ESPHome-E-Ink-Weather-Calendar-Wall-Monitor) (26)
+- [Jitendra2407/apt_assignment](https://github.com/Jitendra2407/apt_assignment) (20)
+- [yeahhe365/PageTalk](https://github.com/yeahhe365/PageTalk) (19)
