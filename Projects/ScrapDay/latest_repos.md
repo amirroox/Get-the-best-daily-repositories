@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-14 .. 2025-09-16)
+# Latest Repositories (2025-09-15 .. 2025-09-17)
 
-- [current-ai-llc/dsts](https://github.com/current-ai-llc/dsts) (40)
-- [0xKronus/SOLANA_SNIPER_BOT](https://github.com/0xKronus/SOLANA_SNIPER_BOT) (32)
-- [dsekz/botguard-reverse](https://github.com/dsekz/botguard-reverse) (25)
-- [Pimzino/anthropic-claude-max-proxy](https://github.com/Pimzino/anthropic-claude-max-proxy) (24)
-- [sinanurun/TechIstanbul_Python_Bootcamp](https://github.com/sinanurun/TechIstanbul_Python_Bootcamp) (21)
+- [danielroe/provenance-action](https://github.com/danielroe/provenance-action) (164)
+- [voicepowered-ai/VibeVoice-finetuning](https://github.com/voicepowered-ai/VibeVoice-finetuning) (80)
+- [EvolvingLMMs-Lab/LLaVA-OneVision-1.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) (68)
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) (47)
+- [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) (46)
