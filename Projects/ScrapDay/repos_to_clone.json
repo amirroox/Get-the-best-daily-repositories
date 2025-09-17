@@ -1,32 +1,32 @@
 [
   {
+    "name": "torvalds/GuitarPedal",
+    "clone_url": "https://github.com/torvalds/GuitarPedal.git",
+    "stars": 228,
+    "size": 322
+  },
+  {
+    "name": "Zephkek/Asus-ROG-Aml-Deep-Dive",
+    "clone_url": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive.git",
+    "stars": 214,
+    "size": 1456
+  },
+  {
     "name": "danielroe/provenance-action",
     "clone_url": "https://github.com/danielroe/provenance-action.git",
-    "stars": 164,
+    "stars": 201,
     "size": 83
-  },
-  {
-    "name": "voicepowered-ai/VibeVoice-finetuning",
-    "clone_url": "https://github.com/voicepowered-ai/VibeVoice-finetuning.git",
-    "stars": 80,
-    "size": 189
-  },
-  {
-    "name": "EvolvingLMMs-Lab/LLaVA-OneVision-1.5",
-    "clone_url": "https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5.git",
-    "stars": 68,
-    "size": 2637
   },
   {
     "name": "OpenBMB/VoxCPM",
     "clone_url": "https://github.com/OpenBMB/VoxCPM.git",
-    "stars": 47,
-    "size": 1488
+    "stars": 159,
+    "size": 1507
   },
   {
-    "name": "torvalds/GuitarPedal",
-    "clone_url": "https://github.com/torvalds/GuitarPedal.git",
-    "stars": 46,
-    "size": 322
+    "name": "EvolvingLMMs-Lab/LLaVA-OneVision-1.5",
+    "clone_url": "https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5.git",
+    "stars": 134,
+    "size": 2643
   }
 ]
