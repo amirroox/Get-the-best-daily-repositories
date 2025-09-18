@@ -2,20 +2,20 @@
   {
     "name": "torvalds/GuitarPedal",
     "clone_url": "https://github.com/torvalds/GuitarPedal.git",
-    "stars": 340,
+    "stars": 409,
     "size": 1853
-  },
-  {
-    "name": "pingooio/pingoo",
-    "clone_url": "https://github.com/pingooio/pingoo.git",
-    "stars": 94,
-    "size": 293
   },
   {
     "name": "comfy-deploy/comfydeploy",
     "clone_url": "https://github.com/comfy-deploy/comfydeploy.git",
-    "stars": 87,
+    "stars": 240,
     "size": 323
+  },
+  {
+    "name": "pingooio/pingoo",
+    "clone_url": "https://github.com/pingooio/pingoo.git",
+    "stars": 122,
+    "size": 331
   },
   {
     "name": "darklight797t6/TradingView-PCapp",
@@ -24,9 +24,9 @@
     "size": 1463
   },
   {
-    "name": "iluxu/Trotski",
-    "clone_url": "https://github.com/iluxu/Trotski.git",
-    "stars": 14,
-    "size": 59
+    "name": "Aihy/CLOV",
+    "clone_url": "https://github.com/Aihy/CLOV.git",
+    "stars": 27,
+    "size": 2988
   }
 ]
