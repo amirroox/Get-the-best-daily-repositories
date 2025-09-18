@@ -2,31 +2,31 @@
   {
     "name": "torvalds/GuitarPedal",
     "clone_url": "https://github.com/torvalds/GuitarPedal.git",
-    "stars": 228,
-    "size": 322
+    "stars": 340,
+    "size": 1853
   },
   {
-    "name": "Zephkek/Asus-ROG-Aml-Deep-Dive",
-    "clone_url": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive.git",
-    "stars": 214,
-    "size": 1456
+    "name": "pingooio/pingoo",
+    "clone_url": "https://github.com/pingooio/pingoo.git",
+    "stars": 94,
+    "size": 293
   },
   {
-    "name": "danielroe/provenance-action",
-    "clone_url": "https://github.com/danielroe/provenance-action.git",
-    "stars": 201,
-    "size": 83
+    "name": "comfy-deploy/comfydeploy",
+    "clone_url": "https://github.com/comfy-deploy/comfydeploy.git",
+    "stars": 87,
+    "size": 323
   },
   {
-    "name": "OpenBMB/VoxCPM",
-    "clone_url": "https://github.com/OpenBMB/VoxCPM.git",
-    "stars": 159,
-    "size": 1507
+    "name": "darklight797t6/TradingView-PCapp",
+    "clone_url": "https://github.com/darklight797t6/TradingView-PCapp.git",
+    "stars": 55,
+    "size": 1463
   },
   {
-    "name": "EvolvingLMMs-Lab/LLaVA-OneVision-1.5",
-    "clone_url": "https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5.git",
-    "stars": 134,
-    "size": 2643
+    "name": "iluxu/Trotski",
+    "clone_url": "https://github.com/iluxu/Trotski.git",
+    "stars": 14,
+    "size": 59
   }
 ]

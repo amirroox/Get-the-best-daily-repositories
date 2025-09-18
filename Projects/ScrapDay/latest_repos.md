@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-15 .. 2025-09-17)
+# Latest Repositories (2025-09-16 .. 2025-09-18)
 
-- [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) (228)
-- [Zephkek/Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) (214)
-- [danielroe/provenance-action](https://github.com/danielroe/provenance-action) (201)
-- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) (159)
-- [EvolvingLMMs-Lab/LLaVA-OneVision-1.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) (134)
+- [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) (340)
+- [pingooio/pingoo](https://github.com/pingooio/pingoo) (94)
+- [comfy-deploy/comfydeploy](https://github.com/comfy-deploy/comfydeploy) (87)
+- [darklight797t6/TradingView-PCapp](https://github.com/darklight797t6/TradingView-PCapp) (55)
+- [iluxu/Trotski](https://github.com/iluxu/Trotski) (14)
