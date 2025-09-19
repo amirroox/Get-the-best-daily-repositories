@@ -2,31 +2,31 @@
   {
     "name": "dis0rder0x00/obex",
     "clone_url": "https://github.com/dis0rder0x00/obex.git",
-    "stars": 31,
+    "stars": 59,
     "size": 234
-  },
-  {
-    "name": "InternRobotics/InternVLA-A1",
-    "clone_url": "https://github.com/InternRobotics/InternVLA-A1.git",
-    "stars": 20,
-    "size": 437
   },
   {
     "name": "XiaomiMiMo/MiMo-Audio-Tokenizer",
     "clone_url": "https://github.com/XiaomiMiMo/MiMo-Audio-Tokenizer.git",
-    "stars": 15,
-    "size": 2086
+    "stars": 57,
+    "size": 2091
+  },
+  {
+    "name": "crutchcorn/sync-skeleton",
+    "clone_url": "https://github.com/crutchcorn/sync-skeleton.git",
+    "stars": 43,
+    "size": 539
+  },
+  {
+    "name": "InternRobotics/InternVLA-A1",
+    "clone_url": "https://github.com/InternRobotics/InternVLA-A1.git",
+    "stars": 27,
+    "size": 437
   },
   {
     "name": "ardakazanci/LiquidGlass-JetpackCompose",
     "clone_url": "https://github.com/ardakazanci/LiquidGlass-JetpackCompose.git",
-    "stars": 13,
-    "size": 585
-  },
-  {
-    "name": "stream-sec/cdrgoat",
-    "clone_url": "https://github.com/stream-sec/cdrgoat.git",
-    "stars": 13,
-    "size": 1396
+    "stars": 26,
+    "size": 587
   }
 ]
