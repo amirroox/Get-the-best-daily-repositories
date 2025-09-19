@@ -1,32 +1,32 @@
 [
   {
-    "name": "torvalds/GuitarPedal",
-    "clone_url": "https://github.com/torvalds/GuitarPedal.git",
-    "stars": 409,
-    "size": 1853
+    "name": "dis0rder0x00/obex",
+    "clone_url": "https://github.com/dis0rder0x00/obex.git",
+    "stars": 31,
+    "size": 234
   },
   {
-    "name": "comfy-deploy/comfydeploy",
-    "clone_url": "https://github.com/comfy-deploy/comfydeploy.git",
-    "stars": 240,
-    "size": 323
+    "name": "InternRobotics/InternVLA-A1",
+    "clone_url": "https://github.com/InternRobotics/InternVLA-A1.git",
+    "stars": 20,
+    "size": 437
   },
   {
-    "name": "pingooio/pingoo",
-    "clone_url": "https://github.com/pingooio/pingoo.git",
-    "stars": 122,
-    "size": 331
+    "name": "XiaomiMiMo/MiMo-Audio-Tokenizer",
+    "clone_url": "https://github.com/XiaomiMiMo/MiMo-Audio-Tokenizer.git",
+    "stars": 15,
+    "size": 2086
   },
   {
-    "name": "darklight797t6/TradingView-PCapp",
-    "clone_url": "https://github.com/darklight797t6/TradingView-PCapp.git",
-    "stars": 55,
-    "size": 1463
+    "name": "ardakazanci/LiquidGlass-JetpackCompose",
+    "clone_url": "https://github.com/ardakazanci/LiquidGlass-JetpackCompose.git",
+    "stars": 13,
+    "size": 585
   },
   {
-    "name": "Aihy/CLOV",
-    "clone_url": "https://github.com/Aihy/CLOV.git",
-    "stars": 27,
-    "size": 2988
+    "name": "stream-sec/cdrgoat",
+    "clone_url": "https://github.com/stream-sec/cdrgoat.git",
+    "stars": 13,
+    "size": 1396
   }
 ]
