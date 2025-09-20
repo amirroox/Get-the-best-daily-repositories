@@ -8,25 +8,25 @@
   {
     "name": "bestK/wxkfbot",
     "clone_url": "https://github.com/bestK/wxkfbot.git",
-    "stars": 35,
+    "stars": 44,
     "size": 86
+  },
+  {
+    "name": "guardian-nexus/auditkit",
+    "clone_url": "https://github.com/guardian-nexus/auditkit.git",
+    "stars": 30,
+    "size": 115
   },
   {
     "name": "T8mars/Qwen-Browser-plugin",
     "clone_url": "https://github.com/T8mars/Qwen-Browser-plugin.git",
-    "stars": 19,
+    "stars": 23,
     "size": 1090
   },
   {
-    "name": "SoyBeanMilkx/memcrc",
-    "clone_url": "https://github.com/SoyBeanMilkx/memcrc.git",
-    "stars": 19,
-    "size": 70
-  },
-  {
-    "name": "h9-tec/paper2code",
-    "clone_url": "https://github.com/h9-tec/paper2code.git",
-    "stars": 15,
-    "size": 176
+    "name": "SecFathy/CrystalLens",
+    "clone_url": "https://github.com/SecFathy/CrystalLens.git",
+    "stars": 23,
+    "size": 64
   }
 ]
