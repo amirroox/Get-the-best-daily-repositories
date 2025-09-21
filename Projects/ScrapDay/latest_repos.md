@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-18 .. 2025-09-20)
+# Latest Repositories (2025-09-19 .. 2025-09-21)
 
-- [0xcomp/cryptotracker](https://github.com/0xcomp/cryptotracker) (280)
-- [bestK/wxkfbot](https://github.com/bestK/wxkfbot) (44)
-- [guardian-nexus/auditkit](https://github.com/guardian-nexus/auditkit) (30)
-- [T8mars/Qwen-Browser-plugin](https://github.com/T8mars/Qwen-Browser-plugin) (23)
-- [SecFathy/CrystalLens](https://github.com/SecFathy/CrystalLens) (23)
+- [yan5xu/ququ](https://github.com/yan5xu/ququ) (34)
+- [xiaoyao20084321/log-var-danmu-deployment-guide](https://github.com/xiaoyao20084321/log-var-danmu-deployment-guide) (22)
+- [HendraGunadie/Buku-Tamu-Laravel](https://github.com/HendraGunadie/Buku-Tamu-Laravel) (16)
+- [Bin4ry/UniPwn](https://github.com/Bin4ry/UniPwn) (16)
+- [7etsuo/dragon-fight](https://github.com/7etsuo/dragon-fight) (11)
