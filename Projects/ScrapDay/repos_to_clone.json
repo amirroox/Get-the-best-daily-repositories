@@ -1,21 +1,15 @@
 [
   {
-    "name": "qUaKeknigHTVE/Arbitrage-Ethereum-Bot",
-    "clone_url": "https://github.com/qUaKeknigHTVE/Arbitrage-Ethereum-Bot.git",
-    "stars": 160,
-    "size": 60
+    "name": "vercel-labs/coding-agent-template",
+    "clone_url": "https://github.com/vercel-labs/coding-agent-template.git",
+    "stars": 119,
+    "size": 514
   },
   {
     "name": "QwenLM/Qwen3Guard",
     "clone_url": "https://github.com/QwenLM/Qwen3Guard.git",
-    "stars": 51,
-    "size": 1375
-  },
-  {
-    "name": "vercel-labs/coding-agent-template",
-    "clone_url": "https://github.com/vercel-labs/coding-agent-template.git",
-    "stars": 49,
-    "size": 478
+    "stars": 115,
+    "size": 1382
   },
   {
     "name": "antfu/open-packages-on-npm",
@@ -26,7 +20,13 @@
   {
     "name": "allanrbo/MiniMeshT",
     "clone_url": "https://github.com/allanrbo/MiniMeshT.git",
-    "stars": 30,
+    "stars": 38,
     "size": 362
+  },
+  {
+    "name": "tencent-ailab/SongPrep",
+    "clone_url": "https://github.com/tencent-ailab/SongPrep.git",
+    "stars": 35,
+    "size": 217
   }
 ]
