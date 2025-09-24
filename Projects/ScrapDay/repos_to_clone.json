@@ -1,32 +1,32 @@
 [
   {
-    "name": "sphiNXCOdeR44/Arbitrage-Ethereum-Bot",
-    "clone_url": "https://github.com/sphiNXCOdeR44/Arbitrage-Ethereum-Bot.git",
-    "stars": 130,
-    "size": 73
+    "name": "qUaKeknigHTVE/Arbitrage-Ethereum-Bot",
+    "clone_url": "https://github.com/qUaKeknigHTVE/Arbitrage-Ethereum-Bot.git",
+    "stars": 160,
+    "size": 60
   },
   {
-    "name": "xiyuhang2003/E-problem",
-    "clone_url": "https://github.com/xiyuhang2003/E-problem.git",
-    "stars": 110,
-    "size": 888
+    "name": "QwenLM/Qwen3Guard",
+    "clone_url": "https://github.com/QwenLM/Qwen3Guard.git",
+    "stars": 51,
+    "size": 1375
   },
   {
-    "name": "kijai/ComfyUI-WanAnimatePreprocess",
-    "clone_url": "https://github.com/kijai/ComfyUI-WanAnimatePreprocess.git",
+    "name": "vercel-labs/coding-agent-template",
+    "clone_url": "https://github.com/vercel-labs/coding-agent-template.git",
     "stars": 49,
-    "size": 936
-  },
-  {
-    "name": "SciML/Julia_Modeling_Workshop",
-    "clone_url": "https://github.com/SciML/Julia_Modeling_Workshop.git",
-    "stars": 48,
-    "size": 4904
+    "size": 478
   },
   {
     "name": "antfu/open-packages-on-npm",
     "clone_url": "https://github.com/antfu/open-packages-on-npm.git",
-    "stars": 33,
+    "stars": 39,
     "size": 59
+  },
+  {
+    "name": "allanrbo/MiniMeshT",
+    "clone_url": "https://github.com/allanrbo/MiniMeshT.git",
+    "stars": 30,
+    "size": 362
   }
 ]
