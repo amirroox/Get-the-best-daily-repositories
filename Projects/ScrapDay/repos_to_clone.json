@@ -1,32 +1,32 @@
 [
   {
-    "name": "vercel-labs/coding-agent-template",
-    "clone_url": "https://github.com/vercel-labs/coding-agent-template.git",
-    "stars": 119,
-    "size": 514
+    "name": "Comamoca/hinoto",
+    "clone_url": "https://github.com/Comamoca/hinoto.git",
+    "stars": 33,
+    "size": 80
   },
   {
-    "name": "QwenLM/Qwen3Guard",
-    "clone_url": "https://github.com/QwenLM/Qwen3Guard.git",
-    "stars": 115,
-    "size": 1382
+    "name": "goudvuur/sonshell",
+    "clone_url": "https://github.com/goudvuur/sonshell.git",
+    "stars": 29,
+    "size": 60
   },
   {
-    "name": "antfu/open-packages-on-npm",
-    "clone_url": "https://github.com/antfu/open-packages-on-npm.git",
-    "stars": 39,
-    "size": 59
+    "name": "orange2ai/claude-code-now",
+    "clone_url": "https://github.com/orange2ai/claude-code-now.git",
+    "stars": 25,
+    "size": 682
   },
   {
-    "name": "allanrbo/MiniMeshT",
-    "clone_url": "https://github.com/allanrbo/MiniMeshT.git",
-    "stars": 38,
-    "size": 362
+    "name": "nebesniy/easy-vk-tunnel",
+    "clone_url": "https://github.com/nebesniy/easy-vk-tunnel.git",
+    "stars": 23,
+    "size": 62
   },
   {
-    "name": "tencent-ailab/SongPrep",
-    "clone_url": "https://github.com/tencent-ailab/SongPrep.git",
-    "stars": 35,
-    "size": 217
+    "name": "NyanSatan/polinaserial",
+    "clone_url": "https://github.com/NyanSatan/polinaserial.git",
+    "stars": 19,
+    "size": 1589
   }
 ]
