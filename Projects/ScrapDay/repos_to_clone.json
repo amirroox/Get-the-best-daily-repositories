@@ -1,32 +1,32 @@
 [
   {
-    "name": "Comamoca/hinoto",
-    "clone_url": "https://github.com/Comamoca/hinoto.git",
-    "stars": 33,
-    "size": 80
-  },
-  {
     "name": "goudvuur/sonshell",
     "clone_url": "https://github.com/goudvuur/sonshell.git",
-    "stars": 29,
-    "size": 60
+    "stars": 129,
+    "size": 75
   },
   {
-    "name": "orange2ai/claude-code-now",
-    "clone_url": "https://github.com/orange2ai/claude-code-now.git",
-    "stars": 25,
-    "size": 682
+    "name": "duckpigdog/Sec-Interview",
+    "clone_url": "https://github.com/duckpigdog/Sec-Interview.git",
+    "stars": 126,
+    "size": 539
+  },
+  {
+    "name": "hackerhouse-opensource/SetupHijack",
+    "clone_url": "https://github.com/hackerhouse-opensource/SetupHijack.git",
+    "stars": 41,
+    "size": 186
+  },
+  {
+    "name": "Comamoca/hinoto",
+    "clone_url": "https://github.com/Comamoca/hinoto.git",
+    "stars": 39,
+    "size": 80
   },
   {
     "name": "nebesniy/easy-vk-tunnel",
     "clone_url": "https://github.com/nebesniy/easy-vk-tunnel.git",
-    "stars": 23,
+    "stars": 29,
     "size": 62
-  },
-  {
-    "name": "NyanSatan/polinaserial",
-    "clone_url": "https://github.com/NyanSatan/polinaserial.git",
-    "stars": 19,
-    "size": 1589
   }
 ]
