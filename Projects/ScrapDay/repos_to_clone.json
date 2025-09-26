@@ -1,32 +1,32 @@
 [
   {
-    "name": "goudvuur/sonshell",
-    "clone_url": "https://github.com/goudvuur/sonshell.git",
-    "stars": 129,
-    "size": 75
+    "name": "zsio/claude-code-hub",
+    "clone_url": "https://github.com/zsio/claude-code-hub.git",
+    "stars": 30,
+    "size": 487
   },
   {
-    "name": "duckpigdog/Sec-Interview",
-    "clone_url": "https://github.com/duckpigdog/Sec-Interview.git",
-    "stars": 126,
-    "size": 539
+    "name": "YougLin-dev/electron-async-storage",
+    "clone_url": "https://github.com/YougLin-dev/electron-async-storage.git",
+    "stars": 22,
+    "size": 125
   },
   {
-    "name": "hackerhouse-opensource/SetupHijack",
-    "clone_url": "https://github.com/hackerhouse-opensource/SetupHijack.git",
-    "stars": 41,
-    "size": 186
+    "name": "justshiftjk/Bonkfun-Raydium-Volume-Bot",
+    "clone_url": "https://github.com/justshiftjk/Bonkfun-Raydium-Volume-Bot.git",
+    "stars": 18,
+    "size": 135
   },
   {
-    "name": "Comamoca/hinoto",
-    "clone_url": "https://github.com/Comamoca/hinoto.git",
-    "stars": 39,
-    "size": 80
+    "name": "ihor1023/NeuraDfu",
+    "clone_url": "https://github.com/ihor1023/NeuraDfu.git",
+    "stars": 16,
+    "size": 343
   },
   {
-    "name": "nebesniy/easy-vk-tunnel",
-    "clone_url": "https://github.com/nebesniy/easy-vk-tunnel.git",
-    "stars": 29,
-    "size": 62
+    "name": "ihor1023/dwin-relay",
+    "clone_url": "https://github.com/ihor1023/dwin-relay.git",
+    "stars": 16,
+    "size": 3665
   }
 ]

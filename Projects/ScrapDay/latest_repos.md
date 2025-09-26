@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-23 .. 2025-09-25)
+# Latest Repositories (2025-09-24 .. 2025-09-26)
 
-- [goudvuur/sonshell](https://github.com/goudvuur/sonshell) (129)
-- [duckpigdog/Sec-Interview](https://github.com/duckpigdog/Sec-Interview) (126)
-- [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack) (41)
-- [Comamoca/hinoto](https://github.com/Comamoca/hinoto) (39)
-- [nebesniy/easy-vk-tunnel](https://github.com/nebesniy/easy-vk-tunnel) (29)
+- [zsio/claude-code-hub](https://github.com/zsio/claude-code-hub) (30)
+- [YougLin-dev/electron-async-storage](https://github.com/YougLin-dev/electron-async-storage) (22)
+- [justshiftjk/Bonkfun-Raydium-Volume-Bot](https://github.com/justshiftjk/Bonkfun-Raydium-Volume-Bot) (18)
+- [ihor1023/NeuraDfu](https://github.com/ihor1023/NeuraDfu) (16)
+- [ihor1023/dwin-relay](https://github.com/ihor1023/dwin-relay) (16)
