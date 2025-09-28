@@ -1,32 +1,32 @@
 [
   {
-    "name": "MrTurvey/flareprox",
-    "clone_url": "https://github.com/MrTurvey/flareprox.git",
-    "stars": 159,
-    "size": 162
-  },
-  {
-    "name": "yasadEv/spyder-osint",
-    "clone_url": "https://github.com/yasadEv/spyder-osint.git",
-    "stars": 102,
-    "size": 110
-  },
-  {
-    "name": "karthikscale3/ctx-zip",
-    "clone_url": "https://github.com/karthikscale3/ctx-zip.git",
-    "stars": 80,
-    "size": 1238
-  },
-  {
     "name": "shanselman/github-artifacts-analyzer",
     "clone_url": "https://github.com/shanselman/github-artifacts-analyzer.git",
-    "stars": 34,
+    "stars": 53,
     "size": 57
   },
   {
-    "name": "martinhoeller/NSWindowPlayground",
-    "clone_url": "https://github.com/martinhoeller/NSWindowPlayground.git",
-    "stars": 30,
-    "size": 3191
+    "name": "cydanix/whisperclip",
+    "clone_url": "https://github.com/cydanix/whisperclip.git",
+    "stars": 46,
+    "size": 3864
+  },
+  {
+    "name": "jhhgiyv/cursorweb2api",
+    "clone_url": "https://github.com/jhhgiyv/cursorweb2api.git",
+    "stars": 40,
+    "size": 80
+  },
+  {
+    "name": "cubewhy/skid-homework",
+    "clone_url": "https://github.com/cubewhy/skid-homework.git",
+    "stars": 31,
+    "size": 2656
+  },
+  {
+    "name": "vanalmsick/workout_challenge",
+    "clone_url": "https://github.com/vanalmsick/workout_challenge.git",
+    "stars": 29,
+    "size": 3858
   }
 ]
