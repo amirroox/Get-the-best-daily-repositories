@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-27 .. 2025-09-29)
+# Latest Repositories (2025-09-28 .. 2025-09-30)
 
-- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) (244)
+- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) (509)
+- [eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper](https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper) (88)
 - [AnsonWu998/carenet](https://github.com/AnsonWu998/carenet) (83)
-- [joao-gugel/exercicios-bd-ptbr](https://github.com/joao-gugel/exercicios-bd-ptbr) (65)
-- [gunatppcap/VaxRecord](https://github.com/gunatppcap/VaxRecord) (63)
-- [ryanntannn/zustand-sync](https://github.com/ryanntannn/zustand-sync) (42)
+- [Shampur28/SDA23S](https://github.com/Shampur28/SDA23S) (52)
+- [azuk4r/nmap_backdoor](https://github.com/azuk4r/nmap_backdoor) (35)

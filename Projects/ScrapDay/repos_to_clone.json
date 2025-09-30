@@ -2,8 +2,14 @@
   {
     "name": "deepseek-ai/DeepSeek-V3.2-Exp",
     "clone_url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp.git",
-    "stars": 244,
-    "size": 1053
+    "stars": 509,
+    "size": 1057
+  },
+  {
+    "name": "eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper",
+    "clone_url": "https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper.git",
+    "stars": 88,
+    "size": 406
   },
   {
     "name": "AnsonWu998/carenet",
@@ -12,21 +18,15 @@
     "size": 3160
   },
   {
-    "name": "joao-gugel/exercicios-bd-ptbr",
-    "clone_url": "https://github.com/joao-gugel/exercicios-bd-ptbr.git",
-    "stars": 65,
-    "size": 186
+    "name": "Shampur28/SDA23S",
+    "clone_url": "https://github.com/Shampur28/SDA23S.git",
+    "stars": 52,
+    "size": 1494
   },
   {
-    "name": "gunatppcap/VaxRecord",
-    "clone_url": "https://github.com/gunatppcap/VaxRecord.git",
-    "stars": 63,
-    "size": 557
-  },
-  {
-    "name": "ryanntannn/zustand-sync",
-    "clone_url": "https://github.com/ryanntannn/zustand-sync.git",
-    "stars": 42,
-    "size": 76
+    "name": "azuk4r/nmap_backdoor",
+    "clone_url": "https://github.com/azuk4r/nmap_backdoor.git",
+    "stars": 35,
+    "size": 357
   }
 ]
