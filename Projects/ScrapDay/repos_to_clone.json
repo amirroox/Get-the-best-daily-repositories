@@ -2,13 +2,19 @@
   {
     "name": "deepseek-ai/DeepSeek-V3.2-Exp",
     "clone_url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp.git",
-    "stars": 509,
-    "size": 1057
+    "stars": 645,
+    "size": 1075
+  },
+  {
+    "name": "Shampur28/SDA23S",
+    "clone_url": "https://github.com/Shampur28/SDA23S.git",
+    "stars": 226,
+    "size": 1529
   },
   {
     "name": "eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper",
     "clone_url": "https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper.git",
-    "stars": 88,
+    "stars": 137,
     "size": 406
   },
   {
@@ -18,15 +24,9 @@
     "size": 3160
   },
   {
-    "name": "Shampur28/SDA23S",
-    "clone_url": "https://github.com/Shampur28/SDA23S.git",
-    "stars": 52,
-    "size": 1494
-  },
-  {
-    "name": "azuk4r/nmap_backdoor",
-    "clone_url": "https://github.com/azuk4r/nmap_backdoor.git",
-    "stars": 35,
-    "size": 357
+    "name": "takashiishida/bibfixer",
+    "clone_url": "https://github.com/takashiishida/bibfixer.git",
+    "stars": 49,
+    "size": 311
   }
 ]
