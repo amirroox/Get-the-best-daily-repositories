@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-28 .. 2025-09-30)
+# Latest Repositories (2025-09-29 .. 2025-10-01)
 
-- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) (645)
-- [Shampur28/SDA23S](https://github.com/Shampur28/SDA23S) (226)
-- [eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper](https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper) (137)
-- [AnsonWu998/carenet](https://github.com/AnsonWu998/carenet) (83)
-- [takashiishida/bibfixer](https://github.com/takashiishida/bibfixer) (49)
+- [FedericoBruzzone/papers-on-compiler-optimizations](https://github.com/FedericoBruzzone/papers-on-compiler-optimizations) (35)
+- [killop/SuperSocketUnity](https://github.com/killop/SuperSocketUnity) (35)
+- [louislam/its-mytabs](https://github.com/louislam/its-mytabs) (30)
+- [Codegres-com/Simple-Whatsapp-API](https://github.com/Codegres-com/Simple-Whatsapp-API) (30)
+- [mrsilver76/shelfscan](https://github.com/mrsilver76/shelfscan) (20)
