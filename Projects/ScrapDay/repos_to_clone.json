@@ -1,32 +1,32 @@
 [
   {
+    "name": "louislam/its-mytabs",
+    "clone_url": "https://github.com/louislam/its-mytabs.git",
+    "stars": 50,
+    "size": 2606
+  },
+  {
     "name": "FedericoBruzzone/papers-on-compiler-optimizations",
     "clone_url": "https://github.com/FedericoBruzzone/papers-on-compiler-optimizations.git",
-    "stars": 35,
+    "stars": 39,
     "size": 727
   },
   {
     "name": "killop/SuperSocketUnity",
     "clone_url": "https://github.com/killop/SuperSocketUnity.git",
-    "stars": 35,
+    "stars": 36,
     "size": 377
-  },
-  {
-    "name": "louislam/its-mytabs",
-    "clone_url": "https://github.com/louislam/its-mytabs.git",
-    "stars": 30,
-    "size": 2599
   },
   {
     "name": "Codegres-com/Simple-Whatsapp-API",
     "clone_url": "https://github.com/Codegres-com/Simple-Whatsapp-API.git",
-    "stars": 30,
+    "stars": 32,
     "size": 115
   },
   {
-    "name": "mrsilver76/shelfscan",
-    "clone_url": "https://github.com/mrsilver76/shelfscan.git",
-    "stars": 20,
-    "size": 60
+    "name": "ghostmkg/dsa-code",
+    "clone_url": "https://github.com/ghostmkg/dsa-code.git",
+    "stars": 28,
+    "size": 97
   }
 ]
