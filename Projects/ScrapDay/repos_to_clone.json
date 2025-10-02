@@ -1,32 +1,32 @@
 [
   {
+    "name": "shovel-heroes-org/shovel-heroes",
+    "clone_url": "https://github.com/shovel-heroes-org/shovel-heroes.git",
+    "stars": 74,
+    "size": 196
+  },
+  {
     "name": "AI-Tool-List/Sora2-Prompt",
     "clone_url": "https://github.com/AI-Tool-List/Sora2-Prompt.git",
-    "stars": 19,
+    "stars": 29,
     "size": 215
+  },
+  {
+    "name": "boquila/ocrisp",
+    "clone_url": "https://github.com/boquila/ocrisp.git",
+    "stars": 21,
+    "size": 313
+  },
+  {
+    "name": "60124808866/OpenMyau",
+    "clone_url": "https://github.com/60124808866/OpenMyau.git",
+    "stars": 20,
+    "size": 418
   },
   {
     "name": "FullNodes/Solana-Sniper-Memecoin-Finial-Bot",
     "clone_url": "https://github.com/FullNodes/Solana-Sniper-Memecoin-Finial-Bot.git",
     "stars": 19,
     "size": 368
-  },
-  {
-    "name": "tanyakuo/shovel-heroes",
-    "clone_url": "https://github.com/tanyakuo/shovel-heroes.git",
-    "stars": 16,
-    "size": 376
-  },
-  {
-    "name": "aismail5/Interactive-Storybook",
-    "clone_url": "https://github.com/aismail5/Interactive-Storybook.git",
-    "stars": 16,
-    "size": 1249
-  },
-  {
-    "name": "boquila/ocrisp",
-    "clone_url": "https://github.com/boquila/ocrisp.git",
-    "stars": 15,
-    "size": 313
   }
 ]
