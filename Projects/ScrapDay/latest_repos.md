@@ -1,7 +1,7 @@
-# Latest Repositories (2025-09-29 .. 2025-10-01)
+# Latest Repositories (2025-09-30 .. 2025-10-02)
 
-- [louislam/its-mytabs](https://github.com/louislam/its-mytabs) (50)
-- [FedericoBruzzone/papers-on-compiler-optimizations](https://github.com/FedericoBruzzone/papers-on-compiler-optimizations) (39)
-- [killop/SuperSocketUnity](https://github.com/killop/SuperSocketUnity) (36)
-- [Codegres-com/Simple-Whatsapp-API](https://github.com/Codegres-com/Simple-Whatsapp-API) (32)
-- [ghostmkg/dsa-code](https://github.com/ghostmkg/dsa-code) (28)
+- [AI-Tool-List/Sora2-Prompt](https://github.com/AI-Tool-List/Sora2-Prompt) (19)
+- [FullNodes/Solana-Sniper-Memecoin-Finial-Bot](https://github.com/FullNodes/Solana-Sniper-Memecoin-Finial-Bot) (19)
+- [tanyakuo/shovel-heroes](https://github.com/tanyakuo/shovel-heroes) (16)
+- [aismail5/Interactive-Storybook](https://github.com/aismail5/Interactive-Storybook) (16)
+- [boquila/ocrisp](https://github.com/boquila/ocrisp) (15)
