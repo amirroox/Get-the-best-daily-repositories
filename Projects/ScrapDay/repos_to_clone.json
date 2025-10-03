@@ -1,32 +1,32 @@
 [
   {
-    "name": "shovel-heroes-org/shovel-heroes",
-    "clone_url": "https://github.com/shovel-heroes-org/shovel-heroes.git",
-    "stars": 74,
-    "size": 196
+    "name": "neuphonic/neutts-air",
+    "clone_url": "https://github.com/neuphonic/neutts-air.git",
+    "stars": 106,
+    "size": 1386
   },
   {
-    "name": "AI-Tool-List/Sora2-Prompt",
-    "clone_url": "https://github.com/AI-Tool-List/Sora2-Prompt.git",
-    "stars": 29,
-    "size": 215
-  },
-  {
-    "name": "boquila/ocrisp",
-    "clone_url": "https://github.com/boquila/ocrisp.git",
-    "stars": 21,
-    "size": 313
+    "name": "RandyGaul/ckit.h",
+    "clone_url": "https://github.com/RandyGaul/ckit.h.git",
+    "stars": 34,
+    "size": 83
   },
   {
     "name": "60124808866/OpenMyau",
     "clone_url": "https://github.com/60124808866/OpenMyau.git",
-    "stars": 20,
-    "size": 418
+    "stars": 33,
+    "size": 615
   },
   {
-    "name": "FullNodes/Solana-Sniper-Memecoin-Finial-Bot",
-    "clone_url": "https://github.com/FullNodes/Solana-Sniper-Memecoin-Finial-Bot.git",
-    "stars": 19,
-    "size": 368
+    "name": "sapdragon/hint-break",
+    "clone_url": "https://github.com/sapdragon/hint-break.git",
+    "stars": 27,
+    "size": 745
+  },
+  {
+    "name": "qnguyen3/STEMViz",
+    "clone_url": "https://github.com/qnguyen3/STEMViz.git",
+    "stars": 27,
+    "size": 58
   }
 ]
