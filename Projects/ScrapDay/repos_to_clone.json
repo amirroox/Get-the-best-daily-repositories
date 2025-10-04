@@ -2,31 +2,31 @@
   {
     "name": "InkboxSoftware/spacegamex64",
     "clone_url": "https://github.com/InkboxSoftware/spacegamex64.git",
-    "stars": 78,
+    "stars": 111,
     "size": 377
-  },
-  {
-    "name": "lamos22/Sexual-Repression-Calculator",
-    "clone_url": "https://github.com/lamos22/Sexual-Repression-Calculator.git",
-    "stars": 43,
-    "size": 130
   },
   {
     "name": "True3DLabs/WindowMode",
     "clone_url": "https://github.com/True3DLabs/WindowMode.git",
-    "stars": 33,
+    "stars": 87,
     "size": 1304
+  },
+  {
+    "name": "MorDavid/NetworkHound",
+    "clone_url": "https://github.com/MorDavid/NetworkHound.git",
+    "stars": 79,
+    "size": 683
+  },
+  {
+    "name": "lamos22/Sexual-Repression-Calculator",
+    "clone_url": "https://github.com/lamos22/Sexual-Repression-Calculator.git",
+    "stars": 66,
+    "size": 125
   },
   {
     "name": "justincui03/Self-Forcing-Plus-Plus",
     "clone_url": "https://github.com/justincui03/Self-Forcing-Plus-Plus.git",
-    "stars": 20,
+    "stars": 35,
     "size": 4456
-  },
-  {
-    "name": "ZENTCH-Q/DepViz-Dependency-Visualizer",
-    "clone_url": "https://github.com/ZENTCH-Q/DepViz-Dependency-Visualizer.git",
-    "stars": 18,
-    "size": 238
   }
 ]
