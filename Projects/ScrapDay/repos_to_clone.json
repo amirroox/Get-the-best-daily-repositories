@@ -2,31 +2,31 @@
   {
     "name": "MaximeRivest/maivi",
     "clone_url": "https://github.com/MaximeRivest/maivi.git",
-    "stars": 92,
-    "size": 74
+    "stars": 139,
+    "size": 95
   },
   {
-    "name": "buyi06/-Linux-",
-    "clone_url": "https://github.com/buyi06/-Linux-.git",
-    "stars": 80,
-    "size": 60
-  },
-  {
-    "name": "VonKleistL/OptiMac",
-    "clone_url": "https://github.com/VonKleistL/OptiMac.git",
-    "stars": 59,
-    "size": 1302
+    "name": "openai/openai-chatkit-starter-app",
+    "clone_url": "https://github.com/openai/openai-chatkit-starter-app.git",
+    "stars": 96,
+    "size": 72
   },
   {
     "name": "rafaelSwi/SolidGlass",
     "clone_url": "https://github.com/rafaelSwi/SolidGlass.git",
-    "stars": 50,
-    "size": 891
+    "stars": 93,
+    "size": 1851
   },
   {
-    "name": "offerrall/FuncToWeb",
-    "clone_url": "https://github.com/offerrall/FuncToWeb.git",
-    "stars": 42,
-    "size": 657
+    "name": "openai/openai-apps-sdk-examples",
+    "clone_url": "https://github.com/openai/openai-apps-sdk-examples.git",
+    "stars": 88,
+    "size": 116
+  },
+  {
+    "name": "kyleturman/home-dashboard",
+    "clone_url": "https://github.com/kyleturman/home-dashboard.git",
+    "stars": 86,
+    "size": 1200
   }
 ]
