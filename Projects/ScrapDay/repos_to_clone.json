@@ -1,32 +1,32 @@
 [
   {
-    "name": "MaximeRivest/maivi",
-    "clone_url": "https://github.com/MaximeRivest/maivi.git",
-    "stars": 139,
-    "size": 95
-  },
-  {
     "name": "openai/openai-chatkit-starter-app",
     "clone_url": "https://github.com/openai/openai-chatkit-starter-app.git",
-    "stars": 96,
+    "stars": 179,
     "size": 72
-  },
-  {
-    "name": "rafaelSwi/SolidGlass",
-    "clone_url": "https://github.com/rafaelSwi/SolidGlass.git",
-    "stars": 93,
-    "size": 1851
   },
   {
     "name": "openai/openai-apps-sdk-examples",
     "clone_url": "https://github.com/openai/openai-apps-sdk-examples.git",
-    "stars": 88,
+    "stars": 178,
     "size": 116
   },
   {
-    "name": "kyleturman/home-dashboard",
-    "clone_url": "https://github.com/kyleturman/home-dashboard.git",
-    "stars": 86,
-    "size": 1200
+    "name": "MaximeRivest/maivi",
+    "clone_url": "https://github.com/MaximeRivest/maivi.git",
+    "stars": 151,
+    "size": 95
+  },
+  {
+    "name": "rafaelSwi/SolidGlass",
+    "clone_url": "https://github.com/rafaelSwi/SolidGlass.git",
+    "stars": 102,
+    "size": 1851
+  },
+  {
+    "name": "openai/openai-chatkit-advanced-samples",
+    "clone_url": "https://github.com/openai/openai-chatkit-advanced-samples.git",
+    "stars": 98,
+    "size": 4773
   }
 ]
