@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-05 .. 2025-10-07)
+# Latest Repositories (2025-10-06 .. 2025-10-08)
 
-- [openai/openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) (179)
-- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) (178)
-- [MaximeRivest/maivi](https://github.com/MaximeRivest/maivi) (151)
-- [rafaelSwi/SolidGlass](https://github.com/rafaelSwi/SolidGlass) (102)
-- [openai/openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) (98)
+- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) (295)
+- [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) (69)
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) (53)
+- [fanegg/Human3R](https://github.com/fanegg/Human3R) (52)
+- [skydoves/compose-stability-inference](https://github.com/skydoves/compose-stability-inference) (39)
