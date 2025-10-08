@@ -2,31 +2,31 @@
   {
     "name": "SamsungSAILMontreal/TinyRecursiveModels",
     "clone_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels.git",
-    "stars": 295,
+    "stars": 696,
     "size": 1262
-  },
-  {
-    "name": "luzhenhua/NCE-Flow",
-    "clone_url": "https://github.com/luzhenhua/NCE-Flow.git",
-    "stars": 69,
-    "size": 939
-  },
-  {
-    "name": "Basekick-Labs/arc",
-    "clone_url": "https://github.com/Basekick-Labs/arc.git",
-    "stars": 53,
-    "size": 892
   },
   {
     "name": "fanegg/Human3R",
     "clone_url": "https://github.com/fanegg/Human3R.git",
-    "stars": 52,
-    "size": 587
+    "stars": 121,
+    "size": 591
+  },
+  {
+    "name": "luzhenhua/NCE-Flow",
+    "clone_url": "https://github.com/luzhenhua/NCE-Flow.git",
+    "stars": 94,
+    "size": 940
+  },
+  {
+    "name": "Basekick-Labs/arc",
+    "clone_url": "https://github.com/Basekick-Labs/arc.git",
+    "stars": 78,
+    "size": 893
   },
   {
     "name": "skydoves/compose-stability-inference",
     "clone_url": "https://github.com/skydoves/compose-stability-inference.git",
-    "stars": 39,
-    "size": 64
+    "stars": 58,
+    "size": 67
   }
 ]
