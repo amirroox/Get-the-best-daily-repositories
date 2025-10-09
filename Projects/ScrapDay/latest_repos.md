@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-06 .. 2025-10-08)
+# Latest Repositories (2025-10-07 .. 2025-10-09)
 
-- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) (696)
-- [fanegg/Human3R](https://github.com/fanegg/Human3R) (121)
-- [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) (94)
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) (78)
-- [skydoves/compose-stability-inference](https://github.com/skydoves/compose-stability-inference) (58)
+- [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison) (32)
+- [heli1x3T/Helius_Crypter](https://github.com/heli1x3T/Helius_Crypter) (26)
+- [zakirkun/myquery](https://github.com/zakirkun/myquery) (17)
+- [michalbednarski/ThisSeemsWrong](https://github.com/michalbednarski/ThisSeemsWrong) (17)
+- [michalbednarski/AbxOverflow](https://github.com/michalbednarski/AbxOverflow) (16)
