@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-07 .. 2025-10-09)
+# Latest Repositories (2025-10-08 .. 2025-10-10)
 
-- [byJoey/yx-tools](https://github.com/byJoey/yx-tools) (59)
-- [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison) (54)
+- [byJoey/yx-tools](https://github.com/byJoey/yx-tools) (96)
+- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) (72)
 - [denizcan1907/Space-Invaders-Reimagined](https://github.com/denizcan1907/Space-Invaders-Reimagined) (44)
-- [eooce/leaflow-auto-checkin](https://github.com/eooce/leaflow-auto-checkin) (43)
-- [michalbednarski/AbxOverflow](https://github.com/michalbednarski/AbxOverflow) (28)
+- [EveryInc/every-marketplace](https://github.com/EveryInc/every-marketplace) (23)
+- [AditiKraft/Krafter](https://github.com/AditiKraft/Krafter) (23)
