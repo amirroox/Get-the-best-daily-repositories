@@ -1,32 +1,32 @@
 [
   {
-    "name": "byJoey/yx-tools",
-    "clone_url": "https://github.com/byJoey/yx-tools.git",
-    "stars": 155,
-    "size": 130
-  },
-  {
-    "name": "ginobefun/agentic-design-patterns-cn",
-    "clone_url": "https://github.com/ginobefun/agentic-design-patterns-cn.git",
-    "stars": 99,
-    "size": 445
-  },
-  {
     "name": "jd-opensource/joycode-agent",
     "clone_url": "https://github.com/jd-opensource/joycode-agent.git",
-    "stars": 92,
-    "size": 1499
+    "stars": 96,
+    "size": 2655
   },
   {
-    "name": "EveryInc/every-marketplace",
-    "clone_url": "https://github.com/EveryInc/every-marketplace.git",
-    "stars": 80,
-    "size": 79
+    "name": "mujocolab/g1_spinkick_example",
+    "clone_url": "https://github.com/mujocolab/g1_spinkick_example.git",
+    "stars": 59,
+    "size": 2949
   },
   {
-    "name": "stolinski/css-mcp",
-    "clone_url": "https://github.com/stolinski/css-mcp.git",
-    "stars": 49,
-    "size": 69
+    "name": "simonw/claude-skills",
+    "clone_url": "https://github.com/simonw/claude-skills.git",
+    "stars": 52,
+    "size": 271
+  },
+  {
+    "name": "moncici007/perp",
+    "clone_url": "https://github.com/moncici007/perp.git",
+    "stars": 38,
+    "size": 113
+  },
+  {
+    "name": "jedarden/duck-e",
+    "clone_url": "https://github.com/jedarden/duck-e.git",
+    "stars": 28,
+    "size": 324
   }
 ]
