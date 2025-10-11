@@ -1,5 +1,17 @@
 [
   {
+    "name": "simonw/claude-skills",
+    "clone_url": "https://github.com/simonw/claude-skills.git",
+    "stars": 341,
+    "size": 271
+  },
+  {
+    "name": "curtis-arch/Droids",
+    "clone_url": "https://github.com/curtis-arch/Droids.git",
+    "stars": 128,
+    "size": 216
+  },
+  {
     "name": "jd-opensource/joycode-agent",
     "clone_url": "https://github.com/jd-opensource/joycode-agent.git",
     "stars": 96,
@@ -8,25 +20,13 @@
   {
     "name": "mujocolab/g1_spinkick_example",
     "clone_url": "https://github.com/mujocolab/g1_spinkick_example.git",
-    "stars": 59,
+    "stars": 72,
     "size": 2949
-  },
-  {
-    "name": "simonw/claude-skills",
-    "clone_url": "https://github.com/simonw/claude-skills.git",
-    "stars": 52,
-    "size": 271
   },
   {
     "name": "moncici007/perp",
     "clone_url": "https://github.com/moncici007/perp.git",
-    "stars": 38,
+    "stars": 43,
     "size": 113
-  },
-  {
-    "name": "jedarden/duck-e",
-    "clone_url": "https://github.com/jedarden/duck-e.git",
-    "stars": 28,
-    "size": 324
   }
 ]
