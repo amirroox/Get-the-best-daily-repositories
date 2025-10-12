@@ -2,31 +2,31 @@
   {
     "name": "rit3zh/expo-progressive-blur",
     "clone_url": "https://github.com/rit3zh/expo-progressive-blur.git",
-    "stars": 71,
+    "stars": 84,
     "size": 767
   },
   {
     "name": "obra/superpowers-skills",
     "clone_url": "https://github.com/obra/superpowers-skills.git",
-    "stars": 27,
+    "stars": 58,
     "size": 189
+  },
+  {
+    "name": "FullstackAgent/FullstackAgent",
+    "clone_url": "https://github.com/FullstackAgent/FullstackAgent.git",
+    "stars": 42,
+    "size": 223
   },
   {
     "name": "stockeh/mlx-trm",
     "clone_url": "https://github.com/stockeh/mlx-trm.git",
-    "stars": 23,
+    "stars": 39,
     "size": 103
   },
   {
-    "name": "TimPietrusky/agent0",
-    "clone_url": "https://github.com/TimPietrusky/agent0.git",
-    "stars": 20,
-    "size": 203
-  },
-  {
-    "name": "lihaoyun6/ComfyUI-Segformer_Ultra_Fast",
-    "clone_url": "https://github.com/lihaoyun6/ComfyUI-Segformer_Ultra_Fast.git",
-    "stars": 18,
-    "size": 238
+    "name": "Eric-Terminal/Cognitive-Hijacking-in-Long-Context-LLMs",
+    "clone_url": "https://github.com/Eric-Terminal/Cognitive-Hijacking-in-Long-Context-LLMs.git",
+    "stars": 27,
+    "size": 129
   }
 ]
