@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-09 .. 2025-10-11)
+# Latest Repositories (2025-10-10 .. 2025-10-12)
 
-- [simonw/claude-skills](https://github.com/simonw/claude-skills) (341)
-- [curtis-arch/Droids](https://github.com/curtis-arch/Droids) (128)
-- [jd-opensource/joycode-agent](https://github.com/jd-opensource/joycode-agent) (96)
-- [mujocolab/g1_spinkick_example](https://github.com/mujocolab/g1_spinkick_example) (72)
-- [moncici007/perp](https://github.com/moncici007/perp) (43)
+- [rit3zh/expo-progressive-blur](https://github.com/rit3zh/expo-progressive-blur) (71)
+- [obra/superpowers-skills](https://github.com/obra/superpowers-skills) (27)
+- [stockeh/mlx-trm](https://github.com/stockeh/mlx-trm) (23)
+- [TimPietrusky/agent0](https://github.com/TimPietrusky/agent0) (20)
+- [lihaoyun6/ComfyUI-Segformer_Ultra_Fast](https://github.com/lihaoyun6/ComfyUI-Segformer_Ultra_Fast) (18)
