@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-10 .. 2025-10-12)
+# Latest Repositories (2025-10-11 .. 2025-10-13)
 
-- [rit3zh/expo-progressive-blur](https://github.com/rit3zh/expo-progressive-blur) (84)
-- [obra/superpowers-skills](https://github.com/obra/superpowers-skills) (58)
-- [FullstackAgent/FullstackAgent](https://github.com/FullstackAgent/FullstackAgent) (42)
-- [stockeh/mlx-trm](https://github.com/stockeh/mlx-trm) (39)
-- [Eric-Terminal/Cognitive-Hijacking-in-Long-Context-LLMs](https://github.com/Eric-Terminal/Cognitive-Hijacking-in-Long-Context-LLMs) (27)
+- [vvb2060/Ims](https://github.com/vvb2060/Ims) (36)
+- [NiffirgkcaJ/all-in-one-clipboard](https://github.com/NiffirgkcaJ/all-in-one-clipboard) (19)
+- [AlpinDale/ssh-dashboard](https://github.com/AlpinDale/ssh-dashboard) (17)
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) (11)
+- [sadraiiali/madmail](https://github.com/sadraiiali/madmail) (11)
