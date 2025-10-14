@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-11 .. 2025-10-13)
+# Latest Repositories (2025-10-12 .. 2025-10-14)
 
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) (170)
-- [steveyegge/beads](https://github.com/steveyegge/beads) (102)
-- [vvb2060/Ims](https://github.com/vvb2060/Ims) (50)
-- [AlpinDale/ssh-dashboard](https://github.com/AlpinDale/ssh-dashboard) (45)
-- [Long-louis/AIFeedTracker](https://github.com/Long-louis/AIFeedTracker) (43)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) (5431)
+- [markrai/whatsthat](https://github.com/markrai/whatsthat) (101)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (76)
+- [Long-louis/AIFeedTracker](https://github.com/Long-louis/AIFeedTracker) (51)
+- [xzzvsxd/Warp2Api_Plus](https://github.com/xzzvsxd/Warp2Api_Plus) (48)
