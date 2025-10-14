@@ -2,31 +2,31 @@
   {
     "name": "karpathy/nanochat",
     "clone_url": "https://github.com/karpathy/nanochat.git",
-    "stars": 5431,
+    "stars": 11388,
     "size": 257
   },
   {
     "name": "markrai/whatsthat",
     "clone_url": "https://github.com/markrai/whatsthat.git",
-    "stars": 101,
-    "size": 1273
+    "stars": 145,
+    "size": 1275
   },
   {
     "name": "msitarzewski/agency-agents",
     "clone_url": "https://github.com/msitarzewski/agency-agents.git",
-    "stars": 76,
+    "stars": 143,
     "size": 208
+  },
+  {
+    "name": "allipiopereira/turborepo-bun-next-expo",
+    "clone_url": "https://github.com/allipiopereira/turborepo-bun-next-expo.git",
+    "stars": 74,
+    "size": 349
   },
   {
     "name": "Long-louis/AIFeedTracker",
     "clone_url": "https://github.com/Long-louis/AIFeedTracker.git",
-    "stars": 51,
-    "size": 175
-  },
-  {
-    "name": "xzzvsxd/Warp2Api_Plus",
-    "clone_url": "https://github.com/xzzvsxd/Warp2Api_Plus.git",
-    "stars": 48,
-    "size": 2336
+    "stars": 70,
+    "size": 179
   }
 ]
