@@ -1,32 +1,32 @@
 [
   {
-    "name": "karpathy/nanochat",
-    "clone_url": "https://github.com/karpathy/nanochat.git",
-    "stars": 11388,
-    "size": 257
+    "name": "virattt/dexter",
+    "clone_url": "https://github.com/virattt/dexter.git",
+    "stars": 89,
+    "size": 87
   },
   {
-    "name": "markrai/whatsthat",
-    "clone_url": "https://github.com/markrai/whatsthat.git",
-    "stars": 145,
-    "size": 1275
+    "name": "samber/ro",
+    "clone_url": "https://github.com/samber/ro.git",
+    "stars": 80,
+    "size": 3195
   },
   {
-    "name": "msitarzewski/agency-agents",
-    "clone_url": "https://github.com/msitarzewski/agency-agents.git",
-    "stars": 143,
-    "size": 208
+    "name": "RevenueCat/placeholder-compose",
+    "clone_url": "https://github.com/RevenueCat/placeholder-compose.git",
+    "stars": 80,
+    "size": 4489
   },
   {
-    "name": "allipiopereira/turborepo-bun-next-expo",
-    "clone_url": "https://github.com/allipiopereira/turborepo-bun-next-expo.git",
-    "stars": 74,
-    "size": 349
+    "name": "phodal/build-coding-agent-context-engineering",
+    "clone_url": "https://github.com/phodal/build-coding-agent-context-engineering.git",
+    "stars": 40,
+    "size": 3051
   },
   {
-    "name": "Long-louis/AIFeedTracker",
-    "clone_url": "https://github.com/Long-louis/AIFeedTracker.git",
-    "stars": 70,
-    "size": 179
+    "name": "op7418/ai-claude-start",
+    "clone_url": "https://github.com/op7418/ai-claude-start.git",
+    "stars": 36,
+    "size": 85
   }
 ]
