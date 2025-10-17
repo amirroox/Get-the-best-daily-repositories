@@ -2,31 +2,31 @@
   {
     "name": "firecrawl/open-agent-builder",
     "clone_url": "https://github.com/firecrawl/open-agent-builder.git",
-    "stars": 115,
+    "stars": 303,
     "size": 1100
   },
   {
     "name": "cuongnh28/spring-microservices-blueprint",
     "clone_url": "https://github.com/cuongnh28/spring-microservices-blueprint.git",
-    "stars": 103,
-    "size": 233
-  },
-  {
-    "name": "cryptocj520/grid1.3",
-    "clone_url": "https://github.com/cryptocj520/grid1.3.git",
-    "stars": 73,
-    "size": 447
-  },
-  {
-    "name": "Holger1117/TelegramGIftsAuto",
-    "clone_url": "https://github.com/Holger1117/TelegramGIftsAuto.git",
-    "stars": 73,
-    "size": 1577
+    "stars": 112,
+    "size": 240
   },
   {
     "name": "alexzhang13/rlm",
     "clone_url": "https://github.com/alexzhang13/rlm.git",
-    "stars": 48,
-    "size": 647
+    "stars": 100,
+    "size": 649
+  },
+  {
+    "name": "cryptocj520/grid1.3",
+    "clone_url": "https://github.com/cryptocj520/grid1.3.git",
+    "stars": 91,
+    "size": 447
+  },
+  {
+    "name": "arnab12n/VisualizationWS25",
+    "clone_url": "https://github.com/arnab12n/VisualizationWS25.git",
+    "stars": 42,
+    "size": 598
   }
 ]
