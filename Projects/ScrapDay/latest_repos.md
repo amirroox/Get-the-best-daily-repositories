@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-15 .. 2025-10-17)
+# Latest Repositories (2025-10-16 .. 2025-10-18)
 
-- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) (303)
-- [cuongnh28/spring-microservices-blueprint](https://github.com/cuongnh28/spring-microservices-blueprint) (112)
-- [alexzhang13/rlm](https://github.com/alexzhang13/rlm) (100)
-- [cryptocj520/grid1.3](https://github.com/cryptocj520/grid1.3) (91)
-- [arnab12n/VisualizationWS25](https://github.com/arnab12n/VisualizationWS25) (42)
+- [hate0s/gift-buyer](https://github.com/hate0s/gift-buyer) (118)
+- [GRIffInlIOnZo/BSC-MEME-RUSH-BOT](https://github.com/GRIffInlIOnZo/BSC-MEME-RUSH-BOT) (93)
+- [gAlAxYnINJaTE/Binance_Smart_Chain-Bot](https://github.com/gAlAxYnINJaTE/Binance_Smart_Chain-Bot) (50)
+- [Zen7-Labs/Zen7-Payment-Agent](https://github.com/Zen7-Labs/Zen7-Payment-Agent) (28)
+- [MoussaabBadla/code-screenshot-mcp](https://github.com/MoussaabBadla/code-screenshot-mcp) (17)
