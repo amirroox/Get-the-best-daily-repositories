@@ -1,32 +1,32 @@
 [
   {
+    "name": "hate0s/sora2-watermark-remover",
+    "clone_url": "https://github.com/hate0s/sora2-watermark-remover.git",
+    "stars": 65,
+    "size": 3720
+  },
+  {
     "name": "damiansire/web-worker-patterns",
     "clone_url": "https://github.com/damiansire/web-worker-patterns.git",
     "stars": 48,
-    "size": 83
-  },
-  {
-    "name": "zhutoujiuba20/chines",
-    "clone_url": "https://github.com/zhutoujiuba20/chines.git",
-    "stars": 34,
-    "size": 1645
-  },
-  {
-    "name": "TrimanRanvir/cfpnet",
-    "clone_url": "https://github.com/TrimanRanvir/cfpnet.git",
-    "stars": 33,
-    "size": 838
-  },
-  {
-    "name": "spawner1145/comfyui-lsnet",
-    "clone_url": "https://github.com/spawner1145/comfyui-lsnet.git",
-    "stars": 32,
-    "size": 136
+    "size": 115
   },
   {
     "name": "schellingb/dosbox-pure-unleashed",
     "clone_url": "https://github.com/schellingb/dosbox-pure-unleashed.git",
-    "stars": 27,
+    "stars": 42,
     "size": 210
+  },
+  {
+    "name": "Luotianyi-0712/cto",
+    "clone_url": "https://github.com/Luotianyi-0712/cto.git",
+    "stars": 41,
+    "size": 258
+  },
+  {
+    "name": "spawner1145/comfyui-lsnet",
+    "clone_url": "https://github.com/spawner1145/comfyui-lsnet.git",
+    "stars": 40,
+    "size": 157
   }
 ]
