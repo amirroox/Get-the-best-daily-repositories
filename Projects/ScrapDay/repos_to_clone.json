@@ -1,32 +1,32 @@
 [
   {
+    "name": "Matars/gitfetch",
+    "clone_url": "https://github.com/Matars/gitfetch.git",
+    "stars": 134,
+    "size": 68
+  },
+  {
     "name": "PleasePrompto/notebooklm-skill",
     "clone_url": "https://github.com/PleasePrompto/notebooklm-skill.git",
-    "stars": 76,
-    "size": 171
+    "stars": 96,
+    "size": 181
   },
   {
     "name": "MaximeRivest/mcp2py",
     "clone_url": "https://github.com/MaximeRivest/mcp2py.git",
-    "stars": 52,
+    "stars": 64,
     "size": 407
   },
   {
-    "name": "sora-invite-generator/sora-2-invite-generator",
-    "clone_url": "https://github.com/sora-invite-generator/sora-2-invite-generator.git",
-    "stars": 30,
-    "size": 577
+    "name": "eooce/Databricks-keepalive-workers",
+    "clone_url": "https://github.com/eooce/Databricks-keepalive-workers.git",
+    "stars": 35,
+    "size": 123
   },
   {
-    "name": "Matars/gitfetch",
-    "clone_url": "https://github.com/Matars/gitfetch.git",
-    "stars": 24,
-    "size": 52
-  },
-  {
-    "name": "karminski/markdown-translator",
-    "clone_url": "https://github.com/karminski/markdown-translator.git",
-    "stars": 22,
-    "size": 1227
+    "name": "adrianpuiu/claude-skills-marketplace",
+    "clone_url": "https://github.com/adrianpuiu/claude-skills-marketplace.git",
+    "stars": 33,
+    "size": 141
   }
 ]
