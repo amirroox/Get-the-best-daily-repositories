@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-17 .. 2025-10-19)
+# Latest Repositories (2025-10-18 .. 2025-10-20)
 
-- [hate0s/sora2-watermark-remover](https://github.com/hate0s/sora2-watermark-remover) (65)
-- [damiansire/web-worker-patterns](https://github.com/damiansire/web-worker-patterns) (48)
-- [schellingb/dosbox-pure-unleashed](https://github.com/schellingb/dosbox-pure-unleashed) (42)
-- [Luotianyi-0712/cto](https://github.com/Luotianyi-0712/cto) (41)
-- [spawner1145/comfyui-lsnet](https://github.com/spawner1145/comfyui-lsnet) (40)
+- [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) (76)
+- [MaximeRivest/mcp2py](https://github.com/MaximeRivest/mcp2py) (52)
+- [sora-invite-generator/sora-2-invite-generator](https://github.com/sora-invite-generator/sora-2-invite-generator) (30)
+- [Matars/gitfetch](https://github.com/Matars/gitfetch) (24)
+- [karminski/markdown-translator](https://github.com/karminski/markdown-translator) (22)
