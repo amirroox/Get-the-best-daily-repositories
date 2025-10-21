@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-18 .. 2025-10-20)
+# Latest Repositories (2025-10-19 .. 2025-10-21)
 
-- [Matars/gitfetch](https://github.com/Matars/gitfetch) (134)
-- [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) (96)
-- [MaximeRivest/mcp2py](https://github.com/MaximeRivest/mcp2py) (64)
-- [eooce/Databricks-keepalive-workers](https://github.com/eooce/Databricks-keepalive-workers) (35)
-- [adrianpuiu/claude-skills-marketplace](https://github.com/adrianpuiu/claude-skills-marketplace) (33)
+- [Lsangeles/sora2-watermark-remover](https://github.com/Lsangeles/sora2-watermark-remover) (299)
+- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) (204)
+- [eooce/Databricks-keepalive-workers](https://github.com/eooce/Databricks-keepalive-workers) (66)
+- [gokapso/whatsapp-cloud-inbox](https://github.com/gokapso/whatsapp-cloud-inbox) (40)
+- [mctechnology17/awesome-zmk](https://github.com/mctechnology17/awesome-zmk) (38)
