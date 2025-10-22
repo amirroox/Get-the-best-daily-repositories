@@ -1,32 +1,32 @@
 [
   {
-    "name": "anthropic-experimental/sandbox-runtime",
-    "clone_url": "https://github.com/anthropic-experimental/sandbox-runtime.git",
-    "stars": 467,
-    "size": 91
+    "name": "lightly-ai/lightly-studio",
+    "clone_url": "https://github.com/lightly-ai/lightly-studio.git",
+    "stars": 206,
+    "size": 2752
   },
   {
-    "name": "Lsangeles/sora2-watermark-remover",
-    "clone_url": "https://github.com/Lsangeles/sora2-watermark-remover.git",
-    "stars": 302,
-    "size": 76
+    "name": "Sfregs/ZeroCrumb",
+    "clone_url": "https://github.com/Sfregs/ZeroCrumb.git",
+    "stars": 117,
+    "size": 166
   },
   {
-    "name": "eooce/Databricks-keepalive-workers",
-    "clone_url": "https://github.com/eooce/Databricks-keepalive-workers.git",
-    "stars": 83,
-    "size": 123
+    "name": "s4myot/crypto-tax-calculator",
+    "clone_url": "https://github.com/s4myot/crypto-tax-calculator.git",
+    "stars": 90,
+    "size": 1646
   },
   {
-    "name": "gokapso/whatsapp-cloud-inbox",
-    "clone_url": "https://github.com/gokapso/whatsapp-cloud-inbox.git",
-    "stars": 69,
-    "size": 567
+    "name": "mogs-dev/MeteorPlus",
+    "clone_url": "https://github.com/mogs-dev/MeteorPlus.git",
+    "stars": 79,
+    "size": 2051
   },
   {
-    "name": "mctechnology17/awesome-zmk",
-    "clone_url": "https://github.com/mctechnology17/awesome-zmk.git",
-    "stars": 42,
-    "size": 375
+    "name": "shelloAdel/NullHooks",
+    "clone_url": "https://github.com/shelloAdel/NullHooks.git",
+    "stars": 78,
+    "size": 407
   }
 ]
