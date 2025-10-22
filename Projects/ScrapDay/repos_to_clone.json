@@ -1,32 +1,32 @@
 [
   {
+    "name": "s4myot/crypto-tax-calculator",
+    "clone_url": "https://github.com/s4myot/crypto-tax-calculator.git",
+    "stars": 344,
+    "size": 1646
+  },
+  {
+    "name": "rdumasia303/deepseek_ocr_app",
+    "clone_url": "https://github.com/rdumasia303/deepseek_ocr_app.git",
+    "stars": 249,
+    "size": 3504
+  },
+  {
     "name": "lightly-ai/lightly-studio",
     "clone_url": "https://github.com/lightly-ai/lightly-studio.git",
-    "stars": 206,
-    "size": 2752
+    "stars": 233,
+    "size": 2755
   },
   {
     "name": "Sfregs/ZeroCrumb",
     "clone_url": "https://github.com/Sfregs/ZeroCrumb.git",
     "stars": 117,
-    "size": 166
-  },
-  {
-    "name": "s4myot/crypto-tax-calculator",
-    "clone_url": "https://github.com/s4myot/crypto-tax-calculator.git",
-    "stars": 90,
-    "size": 1646
-  },
-  {
-    "name": "mogs-dev/MeteorPlus",
-    "clone_url": "https://github.com/mogs-dev/MeteorPlus.git",
-    "stars": 79,
-    "size": 2051
+    "size": 172
   },
   {
     "name": "shelloAdel/NullHooks",
     "clone_url": "https://github.com/shelloAdel/NullHooks.git",
     "stars": 78,
-    "size": 407
+    "size": 409
   }
 ]
