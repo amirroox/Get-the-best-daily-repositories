@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-20 .. 2025-10-22)
+# Latest Repositories (2025-10-21 .. 2025-10-23)
 
-- [s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator) (344)
-- [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) (249)
-- [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio) (233)
-- [Sfregs/ZeroCrumb](https://github.com/Sfregs/ZeroCrumb) (117)
-- [shelloAdel/NullHooks](https://github.com/shelloAdel/NullHooks) (78)
+- [Rouwang01/Hawkish-Eyes-NoDualHook](https://github.com/Rouwang01/Hawkish-Eyes-NoDualHook) (148)
+- [SynDevOffficial/Sys-Syn-Stealer](https://github.com/SynDevOffficial/Sys-Syn-Stealer) (146)
+- [Sfregs/ZeroCrumb](https://github.com/Sfregs/ZeroCrumb) (120)
+- [shayansharvini/skuld](https://github.com/shayansharvini/skuld) (80)
+- [Samuelribs22/Roblox-Multi-Instance](https://github.com/Samuelribs22/Roblox-Multi-Instance) (78)
