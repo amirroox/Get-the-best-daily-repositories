@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-21 .. 2025-10-23)
+# Latest Repositories (2025-10-22 .. 2025-10-24)
 
-- [Rouwang01/Hawkish-Eyes-NoDualHook](https://github.com/Rouwang01/Hawkish-Eyes-NoDualHook) (234)
-- [SynDevOffficial/Sys-Syn-Stealer](https://github.com/SynDevOffficial/Sys-Syn-Stealer) (177)
-- [Sfregs/ZeroCrumb](https://github.com/Sfregs/ZeroCrumb) (120)
-- [laith2adel/crypto-miner](https://github.com/laith2adel/crypto-miner) (76)
+- [vercel/workflow](https://github.com/vercel/workflow) (203)
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) (102)
+- [DannySosa01/Mercurial-Grabber](https://github.com/DannySosa01/Mercurial-Grabber) (78)
+- [nick-Brown-hub/Nitro-Ransomware](https://github.com/nick-Brown-hub/Nitro-Ransomware) (77)
 - [majetyanupam/stealer](https://github.com/majetyanupam/stealer) (73)
