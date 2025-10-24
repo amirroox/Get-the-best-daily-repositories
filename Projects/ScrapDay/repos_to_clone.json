@@ -2,31 +2,31 @@
   {
     "name": "vercel/workflow",
     "clone_url": "https://github.com/vercel/workflow.git",
-    "stars": 203,
-    "size": 3610
+    "stars": 386,
+    "size": 3592
+  },
+  {
+    "name": "mocred/spyder-osint",
+    "clone_url": "https://github.com/mocred/spyder-osint.git",
+    "stars": 306,
+    "size": 97
   },
   {
     "name": "pguso/ai-agents-from-scratch",
     "clone_url": "https://github.com/pguso/ai-agents-from-scratch.git",
-    "stars": 102,
-    "size": 92
+    "stars": 216,
+    "size": 97
+  },
+  {
+    "name": "vercel/workflow-examples",
+    "clone_url": "https://github.com/vercel/workflow-examples.git",
+    "stars": 84,
+    "size": 457
   },
   {
     "name": "DannySosa01/Mercurial-Grabber",
     "clone_url": "https://github.com/DannySosa01/Mercurial-Grabber.git",
     "stars": 78,
-    "size": 129
-  },
-  {
-    "name": "nick-Brown-hub/Nitro-Ransomware",
-    "clone_url": "https://github.com/nick-Brown-hub/Nitro-Ransomware.git",
-    "stars": 77,
-    "size": 53
-  },
-  {
-    "name": "majetyanupam/stealer",
-    "clone_url": "https://github.com/majetyanupam/stealer.git",
-    "stars": 73,
-    "size": 131
+    "size": 132
   }
 ]
