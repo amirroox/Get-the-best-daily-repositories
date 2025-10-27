@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-24 .. 2025-10-26)
+# Latest Repositories (2025-10-25 .. 2025-10-27)
 
-- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) (399)
-- [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) (191)
-- [rt5555/vryxen](https://github.com/rt5555/vryxen) (77)
-- [NotSteppenwolf/LummaC2-Stealer](https://github.com/NotSteppenwolf/LummaC2-Stealer) (73)
-- [Nick-p-w/nimrod-stealer](https://github.com/Nick-p-w/nimrod-stealer) (68)
+- [yenalyilmaz/Vare-Stealer](https://github.com/yenalyilmaz/Vare-Stealer) (72)
+- [saint1212/Nihon-Executor](https://github.com/saint1212/Nihon-Executor) (65)
+- [vasiliy809/shadow-rs](https://github.com/vasiliy809/shadow-rs) (65)
+- [saravanan444/Roblox-Injector](https://github.com/saravanan444/Roblox-Injector) (64)
+- [Hitch27/roblox-dll-injector](https://github.com/Hitch27/roblox-dll-injector) (62)
