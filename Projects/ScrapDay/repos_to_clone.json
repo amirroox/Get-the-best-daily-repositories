@@ -2,31 +2,31 @@
   {
     "name": "diet103/claude-code-infrastructure-showcase",
     "clone_url": "https://github.com/diet103/claude-code-infrastructure-showcase.git",
-    "stars": 720,
+    "stars": 1000,
     "size": 214
   },
   {
     "name": "xiamuceer-j/MuMuAINovel",
     "clone_url": "https://github.com/xiamuceer-j/MuMuAINovel.git",
-    "stars": 97,
-    "size": 311
-  },
-  {
-    "name": "ahmedrtxx/zekry-grabber",
-    "clone_url": "https://github.com/ahmedrtxx/zekry-grabber.git",
-    "stars": 68,
-    "size": 73
-  },
-  {
-    "name": "xenitV1/cursor-dynamic-rules-system",
-    "clone_url": "https://github.com/xenitV1/cursor-dynamic-rules-system.git",
-    "stars": 65,
-    "size": 73
+    "stars": 116,
+    "size": 377
   },
   {
     "name": "p0dalirius/ShareHound",
     "clone_url": "https://github.com/p0dalirius/ShareHound.git",
-    "stars": 60,
+    "stars": 103,
     "size": 57
+  },
+  {
+    "name": "xenitV1/cursor-dynamic-rules-system",
+    "clone_url": "https://github.com/xenitV1/cursor-dynamic-rules-system.git",
+    "stars": 70,
+    "size": 73
+  },
+  {
+    "name": "warpnet/COM-Fuzzer",
+    "clone_url": "https://github.com/warpnet/COM-Fuzzer.git",
+    "stars": 49,
+    "size": 222
   }
 ]
