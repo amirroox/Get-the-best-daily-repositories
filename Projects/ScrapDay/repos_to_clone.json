@@ -1,32 +1,32 @@
 [
   {
+    "name": "knightnemo/Awesome-World-Models",
+    "clone_url": "https://github.com/knightnemo/Awesome-World-Models.git",
+    "stars": 110,
+    "size": 2016
+  },
+  {
     "name": "MicroAbtin/Nihon-Executor",
     "clone_url": "https://github.com/MicroAbtin/Nihon-Executor.git",
     "stars": 59,
-    "size": 77
+    "size": 79
   },
   {
     "name": "wipercat/CS2_DMA_Radar",
     "clone_url": "https://github.com/wipercat/CS2_DMA_Radar.git",
     "stars": 50,
-    "size": 3388
+    "size": 3390
   },
   {
     "name": "m33rcy/Powerfull-Token-Stealer",
     "clone_url": "https://github.com/m33rcy/Powerfull-Token-Stealer.git",
     "stars": 38,
-    "size": 90
+    "size": 92
   },
   {
     "name": "M4nf123d/Exela-V2.0",
     "clone_url": "https://github.com/M4nf123d/Exela-V2.0.git",
     "stars": 35,
-    "size": 128
-  },
-  {
-    "name": "thvv-qaq/Mercurial-Grabber",
-    "clone_url": "https://github.com/thvv-qaq/Mercurial-Grabber.git",
-    "stars": 34,
-    "size": 163
+    "size": 130
   }
 ]
