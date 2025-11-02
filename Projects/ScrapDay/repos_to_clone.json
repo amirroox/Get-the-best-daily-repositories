@@ -1,32 +1,32 @@
 [
   {
-    "name": "knightnemo/Awesome-World-Models",
-    "clone_url": "https://github.com/knightnemo/Awesome-World-Models.git",
-    "stars": 110,
-    "size": 2016
+    "name": "tasammie/rustransomware",
+    "clone_url": "https://github.com/tasammie/rustransomware.git",
+    "stars": 83,
+    "size": 99
   },
   {
-    "name": "MicroAbtin/Nihon-Executor",
-    "clone_url": "https://github.com/MicroAbtin/Nihon-Executor.git",
-    "stars": 59,
+    "name": "fafido/Nullpoint-Stealer",
+    "clone_url": "https://github.com/fafido/Nullpoint-Stealer.git",
+    "stars": 76,
+    "size": 4033
+  },
+  {
+    "name": "Adaikalraj-S/W4SP-Stealer",
+    "clone_url": "https://github.com/Adaikalraj-S/W4SP-Stealer.git",
+    "stars": 75,
     "size": 79
   },
   {
-    "name": "wipercat/CS2_DMA_Radar",
-    "clone_url": "https://github.com/wipercat/CS2_DMA_Radar.git",
-    "stars": 50,
-    "size": 3390
+    "name": "BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud",
+    "clone_url": "https://github.com/BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud.git",
+    "stars": 75,
+    "size": 132
   },
   {
-    "name": "m33rcy/Powerfull-Token-Stealer",
-    "clone_url": "https://github.com/m33rcy/Powerfull-Token-Stealer.git",
-    "stars": 38,
-    "size": 92
-  },
-  {
-    "name": "M4nf123d/Exela-V2.0",
-    "clone_url": "https://github.com/M4nf123d/Exela-V2.0.git",
-    "stars": 35,
-    "size": 130
+    "name": "DevJorgeMh/Creal-Stealer",
+    "clone_url": "https://github.com/DevJorgeMh/Creal-Stealer.git",
+    "stars": 72,
+    "size": 459
   }
 ]

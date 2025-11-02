@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-30 .. 2025-11-01)
+# Latest Repositories (2025-10-31 .. 2025-11-02)
 
-- [knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) (110)
-- [MicroAbtin/Nihon-Executor](https://github.com/MicroAbtin/Nihon-Executor) (59)
-- [wipercat/CS2_DMA_Radar](https://github.com/wipercat/CS2_DMA_Radar) (50)
-- [m33rcy/Powerfull-Token-Stealer](https://github.com/m33rcy/Powerfull-Token-Stealer) (38)
-- [M4nf123d/Exela-V2.0](https://github.com/M4nf123d/Exela-V2.0) (35)
+- [tasammie/rustransomware](https://github.com/tasammie/rustransomware) (83)
+- [fafido/Nullpoint-Stealer](https://github.com/fafido/Nullpoint-Stealer) (76)
+- [Adaikalraj-S/W4SP-Stealer](https://github.com/Adaikalraj-S/W4SP-Stealer) (75)
+- [BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud](https://github.com/BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud) (75)
+- [DevJorgeMh/Creal-Stealer](https://github.com/DevJorgeMh/Creal-Stealer) (72)
