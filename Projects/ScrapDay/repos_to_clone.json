@@ -1,32 +1,32 @@
 [
   {
+    "name": "skydoves/compose-stability-analyzer",
+    "clone_url": "https://github.com/skydoves/compose-stability-analyzer.git",
+    "stars": 146,
+    "size": 2594
+  },
+  {
     "name": "tasammie/rustransomware",
     "clone_url": "https://github.com/tasammie/rustransomware.git",
-    "stars": 83,
-    "size": 99
+    "stars": 88,
+    "size": 103
   },
   {
     "name": "fafido/Nullpoint-Stealer",
     "clone_url": "https://github.com/fafido/Nullpoint-Stealer.git",
     "stars": 76,
-    "size": 4033
+    "size": 4036
   },
   {
     "name": "Adaikalraj-S/W4SP-Stealer",
     "clone_url": "https://github.com/Adaikalraj-S/W4SP-Stealer.git",
     "stars": 75,
-    "size": 79
+    "size": 82
   },
   {
     "name": "BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud",
     "clone_url": "https://github.com/BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud.git",
     "stars": 75,
-    "size": 132
-  },
-  {
-    "name": "DevJorgeMh/Creal-Stealer",
-    "clone_url": "https://github.com/DevJorgeMh/Creal-Stealer.git",
-    "stars": 72,
-    "size": 459
+    "size": 136
   }
 ]
