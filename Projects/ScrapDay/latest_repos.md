@@ -1,7 +1,7 @@
-# Latest Repositories (2025-10-31 .. 2025-11-02)
+# Latest Repositories (2025-11-01 .. 2025-11-03)
 
-- [skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) (146)
-- [tasammie/rustransomware](https://github.com/tasammie/rustransomware) (88)
-- [fafido/Nullpoint-Stealer](https://github.com/fafido/Nullpoint-Stealer) (76)
-- [Adaikalraj-S/W4SP-Stealer](https://github.com/Adaikalraj-S/W4SP-Stealer) (75)
-- [BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud](https://github.com/BoldriniLorenzo/VigilByteStealer-Grabber-Discord-Fud) (75)
+- [MorDavid/DonPwner](https://github.com/MorDavid/DonPwner) (65)
+- [NTQHoan/cs2](https://github.com/NTQHoan/cs2) (57)
+- [AmrAbdellkader/zekry-grabber](https://github.com/AmrAbdellkader/zekry-grabber) (54)
+- [AlanTXM/skyfall-stealer](https://github.com/AlanTXM/skyfall-stealer) (46)
+- [GameOfInches/RaidVortex-Stealer-Discord-FUD](https://github.com/GameOfInches/RaidVortex-Stealer-Discord-FUD) (33)
