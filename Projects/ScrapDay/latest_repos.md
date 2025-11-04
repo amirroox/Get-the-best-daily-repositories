@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-01 .. 2025-11-03)
+# Latest Repositories (2025-11-02 .. 2025-11-04)
 
-- [MorDavid/DonPwner](https://github.com/MorDavid/DonPwner) (83)
-- [NTQHoan/cs2](https://github.com/NTQHoan/cs2) (57)
-- [AmrAbdellkader/zekry-grabber](https://github.com/AmrAbdellkader/zekry-grabber) (54)
-- [AlanTXM/skyfall-stealer](https://github.com/AlanTXM/skyfall-stealer) (46)
-- [sakilmurad/Vert-Stealer](https://github.com/sakilmurad/Vert-Stealer) (37)
+- [rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com) (225)
+- [dachensky/sora2-watermark-remover](https://github.com/dachensky/sora2-watermark-remover) (143)
+- [qdvo1827/evilbot](https://github.com/qdvo1827/evilbot) (78)
+- [AbramGh/stake-statistics](https://github.com/AbramGh/stake-statistics) (72)
+- [deva-ncompass/Blaze-Automator](https://github.com/deva-ncompass/Blaze-Automator) (69)
