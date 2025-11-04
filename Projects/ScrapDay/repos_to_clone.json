@@ -2,31 +2,31 @@
   {
     "name": "rxliuli/apps.apple.com",
     "clone_url": "https://github.com/rxliuli/apps.apple.com.git",
-    "stars": 225,
-    "size": 2646
+    "stars": 1401,
+    "size": 2648
   },
   {
     "name": "dachensky/sora2-watermark-remover",
     "clone_url": "https://github.com/dachensky/sora2-watermark-remover.git",
-    "stars": 143,
-    "size": 59
+    "stars": 409,
+    "size": 63
   },
   {
-    "name": "qdvo1827/evilbot",
-    "clone_url": "https://github.com/qdvo1827/evilbot.git",
-    "stars": 78,
-    "size": 558
+    "name": "uint23/xpet",
+    "clone_url": "https://github.com/uint23/xpet.git",
+    "stars": 58,
+    "size": 67
   },
   {
-    "name": "AbramGh/stake-statistics",
-    "clone_url": "https://github.com/AbramGh/stake-statistics.git",
-    "stars": 72,
-    "size": 72
+    "name": "WendellCraft/ModpackDebuggerKit",
+    "clone_url": "https://github.com/WendellCraft/ModpackDebuggerKit.git",
+    "stars": 46,
+    "size": 82
   },
   {
-    "name": "deva-ncompass/Blaze-Automator",
-    "clone_url": "https://github.com/deva-ncompass/Blaze-Automator.git",
-    "stars": 69,
-    "size": 90
+    "name": "jmckinley/claude-code-resources",
+    "clone_url": "https://github.com/jmckinley/claude-code-resources.git",
+    "stars": 34,
+    "size": 102
   }
 ]
