@@ -2,31 +2,31 @@
   {
     "name": "Snowflake-Labs/pg_lake",
     "clone_url": "https://github.com/Snowflake-Labs/pg_lake.git",
-    "stars": 479,
-    "size": 4575
-  },
-  {
-    "name": "ammiehax/sora2-watermark-remover",
-    "clone_url": "https://github.com/ammiehax/sora2-watermark-remover.git",
-    "stars": 283,
-    "size": 76
+    "stars": 740,
+    "size": 4574
   },
   {
     "name": "roblox-scriptx/steal-a-brainrot-script",
     "clone_url": "https://github.com/roblox-scriptx/steal-a-brainrot-script.git",
-    "stars": 25,
+    "stars": 77,
     "size": 105
   },
   {
-    "name": "M1ck4/pdf_to_md",
-    "clone_url": "https://github.com/M1ck4/pdf_to_md.git",
-    "stars": 23,
-    "size": 108
+    "name": "Frontrunx/Aviator-Predictor",
+    "clone_url": "https://github.com/Frontrunx/Aviator-Predictor.git",
+    "stars": 72,
+    "size": 343
   },
   {
-    "name": "time-attack/apex-learning-answers",
-    "clone_url": "https://github.com/time-attack/apex-learning-answers.git",
-    "stars": 20,
-    "size": 1761
+    "name": "lshung/readable-rust-code",
+    "clone_url": "https://github.com/lshung/readable-rust-code.git",
+    "stars": 56,
+    "size": 81
+  },
+  {
+    "name": "projektjoe/GPT-OSS",
+    "clone_url": "https://github.com/projektjoe/GPT-OSS.git",
+    "stars": 54,
+    "size": 245
   }
 ]
