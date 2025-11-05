@@ -1,32 +1,32 @@
 [
   {
-    "name": "rxliuli/apps.apple.com",
-    "clone_url": "https://github.com/rxliuli/apps.apple.com.git",
-    "stars": 1401,
-    "size": 2648
+    "name": "Snowflake-Labs/pg_lake",
+    "clone_url": "https://github.com/Snowflake-Labs/pg_lake.git",
+    "stars": 479,
+    "size": 4575
   },
   {
-    "name": "dachensky/sora2-watermark-remover",
-    "clone_url": "https://github.com/dachensky/sora2-watermark-remover.git",
-    "stars": 409,
-    "size": 63
+    "name": "ammiehax/sora2-watermark-remover",
+    "clone_url": "https://github.com/ammiehax/sora2-watermark-remover.git",
+    "stars": 283,
+    "size": 76
   },
   {
-    "name": "uint23/xpet",
-    "clone_url": "https://github.com/uint23/xpet.git",
-    "stars": 58,
-    "size": 67
+    "name": "roblox-scriptx/steal-a-brainrot-script",
+    "clone_url": "https://github.com/roblox-scriptx/steal-a-brainrot-script.git",
+    "stars": 25,
+    "size": 105
   },
   {
-    "name": "WendellCraft/ModpackDebuggerKit",
-    "clone_url": "https://github.com/WendellCraft/ModpackDebuggerKit.git",
-    "stars": 46,
-    "size": 82
+    "name": "M1ck4/pdf_to_md",
+    "clone_url": "https://github.com/M1ck4/pdf_to_md.git",
+    "stars": 23,
+    "size": 108
   },
   {
-    "name": "jmckinley/claude-code-resources",
-    "clone_url": "https://github.com/jmckinley/claude-code-resources.git",
-    "stars": 34,
-    "size": 102
+    "name": "time-attack/apex-learning-answers",
+    "clone_url": "https://github.com/time-attack/apex-learning-answers.git",
+    "stars": 20,
+    "size": 1761
   }
 ]
