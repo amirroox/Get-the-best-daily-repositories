@@ -2,31 +2,31 @@
   {
     "name": "rakkiez/sora2-watermark-remover",
     "clone_url": "https://github.com/rakkiez/sora2-watermark-remover.git",
-    "stars": 107,
-    "size": 76
+    "stars": 390,
+    "size": 77
+  },
+  {
+    "name": "adysec/docx_compressor",
+    "clone_url": "https://github.com/adysec/docx_compressor.git",
+    "stars": 148,
+    "size": 53
   },
   {
     "name": "steipete/mcporter",
     "clone_url": "https://github.com/steipete/mcporter.git",
-    "stars": 105,
+    "stars": 133,
     "size": 299
   },
   {
     "name": "Frontrunx/Aviator-Predictor",
     "clone_url": "https://github.com/Frontrunx/Aviator-Predictor.git",
-    "stars": 73,
+    "stars": 75,
     "size": 343
   },
   {
-    "name": "keusuanl-sec/Ciphey",
-    "clone_url": "https://github.com/keusuanl-sec/Ciphey.git",
-    "stars": 44,
-    "size": 1372
-  },
-  {
-    "name": "tri2820/unblink",
-    "clone_url": "https://github.com/tri2820/unblink.git",
-    "stars": 41,
-    "size": 1703
+    "name": "qy527145/acemcp",
+    "clone_url": "https://github.com/qy527145/acemcp.git",
+    "stars": 62,
+    "size": 105
   }
 ]
