@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-03 .. 2025-11-05)
+# Latest Repositories (2025-11-04 .. 2025-11-06)
 
-- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) (740)
-- [roblox-scriptx/steal-a-brainrot-script](https://github.com/roblox-scriptx/steal-a-brainrot-script) (77)
-- [Frontrunx/Aviator-Predictor](https://github.com/Frontrunx/Aviator-Predictor) (72)
-- [lshung/readable-rust-code](https://github.com/lshung/readable-rust-code) (56)
-- [projektjoe/GPT-OSS](https://github.com/projektjoe/GPT-OSS) (54)
+- [rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover) (107)
+- [steipete/mcporter](https://github.com/steipete/mcporter) (105)
+- [Frontrunx/Aviator-Predictor](https://github.com/Frontrunx/Aviator-Predictor) (73)
+- [keusuanl-sec/Ciphey](https://github.com/keusuanl-sec/Ciphey) (44)
+- [tri2820/unblink](https://github.com/tri2820/unblink) (41)
