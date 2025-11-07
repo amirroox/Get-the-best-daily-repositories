@@ -1,32 +1,32 @@
 [
   {
-    "name": "rakkiez/sora2-watermark-remover",
-    "clone_url": "https://github.com/rakkiez/sora2-watermark-remover.git",
-    "stars": 390,
-    "size": 77
-  },
-  {
-    "name": "adysec/docx_compressor",
-    "clone_url": "https://github.com/adysec/docx_compressor.git",
-    "stars": 148,
-    "size": 53
-  },
-  {
-    "name": "steipete/mcporter",
-    "clone_url": "https://github.com/steipete/mcporter.git",
-    "stars": 133,
-    "size": 299
-  },
-  {
-    "name": "Frontrunx/Aviator-Predictor",
-    "clone_url": "https://github.com/Frontrunx/Aviator-Predictor.git",
-    "stars": 75,
-    "size": 343
-  },
-  {
     "name": "qy527145/acemcp",
     "clone_url": "https://github.com/qy527145/acemcp.git",
-    "stars": 62,
+    "stars": 166,
     "size": 105
+  },
+  {
+    "name": "zOombR9twist522fire/defi-arbitrage-bot-deployer",
+    "clone_url": "https://github.com/zOombR9twist522fire/defi-arbitrage-bot-deployer.git",
+    "stars": 102,
+    "size": 80
+  },
+  {
+    "name": "ShepAlderson/copilot-orchestra",
+    "clone_url": "https://github.com/ShepAlderson/copilot-orchestra.git",
+    "stars": 70,
+    "size": 120
+  },
+  {
+    "name": "HildaM/apps.apple.com-archive",
+    "clone_url": "https://github.com/HildaM/apps.apple.com-archive.git",
+    "stars": 51,
+    "size": 2647
+  },
+  {
+    "name": "w296488320/AndroidDeviceRiskBookData",
+    "clone_url": "https://github.com/w296488320/AndroidDeviceRiskBookData.git",
+    "stars": 47,
+    "size": 531
   }
 ]
