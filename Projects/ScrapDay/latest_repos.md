@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-05 .. 2025-11-07)
+# Latest Repositories (2025-11-06 .. 2025-11-08)
 
-- [qy527145/acemcp](https://github.com/qy527145/acemcp) (219)
-- [ShepAlderson/copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra) (107)
-- [tongjingqi/Thinking-with-Video](https://github.com/tongjingqi/Thinking-with-Video) (88)
-- [HildaM/apps.apple.com-archive](https://github.com/HildaM/apps.apple.com-archive) (65)
-- [darrencxl0301/Schema-Action-Querying](https://github.com/darrencxl0301/Schema-Action-Querying) (57)
+- [ratanacoin2n0y/DialogRecover-Telegram](https://github.com/ratanacoin2n0y/DialogRecover-Telegram) (98)
+- [wesbos/sticker-dream](https://github.com/wesbos/sticker-dream) (56)
+- [saildrag/DiscordRAT](https://github.com/saildrag/DiscordRAT) (48)
+- [jackytea/tanstack-starter](https://github.com/jackytea/tanstack-starter) (42)
+- [WaRPFaLCon200/defi-arbitrage-bot-deployer](https://github.com/WaRPFaLCon200/defi-arbitrage-bot-deployer) (37)
