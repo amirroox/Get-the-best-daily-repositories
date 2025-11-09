@@ -1,32 +1,32 @@
 [
   {
-    "name": "wesbos/sticker-dream",
-    "clone_url": "https://github.com/wesbos/sticker-dream.git",
-    "stars": 115,
-    "size": 3308
+    "name": "gisketch/triforce.nvim",
+    "clone_url": "https://github.com/gisketch/triforce.nvim.git",
+    "stars": 53,
+    "size": 123
   },
   {
-    "name": "ratanacoin2n0y/improved-Telegram",
-    "clone_url": "https://github.com/ratanacoin2n0y/improved-Telegram.git",
-    "stars": 98,
-    "size": 175
+    "name": "fullstackclubeducacao/fullstackweekend-aparatus",
+    "clone_url": "https://github.com/fullstackclubeducacao/fullstackweekend-aparatus.git",
+    "stars": 45,
+    "size": 742
   },
   {
-    "name": "saildrag/DiscordRAT",
-    "clone_url": "https://github.com/saildrag/DiscordRAT.git",
-    "stars": 48,
-    "size": 55
-  },
-  {
-    "name": "jackytea/tanstack-starter",
-    "clone_url": "https://github.com/jackytea/tanstack-starter.git",
+    "name": "Ezzaldeen-Esmail/Logistic-Regression",
+    "clone_url": "https://github.com/Ezzaldeen-Esmail/Logistic-Regression.git",
     "stars": 42,
-    "size": 552
+    "size": 61
   },
   {
-    "name": "WaRPFaLCon200/defi-arbitrage-bot-deployer",
-    "clone_url": "https://github.com/WaRPFaLCon200/defi-arbitrage-bot-deployer.git",
-    "stars": 37,
-    "size": 111
+    "name": "wieslawsoltes/MauiAvalonia",
+    "clone_url": "https://github.com/wieslawsoltes/MauiAvalonia.git",
+    "stars": 26,
+    "size": 385
+  },
+  {
+    "name": "intertwine/kimi-book-writer",
+    "clone_url": "https://github.com/intertwine/kimi-book-writer.git",
+    "stars": 24,
+    "size": 282
   }
 ]

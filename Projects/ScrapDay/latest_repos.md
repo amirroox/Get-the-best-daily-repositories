@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-06 .. 2025-11-08)
+# Latest Repositories (2025-11-07 .. 2025-11-09)
 
-- [wesbos/sticker-dream](https://github.com/wesbos/sticker-dream) (115)
-- [ratanacoin2n0y/improved-Telegram](https://github.com/ratanacoin2n0y/improved-Telegram) (98)
-- [saildrag/DiscordRAT](https://github.com/saildrag/DiscordRAT) (48)
-- [jackytea/tanstack-starter](https://github.com/jackytea/tanstack-starter) (42)
-- [WaRPFaLCon200/defi-arbitrage-bot-deployer](https://github.com/WaRPFaLCon200/defi-arbitrage-bot-deployer) (37)
+- [gisketch/triforce.nvim](https://github.com/gisketch/triforce.nvim) (53)
+- [fullstackclubeducacao/fullstackweekend-aparatus](https://github.com/fullstackclubeducacao/fullstackweekend-aparatus) (45)
+- [Ezzaldeen-Esmail/Logistic-Regression](https://github.com/Ezzaldeen-Esmail/Logistic-Regression) (42)
+- [wieslawsoltes/MauiAvalonia](https://github.com/wieslawsoltes/MauiAvalonia) (26)
+- [intertwine/kimi-book-writer](https://github.com/intertwine/kimi-book-writer) (24)
