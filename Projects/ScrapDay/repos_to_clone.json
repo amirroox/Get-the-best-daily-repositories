@@ -1,32 +1,32 @@
 [
   {
+    "name": "f/git-rewrite-commits",
+    "clone_url": "https://github.com/f/git-rewrite-commits.git",
+    "stars": 240,
+    "size": 116
+  },
+  {
     "name": "rit3zh/expo-apple-maps-sheet",
     "clone_url": "https://github.com/rit3zh/expo-apple-maps-sheet.git",
-    "stars": 103,
+    "stars": 136,
     "size": 661
+  },
+  {
+    "name": "Meph1s-t/Startrail-Gal",
+    "clone_url": "https://github.com/Meph1s-t/Startrail-Gal.git",
+    "stars": 92,
+    "size": 262
   },
   {
     "name": "crowmd/N8N-Finance",
     "clone_url": "https://github.com/crowmd/N8N-Finance.git",
-    "stars": 50,
+    "stars": 69,
     "size": 233
   },
   {
-    "name": "zninjaz294ept/copy2plus",
-    "clone_url": "https://github.com/zninjaz294ept/copy2plus.git",
-    "stars": 38,
-    "size": 1163
-  },
-  {
-    "name": "f/git-rewrite-commits",
-    "clone_url": "https://github.com/f/git-rewrite-commits.git",
-    "stars": 35,
-    "size": 116
-  },
-  {
-    "name": "princepainter/ComfyUI-PainterI2V",
-    "clone_url": "https://github.com/princepainter/ComfyUI-PainterI2V.git",
-    "stars": 33,
-    "size": 133
+    "name": "aberemia24/code-executor-MCP",
+    "clone_url": "https://github.com/aberemia24/code-executor-MCP.git",
+    "stars": 50,
+    "size": 415
   }
 ]
