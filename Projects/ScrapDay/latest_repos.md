@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-07 .. 2025-11-09)
+# Latest Repositories (2025-11-08 .. 2025-11-10)
 
-- [gisketch/triforce.nvim](https://github.com/gisketch/triforce.nvim) (76)
-- [fullstackclubeducacao/fullstackweekend-aparatus](https://github.com/fullstackclubeducacao/fullstackweekend-aparatus) (48)
-- [Ezzaldeen-Esmail/Logistic-Regression](https://github.com/Ezzaldeen-Esmail/Logistic-Regression) (46)
-- [wieslawsoltes/MauiAvalonia](https://github.com/wieslawsoltes/MauiAvalonia) (32)
-- [TheSmallHanCat/sora2api](https://github.com/TheSmallHanCat/sora2api) (29)
+- [rit3zh/expo-apple-maps-sheet](https://github.com/rit3zh/expo-apple-maps-sheet) (103)
+- [crowmd/N8N-Finance](https://github.com/crowmd/N8N-Finance) (50)
+- [zninjaz294ept/copy2plus](https://github.com/zninjaz294ept/copy2plus) (38)
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) (35)
+- [princepainter/ComfyUI-PainterI2V](https://github.com/princepainter/ComfyUI-PainterI2V) (33)
