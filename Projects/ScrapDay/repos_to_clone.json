@@ -2,31 +2,31 @@
   {
     "name": "f/git-rewrite-commits",
     "clone_url": "https://github.com/f/git-rewrite-commits.git",
-    "stars": 327,
+    "stars": 408,
     "size": 131
+  },
+  {
+    "name": "Meph1s-t/Startrail-Gal",
+    "clone_url": "https://github.com/Meph1s-t/Startrail-Gal.git",
+    "stars": 217,
+    "size": 311
+  },
+  {
+    "name": "lvzhaobo/qoder-rules",
+    "clone_url": "https://github.com/lvzhaobo/qoder-rules.git",
+    "stars": 104,
+    "size": 82
+  },
+  {
+    "name": "cryptocj520/crypto-trading-open",
+    "clone_url": "https://github.com/cryptocj520/crypto-trading-open.git",
+    "stars": 58,
+    "size": 997
   },
   {
     "name": "ioniks/MarkdownTaskManager",
     "clone_url": "https://github.com/ioniks/MarkdownTaskManager.git",
     "stars": 57,
     "size": 725
-  },
-  {
-    "name": "lvzhaobo/qoder-rules",
-    "clone_url": "https://github.com/lvzhaobo/qoder-rules.git",
-    "stars": 45,
-    "size": 82
-  },
-  {
-    "name": "jackdoe/pico2-swd-riscv",
-    "clone_url": "https://github.com/jackdoe/pico2-swd-riscv.git",
-    "stars": 25,
-    "size": 409
-  },
-  {
-    "name": "std-microblock/fripack",
-    "clone_url": "https://github.com/std-microblock/fripack.git",
-    "stars": 21,
-    "size": 4665
   }
 ]
