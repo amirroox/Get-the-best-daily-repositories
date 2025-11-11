@@ -2,31 +2,31 @@
   {
     "name": "f/git-rewrite-commits",
     "clone_url": "https://github.com/f/git-rewrite-commits.git",
-    "stars": 240,
-    "size": 116
+    "stars": 327,
+    "size": 131
   },
   {
-    "name": "rit3zh/expo-apple-maps-sheet",
-    "clone_url": "https://github.com/rit3zh/expo-apple-maps-sheet.git",
-    "stars": 136,
-    "size": 661
+    "name": "ioniks/MarkdownTaskManager",
+    "clone_url": "https://github.com/ioniks/MarkdownTaskManager.git",
+    "stars": 57,
+    "size": 725
   },
   {
-    "name": "Meph1s-t/Startrail-Gal",
-    "clone_url": "https://github.com/Meph1s-t/Startrail-Gal.git",
-    "stars": 92,
-    "size": 262
+    "name": "lvzhaobo/qoder-rules",
+    "clone_url": "https://github.com/lvzhaobo/qoder-rules.git",
+    "stars": 45,
+    "size": 82
   },
   {
-    "name": "crowmd/N8N-Finance",
-    "clone_url": "https://github.com/crowmd/N8N-Finance.git",
-    "stars": 69,
-    "size": 233
+    "name": "jackdoe/pico2-swd-riscv",
+    "clone_url": "https://github.com/jackdoe/pico2-swd-riscv.git",
+    "stars": 25,
+    "size": 409
   },
   {
-    "name": "aberemia24/code-executor-MCP",
-    "clone_url": "https://github.com/aberemia24/code-executor-MCP.git",
-    "stars": 50,
-    "size": 415
+    "name": "std-microblock/fripack",
+    "clone_url": "https://github.com/std-microblock/fripack.git",
+    "stars": 21,
+    "size": 4665
   }
 ]

@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-08 .. 2025-11-10)
+# Latest Repositories (2025-11-09 .. 2025-11-11)
 
-- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) (240)
-- [rit3zh/expo-apple-maps-sheet](https://github.com/rit3zh/expo-apple-maps-sheet) (136)
-- [Meph1s-t/Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal) (92)
-- [crowmd/N8N-Finance](https://github.com/crowmd/N8N-Finance) (69)
-- [aberemia24/code-executor-MCP](https://github.com/aberemia24/code-executor-MCP) (50)
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) (327)
+- [ioniks/MarkdownTaskManager](https://github.com/ioniks/MarkdownTaskManager) (57)
+- [lvzhaobo/qoder-rules](https://github.com/lvzhaobo/qoder-rules) (45)
+- [jackdoe/pico2-swd-riscv](https://github.com/jackdoe/pico2-swd-riscv) (25)
+- [std-microblock/fripack](https://github.com/std-microblock/fripack) (21)
