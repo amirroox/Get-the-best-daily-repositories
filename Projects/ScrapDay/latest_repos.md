@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-09 .. 2025-11-11)
+# Latest Repositories (2025-11-10 .. 2025-11-12)
 
-- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) (408)
-- [Meph1s-t/Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal) (217)
-- [lvzhaobo/qoder-rules](https://github.com/lvzhaobo/qoder-rules) (104)
-- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) (58)
-- [ioniks/MarkdownTaskManager](https://github.com/ioniks/MarkdownTaskManager) (57)
+- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) (535)
+- [ScrapeGraphAI/toonify](https://github.com/ScrapeGraphAI/toonify) (40)
+- [dartcv/AuroraTik](https://github.com/dartcv/AuroraTik) (33)
+- [crispvibe/Windsurf-Tool](https://github.com/crispvibe/Windsurf-Tool) (24)
+- [HenryLoM/CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi) (23)

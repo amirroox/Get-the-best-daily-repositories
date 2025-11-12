@@ -1,32 +1,32 @@
 [
   {
-    "name": "f/git-rewrite-commits",
-    "clone_url": "https://github.com/f/git-rewrite-commits.git",
-    "stars": 408,
-    "size": 131
-  },
-  {
-    "name": "Meph1s-t/Startrail-Gal",
-    "clone_url": "https://github.com/Meph1s-t/Startrail-Gal.git",
-    "stars": 217,
-    "size": 311
-  },
-  {
-    "name": "lvzhaobo/qoder-rules",
-    "clone_url": "https://github.com/lvzhaobo/qoder-rules.git",
-    "stars": 104,
-    "size": 82
-  },
-  {
     "name": "cryptocj520/crypto-trading-open",
     "clone_url": "https://github.com/cryptocj520/crypto-trading-open.git",
-    "stars": 58,
+    "stars": 535,
     "size": 997
   },
   {
-    "name": "ioniks/MarkdownTaskManager",
-    "clone_url": "https://github.com/ioniks/MarkdownTaskManager.git",
-    "stars": 57,
-    "size": 725
+    "name": "ScrapeGraphAI/toonify",
+    "clone_url": "https://github.com/ScrapeGraphAI/toonify.git",
+    "stars": 40,
+    "size": 1686
+  },
+  {
+    "name": "dartcv/AuroraTik",
+    "clone_url": "https://github.com/dartcv/AuroraTik.git",
+    "stars": 33,
+    "size": 99
+  },
+  {
+    "name": "crispvibe/Windsurf-Tool",
+    "clone_url": "https://github.com/crispvibe/Windsurf-Tool.git",
+    "stars": 24,
+    "size": 2551
+  },
+  {
+    "name": "HenryLoM/CliWaifuTamagotchi",
+    "clone_url": "https://github.com/HenryLoM/CliWaifuTamagotchi.git",
+    "stars": 23,
+    "size": 1091
   }
 ]
