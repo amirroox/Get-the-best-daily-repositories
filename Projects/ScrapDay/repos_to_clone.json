@@ -2,31 +2,31 @@
   {
     "name": "cryptocj520/crypto-trading-open",
     "clone_url": "https://github.com/cryptocj520/crypto-trading-open.git",
-    "stars": 535,
+    "stars": 786,
     "size": 997
-  },
-  {
-    "name": "ScrapeGraphAI/toonify",
-    "clone_url": "https://github.com/ScrapeGraphAI/toonify.git",
-    "stars": 40,
-    "size": 1686
   },
   {
     "name": "dartcv/AuroraTik",
     "clone_url": "https://github.com/dartcv/AuroraTik.git",
-    "stars": 33,
+    "stars": 69,
     "size": 99
+  },
+  {
+    "name": "ScrapeGraphAI/toonify",
+    "clone_url": "https://github.com/ScrapeGraphAI/toonify.git",
+    "stars": 50,
+    "size": 1689
   },
   {
     "name": "crispvibe/Windsurf-Tool",
     "clone_url": "https://github.com/crispvibe/Windsurf-Tool.git",
-    "stars": 24,
+    "stars": 44,
     "size": 2551
   },
   {
-    "name": "HenryLoM/CliWaifuTamagotchi",
-    "clone_url": "https://github.com/HenryLoM/CliWaifuTamagotchi.git",
-    "stars": 23,
-    "size": 1091
+    "name": "Wh04m1001/CVE-2025-60710",
+    "clone_url": "https://github.com/Wh04m1001/CVE-2025-60710.git",
+    "stars": 33,
+    "size": 320
   }
 ]
