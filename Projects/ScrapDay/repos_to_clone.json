@@ -2,31 +2,31 @@
   {
     "name": "ai-tmarks/tmakrs",
     "clone_url": "https://github.com/ai-tmarks/tmakrs.git",
-    "stars": 36,
-    "size": 849
+    "stars": 67,
+    "size": 771
   },
   {
     "name": "rebane2001/TweetsAgainstHumanity",
     "clone_url": "https://github.com/rebane2001/TweetsAgainstHumanity.git",
-    "stars": 33,
+    "stars": 43,
     "size": 239
-  },
-  {
-    "name": "LIDR-academy/ai-specs",
-    "clone_url": "https://github.com/LIDR-academy/ai-specs.git",
-    "stars": 20,
-    "size": 67
   },
   {
     "name": "crowmd/Sales-Marketing-Automation",
     "clone_url": "https://github.com/crowmd/Sales-Marketing-Automation.git",
-    "stars": 18,
+    "stars": 28,
     "size": 370
   },
   {
-    "name": "dionipe/ndash",
-    "clone_url": "https://github.com/dionipe/ndash.git",
-    "stars": 14,
-    "size": 125
+    "name": "BienBoy/heytea-diy",
+    "clone_url": "https://github.com/BienBoy/heytea-diy.git",
+    "stars": 23,
+    "size": 2954
+  },
+  {
+    "name": "DaveyEke/expo-speech-transcriber",
+    "clone_url": "https://github.com/DaveyEke/expo-speech-transcriber.git",
+    "stars": 21,
+    "size": 190
   }
 ]
