@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-10 .. 2025-11-12)
+# Latest Repositories (2025-11-11 .. 2025-11-13)
 
-- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) (786)
-- [dartcv/AuroraTik](https://github.com/dartcv/AuroraTik) (69)
-- [ScrapeGraphAI/toonify](https://github.com/ScrapeGraphAI/toonify) (50)
-- [crispvibe/Windsurf-Tool](https://github.com/crispvibe/Windsurf-Tool) (44)
-- [Wh04m1001/CVE-2025-60710](https://github.com/Wh04m1001/CVE-2025-60710) (33)
+- [ai-tmarks/tmakrs](https://github.com/ai-tmarks/tmakrs) (36)
+- [rebane2001/TweetsAgainstHumanity](https://github.com/rebane2001/TweetsAgainstHumanity) (33)
+- [LIDR-academy/ai-specs](https://github.com/LIDR-academy/ai-specs) (20)
+- [crowmd/Sales-Marketing-Automation](https://github.com/crowmd/Sales-Marketing-Automation) (18)
+- [dionipe/ndash](https://github.com/dionipe/ndash) (14)
