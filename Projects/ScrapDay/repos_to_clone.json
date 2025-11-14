@@ -1,32 +1,32 @@
 [
   {
-    "name": "ai-tmarks/tmakrs",
-    "clone_url": "https://github.com/ai-tmarks/tmakrs.git",
-    "stars": 67,
-    "size": 771
+    "name": "dragosroua/claude-assess-decide-do-mega-prompt",
+    "clone_url": "https://github.com/dragosroua/claude-assess-decide-do-mega-prompt.git",
+    "stars": 32,
+    "size": 187
   },
   {
-    "name": "rebane2001/TweetsAgainstHumanity",
-    "clone_url": "https://github.com/rebane2001/TweetsAgainstHumanity.git",
-    "stars": 43,
-    "size": 239
+    "name": "SebLague/Smoke-Simulation",
+    "clone_url": "https://github.com/SebLague/Smoke-Simulation.git",
+    "stars": 26,
+    "size": 1426
   },
   {
-    "name": "crowmd/Sales-Marketing-Automation",
-    "clone_url": "https://github.com/crowmd/Sales-Marketing-Automation.git",
-    "stars": 28,
-    "size": 370
-  },
-  {
-    "name": "BienBoy/heytea-diy",
-    "clone_url": "https://github.com/BienBoy/heytea-diy.git",
+    "name": "h9-tec/cuda-mastery-guide",
+    "clone_url": "https://github.com/h9-tec/cuda-mastery-guide.git",
     "stars": 23,
-    "size": 2954
+    "size": 204
   },
   {
-    "name": "DaveyEke/expo-speech-transcriber",
-    "clone_url": "https://github.com/DaveyEke/expo-speech-transcriber.git",
-    "stars": 21,
-    "size": 190
+    "name": "luongdev/fsagent",
+    "clone_url": "https://github.com/luongdev/fsagent.git",
+    "stars": 20,
+    "size": 50
+  },
+  {
+    "name": "shi-yx/URaG",
+    "clone_url": "https://github.com/shi-yx/URaG.git",
+    "stars": 19,
+    "size": 2488
   }
 ]
