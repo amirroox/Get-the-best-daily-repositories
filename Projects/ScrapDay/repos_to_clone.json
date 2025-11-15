@@ -1,32 +1,32 @@
 [
   {
+    "name": "raduacg/game-mechanics-optimizations",
+    "clone_url": "https://github.com/raduacg/game-mechanics-optimizations.git",
+    "stars": 128,
+    "size": 862
+  },
+  {
     "name": "moistrr/TGbot-D1",
     "clone_url": "https://github.com/moistrr/TGbot-D1.git",
-    "stars": 80,
-    "size": 1577
+    "stars": 91,
+    "size": 1534
+  },
+  {
+    "name": "shanselman/WindowsEdgeLight",
+    "clone_url": "https://github.com/shanselman/WindowsEdgeLight.git",
+    "stars": 48,
+    "size": 330
   },
   {
     "name": "AIchovy/OpenDocvivid",
     "clone_url": "https://github.com/AIchovy/OpenDocvivid.git",
-    "stars": 34,
+    "stars": 45,
     "size": 690
   },
   {
     "name": "c3ng4v3r/odemeyecezzzzz",
     "clone_url": "https://github.com/c3ng4v3r/odemeyecezzzzz.git",
-    "stars": 34,
+    "stars": 43,
     "size": 81
-  },
-  {
-    "name": "xiaokun567/office365",
-    "clone_url": "https://github.com/xiaokun567/office365.git",
-    "stars": 20,
-    "size": 1081
-  },
-  {
-    "name": "careunix/PyTorch-HighSierra-CUDA-Revival",
-    "clone_url": "https://github.com/careunix/PyTorch-HighSierra-CUDA-Revival.git",
-    "stars": 19,
-    "size": 108
   }
 ]
