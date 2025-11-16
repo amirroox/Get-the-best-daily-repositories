@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-13 .. 2025-11-15)
+# Latest Repositories (2025-11-14 .. 2025-11-16)
 
-- [raduacg/game-mechanics-optimizations](https://github.com/raduacg/game-mechanics-optimizations) (128)
-- [moistrr/TGbot-D1](https://github.com/moistrr/TGbot-D1) (91)
-- [shanselman/WindowsEdgeLight](https://github.com/shanselman/WindowsEdgeLight) (48)
-- [AIchovy/OpenDocvivid](https://github.com/AIchovy/OpenDocvivid) (45)
-- [c3ng4v3r/odemeyecezzzzz](https://github.com/c3ng4v3r/odemeyecezzzzz) (43)
+- [raduacg/game-mechanics-optimizations](https://github.com/raduacg/game-mechanics-optimizations) (153)
+- [rit3zh/expo-linear-like-bottom-tabs](https://github.com/rit3zh/expo-linear-like-bottom-tabs) (65)
+- [xPOURY4/Grok-Prompt](https://github.com/xPOURY4/Grok-Prompt) (33)
+- [pxvp2008/areYouOk](https://github.com/pxvp2008/areYouOk) (23)
+- [steipete/TauTUI](https://github.com/steipete/TauTUI) (22)
