@@ -2,31 +2,31 @@
   {
     "name": "YYsuni/2025-blog-public",
     "clone_url": "https://github.com/YYsuni/2025-blog-public.git",
-    "stars": 54,
-    "size": 1805
+    "stars": 87,
+    "size": 2619
   },
   {
     "name": "PrimePoobah/Pi-hole-Blocklist-Catalog",
     "clone_url": "https://github.com/PrimePoobah/Pi-hole-Blocklist-Catalog.git",
-    "stars": 46,
+    "stars": 63,
     "size": 63
+  },
+  {
+    "name": "9j/claude-code-mux",
+    "clone_url": "https://github.com/9j/claude-code-mux.git",
+    "stars": 56,
+    "size": 770
   },
   {
     "name": "dvbtrung2302/open-blog",
     "clone_url": "https://github.com/dvbtrung2302/open-blog.git",
-    "stars": 22,
-    "size": 294
+    "stars": 34,
+    "size": 322
   },
   {
     "name": "YassWrld/Neutrone",
     "clone_url": "https://github.com/YassWrld/Neutrone.git",
-    "stars": 20,
+    "stars": 22,
     "size": 184
-  },
-  {
-    "name": "hxfeng1998/cc-manage",
-    "clone_url": "https://github.com/hxfeng1998/cc-manage.git",
-    "stars": 11,
-    "size": 241
   }
 ]
