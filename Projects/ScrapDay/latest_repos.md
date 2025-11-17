@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-14 .. 2025-11-16)
+# Latest Repositories (2025-11-15 .. 2025-11-17)
 
-- [raduacg/game-mechanics-optimizations](https://github.com/raduacg/game-mechanics-optimizations) (159)
-- [WoocommercePlugin/Custom-Checkout-Fields-for-Woocommerce](https://github.com/WoocommercePlugin/Custom-Checkout-Fields-for-Woocommerce) (89)
-- [rit3zh/expo-linear-like-bottom-tabs](https://github.com/rit3zh/expo-linear-like-bottom-tabs) (80)
-- [messkan/rag-chunk](https://github.com/messkan/rag-chunk) (41)
-- [steipete/TauTUI](https://github.com/steipete/TauTUI) (37)
+- [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public) (54)
+- [PrimePoobah/Pi-hole-Blocklist-Catalog](https://github.com/PrimePoobah/Pi-hole-Blocklist-Catalog) (46)
+- [dvbtrung2302/open-blog](https://github.com/dvbtrung2302/open-blog) (22)
+- [YassWrld/Neutrone](https://github.com/YassWrld/Neutrone) (20)
+- [hxfeng1998/cc-manage](https://github.com/hxfeng1998/cc-manage) (11)
