@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-15 .. 2025-11-17)
+# Latest Repositories (2025-11-16 .. 2025-11-18)
 
-- [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public) (87)
-- [PrimePoobah/Pi-hole-Blocklist-Catalog](https://github.com/PrimePoobah/Pi-hole-Blocklist-Catalog) (63)
-- [9j/claude-code-mux](https://github.com/9j/claude-code-mux) (56)
-- [dvbtrung2302/open-blog](https://github.com/dvbtrung2302/open-blog) (34)
-- [YassWrld/Neutrone](https://github.com/YassWrld/Neutrone) (22)
+- [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) (86)
+- [Mic92/strace-macos](https://github.com/Mic92/strace-macos) (72)
+- [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) (67)
+- [jamilshaikh07/talos-proxmox-gitops](https://github.com/jamilshaikh07/talos-proxmox-gitops) (33)
+- [abhishekkrthakur/search](https://github.com/abhishekkrthakur/search) (29)
