@@ -1,32 +1,32 @@
 [
   {
+    "name": "karpathy/reader3",
+    "clone_url": "https://github.com/karpathy/reader3.git",
+    "stars": 598,
+    "size": 271
+  },
+  {
     "name": "buyukakyuz/install-nothing",
     "clone_url": "https://github.com/buyukakyuz/install-nothing.git",
-    "stars": 86,
+    "stars": 234,
     "size": 2984
   },
   {
     "name": "Mic92/strace-macos",
     "clone_url": "https://github.com/Mic92/strace-macos.git",
-    "stars": 72,
-    "size": 87
+    "stars": 108,
+    "size": 121
   },
   {
     "name": "Ranteck/PyStrict-strict-python",
     "clone_url": "https://github.com/Ranteck/PyStrict-strict-python.git",
-    "stars": 67,
+    "stars": 80,
     "size": 61
-  },
-  {
-    "name": "jamilshaikh07/talos-proxmox-gitops",
-    "clone_url": "https://github.com/jamilshaikh07/talos-proxmox-gitops.git",
-    "stars": 33,
-    "size": 156
   },
   {
     "name": "abhishekkrthakur/search",
     "clone_url": "https://github.com/abhishekkrthakur/search.git",
-    "stars": 29,
+    "stars": 58,
     "size": 170
   }
 ]
