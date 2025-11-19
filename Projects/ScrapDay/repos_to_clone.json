@@ -2,31 +2,31 @@
   {
     "name": "karpathy/reader3",
     "clone_url": "https://github.com/karpathy/reader3.git",
-    "stars": 932,
+    "stars": 1243,
     "size": 271
   },
   {
     "name": "supertone-inc/supertonic",
     "clone_url": "https://github.com/supertone-inc/supertonic.git",
-    "stars": 87,
-    "size": 281
+    "stars": 155,
+    "size": 313
   },
   {
     "name": "rlresearch/dr-tulu",
     "clone_url": "https://github.com/rlresearch/dr-tulu.git",
-    "stars": 58,
+    "stars": 102,
     "size": 2591
+  },
+  {
+    "name": "93won/lidar_inertial_odometry",
+    "clone_url": "https://github.com/93won/lidar_inertial_odometry.git",
+    "stars": 51,
+    "size": 2597
   },
   {
     "name": "Taiizor/Blazouter",
     "clone_url": "https://github.com/Taiizor/Blazouter.git",
-    "stars": 42,
-    "size": 2994
-  },
-  {
-    "name": "HazemSarhan/express-ts-prisma-starter",
-    "clone_url": "https://github.com/HazemSarhan/express-ts-prisma-starter.git",
-    "stars": 25,
-    "size": 61
+    "stars": 44,
+    "size": 2971
   }
 ]
