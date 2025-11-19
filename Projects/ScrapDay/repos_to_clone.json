@@ -2,31 +2,31 @@
   {
     "name": "karpathy/reader3",
     "clone_url": "https://github.com/karpathy/reader3.git",
-    "stars": 598,
+    "stars": 932,
     "size": 271
   },
   {
-    "name": "buyukakyuz/install-nothing",
-    "clone_url": "https://github.com/buyukakyuz/install-nothing.git",
-    "stars": 234,
-    "size": 2984
+    "name": "supertone-inc/supertonic",
+    "clone_url": "https://github.com/supertone-inc/supertonic.git",
+    "stars": 87,
+    "size": 281
   },
   {
-    "name": "Mic92/strace-macos",
-    "clone_url": "https://github.com/Mic92/strace-macos.git",
-    "stars": 108,
-    "size": 121
-  },
-  {
-    "name": "Ranteck/PyStrict-strict-python",
-    "clone_url": "https://github.com/Ranteck/PyStrict-strict-python.git",
-    "stars": 80,
-    "size": 61
-  },
-  {
-    "name": "abhishekkrthakur/search",
-    "clone_url": "https://github.com/abhishekkrthakur/search.git",
+    "name": "rlresearch/dr-tulu",
+    "clone_url": "https://github.com/rlresearch/dr-tulu.git",
     "stars": 58,
-    "size": 170
+    "size": 2591
+  },
+  {
+    "name": "Taiizor/Blazouter",
+    "clone_url": "https://github.com/Taiizor/Blazouter.git",
+    "stars": 42,
+    "size": 2994
+  },
+  {
+    "name": "HazemSarhan/express-ts-prisma-starter",
+    "clone_url": "https://github.com/HazemSarhan/express-ts-prisma-starter.git",
+    "stars": 25,
+    "size": 61
   }
 ]
