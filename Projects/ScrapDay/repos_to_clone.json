@@ -2,31 +2,31 @@
   {
     "name": "dzhng/claude-agent-server",
     "clone_url": "https://github.com/dzhng/claude-agent-server.git",
-    "stars": 93,
-    "size": 87
-  },
-  {
-    "name": "midudev/disable-cloudflare-cli",
-    "clone_url": "https://github.com/midudev/disable-cloudflare-cli.git",
-    "stars": 60,
-    "size": 56
+    "stars": 177,
+    "size": 128
   },
   {
     "name": "donlon/cloudflare-error-page",
     "clone_url": "https://github.com/donlon/cloudflare-error-page.git",
-    "stars": 53,
-    "size": 705
+    "stars": 94,
+    "size": 714
   },
   {
-    "name": "lichangyu138/Intelligent-Code-Knowledge-Repository-Platform",
-    "clone_url": "https://github.com/lichangyu138/Intelligent-Code-Knowledge-Repository-Platform.git",
-    "stars": 43,
-    "size": 107
+    "name": "midudev/disable-cloudflare-cli",
+    "clone_url": "https://github.com/midudev/disable-cloudflare-cli.git",
+    "stars": 76,
+    "size": 56
   },
   {
-    "name": "CORehoRN777/Mobile-App-Hyperliquid-Android",
-    "clone_url": "https://github.com/CORehoRN777/Mobile-App-Hyperliquid-Android.git",
-    "stars": 39,
-    "size": 51
+    "name": "CassiopeiaCode/q2api",
+    "clone_url": "https://github.com/CassiopeiaCode/q2api.git",
+    "stars": 73,
+    "size": 61
+  },
+  {
+    "name": "duolaAmengweb3/polysurge",
+    "clone_url": "https://github.com/duolaAmengweb3/polysurge.git",
+    "stars": 61,
+    "size": 1711
   }
 ]
