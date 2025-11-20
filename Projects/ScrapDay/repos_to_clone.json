@@ -1,32 +1,32 @@
 [
   {
-    "name": "karpathy/reader3",
-    "clone_url": "https://github.com/karpathy/reader3.git",
-    "stars": 1243,
-    "size": 271
+    "name": "dzhng/claude-agent-server",
+    "clone_url": "https://github.com/dzhng/claude-agent-server.git",
+    "stars": 93,
+    "size": 87
   },
   {
-    "name": "supertone-inc/supertonic",
-    "clone_url": "https://github.com/supertone-inc/supertonic.git",
-    "stars": 155,
-    "size": 313
+    "name": "midudev/disable-cloudflare-cli",
+    "clone_url": "https://github.com/midudev/disable-cloudflare-cli.git",
+    "stars": 60,
+    "size": 56
   },
   {
-    "name": "rlresearch/dr-tulu",
-    "clone_url": "https://github.com/rlresearch/dr-tulu.git",
-    "stars": 102,
-    "size": 2591
+    "name": "donlon/cloudflare-error-page",
+    "clone_url": "https://github.com/donlon/cloudflare-error-page.git",
+    "stars": 53,
+    "size": 705
   },
   {
-    "name": "93won/lidar_inertial_odometry",
-    "clone_url": "https://github.com/93won/lidar_inertial_odometry.git",
-    "stars": 51,
-    "size": 2597
+    "name": "lichangyu138/Intelligent-Code-Knowledge-Repository-Platform",
+    "clone_url": "https://github.com/lichangyu138/Intelligent-Code-Knowledge-Repository-Platform.git",
+    "stars": 43,
+    "size": 107
   },
   {
-    "name": "Taiizor/Blazouter",
-    "clone_url": "https://github.com/Taiizor/Blazouter.git",
-    "stars": 44,
-    "size": 2971
+    "name": "CORehoRN777/Mobile-App-Hyperliquid-Android",
+    "clone_url": "https://github.com/CORehoRN777/Mobile-App-Hyperliquid-Android.git",
+    "stars": 39,
+    "size": 51
   }
 ]

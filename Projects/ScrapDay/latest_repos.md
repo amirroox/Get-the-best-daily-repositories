@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-17 .. 2025-11-19)
+# Latest Repositories (2025-11-18 .. 2025-11-20)
 
-- [karpathy/reader3](https://github.com/karpathy/reader3) (1243)
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) (155)
-- [rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu) (102)
-- [93won/lidar_inertial_odometry](https://github.com/93won/lidar_inertial_odometry) (51)
-- [Taiizor/Blazouter](https://github.com/Taiizor/Blazouter) (44)
+- [dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server) (93)
+- [midudev/disable-cloudflare-cli](https://github.com/midudev/disable-cloudflare-cli) (60)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) (53)
+- [lichangyu138/Intelligent-Code-Knowledge-Repository-Platform](https://github.com/lichangyu138/Intelligent-Code-Knowledge-Repository-Platform) (43)
+- [CORehoRN777/Mobile-App-Hyperliquid-Android](https://github.com/CORehoRN777/Mobile-App-Hyperliquid-Android) (39)
