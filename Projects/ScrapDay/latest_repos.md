@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-18 .. 2025-11-20)
+# Latest Repositories (2025-11-19 .. 2025-11-21)
 
-- [dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server) (177)
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) (94)
-- [midudev/disable-cloudflare-cli](https://github.com/midudev/disable-cloudflare-cli) (76)
-- [CassiopeiaCode/q2api](https://github.com/CassiopeiaCode/q2api) (73)
-- [duolaAmengweb3/polysurge](https://github.com/duolaAmengweb3/polysurge) (61)
+- [hexagonal-sun/moss](https://github.com/hexagonal-sun/moss) (92)
+- [PallavAg/iOS-Clone-SwiftUI](https://github.com/PallavAg/iOS-Clone-SwiftUI) (53)
+- [move132/kiira2api](https://github.com/move132/kiira2api) (43)
+- [7a72/meta-magic_mount](https://github.com/7a72/meta-magic_mount) (33)
+- [miiot/micam](https://github.com/miiot/micam) (33)
