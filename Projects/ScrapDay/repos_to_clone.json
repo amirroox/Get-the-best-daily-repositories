@@ -1,32 +1,32 @@
 [
   {
+    "name": "Tencent-Hunyuan/HunyuanVideo-1.5",
+    "clone_url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5.git",
+    "stars": 252,
+    "size": 495
+  },
+  {
     "name": "hexagonal-sun/moss",
     "clone_url": "https://github.com/hexagonal-sun/moss.git",
-    "stars": 92,
-    "size": 1076
+    "stars": 246,
+    "size": 1077
   },
   {
     "name": "PallavAg/iOS-Clone-SwiftUI",
     "clone_url": "https://github.com/PallavAg/iOS-Clone-SwiftUI.git",
-    "stars": 53,
+    "stars": 152,
     "size": 964
-  },
-  {
-    "name": "move132/kiira2api",
-    "clone_url": "https://github.com/move132/kiira2api.git",
-    "stars": 43,
-    "size": 73
-  },
-  {
-    "name": "7a72/meta-magic_mount",
-    "clone_url": "https://github.com/7a72/meta-magic_mount.git",
-    "stars": 33,
-    "size": 88
   },
   {
     "name": "miiot/micam",
     "clone_url": "https://github.com/miiot/micam.git",
-    "stars": 33,
-    "size": 117
+    "stars": 94,
+    "size": 119
+  },
+  {
+    "name": "PolymathicAI/walrus",
+    "clone_url": "https://github.com/PolymathicAI/walrus.git",
+    "stars": 57,
+    "size": 2450
   }
 ]
