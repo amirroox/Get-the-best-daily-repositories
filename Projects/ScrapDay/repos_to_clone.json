@@ -1,32 +1,32 @@
 [
   {
-    "name": "lwl2005/Antigravity-",
-    "clone_url": "https://github.com/lwl2005/Antigravity-.git",
-    "stars": 36,
-    "size": 3364
-  },
-  {
-    "name": "glidea/banana-prompt-quicker",
-    "clone_url": "https://github.com/glidea/banana-prompt-quicker.git",
-    "stars": 32,
-    "size": 3478
-  },
-  {
-    "name": "pshenok/server-survival",
-    "clone_url": "https://github.com/pshenok/server-survival.git",
-    "stars": 31,
-    "size": 1083
+    "name": "Kindness-Kismet/Stelliberty",
+    "clone_url": "https://github.com/Kindness-Kismet/Stelliberty.git",
+    "stars": 101,
+    "size": 2706
   },
   {
     "name": "PallavAg/MacOS-Clone-SwiftUI",
     "clone_url": "https://github.com/PallavAg/MacOS-Clone-SwiftUI.git",
-    "stars": 26,
+    "stars": 62,
     "size": 576
+  },
+  {
+    "name": "lwl2005/Antigravity-",
+    "clone_url": "https://github.com/lwl2005/Antigravity-.git",
+    "stars": 55,
+    "size": 3567
+  },
+  {
+    "name": "pheuter/claude-agent-desktop",
+    "clone_url": "https://github.com/pheuter/claude-agent-desktop.git",
+    "stars": 45,
+    "size": 702
   },
   {
     "name": "Ryandonofrio3/osgrep",
     "clone_url": "https://github.com/Ryandonofrio3/osgrep.git",
-    "stars": 20,
-    "size": 469
+    "stars": 23,
+    "size": 728
   }
 ]
