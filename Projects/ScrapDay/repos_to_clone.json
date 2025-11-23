@@ -1,32 +1,32 @@
 [
   {
+    "name": "karpathy/llm-council",
+    "clone_url": "https://github.com/karpathy/llm-council.git",
+    "stars": 317,
+    "size": 262
+  },
+  {
     "name": "Kindness-Kismet/Stelliberty",
     "clone_url": "https://github.com/Kindness-Kismet/Stelliberty.git",
-    "stars": 101,
+    "stars": 136,
     "size": 2706
   },
   {
-    "name": "PallavAg/MacOS-Clone-SwiftUI",
-    "clone_url": "https://github.com/PallavAg/MacOS-Clone-SwiftUI.git",
-    "stars": 62,
-    "size": 576
+    "name": "1rhino2/go-memory-visualizer",
+    "clone_url": "https://github.com/1rhino2/go-memory-visualizer.git",
+    "stars": 47,
+    "size": 54
   },
   {
-    "name": "lwl2005/Antigravity-",
-    "clone_url": "https://github.com/lwl2005/Antigravity-.git",
-    "stars": 55,
-    "size": 3567
+    "name": "manoss96/onlymaps",
+    "clone_url": "https://github.com/manoss96/onlymaps.git",
+    "stars": 37,
+    "size": 550
   },
   {
-    "name": "pheuter/claude-agent-desktop",
-    "clone_url": "https://github.com/pheuter/claude-agent-desktop.git",
-    "stars": 45,
-    "size": 702
-  },
-  {
-    "name": "Ryandonofrio3/osgrep",
-    "clone_url": "https://github.com/Ryandonofrio3/osgrep.git",
-    "stars": 23,
-    "size": 728
+    "name": "djdevil/person-tracker-card",
+    "clone_url": "https://github.com/djdevil/person-tracker-card.git",
+    "stars": 29,
+    "size": 571
   }
 ]

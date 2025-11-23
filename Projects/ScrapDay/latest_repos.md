@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-20 .. 2025-11-22)
+# Latest Repositories (2025-11-21 .. 2025-11-23)
 
-- [Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty) (101)
-- [PallavAg/MacOS-Clone-SwiftUI](https://github.com/PallavAg/MacOS-Clone-SwiftUI) (62)
-- [lwl2005/Antigravity-](https://github.com/lwl2005/Antigravity-) (55)
-- [pheuter/claude-agent-desktop](https://github.com/pheuter/claude-agent-desktop) (45)
-- [Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep) (23)
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) (317)
+- [Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty) (136)
+- [1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer) (47)
+- [manoss96/onlymaps](https://github.com/manoss96/onlymaps) (37)
+- [djdevil/person-tracker-card](https://github.com/djdevil/person-tracker-card) (29)
