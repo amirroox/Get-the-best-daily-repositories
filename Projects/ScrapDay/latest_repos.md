@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-21 .. 2025-11-23)
+# Latest Repositories (2025-11-22 .. 2025-11-24)
 
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) (1210)
-- [Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty) (148)
-- [1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer) (77)
-- [manoss96/onlymaps](https://github.com/manoss96/onlymaps) (68)
-- [thevangelist/dembrandt](https://github.com/thevangelist/dembrandt) (61)
+- [ethgan/CF-Worker-BestIP-collector](https://github.com/ethgan/CF-Worker-BestIP-collector) (87)
+- [naikaku1/YouTube_Music-Moden-UI](https://github.com/naikaku1/YouTube_Music-Moden-UI) (58)
+- [jamietso/Tabular_Review](https://github.com/jamietso/Tabular_Review) (34)
+- [ItzmeJan/NarrowMind-S2](https://github.com/ItzmeJan/NarrowMind-S2) (30)
+- [theesfeld/CleanX](https://github.com/theesfeld/CleanX) (22)
