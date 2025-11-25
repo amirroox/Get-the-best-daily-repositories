@@ -2,31 +2,31 @@
   {
     "name": "d0rc/egg.c",
     "clone_url": "https://github.com/d0rc/egg.c.git",
-    "stars": 178,
+    "stars": 227,
     "size": 497
+  },
+  {
+    "name": "jwangkun/ai-coding-prompt-java",
+    "clone_url": "https://github.com/jwangkun/ai-coding-prompt-java.git",
+    "stars": 156,
+    "size": 151
   },
   {
     "name": "TheSmallHanCat/flow2api",
     "clone_url": "https://github.com/TheSmallHanCat/flow2api.git",
-    "stars": 53,
-    "size": 58
-  },
-  {
-    "name": "Hugo-Dz/spritefusion-pixel-snapper",
-    "clone_url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper.git",
-    "stars": 27,
-    "size": 934
-  },
-  {
-    "name": "anonym-g/X-Accounts-Based-in-China-Auto-Mute",
-    "clone_url": "https://github.com/anonym-g/X-Accounts-Based-in-China-Auto-Mute.git",
-    "stars": 23,
-    "size": 1177
+    "stars": 89,
+    "size": 64
   },
   {
     "name": "amrrs/selfieat-nanobanana-pro",
     "clone_url": "https://github.com/amrrs/selfieat-nanobanana-pro.git",
-    "stars": 22,
+    "stars": 47,
     "size": 2298
+  },
+  {
+    "name": "Hugo-Dz/spritefusion-pixel-snapper",
+    "clone_url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper.git",
+    "stars": 44,
+    "size": 934
   }
 ]
