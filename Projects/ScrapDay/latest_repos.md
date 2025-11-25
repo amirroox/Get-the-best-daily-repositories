@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-22 .. 2025-11-24)
+# Latest Repositories (2025-11-23 .. 2025-11-25)
 
-- [ethgan/CF-Worker-BestIP-collector](https://github.com/ethgan/CF-Worker-BestIP-collector) (106)
-- [jamietso/Tabular_Review](https://github.com/jamietso/Tabular_Review) (79)
-- [naikaku1/YouTube_Music-Moden-UI](https://github.com/naikaku1/YouTube_Music-Moden-UI) (72)
-- [theesfeld/CleanX](https://github.com/theesfeld/CleanX) (50)
-- [joreilly/OnDeviceAI](https://github.com/joreilly/OnDeviceAI) (34)
+- [d0rc/egg.c](https://github.com/d0rc/egg.c) (178)
+- [TheSmallHanCat/flow2api](https://github.com/TheSmallHanCat/flow2api) (53)
+- [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) (27)
+- [anonym-g/X-Accounts-Based-in-China-Auto-Mute](https://github.com/anonym-g/X-Accounts-Based-in-China-Auto-Mute) (23)
+- [amrrs/selfieat-nanobanana-pro](https://github.com/amrrs/selfieat-nanobanana-pro) (22)
