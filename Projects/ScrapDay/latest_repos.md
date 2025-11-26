@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-23 .. 2025-11-25)
+# Latest Repositories (2025-11-24 .. 2025-11-26)
 
-- [d0rc/egg.c](https://github.com/d0rc/egg.c) (227)
-- [jwangkun/ai-coding-prompt-java](https://github.com/jwangkun/ai-coding-prompt-java) (156)
-- [TheSmallHanCat/flow2api](https://github.com/TheSmallHanCat/flow2api) (89)
-- [amrrs/selfieat-nanobanana-pro](https://github.com/amrrs/selfieat-nanobanana-pro) (47)
-- [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) (44)
+- [jwangkun/ai-coding-prompt-java](https://github.com/jwangkun/ai-coding-prompt-java) (192)
+- [xPOURY4/AI-Links](https://github.com/xPOURY4/AI-Links) (49)
+- [022122/academic-doc-generator](https://github.com/022122/academic-doc-generator) (48)
+- [0x0funky/paulwei-trading-analytics](https://github.com/0x0funky/paulwei-trading-analytics) (39)
+- [AhmedOmani/Competitive-Programming](https://github.com/AhmedOmani/Competitive-Programming) (31)

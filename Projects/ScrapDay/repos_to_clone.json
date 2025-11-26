@@ -1,32 +1,32 @@
 [
   {
-    "name": "d0rc/egg.c",
-    "clone_url": "https://github.com/d0rc/egg.c.git",
-    "stars": 227,
-    "size": 497
-  },
-  {
     "name": "jwangkun/ai-coding-prompt-java",
     "clone_url": "https://github.com/jwangkun/ai-coding-prompt-java.git",
-    "stars": 156,
+    "stars": 192,
     "size": 151
   },
   {
-    "name": "TheSmallHanCat/flow2api",
-    "clone_url": "https://github.com/TheSmallHanCat/flow2api.git",
-    "stars": 89,
-    "size": 64
+    "name": "xPOURY4/AI-Links",
+    "clone_url": "https://github.com/xPOURY4/AI-Links.git",
+    "stars": 49,
+    "size": 345
   },
   {
-    "name": "amrrs/selfieat-nanobanana-pro",
-    "clone_url": "https://github.com/amrrs/selfieat-nanobanana-pro.git",
-    "stars": 47,
-    "size": 2298
+    "name": "022122/academic-doc-generator",
+    "clone_url": "https://github.com/022122/academic-doc-generator.git",
+    "stars": 48,
+    "size": 82
   },
   {
-    "name": "Hugo-Dz/spritefusion-pixel-snapper",
-    "clone_url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper.git",
-    "stars": 44,
-    "size": 934
+    "name": "0x0funky/paulwei-trading-analytics",
+    "clone_url": "https://github.com/0x0funky/paulwei-trading-analytics.git",
+    "stars": 39,
+    "size": 3123
+  },
+  {
+    "name": "AhmedOmani/Competitive-Programming",
+    "clone_url": "https://github.com/AhmedOmani/Competitive-Programming.git",
+    "stars": 31,
+    "size": 337
   }
 ]
