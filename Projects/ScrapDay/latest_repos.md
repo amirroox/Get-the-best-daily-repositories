@@ -1,7 +1,7 @@
-# Latest Repositories (2025-11-24 .. 2025-11-26)
+# Latest Repositories (2025-11-25 .. 2025-11-27)
 
-- [jwangkun/ai-coding-prompt-java](https://github.com/jwangkun/ai-coding-prompt-java) (221)
-- [xPOURY4/AI-Links](https://github.com/xPOURY4/AI-Links) (74)
-- [022122/academic-doc-generator](https://github.com/022122/academic-doc-generator) (74)
-- [0x0funky/paulwei-trading-analytics](https://github.com/0x0funky/paulwei-trading-analytics) (57)
-- [open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0) (51)
+- [h4vier/spyder-osint](https://github.com/h4vier/spyder-osint) (70)
+- [craig7351/youtube-eng](https://github.com/craig7351/youtube-eng) (34)
+- [hecongyuan/dji_way_line](https://github.com/hecongyuan/dji_way_line) (33)
+- [mao168/trader-analyzer](https://github.com/mao168/trader-analyzer) (27)
+- [alipyth/aj_rag](https://github.com/alipyth/aj_rag) (18)
