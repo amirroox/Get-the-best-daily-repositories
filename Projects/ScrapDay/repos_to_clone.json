@@ -1,32 +1,32 @@
 [
   {
-    "name": "h4vier/spyder-osint",
-    "clone_url": "https://github.com/h4vier/spyder-osint.git",
-    "stars": 70,
-    "size": 848
+    "name": "adysec/proxychains-rs",
+    "clone_url": "https://github.com/adysec/proxychains-rs.git",
+    "stars": 139,
+    "size": 51
   },
   {
-    "name": "craig7351/youtube-eng",
-    "clone_url": "https://github.com/craig7351/youtube-eng.git",
-    "stars": 34,
-    "size": 4437
+    "name": "deepseek-ai/DeepSeek-Math-V2",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-Math-V2.git",
+    "stars": 120,
+    "size": 1010
+  },
+  {
+    "name": "ddcat666/business-gemini-pool",
+    "clone_url": "https://github.com/ddcat666/business-gemini-pool.git",
+    "stars": 62,
+    "size": 152
+  },
+  {
+    "name": "sese972010/CloudNav-",
+    "clone_url": "https://github.com/sese972010/CloudNav-.git",
+    "stars": 50,
+    "size": 111
   },
   {
     "name": "hecongyuan/dji_way_line",
     "clone_url": "https://github.com/hecongyuan/dji_way_line.git",
-    "stars": 33,
+    "stars": 46,
     "size": 3513
-  },
-  {
-    "name": "mao168/trader-analyzer",
-    "clone_url": "https://github.com/mao168/trader-analyzer.git",
-    "stars": 27,
-    "size": 3155
-  },
-  {
-    "name": "alipyth/aj_rag",
-    "clone_url": "https://github.com/alipyth/aj_rag.git",
-    "stars": 18,
-    "size": 764
   }
 ]
