@@ -1,32 +1,32 @@
 [
   {
+    "name": "deepseek-ai/DeepSeek-Math-V2",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-Math-V2.git",
+    "stars": 447,
+    "size": 1010
+  },
+  {
     "name": "adysec/proxychains-rs",
     "clone_url": "https://github.com/adysec/proxychains-rs.git",
     "stars": 139,
     "size": 51
   },
   {
-    "name": "deepseek-ai/DeepSeek-Math-V2",
-    "clone_url": "https://github.com/deepseek-ai/DeepSeek-Math-V2.git",
-    "stars": 120,
-    "size": 1010
-  },
-  {
     "name": "ddcat666/business-gemini-pool",
     "clone_url": "https://github.com/ddcat666/business-gemini-pool.git",
-    "stars": 62,
-    "size": 152
+    "stars": 93,
+    "size": 71
   },
   {
-    "name": "sese972010/CloudNav-",
-    "clone_url": "https://github.com/sese972010/CloudNav-.git",
-    "stars": 50,
-    "size": 111
+    "name": "seceq/zkir",
+    "clone_url": "https://github.com/seceq/zkir.git",
+    "stars": 83,
+    "size": 60
   },
   {
-    "name": "hecongyuan/dji_way_line",
-    "clone_url": "https://github.com/hecongyuan/dji_way_line.git",
-    "stars": 46,
-    "size": 3513
+    "name": "KalyanKS-NLP/Prompt-Engineering-Techniques-Hub",
+    "clone_url": "https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub.git",
+    "stars": 58,
+    "size": 3536
   }
 ]
