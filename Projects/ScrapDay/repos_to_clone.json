@@ -2,7 +2,7 @@
   {
     "name": "deepseek-ai/DeepSeek-Math-V2",
     "clone_url": "https://github.com/deepseek-ai/DeepSeek-Math-V2.git",
-    "stars": 447,
+    "stars": 776,
     "size": 1010
   },
   {
@@ -14,19 +14,19 @@
   {
     "name": "ddcat666/business-gemini-pool",
     "clone_url": "https://github.com/ddcat666/business-gemini-pool.git",
-    "stars": 93,
-    "size": 71
+    "stars": 117,
+    "size": 70
+  },
+  {
+    "name": "portrret/spyder-osint",
+    "clone_url": "https://github.com/portrret/spyder-osint.git",
+    "stars": 109,
+    "size": 847
   },
   {
     "name": "seceq/zkir",
     "clone_url": "https://github.com/seceq/zkir.git",
-    "stars": 83,
+    "stars": 103,
     "size": 60
-  },
-  {
-    "name": "KalyanKS-NLP/Prompt-Engineering-Techniques-Hub",
-    "clone_url": "https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub.git",
-    "stars": 58,
-    "size": 3536
   }
 ]
