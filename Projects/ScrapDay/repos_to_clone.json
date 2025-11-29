@@ -1,32 +1,32 @@
 [
   {
+    "name": "Rohithgilla12/data-peek",
+    "clone_url": "https://github.com/Rohithgilla12/data-peek.git",
+    "stars": 279,
+    "size": 1616
+  },
+  {
     "name": "alexzhang1433/VPS-TGbot",
     "clone_url": "https://github.com/alexzhang1433/VPS-TGbot.git",
-    "stars": 116,
+    "stars": 122,
     "size": 94
   },
   {
     "name": "skylerhes/sms-bridge",
     "clone_url": "https://github.com/skylerhes/sms-bridge.git",
-    "stars": 54,
+    "stars": 106,
     "size": 1381
-  },
-  {
-    "name": "gvanrossum/abc-unix",
-    "clone_url": "https://github.com/gvanrossum/abc-unix.git",
-    "stars": 48,
-    "size": 1030
-  },
-  {
-    "name": "your-quantguy/cross-exchange-arbitrage",
-    "clone_url": "https://github.com/your-quantguy/cross-exchange-arbitrage.git",
-    "stars": 29,
-    "size": 63
   },
   {
     "name": "mgfgsd/bottgggg",
     "clone_url": "https://github.com/mgfgsd/bottgggg.git",
-    "stars": 23,
+    "stars": 100,
     "size": 705
+  },
+  {
+    "name": "gvanrossum/abc-unix",
+    "clone_url": "https://github.com/gvanrossum/abc-unix.git",
+    "stars": 98,
+    "size": 1073
   }
 ]
