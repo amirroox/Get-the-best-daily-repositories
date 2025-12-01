@@ -2,7 +2,7 @@
   {
     "name": "TelegramMessenger/cocoon",
     "clone_url": "https://github.com/TelegramMessenger/cocoon.git",
-    "stars": 217,
+    "stars": 308,
     "size": 477
   },
   {
@@ -12,21 +12,21 @@
     "size": 222
   },
   {
-    "name": "mangguo03/TG_duojiqiren03",
-    "clone_url": "https://github.com/mangguo03/TG_duojiqiren03.git",
+    "name": "cherrrry1/free",
+    "clone_url": "https://github.com/cherrrry1/free.git",
+    "stars": 100,
+    "size": 81
+  },
+  {
+    "name": "shijil1/landing",
+    "clone_url": "https://github.com/shijil1/landing.git",
+    "stars": 100,
+    "size": 144
+  },
+  {
+    "name": "YU-deep/Awesome-Latent-Space",
+    "clone_url": "https://github.com/YU-deep/Awesome-Latent-Space.git",
     "stars": 65,
-    "size": 218
-  },
-  {
-    "name": "kaima2022/ShowImageWeb",
-    "clone_url": "https://github.com/kaima2022/ShowImageWeb.git",
-    "stars": 58,
-    "size": 3435
-  },
-  {
-    "name": "gregsadetsky/boing",
-    "clone_url": "https://github.com/gregsadetsky/boing.git",
-    "stars": 45,
-    "size": 701
+    "size": 2005
   }
 ]
