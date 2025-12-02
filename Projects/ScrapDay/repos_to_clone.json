@@ -1,17 +1,5 @@
 [
   {
-    "name": "TelegramMessenger/cocoon",
-    "clone_url": "https://github.com/TelegramMessenger/cocoon.git",
-    "stars": 308,
-    "size": 477
-  },
-  {
-    "name": "987yt/yun",
-    "clone_url": "https://github.com/987yt/yun.git",
-    "stars": 101,
-    "size": 222
-  },
-  {
     "name": "cherrrry1/free",
     "clone_url": "https://github.com/cherrrry1/free.git",
     "stars": 100,
@@ -24,9 +12,21 @@
     "size": 144
   },
   {
-    "name": "YU-deep/Awesome-Latent-Space",
-    "clone_url": "https://github.com/YU-deep/Awesome-Latent-Space.git",
-    "stars": 65,
-    "size": 2005
+    "name": "byJoey/yx-auto",
+    "clone_url": "https://github.com/byJoey/yx-auto.git",
+    "stars": 71,
+    "size": 52
+  },
+  {
+    "name": "gonflare/KawaiiGPT",
+    "clone_url": "https://github.com/gonflare/KawaiiGPT.git",
+    "stars": 63,
+    "size": 697
+  },
+  {
+    "name": "jikssha/telegram_private_chatbot",
+    "clone_url": "https://github.com/jikssha/telegram_private_chatbot.git",
+    "stars": 46,
+    "size": 68
   }
 ]
