@@ -1,32 +1,32 @@
 [
   {
-    "name": "cherrrry1/free",
-    "clone_url": "https://github.com/cherrrry1/free.git",
-    "stars": 100,
-    "size": 81
-  },
-  {
-    "name": "shijil1/landing",
-    "clone_url": "https://github.com/shijil1/landing.git",
-    "stars": 100,
-    "size": 144
-  },
-  {
     "name": "byJoey/yx-auto",
     "clone_url": "https://github.com/byJoey/yx-auto.git",
-    "stars": 71,
-    "size": 52
-  },
-  {
-    "name": "gonflare/KawaiiGPT",
-    "clone_url": "https://github.com/gonflare/KawaiiGPT.git",
-    "stars": 63,
-    "size": 697
+    "stars": 87,
+    "size": 69
   },
   {
     "name": "jikssha/telegram_private_chatbot",
     "clone_url": "https://github.com/jikssha/telegram_private_chatbot.git",
-    "stars": 46,
+    "stars": 68,
     "size": 68
+  },
+  {
+    "name": "PlummersSoftwareLLC/retropad",
+    "clone_url": "https://github.com/PlummersSoftwareLLC/retropad.git",
+    "stars": 68,
+    "size": 356
+  },
+  {
+    "name": "TokenRollAI/curl-resume",
+    "clone_url": "https://github.com/TokenRollAI/curl-resume.git",
+    "stars": 61,
+    "size": 4853
+  },
+  {
+    "name": "xtgm/stallTCP1.3V1",
+    "clone_url": "https://github.com/xtgm/stallTCP1.3V1.git",
+    "stars": 44,
+    "size": 35
   }
 ]
