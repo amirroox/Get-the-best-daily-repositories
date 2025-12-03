@@ -1,32 +1,32 @@
 [
   {
-    "name": "wannalie/sora-watermark-cleaner",
-    "clone_url": "https://github.com/wannalie/sora-watermark-cleaner.git",
-    "stars": 311,
-    "size": 53
-  },
-  {
-    "name": "wannalie/Sora2WatermarkCleaner",
-    "clone_url": "https://github.com/wannalie/Sora2WatermarkCleaner.git",
-    "stars": 299,
-    "size": 71
-  },
-  {
     "name": "PlummersSoftwareLLC/retropad",
     "clone_url": "https://github.com/PlummersSoftwareLLC/retropad.git",
-    "stars": 104,
+    "stars": 115,
     "size": 356
+  },
+  {
+    "name": "wannalie/sora-watermark-cleaner",
+    "clone_url": "https://github.com/wannalie/sora-watermark-cleaner.git",
+    "stars": 108,
+    "size": 53
   },
   {
     "name": "mit-han-lab/vlash",
     "clone_url": "https://github.com/mit-han-lab/vlash.git",
-    "stars": 53,
+    "stars": 82,
     "size": 336
   },
   {
     "name": "pkr91/lucky-2026",
     "clone_url": "https://github.com/pkr91/lucky-2026.git",
-    "stars": 52,
-    "size": 71
+    "stars": 59,
+    "size": 138
+  },
+  {
+    "name": "Gouryella/drip",
+    "clone_url": "https://github.com/Gouryella/drip.git",
+    "stars": 49,
+    "size": 1547
   }
 ]
