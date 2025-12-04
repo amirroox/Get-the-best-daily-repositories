@@ -1,32 +1,32 @@
 [
   {
-    "name": "PlummersSoftwareLLC/retropad",
-    "clone_url": "https://github.com/PlummersSoftwareLLC/retropad.git",
-    "stars": 115,
-    "size": 356
+    "name": "ejpir/CVE-2025-55182-poc",
+    "clone_url": "https://github.com/ejpir/CVE-2025-55182-poc.git",
+    "stars": 269,
+    "size": 85
   },
   {
-    "name": "wannalie/sora-watermark-cleaner",
-    "clone_url": "https://github.com/wannalie/sora-watermark-cleaner.git",
-    "stars": 108,
+    "name": "m-sec-org/ez-xbow-platform-mcp",
+    "clone_url": "https://github.com/m-sec-org/ez-xbow-platform-mcp.git",
+    "stars": 45,
     "size": 53
   },
   {
-    "name": "mit-han-lab/vlash",
-    "clone_url": "https://github.com/mit-han-lab/vlash.git",
-    "stars": 82,
-    "size": 336
+    "name": "m-sec-org/kimi-cli-for-xbow",
+    "clone_url": "https://github.com/m-sec-org/kimi-cli-for-xbow.git",
+    "stars": 30,
+    "size": 906
   },
   {
-    "name": "pkr91/lucky-2026",
-    "clone_url": "https://github.com/pkr91/lucky-2026.git",
-    "stars": 59,
-    "size": 138
+    "name": "tartenka/zapretRoblox",
+    "clone_url": "https://github.com/tartenka/zapretRoblox.git",
+    "stars": 23,
+    "size": 1358
   },
   {
-    "name": "Gouryella/drip",
-    "clone_url": "https://github.com/Gouryella/drip.git",
-    "stars": 49,
-    "size": 1547
+    "name": "jerankda/lol-lint",
+    "clone_url": "https://github.com/jerankda/lol-lint.git",
+    "stars": 18,
+    "size": 52
   }
 ]

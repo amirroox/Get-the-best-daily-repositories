@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-01 .. 2025-12-03)
+# Latest Repositories (2025-12-02 .. 2025-12-04)
 
-- [PlummersSoftwareLLC/retropad](https://github.com/PlummersSoftwareLLC/retropad) (115)
-- [wannalie/sora-watermark-cleaner](https://github.com/wannalie/sora-watermark-cleaner) (108)
-- [mit-han-lab/vlash](https://github.com/mit-han-lab/vlash) (82)
-- [pkr91/lucky-2026](https://github.com/pkr91/lucky-2026) (59)
-- [Gouryella/drip](https://github.com/Gouryella/drip) (49)
+- [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc) (269)
+- [m-sec-org/ez-xbow-platform-mcp](https://github.com/m-sec-org/ez-xbow-platform-mcp) (45)
+- [m-sec-org/kimi-cli-for-xbow](https://github.com/m-sec-org/kimi-cli-for-xbow) (30)
+- [tartenka/zapretRoblox](https://github.com/tartenka/zapretRoblox) (23)
+- [jerankda/lol-lint](https://github.com/jerankda/lol-lint) (18)
