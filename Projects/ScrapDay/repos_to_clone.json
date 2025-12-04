@@ -2,31 +2,31 @@
   {
     "name": "ejpir/CVE-2025-55182-poc",
     "clone_url": "https://github.com/ejpir/CVE-2025-55182-poc.git",
-    "stars": 269,
-    "size": 85
+    "stars": 526,
+    "size": 104
+  },
+  {
+    "name": "nanancc/pig-text",
+    "clone_url": "https://github.com/nanancc/pig-text.git",
+    "stars": 55,
+    "size": 553
+  },
+  {
+    "name": "CryptomSol/polymarket-fork",
+    "clone_url": "https://github.com/CryptomSol/polymarket-fork.git",
+    "stars": 54,
+    "size": 1709
   },
   {
     "name": "m-sec-org/ez-xbow-platform-mcp",
     "clone_url": "https://github.com/m-sec-org/ez-xbow-platform-mcp.git",
-    "stars": 45,
+    "stars": 52,
     "size": 53
   },
   {
-    "name": "m-sec-org/kimi-cli-for-xbow",
-    "clone_url": "https://github.com/m-sec-org/kimi-cli-for-xbow.git",
-    "stars": 30,
-    "size": 906
-  },
-  {
-    "name": "tartenka/zapretRoblox",
-    "clone_url": "https://github.com/tartenka/zapretRoblox.git",
-    "stars": 23,
-    "size": 1358
-  },
-  {
-    "name": "jerankda/lol-lint",
-    "clone_url": "https://github.com/jerankda/lol-lint.git",
-    "stars": 18,
-    "size": 52
+    "name": "devcarron/casino-game-smartContract",
+    "clone_url": "https://github.com/devcarron/casino-game-smartContract.git",
+    "stars": 46,
+    "size": 68
   }
 ]
