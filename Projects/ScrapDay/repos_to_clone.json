@@ -1,32 +1,32 @@
 [
   {
-    "name": "ejpir/CVE-2025-55182-poc",
-    "clone_url": "https://github.com/ejpir/CVE-2025-55182-poc.git",
-    "stars": 526,
-    "size": 104
+    "name": "msanft/CVE-2025-55182",
+    "clone_url": "https://github.com/msanft/CVE-2025-55182.git",
+    "stars": 148,
+    "size": 64
+  },
+  {
+    "name": "CryptomSol/prediction-market",
+    "clone_url": "https://github.com/CryptomSol/prediction-market.git",
+    "stars": 102,
+    "size": 1709
+  },
+  {
+    "name": "joeseesun/ai-blog-res",
+    "clone_url": "https://github.com/joeseesun/ai-blog-res.git",
+    "stars": 69,
+    "size": 81
   },
   {
     "name": "nanancc/pig-text",
     "clone_url": "https://github.com/nanancc/pig-text.git",
-    "stars": 55,
+    "stars": 64,
     "size": 553
   },
   {
-    "name": "CryptomSol/polymarket-fork",
-    "clone_url": "https://github.com/CryptomSol/polymarket-fork.git",
-    "stars": 54,
-    "size": 1709
-  },
-  {
-    "name": "m-sec-org/ez-xbow-platform-mcp",
-    "clone_url": "https://github.com/m-sec-org/ez-xbow-platform-mcp.git",
-    "stars": 52,
-    "size": 53
-  },
-  {
-    "name": "devcarron/casino-game-smartContract",
-    "clone_url": "https://github.com/devcarron/casino-game-smartContract.git",
-    "stars": 46,
-    "size": 68
+    "name": "lovisdotio/NanoBananaLoraDatasetGenerator",
+    "clone_url": "https://github.com/lovisdotio/NanoBananaLoraDatasetGenerator.git",
+    "stars": 19,
+    "size": 186
   }
 ]
