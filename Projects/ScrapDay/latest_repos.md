@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-03 .. 2025-12-05)
+# Latest Repositories (2025-12-04 .. 2025-12-06)
 
-- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) (345)
-- [CryptomSol/prediction-market](https://github.com/CryptomSol/prediction-market) (135)
-- [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) (93)
-- [joeseesun/ai-blog-res](https://github.com/joeseesun/ai-blog-res) (92)
-- [nanancc/pig-text](https://github.com/nanancc/pig-text) (70)
+- [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector) (132)
+- [meettomorrow/lee-su-threads](https://github.com/meettomorrow/lee-su-threads) (89)
+- [cporter202/ai-agent-tools](https://github.com/cporter202/ai-agent-tools) (44)
+- [aliclub0x00/CVE-2025-55182-POC-NEXTJS](https://github.com/aliclub0x00/CVE-2025-55182-POC-NEXTJS) (31)
+- [shootthesound/comfyUI-Realtime-Lora](https://github.com/shootthesound/comfyUI-Realtime-Lora) (29)
