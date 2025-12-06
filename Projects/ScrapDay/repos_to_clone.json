@@ -2,31 +2,31 @@
   {
     "name": "mrknow001/RSC_Detector",
     "clone_url": "https://github.com/mrknow001/RSC_Detector.git",
-    "stars": 132,
+    "stars": 217,
     "size": 87
+  },
+  {
+    "name": "Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
+    "clone_url": "https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System.git",
+    "stars": 110,
+    "size": 856
   },
   {
     "name": "meettomorrow/lee-su-threads",
     "clone_url": "https://github.com/meettomorrow/lee-su-threads.git",
-    "stars": 89,
+    "stars": 95,
     "size": 737
+  },
+  {
+    "name": "cporter202/automate-for-growth",
+    "clone_url": "https://github.com/cporter202/automate-for-growth.git",
+    "stars": 90,
+    "size": 206
   },
   {
     "name": "cporter202/ai-agent-tools",
     "clone_url": "https://github.com/cporter202/ai-agent-tools.git",
-    "stars": 44,
+    "stars": 72,
     "size": 3418
-  },
-  {
-    "name": "aliclub0x00/CVE-2025-55182-POC-NEXTJS",
-    "clone_url": "https://github.com/aliclub0x00/CVE-2025-55182-POC-NEXTJS.git",
-    "stars": 31,
-    "size": 1074
-  },
-  {
-    "name": "shootthesound/comfyUI-Realtime-Lora",
-    "clone_url": "https://github.com/shootthesound/comfyUI-Realtime-Lora.git",
-    "stars": 29,
-    "size": 2278
   }
 ]
