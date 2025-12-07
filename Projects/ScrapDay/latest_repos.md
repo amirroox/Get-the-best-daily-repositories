@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-04 .. 2025-12-06)
+# Latest Repositories (2025-12-05 .. 2025-12-07)
 
-- [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector) (217)
-- [Sean-V-Dev/HMLR-Agentic-AI-Memory-System](https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System) (110)
-- [meettomorrow/lee-su-threads](https://github.com/meettomorrow/lee-su-threads) (95)
-- [cporter202/automate-for-growth](https://github.com/cporter202/automate-for-growth) (90)
-- [cporter202/ai-agent-tools](https://github.com/cporter202/ai-agent-tools) (72)
+- [emredavut/CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182) (109)
+- [soshimee-revived/soshimeeaddons](https://github.com/soshimee-revived/soshimeeaddons) (54)
+- [rs-4/tanstack-ai-demo](https://github.com/rs-4/tanstack-ai-demo) (51)
+- [Stallion77RepoOfficial/MetalGoose](https://github.com/Stallion77RepoOfficial/MetalGoose) (41)
+- [lib647553-ux/business-gemini-2api](https://github.com/lib647553-ux/business-gemini-2api) (34)
