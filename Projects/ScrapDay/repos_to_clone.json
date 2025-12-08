@@ -2,31 +2,31 @@
   {
     "name": "PastKing/tgbot-verify",
     "clone_url": "https://github.com/PastKing/tgbot-verify.git",
-    "stars": 335,
+    "stars": 395,
     "size": 88
   },
   {
     "name": "joelhooks/opencode-config",
     "clone_url": "https://github.com/joelhooks/opencode-config.git",
-    "stars": 56,
-    "size": 93
+    "stars": 100,
+    "size": 162
+  },
+  {
+    "name": "gommzystudio/device-activity-tracker",
+    "clone_url": "https://github.com/gommzystudio/device-activity-tracker.git",
+    "stars": 78,
+    "size": 188
   },
   {
     "name": "YangJiiii/bl_sbx_apple_wallet",
     "clone_url": "https://github.com/YangJiiii/bl_sbx_apple_wallet.git",
-    "stars": 40,
+    "stars": 62,
     "size": 1585
   },
   {
     "name": "cporter202/lovable-for-beginners",
     "clone_url": "https://github.com/cporter202/lovable-for-beginners.git",
-    "stars": 37,
+    "stars": 59,
     "size": 189
-  },
-  {
-    "name": "gommzystudio/device-activity-tracker",
-    "clone_url": "https://github.com/gommzystudio/device-activity-tracker.git",
-    "stars": 33,
-    "size": 188
   }
 ]
