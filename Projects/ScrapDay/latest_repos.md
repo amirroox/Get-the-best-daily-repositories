@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-06 .. 2025-12-08)
+# Latest Repositories (2025-12-07 .. 2025-12-09)
 
-- [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) (395)
-- [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) (100)
-- [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) (78)
-- [YangJiiii/bl_sbx_apple_wallet](https://github.com/YangJiiii/bl_sbx_apple_wallet) (62)
-- [cporter202/lovable-for-beginners](https://github.com/cporter202/lovable-for-beginners) (59)
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) (389)
+- [tobi/qmd](https://github.com/tobi/qmd) (205)
+- [C4KEW4LK/rpi_usb_ip_display](https://github.com/C4KEW4LK/rpi_usb_ip_display) (94)
+- [tommyreid622/aster-trading-bot](https://github.com/tommyreid622/aster-trading-bot) (93)
+- [joelhooks/opencode-swarm-plugin](https://github.com/joelhooks/opencode-swarm-plugin) (41)
