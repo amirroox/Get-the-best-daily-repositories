@@ -2,31 +2,31 @@
   {
     "name": "zai-org/Open-AutoGLM",
     "clone_url": "https://github.com/zai-org/Open-AutoGLM.git",
-    "stars": 389,
-    "size": 467
+    "stars": 1581,
+    "size": 554
   },
   {
     "name": "tobi/qmd",
     "clone_url": "https://github.com/tobi/qmd.git",
-    "stars": 205,
+    "stars": 372,
     "size": 84
+  },
+  {
+    "name": "doggy8088/better-rm",
+    "clone_url": "https://github.com/doggy8088/better-rm.git",
+    "stars": 170,
+    "size": 107
   },
   {
     "name": "C4KEW4LK/rpi_usb_ip_display",
     "clone_url": "https://github.com/C4KEW4LK/rpi_usb_ip_display.git",
-    "stars": 94,
+    "stars": 129,
     "size": 520
   },
   {
     "name": "tommyreid622/aster-trading-bot",
     "clone_url": "https://github.com/tommyreid622/aster-trading-bot.git",
-    "stars": 93,
+    "stars": 119,
     "size": 84
-  },
-  {
-    "name": "joelhooks/opencode-swarm-plugin",
-    "clone_url": "https://github.com/joelhooks/opencode-swarm-plugin.git",
-    "stars": 41,
-    "size": 447
   }
 ]
