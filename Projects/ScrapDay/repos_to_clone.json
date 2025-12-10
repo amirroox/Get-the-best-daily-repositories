@@ -1,32 +1,32 @@
 [
   {
+    "name": "zai-org/GLM-ASR",
+    "clone_url": "https://github.com/zai-org/GLM-ASR.git",
+    "stars": 206,
+    "size": 771
+  },
+  {
     "name": "doggy8088/better-rm",
     "clone_url": "https://github.com/doggy8088/better-rm.git",
-    "stars": 188,
+    "stars": 201,
     "size": 107
   },
   {
     "name": "stepfun-ai/PaCoRe",
     "clone_url": "https://github.com/stepfun-ai/PaCoRe.git",
-    "stars": 75,
+    "stars": 102,
     "size": 3989
   },
   {
     "name": "farouqaldori/claude-island",
     "clone_url": "https://github.com/farouqaldori/claude-island.git",
-    "stars": 62,
+    "stars": 88,
     "size": 779
   },
   {
     "name": "coollabsio/coolpack",
     "clone_url": "https://github.com/coollabsio/coolpack.git",
-    "stars": 62,
-    "size": 2915
-  },
-  {
-    "name": "zai-org/GLM-ASR",
-    "clone_url": "https://github.com/zai-org/GLM-ASR.git",
-    "stars": 45,
-    "size": 767
+    "stars": 83,
+    "size": 2927
   }
 ]
