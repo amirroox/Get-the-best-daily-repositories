@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-07 .. 2025-12-09)
+# Latest Repositories (2025-12-08 .. 2025-12-10)
 
-- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) (1581)
-- [tobi/qmd](https://github.com/tobi/qmd) (372)
-- [doggy8088/better-rm](https://github.com/doggy8088/better-rm) (170)
-- [C4KEW4LK/rpi_usb_ip_display](https://github.com/C4KEW4LK/rpi_usb_ip_display) (129)
-- [tommyreid622/aster-trading-bot](https://github.com/tommyreid622/aster-trading-bot) (119)
+- [doggy8088/better-rm](https://github.com/doggy8088/better-rm) (188)
+- [stepfun-ai/PaCoRe](https://github.com/stepfun-ai/PaCoRe) (75)
+- [farouqaldori/claude-island](https://github.com/farouqaldori/claude-island) (62)
+- [coollabsio/coolpack](https://github.com/coollabsio/coolpack) (62)
+- [zai-org/GLM-ASR](https://github.com/zai-org/GLM-ASR) (45)
