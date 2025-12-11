@@ -2,31 +2,31 @@
   {
     "name": "karpathy/hn-time-capsule",
     "clone_url": "https://github.com/karpathy/hn-time-capsule.git",
-    "stars": 98,
+    "stars": 195,
     "size": 554
   },
   {
     "name": "baidu/vLLM-Kunlun",
     "clone_url": "https://github.com/baidu/vLLM-Kunlun.git",
-    "stars": 84,
-    "size": 843
+    "stars": 157,
+    "size": 864
+  },
+  {
+    "name": "xietao778899-rgb/Open-AutoGLM-Hybrid",
+    "clone_url": "https://github.com/xietao778899-rgb/Open-AutoGLM-Hybrid.git",
+    "stars": 74,
+    "size": 88
+  },
+  {
+    "name": "kallie45s/hyperliquid-trading-bot",
+    "clone_url": "https://github.com/kallie45s/hyperliquid-trading-bot.git",
+    "stars": 64,
+    "size": 194
   },
   {
     "name": "ZonD80/familycall",
     "clone_url": "https://github.com/ZonD80/familycall.git",
-    "stars": 38,
+    "stars": 63,
     "size": 1314
-  },
-  {
-    "name": "ArtificialAnalysis/Stirrup",
-    "clone_url": "https://github.com/ArtificialAnalysis/Stirrup.git",
-    "stars": 33,
-    "size": 1828
-  },
-  {
-    "name": "yenbook/proxyearth",
-    "clone_url": "https://github.com/yenbook/proxyearth.git",
-    "stars": 27,
-    "size": 779
   }
 ]
