@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-09 .. 2025-12-11)
+# Latest Repositories (2025-12-10 .. 2025-12-12)
 
-- [karpathy/hn-time-capsule](https://github.com/karpathy/hn-time-capsule) (195)
-- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) (157)
-- [xietao778899-rgb/Open-AutoGLM-Hybrid](https://github.com/xietao778899-rgb/Open-AutoGLM-Hybrid) (74)
-- [kallie45s/hyperliquid-trading-bot](https://github.com/kallie45s/hyperliquid-trading-bot) (64)
-- [ZonD80/familycall](https://github.com/ZonD80/familycall) (63)
+- [naikaku1/Search-Immersion](https://github.com/naikaku1/Search-Immersion) (58)
+- [lrzjason/ComfyUI-LoaderUtils](https://github.com/lrzjason/ComfyUI-LoaderUtils) (31)
+- [star-struck-23/custom-auth](https://github.com/star-struck-23/custom-auth) (26)
+- [bvd0101/giang_sinh_an_lanh](https://github.com/bvd0101/giang_sinh_an_lanh) (21)
+- [AyaanAkbar05/front-end-final-project](https://github.com/AyaanAkbar05/front-end-final-project) (19)
