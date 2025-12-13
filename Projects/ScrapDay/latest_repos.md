@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-10 .. 2025-12-12)
+# Latest Repositories (2025-12-11 .. 2025-12-13)
 
-- [stoolap/stoolap](https://github.com/stoolap/stoolap) (199)
-- [EmEraldGlowCh/Arbitrage-Bot-cross-chain](https://github.com/EmEraldGlowCh/Arbitrage-Bot-cross-chain) (105)
-- [lb-li/WinIsland](https://github.com/lb-li/WinIsland) (94)
-- [naikaku1/Search-Immersion](https://github.com/naikaku1/Search-Immersion) (77)
-- [lrzjason/ComfyUI-LoaderUtils](https://github.com/lrzjason/ComfyUI-LoaderUtils) (35)
+- [daRkZvoidSTRi/Flashloan-Arbitrage-Bot](https://github.com/daRkZvoidSTRi/Flashloan-Arbitrage-Bot) (113)
+- [lb-li/WinIsland](https://github.com/lb-li/WinIsland) (97)
+- [eliasjudin/oai-skills](https://github.com/eliasjudin/oai-skills) (79)
+- [Ami3466/tomcp](https://github.com/Ami3466/tomcp) (56)
+- [josejacas/SwiftAnimPlayground](https://github.com/josejacas/SwiftAnimPlayground) (27)
