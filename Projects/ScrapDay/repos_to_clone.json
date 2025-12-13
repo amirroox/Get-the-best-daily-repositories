@@ -1,32 +1,32 @@
 [
   {
+    "name": "eliasjudin/oai-skills",
+    "clone_url": "https://github.com/eliasjudin/oai-skills.git",
+    "stars": 134,
+    "size": 57
+  },
+  {
     "name": "daRkZvoidSTRi/Flashloan-Arbitrage-Bot",
     "clone_url": "https://github.com/daRkZvoidSTRi/Flashloan-Arbitrage-Bot.git",
     "stars": 113,
-    "size": 76
+    "size": 137
   },
   {
     "name": "lb-li/WinIsland",
     "clone_url": "https://github.com/lb-li/WinIsland.git",
-    "stars": 97,
+    "stars": 102,
     "size": 2838
-  },
-  {
-    "name": "eliasjudin/oai-skills",
-    "clone_url": "https://github.com/eliasjudin/oai-skills.git",
-    "stars": 79,
-    "size": 56
   },
   {
     "name": "Ami3466/tomcp",
     "clone_url": "https://github.com/Ami3466/tomcp.git",
-    "stars": 56,
-    "size": 251
+    "stars": 62,
+    "size": 258
   },
   {
     "name": "josejacas/SwiftAnimPlayground",
     "clone_url": "https://github.com/josejacas/SwiftAnimPlayground.git",
-    "stars": 27,
-    "size": 231
+    "stars": 47,
+    "size": 252
   }
 ]
