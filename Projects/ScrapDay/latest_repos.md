@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-11 .. 2025-12-13)
+# Latest Repositories (2025-12-12 .. 2025-12-14)
 
-- [eliasjudin/oai-skills](https://github.com/eliasjudin/oai-skills) (134)
-- [daRkZvoidSTRi/Flashloan-Arbitrage-Bot](https://github.com/daRkZvoidSTRi/Flashloan-Arbitrage-Bot) (113)
-- [lb-li/WinIsland](https://github.com/lb-li/WinIsland) (102)
-- [Ami3466/tomcp](https://github.com/Ami3466/tomcp) (62)
-- [josejacas/SwiftAnimPlayground](https://github.com/josejacas/SwiftAnimPlayground) (47)
+- [jwadow/kiro-openai-gateway](https://github.com/jwadow/kiro-openai-gateway) (76)
+- [felipemotarocha/fullstackweekend-aparatus-v2](https://github.com/felipemotarocha/fullstackweekend-aparatus-v2) (48)
+- [humanoidintelligence/EI-Beginner](https://github.com/humanoidintelligence/EI-Beginner) (29)
+- [groupzer0/vs-code-agents](https://github.com/groupzer0/vs-code-agents) (27)
+- [sigridjineth/agentjson](https://github.com/sigridjineth/agentjson) (24)
