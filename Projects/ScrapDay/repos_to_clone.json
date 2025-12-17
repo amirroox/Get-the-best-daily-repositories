@@ -2,31 +2,31 @@
   {
     "name": "productdevbook/port-killer",
     "clone_url": "https://github.com/productdevbook/port-killer.git",
-    "stars": 735,
-    "size": 2328
+    "stars": 1010,
+    "size": 2337
   },
   {
     "name": "gaearon/rscexplorer",
     "clone_url": "https://github.com/gaearon/rscexplorer.git",
-    "stars": 462,
+    "stars": 564,
     "size": 512
-  },
-  {
-    "name": "xmannv/xkey",
-    "clone_url": "https://github.com/xmannv/xkey.git",
-    "stars": 156,
-    "size": 3693
   },
   {
     "name": "taetaehoho/poly-kalshi-arb",
     "clone_url": "https://github.com/taetaehoho/poly-kalshi-arb.git",
-    "stars": 143,
-    "size": 102
+    "stars": 245,
+    "size": 103
   },
   {
-    "name": "lvgalvao/pipeline-api-bitcoin-com-databricks",
-    "clone_url": "https://github.com/lvgalvao/pipeline-api-bitcoin-com-databricks.git",
-    "stars": 113,
-    "size": 2246
+    "name": "xmannv/xkey",
+    "clone_url": "https://github.com/xmannv/xkey.git",
+    "stars": 196,
+    "size": 3712
+  },
+  {
+    "name": "GuDaStudio/skills",
+    "clone_url": "https://github.com/GuDaStudio/skills.git",
+    "stars": 161,
+    "size": 1874
   }
 ]
