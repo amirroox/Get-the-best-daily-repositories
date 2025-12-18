@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-15 .. 2025-12-17)
+# Latest Repositories (2025-12-16 .. 2025-12-18)
 
-- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) (1010)
-- [gaearon/rscexplorer](https://github.com/gaearon/rscexplorer) (564)
-- [taetaehoho/poly-kalshi-arb](https://github.com/taetaehoho/poly-kalshi-arb) (245)
-- [xmannv/xkey](https://github.com/xmannv/xkey) (196)
-- [GuDaStudio/skills](https://github.com/GuDaStudio/skills) (161)
+- [dsphper/lanhu-mcp](https://github.com/dsphper/lanhu-mcp) (127)
+- [PanSalut/Koffan](https://github.com/PanSalut/Koffan) (71)
+- [KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) (32)
+- [h9-tec/promptmanager](https://github.com/h9-tec/promptmanager) (31)
+- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) (28)
