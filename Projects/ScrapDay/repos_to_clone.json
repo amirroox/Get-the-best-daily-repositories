@@ -1,32 +1,32 @@
 [
   {
-    "name": "terauss/Polymarket-Kalshi-Arbitrage-bot",
-    "clone_url": "https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot.git",
-    "stars": 236,
-    "size": 106
-  },
-  {
-    "name": "Wei-Shaw/sub2api",
-    "clone_url": "https://github.com/Wei-Shaw/sub2api.git",
-    "stars": 82,
-    "size": 831
-  },
-  {
-    "name": "dcrebbin/cursor-unchained",
-    "clone_url": "https://github.com/dcrebbin/cursor-unchained.git",
-    "stars": 70,
-    "size": 267
-  },
-  {
     "name": "yeahhe365/gemini-nexus",
     "clone_url": "https://github.com/yeahhe365/gemini-nexus.git",
-    "stars": 69,
-    "size": 427
+    "stars": 131,
+    "size": 494
   },
   {
-    "name": "msjang/pypandoc-hwpx",
-    "clone_url": "https://github.com/msjang/pypandoc-hwpx.git",
-    "stars": 43,
-    "size": 259
+    "name": "Real-Sam/her-birthday",
+    "clone_url": "https://github.com/Real-Sam/her-birthday.git",
+    "stars": 36,
+    "size": 3564
+  },
+  {
+    "name": "RhysSullivan/epstein-files-browser",
+    "clone_url": "https://github.com/RhysSullivan/epstein-files-browser.git",
+    "stars": 33,
+    "size": 455
+  },
+  {
+    "name": "Safphere/OMG-Agent",
+    "clone_url": "https://github.com/Safphere/OMG-Agent.git",
+    "stars": 29,
+    "size": 343
+  },
+  {
+    "name": "joaomgcd/ADBCommandCenter",
+    "clone_url": "https://github.com/joaomgcd/ADBCommandCenter.git",
+    "stars": 27,
+    "size": 1130
   }
 ]
