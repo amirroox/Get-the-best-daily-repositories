@@ -1,15 +1,21 @@
 [
   {
-    "name": "grissomlin/taiwan-stock-monitor",
-    "clone_url": "https://github.com/grissomlin/taiwan-stock-monitor.git",
-    "stars": 44,
-    "size": 4665
-  },
-  {
     "name": "NtDallas/BOF_ExecuteAssembly",
     "clone_url": "https://github.com/NtDallas/BOF_ExecuteAssembly.git",
-    "stars": 35,
-    "size": 377
+    "stars": 49,
+    "size": 384
+  },
+  {
+    "name": "JianguSheng/yuns-desktop-pet",
+    "clone_url": "https://github.com/JianguSheng/yuns-desktop-pet.git",
+    "stars": 40,
+    "size": 424
+  },
+  {
+    "name": "tddworks/ClaudeBar",
+    "clone_url": "https://github.com/tddworks/ClaudeBar.git",
+    "stars": 37,
+    "size": 2983
   },
   {
     "name": "maternu2/tiktok-reporting-tool",
@@ -18,15 +24,9 @@
     "size": 149
   },
   {
-    "name": "JianguSheng/yuns-desktop-pet",
-    "clone_url": "https://github.com/JianguSheng/yuns-desktop-pet.git",
-    "stars": 28,
-    "size": 424
-  },
-  {
-    "name": "0x1a3n3o7n/incognito-program",
-    "clone_url": "https://github.com/0x1a3n3o7n/incognito-program.git",
-    "stars": 27,
-    "size": 122
+    "name": "miteja/instagram-reporting-tool",
+    "clone_url": "https://github.com/miteja/instagram-reporting-tool.git",
+    "stars": 33,
+    "size": 139
   }
 ]
