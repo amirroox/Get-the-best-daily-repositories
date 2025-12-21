@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-18 .. 2025-12-20)
+# Latest Repositories (2025-12-19 .. 2025-12-21)
 
-- [sOLarFLaMEPyL/Arbitrage_Mev_BOT](https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT) (194)
-- [yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus) (169)
-- [RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser) (136)
-- [Real-Sam/her-birthday](https://github.com/Real-Sam/her-birthday) (53)
-- [Safphere/OMG-Agent](https://github.com/Safphere/OMG-Agent) (49)
+- [grissomlin/taiwan-stock-monitor](https://github.com/grissomlin/taiwan-stock-monitor) (44)
+- [NtDallas/BOF_ExecuteAssembly](https://github.com/NtDallas/BOF_ExecuteAssembly) (35)
+- [maternu2/tiktok-reporting-tool](https://github.com/maternu2/tiktok-reporting-tool) (34)
+- [JianguSheng/yuns-desktop-pet](https://github.com/JianguSheng/yuns-desktop-pet) (28)
+- [0x1a3n3o7n/incognito-program](https://github.com/0x1a3n3o7n/incognito-program) (27)
