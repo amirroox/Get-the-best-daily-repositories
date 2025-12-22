@@ -1,32 +1,32 @@
 [
   {
-    "name": "NtDallas/BOF_ExecuteAssembly",
-    "clone_url": "https://github.com/NtDallas/BOF_ExecuteAssembly.git",
-    "stars": 49,
-    "size": 384
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "clone_url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering.git",
+    "stars": 147,
+    "size": 189
   },
   {
-    "name": "JianguSheng/yuns-desktop-pet",
-    "clone_url": "https://github.com/JianguSheng/yuns-desktop-pet.git",
-    "stars": 40,
-    "size": 424
-  },
-  {
-    "name": "tddworks/ClaudeBar",
-    "clone_url": "https://github.com/tddworks/ClaudeBar.git",
-    "stars": 37,
-    "size": 2983
-  },
-  {
-    "name": "maternu2/tiktok-reporting-tool",
-    "clone_url": "https://github.com/maternu2/tiktok-reporting-tool.git",
-    "stars": 34,
-    "size": 149
+    "name": "xcc-zach/xtalk",
+    "clone_url": "https://github.com/xcc-zach/xtalk.git",
+    "stars": 38,
+    "size": 998
   },
   {
     "name": "miteja/instagram-reporting-tool",
     "clone_url": "https://github.com/miteja/instagram-reporting-tool.git",
     "stars": 33,
     "size": 139
+  },
+  {
+    "name": "ratava/lumina-energy-card",
+    "clone_url": "https://github.com/ratava/lumina-energy-card.git",
+    "stars": 31,
+    "size": 1260
+  },
+  {
+    "name": "w00ing/seer-skill",
+    "clone_url": "https://github.com/w00ing/seer-skill.git",
+    "stars": 27,
+    "size": 1933
   }
 ]

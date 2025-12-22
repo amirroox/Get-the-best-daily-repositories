@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-19 .. 2025-12-21)
+# Latest Repositories (2025-12-20 .. 2025-12-22)
 
-- [NtDallas/BOF_ExecuteAssembly](https://github.com/NtDallas/BOF_ExecuteAssembly) (49)
-- [JianguSheng/yuns-desktop-pet](https://github.com/JianguSheng/yuns-desktop-pet) (40)
-- [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) (37)
-- [maternu2/tiktok-reporting-tool](https://github.com/maternu2/tiktok-reporting-tool) (34)
+- [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) (147)
+- [xcc-zach/xtalk](https://github.com/xcc-zach/xtalk) (38)
 - [miteja/instagram-reporting-tool](https://github.com/miteja/instagram-reporting-tool) (33)
+- [ratava/lumina-energy-card](https://github.com/ratava/lumina-energy-card) (31)
+- [w00ing/seer-skill](https://github.com/w00ing/seer-skill) (27)
