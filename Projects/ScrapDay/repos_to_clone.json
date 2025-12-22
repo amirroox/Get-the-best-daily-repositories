@@ -2,31 +2,31 @@
   {
     "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
     "clone_url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering.git",
-    "stars": 147,
-    "size": 189
+    "stars": 409,
+    "size": 204
+  },
+  {
+    "name": "KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
+    "clone_url": "https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub.git",
+    "stars": 84,
+    "size": 540
   },
   {
     "name": "xcc-zach/xtalk",
     "clone_url": "https://github.com/xcc-zach/xtalk.git",
-    "stars": 38,
+    "stars": 52,
     "size": 998
-  },
-  {
-    "name": "miteja/instagram-reporting-tool",
-    "clone_url": "https://github.com/miteja/instagram-reporting-tool.git",
-    "stars": 33,
-    "size": 139
   },
   {
     "name": "ratava/lumina-energy-card",
     "clone_url": "https://github.com/ratava/lumina-energy-card.git",
-    "stars": 31,
-    "size": 1260
+    "stars": 37,
+    "size": 1195
   },
   {
     "name": "w00ing/seer-skill",
     "clone_url": "https://github.com/w00ing/seer-skill.git",
-    "stars": 27,
+    "stars": 35,
     "size": 1933
   }
 ]
