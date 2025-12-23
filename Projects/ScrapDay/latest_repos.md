@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-20 .. 2025-12-22)
+# Latest Repositories (2025-12-21 .. 2025-12-23)
 
-- [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) (409)
-- [KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub) (84)
-- [xcc-zach/xtalk](https://github.com/xcc-zach/xtalk) (52)
-- [ratava/lumina-energy-card](https://github.com/ratava/lumina-energy-card) (37)
-- [w00ing/seer-skill](https://github.com/w00ing/seer-skill) (35)
+- [bellard/mquickjs](https://github.com/bellard/mquickjs) (38)
+- [callaroi/instagram-reporting-tool](https://github.com/callaroi/instagram-reporting-tool) (36)
+- [Claudate/project-multilevel-index](https://github.com/Claudate/project-multilevel-index) (33)
+- [dearabhin/gemini-watermark-remover](https://github.com/dearabhin/gemini-watermark-remover) (33)
+- [callaroi/tiktok-reporting-tool](https://github.com/callaroi/tiktok-reporting-tool) (29)
