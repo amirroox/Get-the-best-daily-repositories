@@ -2,31 +2,31 @@
   {
     "name": "leedrake5/unredact",
     "clone_url": "https://github.com/leedrake5/unredact.git",
-    "stars": 230,
+    "stars": 256,
     "size": 275
   },
   {
     "name": "focus-creative-games/leanclr",
     "clone_url": "https://github.com/focus-creative-games/leanclr.git",
-    "stars": 186,
+    "stars": 196,
     "size": 3148
   },
   {
     "name": "cyl19970726/poly-sdk",
     "clone_url": "https://github.com/cyl19970726/poly-sdk.git",
-    "stars": 93,
-    "size": 2561
+    "stars": 185,
+    "size": 2626
   },
   {
-    "name": "ethanniser/effect-distributed-lock",
-    "clone_url": "https://github.com/ethanniser/effect-distributed-lock.git",
-    "stars": 35,
-    "size": 64
+    "name": "BlackSky-Jose/solana-fun-token-launch-pad",
+    "clone_url": "https://github.com/BlackSky-Jose/solana-fun-token-launch-pad.git",
+    "stars": 75,
+    "size": 3555
   },
   {
-    "name": "dionesar/instagram-reporting-tool",
-    "clone_url": "https://github.com/dionesar/instagram-reporting-tool.git",
-    "stars": 27,
-    "size": 139
+    "name": "pierridotite/stonks-dashboard",
+    "clone_url": "https://github.com/pierridotite/stonks-dashboard.git",
+    "stars": 74,
+    "size": 274
   }
 ]
