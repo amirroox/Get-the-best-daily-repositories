@@ -1,14 +1,20 @@
 [
   {
+    "name": "dennisyang1986/opensqt_market_maker",
+    "clone_url": "https://github.com/dennisyang1986/opensqt_market_maker.git",
+    "stars": 203,
+    "size": 1265
+  },
+  {
     "name": "BlackSky-Jose/solana-fun-token-launch-pad",
     "clone_url": "https://github.com/BlackSky-Jose/solana-fun-token-launch-pad.git",
-    "stars": 133,
+    "stars": 157,
     "size": 3555
   },
   {
     "name": "tronghieuit/valtec-tts",
     "clone_url": "https://github.com/tronghieuit/valtec-tts.git",
-    "stars": 71,
+    "stars": 99,
     "size": 372
   },
   {
@@ -22,11 +28,5 @@
     "clone_url": "https://github.com/ericmeckler/repo_1766611211_15204.git",
     "stars": 67,
     "size": 149
-  },
-  {
-    "name": "christyvaughn/repo_1766553320_26326",
-    "clone_url": "https://github.com/christyvaughn/repo_1766553320_26326.git",
-    "stars": 67,
-    "size": 88
   }
 ]
