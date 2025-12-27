@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-24 .. 2025-12-26)
+# Latest Repositories (2025-12-25 .. 2025-12-27)
 
-- [liangdabiao/Claude-Code-Deep-Research-main](https://github.com/liangdabiao/Claude-Code-Deep-Research-main) (62)
-- [OpLumina/unredact.py](https://github.com/OpLumina/unredact.py) (62)
-- [Anarkh-Lee/visual-docker-compose](https://github.com/Anarkh-Lee/visual-docker-compose) (58)
-- [chongdashu/cc-skills-nanobananapro](https://github.com/chongdashu/cc-skills-nanobananapro) (49)
-- [haiyewei/GoofishCredentialsBot](https://github.com/haiyewei/GoofishCredentialsBot) (48)
+- [liongliong/DeepSearch-FlashRAG](https://github.com/liongliong/DeepSearch-FlashRAG) (30)
+- [k1LoW/git-wt](https://github.com/k1LoW/git-wt) (27)
+- [wuxlizo/Radium-Client](https://github.com/wuxlizo/Radium-Client) (26)
+- [tapava/compute-kit](https://github.com/tapava/compute-kit) (21)
+- [hujinghaoabcd/StarHub](https://github.com/hujinghaoabcd/StarHub) (16)
