@@ -1,32 +1,32 @@
 [
   {
-    "name": "liongliong/DeepSearch-FlashRAG",
-    "clone_url": "https://github.com/liongliong/DeepSearch-FlashRAG.git",
-    "stars": 30,
-    "size": 1210
+    "name": "f1shy-dev/distracted",
+    "clone_url": "https://github.com/f1shy-dev/distracted.git",
+    "stars": 69,
+    "size": 127
+  },
+  {
+    "name": "deftydude/Freedom-LLM",
+    "clone_url": "https://github.com/deftydude/Freedom-LLM.git",
+    "stars": 41,
+    "size": 52
   },
   {
     "name": "k1LoW/git-wt",
     "clone_url": "https://github.com/k1LoW/git-wt.git",
-    "stars": 27,
-    "size": 68
+    "stars": 40,
+    "size": 83
   },
   {
-    "name": "wuxlizo/Radium-Client",
-    "clone_url": "https://github.com/wuxlizo/Radium-Client.git",
-    "stars": 26,
-    "size": 1058
+    "name": "msmps/opentui-ui",
+    "clone_url": "https://github.com/msmps/opentui-ui.git",
+    "stars": 31,
+    "size": 1385
   },
   {
     "name": "tapava/compute-kit",
     "clone_url": "https://github.com/tapava/compute-kit.git",
-    "stars": 21,
-    "size": 241
-  },
-  {
-    "name": "hujinghaoabcd/StarHub",
-    "clone_url": "https://github.com/hujinghaoabcd/StarHub.git",
-    "stars": 16,
-    "size": 3011
+    "stars": 30,
+    "size": 324
   }
 ]

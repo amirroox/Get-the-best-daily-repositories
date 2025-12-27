@@ -1,7 +1,7 @@
 # Latest Repositories (2025-12-25 .. 2025-12-27)
 
-- [liongliong/DeepSearch-FlashRAG](https://github.com/liongliong/DeepSearch-FlashRAG) (30)
-- [k1LoW/git-wt](https://github.com/k1LoW/git-wt) (27)
-- [wuxlizo/Radium-Client](https://github.com/wuxlizo/Radium-Client) (26)
-- [tapava/compute-kit](https://github.com/tapava/compute-kit) (21)
-- [hujinghaoabcd/StarHub](https://github.com/hujinghaoabcd/StarHub) (16)
+- [f1shy-dev/distracted](https://github.com/f1shy-dev/distracted) (69)
+- [deftydude/Freedom-LLM](https://github.com/deftydude/Freedom-LLM) (41)
+- [k1LoW/git-wt](https://github.com/k1LoW/git-wt) (40)
+- [msmps/opentui-ui](https://github.com/msmps/opentui-ui) (31)
+- [tapava/compute-kit](https://github.com/tapava/compute-kit) (30)
