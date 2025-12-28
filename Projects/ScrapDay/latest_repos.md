@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-25 .. 2025-12-27)
+# Latest Repositories (2025-12-26 .. 2025-12-28)
 
-- [f1shy-dev/distracted](https://github.com/f1shy-dev/distracted) (69)
-- [deftydude/Freedom-LLM](https://github.com/deftydude/Freedom-LLM) (41)
-- [k1LoW/git-wt](https://github.com/k1LoW/git-wt) (40)
-- [msmps/opentui-ui](https://github.com/msmps/opentui-ui) (31)
-- [tapava/compute-kit](https://github.com/tapava/compute-kit) (30)
+- [UniSecurityGuard/UniSecurityGuard](https://github.com/UniSecurityGuard/UniSecurityGuard) (128)
+- [technomancer702/nodecast-tv](https://github.com/technomancer702/nodecast-tv) (91)
+- [rcarmo/PhotosExport](https://github.com/rcarmo/PhotosExport) (77)
+- [Luokavin/AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) (60)
+- [koki7o/claude-code-for-beginners](https://github.com/koki7o/claude-code-for-beginners) (47)
