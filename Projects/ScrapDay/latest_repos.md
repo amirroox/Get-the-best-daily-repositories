@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-26 .. 2025-12-28)
+# Latest Repositories (2025-12-27 .. 2025-12-29)
 
-- [technomancer702/nodecast-tv](https://github.com/technomancer702/nodecast-tv) (273)
-- [UniSecurityGuard/UniSecurityGuard](https://github.com/UniSecurityGuard/UniSecurityGuard) (170)
-- [rcarmo/PhotosExport](https://github.com/rcarmo/PhotosExport) (103)
-- [Luokavin/AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) (93)
-- [koki7o/claude-code-for-beginners](https://github.com/koki7o/claude-code-for-beginners) (68)
+- [jvdillon/netv](https://github.com/jvdillon/netv) (105)
+- [0xDevNinja/cowSolver](https://github.com/0xDevNinja/cowSolver) (101)
+- [DodoraApp/DodoStream](https://github.com/DodoraApp/DodoStream) (88)
+- [zhuokaizhao/academia_cv_template](https://github.com/zhuokaizhao/academia_cv_template) (88)
+- [chunxiuxiamo/ai-image-edit](https://github.com/chunxiuxiamo/ai-image-edit) (55)
