@@ -1,32 +1,32 @@
 [
   {
+    "name": "liuxiaomingskm/datashield-lightweight-labs",
+    "clone_url": "https://github.com/liuxiaomingskm/datashield-lightweight-labs.git",
+    "stars": 490,
+    "size": 98
+  },
+  {
+    "name": "AnmolSaini16/mapcn",
+    "clone_url": "https://github.com/AnmolSaini16/mapcn.git",
+    "stars": 255,
+    "size": 832
+  },
+  {
     "name": "jvdillon/netv",
     "clone_url": "https://github.com/jvdillon/netv.git",
+    "stars": 116,
+    "size": 3911
+  },
+  {
+    "name": "zhuokaizhao/academia_cv_template",
+    "clone_url": "https://github.com/zhuokaizhao/academia_cv_template.git",
     "stars": 105,
-    "size": 3889
+    "size": 351
   },
   {
     "name": "0xDevNinja/cowSolver",
     "clone_url": "https://github.com/0xDevNinja/cowSolver.git",
     "stars": 101,
     "size": 74
-  },
-  {
-    "name": "DodoraApp/DodoStream",
-    "clone_url": "https://github.com/DodoraApp/DodoStream.git",
-    "stars": 88,
-    "size": 4905
-  },
-  {
-    "name": "zhuokaizhao/academia_cv_template",
-    "clone_url": "https://github.com/zhuokaizhao/academia_cv_template.git",
-    "stars": 88,
-    "size": 351
-  },
-  {
-    "name": "chunxiuxiamo/ai-image-edit",
-    "clone_url": "https://github.com/chunxiuxiamo/ai-image-edit.git",
-    "stars": 55,
-    "size": 102
   }
 ]
