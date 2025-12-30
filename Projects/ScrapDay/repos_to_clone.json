@@ -2,31 +2,31 @@
   {
     "name": "Wenyueh/MinivLLM",
     "clone_url": "https://github.com/Wenyueh/MinivLLM.git",
-    "stars": 47,
+    "stars": 88,
     "size": 80
-  },
-  {
-    "name": "iSEE-Laboratory/ProEdit",
-    "clone_url": "https://github.com/iSEE-Laboratory/ProEdit.git",
-    "stars": 35,
-    "size": 4187
-  },
-  {
-    "name": "Lulzx/zs3",
-    "clone_url": "https://github.com/Lulzx/zs3.git",
-    "stars": 28,
-    "size": 139
   },
   {
     "name": "Al00X/jdsh",
     "clone_url": "https://github.com/Al00X/jdsh.git",
-    "stars": 23,
+    "stars": 54,
     "size": 85
   },
   {
-    "name": "shellus/cc-models",
-    "clone_url": "https://github.com/shellus/cc-models.git",
-    "stars": 22,
-    "size": 352
+    "name": "Lulzx/zs3",
+    "clone_url": "https://github.com/Lulzx/zs3.git",
+    "stars": 47,
+    "size": 139
+  },
+  {
+    "name": "eztg/GPT_Sheerid_Auto",
+    "clone_url": "https://github.com/eztg/GPT_Sheerid_Auto.git",
+    "stars": 44,
+    "size": 432
+  },
+  {
+    "name": "iSEE-Laboratory/ProEdit",
+    "clone_url": "https://github.com/iSEE-Laboratory/ProEdit.git",
+    "stars": 42,
+    "size": 4187
   }
 ]
