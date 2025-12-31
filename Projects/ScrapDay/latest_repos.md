@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-28 .. 2025-12-30)
+# Latest Repositories (2025-12-29 .. 2025-12-31)
 
-- [Wenyueh/MinivLLM](https://github.com/Wenyueh/MinivLLM) (88)
-- [Al00X/jdsh](https://github.com/Al00X/jdsh) (54)
-- [Lulzx/zs3](https://github.com/Lulzx/zs3) (47)
-- [eztg/GPT_Sheerid_Auto](https://github.com/eztg/GPT_Sheerid_Auto) (44)
-- [iSEE-Laboratory/ProEdit](https://github.com/iSEE-Laboratory/ProEdit) (42)
+- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) (184)
+- [marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy) (115)
+- [eztg/GPT_Sheerid_Auto](https://github.com/eztg/GPT_Sheerid_Auto) (49)
+- [golbin/gw](https://github.com/golbin/gw) (44)
+- [TeamWarp/effect-api-example](https://github.com/TeamWarp/effect-api-example) (35)
