@@ -2,31 +2,31 @@
   {
     "name": "Lulzx/zpdf",
     "clone_url": "https://github.com/Lulzx/zpdf.git",
-    "stars": 184,
-    "size": 330
+    "stars": 414,
+    "size": 236
+  },
+  {
+    "name": "Dimillian/Skills",
+    "clone_url": "https://github.com/Dimillian/Skills.git",
+    "stars": 245,
+    "size": 51
   },
   {
     "name": "marckohlbrugge/sessy",
     "clone_url": "https://github.com/marckohlbrugge/sessy.git",
-    "stars": 115,
+    "stars": 137,
     "size": 441
   },
   {
-    "name": "eztg/GPT_Sheerid_Auto",
-    "clone_url": "https://github.com/eztg/GPT_Sheerid_Auto.git",
-    "stars": 49,
-    "size": 432
+    "name": "GMaN1911/claude-cognitive",
+    "clone_url": "https://github.com/GMaN1911/claude-cognitive.git",
+    "stars": 63,
+    "size": 74
   },
   {
     "name": "golbin/gw",
     "clone_url": "https://github.com/golbin/gw.git",
-    "stars": 44,
+    "stars": 53,
     "size": 268
-  },
-  {
-    "name": "TeamWarp/effect-api-example",
-    "clone_url": "https://github.com/TeamWarp/effect-api-example.git",
-    "stars": 35,
-    "size": 223
   }
 ]
