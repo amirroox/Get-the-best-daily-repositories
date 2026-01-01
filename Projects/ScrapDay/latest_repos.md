@@ -1,7 +1,7 @@
-# Latest Repositories (2025-12-29 .. 2025-12-31)
+# Latest Repositories (2025-12-30 .. 2026-01-01)
 
-- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) (414)
-- [Dimillian/Skills](https://github.com/Dimillian/Skills) (245)
-- [marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy) (137)
-- [GMaN1911/claude-cognitive](https://github.com/GMaN1911/claude-cognitive) (63)
-- [golbin/gw](https://github.com/golbin/gw) (53)
+- [felix068/LinuxGate](https://github.com/felix068/LinuxGate) (132)
+- [huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health) (58)
+- [GitAhubI-Lover/classify_i_machine_learning](https://github.com/GitAhubI-Lover/classify_i_machine_learning) (46)
+- [weiruankeji2025/weiruan-Telegram](https://github.com/weiruankeji2025/weiruan-Telegram) (41)
+- [joshhu/imagepdf2txt](https://github.com/joshhu/imagepdf2txt) (28)
