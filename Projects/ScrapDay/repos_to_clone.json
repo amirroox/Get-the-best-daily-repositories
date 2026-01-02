@@ -2,31 +2,31 @@
   {
     "name": "CloudAI-X/claude-workflow",
     "clone_url": "https://github.com/CloudAI-X/claude-workflow.git",
-    "stars": 189,
+    "stars": 449,
     "size": 50
   },
   {
-    "name": "felix068/LinuxGate",
-    "clone_url": "https://github.com/felix068/LinuxGate.git",
-    "stars": 158,
-    "size": 1047
+    "name": "yifanzhang-pro/deep-delta-learning",
+    "clone_url": "https://github.com/yifanzhang-pro/deep-delta-learning.git",
+    "stars": 64,
+    "size": 1438
   },
   {
-    "name": "roshie548/proxmux",
-    "clone_url": "https://github.com/roshie548/proxmux.git",
-    "stars": 116,
-    "size": 51
+    "name": "T3-Content/claude-blocker",
+    "clone_url": "https://github.com/T3-Content/claude-blocker.git",
+    "stars": 57,
+    "size": 57
   },
   {
-    "name": "YuukiJapanTech/AUhikari-802.1x",
-    "clone_url": "https://github.com/YuukiJapanTech/AUhikari-802.1x.git",
-    "stars": 111,
-    "size": 526
+    "name": "CloudAI-X/z-ai-playground",
+    "clone_url": "https://github.com/CloudAI-X/z-ai-playground.git",
+    "stars": 18,
+    "size": 101
   },
   {
-    "name": "bustermq/bustermq",
-    "clone_url": "https://github.com/bustermq/bustermq.git",
-    "stars": 84,
-    "size": 122
+    "name": "bradmont/org-roam-tree",
+    "clone_url": "https://github.com/bradmont/org-roam-tree.git",
+    "stars": 13,
+    "size": 269
   }
 ]
