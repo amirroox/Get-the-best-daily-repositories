@@ -2,31 +2,31 @@
   {
     "name": "alexknowshtml/smaug",
     "clone_url": "https://github.com/alexknowshtml/smaug.git",
-    "stars": 307,
+    "stars": 359,
     "size": 135
   },
   {
     "name": "lklynet/hypermind",
     "clone_url": "https://github.com/lklynet/hypermind.git",
-    "stars": 213,
-    "size": 75
-  },
-  {
-    "name": "saidsurucu/borsapy",
-    "clone_url": "https://github.com/saidsurucu/borsapy.git",
-    "stars": 125,
-    "size": 504
-  },
-  {
-    "name": "zs1083339604/FaceWinUnlock-Tauri",
-    "clone_url": "https://github.com/zs1083339604/FaceWinUnlock-Tauri.git",
-    "stars": 116,
-    "size": 408
+    "stars": 291,
+    "size": 97
   },
   {
     "name": "zhalice2011/ProxyLLM",
     "clone_url": "https://github.com/zhalice2011/ProxyLLM.git",
-    "stars": 111,
+    "stars": 167,
     "size": 255
+  },
+  {
+    "name": "zs1083339604/FaceWinUnlock-Tauri",
+    "clone_url": "https://github.com/zs1083339604/FaceWinUnlock-Tauri.git",
+    "stars": 145,
+    "size": 423
+  },
+  {
+    "name": "saidsurucu/borsapy",
+    "clone_url": "https://github.com/saidsurucu/borsapy.git",
+    "stars": 138,
+    "size": 504
   }
 ]
