@@ -1,32 +1,32 @@
 [
   {
+    "name": "kyksj-1/StrategyRealizationHelp",
+    "clone_url": "https://github.com/kyksj-1/StrategyRealizationHelp.git",
+    "stars": 155,
+    "size": 2203
+  },
+  {
     "name": "Snailclimb/interview-guide",
     "clone_url": "https://github.com/Snailclimb/interview-guide.git",
-    "stars": 66,
-    "size": 545
+    "stars": 130,
+    "size": 546
   },
   {
     "name": "discountry/polymarket-websocket-client",
     "clone_url": "https://github.com/discountry/polymarket-websocket-client.git",
-    "stars": 57,
+    "stars": 90,
     "size": 200
   },
   {
-    "name": "Roasbeef/obsidian-claude-code",
-    "clone_url": "https://github.com/Roasbeef/obsidian-claude-code.git",
-    "stars": 45,
-    "size": 430
-  },
-  {
-    "name": "constansino/WinUtil_CN",
-    "clone_url": "https://github.com/constansino/WinUtil_CN.git",
-    "stars": 40,
-    "size": 227
+    "name": "BayramAnnakov/claude-reflect",
+    "clone_url": "https://github.com/BayramAnnakov/claude-reflect.git",
+    "stars": 83,
+    "size": 81
   },
   {
     "name": "openprose/prose",
     "clone_url": "https://github.com/openprose/prose.git",
-    "stars": 38,
+    "stars": 83,
     "size": 144
   }
 ]
