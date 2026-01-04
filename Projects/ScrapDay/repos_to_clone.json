@@ -1,32 +1,32 @@
 [
   {
-    "name": "alexknowshtml/smaug",
-    "clone_url": "https://github.com/alexknowshtml/smaug.git",
-    "stars": 359,
-    "size": 135
+    "name": "Snailclimb/interview-guide",
+    "clone_url": "https://github.com/Snailclimb/interview-guide.git",
+    "stars": 66,
+    "size": 545
   },
   {
-    "name": "lklynet/hypermind",
-    "clone_url": "https://github.com/lklynet/hypermind.git",
-    "stars": 291,
-    "size": 97
+    "name": "discountry/polymarket-websocket-client",
+    "clone_url": "https://github.com/discountry/polymarket-websocket-client.git",
+    "stars": 57,
+    "size": 200
   },
   {
-    "name": "zhalice2011/ProxyLLM",
-    "clone_url": "https://github.com/zhalice2011/ProxyLLM.git",
-    "stars": 167,
-    "size": 255
+    "name": "Roasbeef/obsidian-claude-code",
+    "clone_url": "https://github.com/Roasbeef/obsidian-claude-code.git",
+    "stars": 45,
+    "size": 430
   },
   {
-    "name": "zs1083339604/FaceWinUnlock-Tauri",
-    "clone_url": "https://github.com/zs1083339604/FaceWinUnlock-Tauri.git",
-    "stars": 145,
-    "size": 423
+    "name": "constansino/WinUtil_CN",
+    "clone_url": "https://github.com/constansino/WinUtil_CN.git",
+    "stars": 40,
+    "size": 227
   },
   {
-    "name": "saidsurucu/borsapy",
-    "clone_url": "https://github.com/saidsurucu/borsapy.git",
-    "stars": 138,
-    "size": 504
+    "name": "openprose/prose",
+    "clone_url": "https://github.com/openprose/prose.git",
+    "stars": 38,
+    "size": 144
   }
 ]

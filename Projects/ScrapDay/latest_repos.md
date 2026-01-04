@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-01 .. 2026-01-03)
+# Latest Repositories (2026-01-02 .. 2026-01-04)
 
-- [alexknowshtml/smaug](https://github.com/alexknowshtml/smaug) (359)
-- [lklynet/hypermind](https://github.com/lklynet/hypermind) (291)
-- [zhalice2011/ProxyLLM](https://github.com/zhalice2011/ProxyLLM) (167)
-- [zs1083339604/FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) (145)
-- [saidsurucu/borsapy](https://github.com/saidsurucu/borsapy) (138)
+- [Snailclimb/interview-guide](https://github.com/Snailclimb/interview-guide) (66)
+- [discountry/polymarket-websocket-client](https://github.com/discountry/polymarket-websocket-client) (57)
+- [Roasbeef/obsidian-claude-code](https://github.com/Roasbeef/obsidian-claude-code) (45)
+- [constansino/WinUtil_CN](https://github.com/constansino/WinUtil_CN) (40)
+- [openprose/prose](https://github.com/openprose/prose) (38)
