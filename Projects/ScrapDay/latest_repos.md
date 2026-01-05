@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-02 .. 2026-01-04)
+# Latest Repositories (2026-01-03 .. 2026-01-05)
 
-- [kyksj-1/StrategyRealizationHelp](https://github.com/kyksj-1/StrategyRealizationHelp) (155)
-- [Snailclimb/interview-guide](https://github.com/Snailclimb/interview-guide) (130)
-- [discountry/polymarket-websocket-client](https://github.com/discountry/polymarket-websocket-client) (90)
-- [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect) (83)
-- [openprose/prose](https://github.com/openprose/prose) (83)
+- [huseyinbabal/taws](https://github.com/huseyinbabal/taws) (393)
+- [kscbxxLiuXP/Claude_Code_Guide_Offline](https://github.com/kscbxxLiuXP/Claude_Code_Guide_Offline) (64)
+- [doccker/cc-use-exp](https://github.com/doccker/cc-use-exp) (39)
+- [Hona/opencode-ralph](https://github.com/Hona/opencode-ralph) (35)
+- [mitchellh/zig-quickjs-ng](https://github.com/mitchellh/zig-quickjs-ng) (30)
