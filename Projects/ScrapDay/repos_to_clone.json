@@ -2,31 +2,31 @@
   {
     "name": "chatfire-AI/huobao-drama",
     "clone_url": "https://github.com/chatfire-AI/huobao-drama.git",
-    "stars": 64,
+    "stars": 92,
     "size": 293
   },
   {
     "name": "noambrown/poker_solver",
     "clone_url": "https://github.com/noambrown/poker_solver.git",
-    "stars": 43,
+    "stars": 71,
     "size": 67
-  },
-  {
-    "name": "1600822305/Fielix",
-    "clone_url": "https://github.com/1600822305/Fielix.git",
-    "stars": 41,
-    "size": 53
-  },
-  {
-    "name": "thangdam97/Claude-Code-Auditor-Enhanced",
-    "clone_url": "https://github.com/thangdam97/Claude-Code-Auditor-Enhanced.git",
-    "stars": 28,
-    "size": 76
   },
   {
     "name": "ygwyg/system",
     "clone_url": "https://github.com/ygwyg/system.git",
-    "stars": 27,
+    "stars": 62,
     "size": 127
+  },
+  {
+    "name": "1600822305/Fielix",
+    "clone_url": "https://github.com/1600822305/Fielix.git",
+    "stars": 50,
+    "size": 53
+  },
+  {
+    "name": "7836246/gpt-auto-register",
+    "clone_url": "https://github.com/7836246/gpt-auto-register.git",
+    "stars": 43,
+    "size": 93
   }
 ]
