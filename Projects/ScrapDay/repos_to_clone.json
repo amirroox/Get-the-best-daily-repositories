@@ -1,32 +1,32 @@
 [
   {
-    "name": "chatfire-AI/huobao-drama",
-    "clone_url": "https://github.com/chatfire-AI/huobao-drama.git",
-    "stars": 92,
-    "size": 293
-  },
-  {
-    "name": "noambrown/poker_solver",
-    "clone_url": "https://github.com/noambrown/poker_solver.git",
-    "stars": 71,
-    "size": 67
-  },
-  {
-    "name": "ygwyg/system",
-    "clone_url": "https://github.com/ygwyg/system.git",
-    "stars": 62,
-    "size": 127
-  },
-  {
-    "name": "1600822305/Fielix",
-    "clone_url": "https://github.com/1600822305/Fielix.git",
-    "stars": 50,
-    "size": 53
+    "name": "ChrisWiles/claude-code-showcase",
+    "clone_url": "https://github.com/ChrisWiles/claude-code-showcase.git",
+    "stars": 95,
+    "size": 70
   },
   {
     "name": "7836246/gpt-auto-register",
     "clone_url": "https://github.com/7836246/gpt-auto-register.git",
-    "stars": 43,
+    "stars": 46,
     "size": 93
+  },
+  {
+    "name": "AmirTahaMim/MiniBitconPy",
+    "clone_url": "https://github.com/AmirTahaMim/MiniBitconPy.git",
+    "stars": 36,
+    "size": 81
+  },
+  {
+    "name": "avsm/httpz",
+    "clone_url": "https://github.com/avsm/httpz.git",
+    "stars": 28,
+    "size": 112
+  },
+  {
+    "name": "mitkox/rlmgw",
+    "clone_url": "https://github.com/mitkox/rlmgw.git",
+    "stars": 22,
+    "size": 2932
   }
 ]
