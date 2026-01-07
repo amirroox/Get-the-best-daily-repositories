@@ -2,31 +2,31 @@
   {
     "name": "ChrisWiles/claude-code-showcase",
     "clone_url": "https://github.com/ChrisWiles/claude-code-showcase.git",
-    "stars": 95,
+    "stars": 442,
     "size": 70
   },
   {
-    "name": "7836246/gpt-auto-register",
-    "clone_url": "https://github.com/7836246/gpt-auto-register.git",
-    "stars": 46,
-    "size": 93
+    "name": "dvdsgl/claude-canvas",
+    "clone_url": "https://github.com/dvdsgl/claude-canvas.git",
+    "stars": 276,
+    "size": 2884
   },
   {
-    "name": "AmirTahaMim/MiniBitconPy",
-    "clone_url": "https://github.com/AmirTahaMim/MiniBitconPy.git",
-    "stars": 36,
-    "size": 81
+    "name": "OrionStarAI/claudecode-vertex-proxy",
+    "clone_url": "https://github.com/OrionStarAI/claudecode-vertex-proxy.git",
+    "stars": 214,
+    "size": 845
   },
   {
-    "name": "avsm/httpz",
-    "clone_url": "https://github.com/avsm/httpz.git",
-    "stars": 28,
-    "size": 112
+    "name": "x011/smtp-tunnel-proxy",
+    "clone_url": "https://github.com/x011/smtp-tunnel-proxy.git",
+    "stars": 139,
+    "size": 277
   },
   {
-    "name": "mitkox/rlmgw",
-    "clone_url": "https://github.com/mitkox/rlmgw.git",
-    "stars": 22,
-    "size": 2932
+    "name": "dongshuyan/Awesome-Prompts",
+    "clone_url": "https://github.com/dongshuyan/Awesome-Prompts.git",
+    "stars": 95,
+    "size": 97
   }
 ]
