@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-05 .. 2026-01-07)
+# Latest Repositories (2026-01-06 .. 2026-01-08)
 
-- [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) (442)
-- [dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas) (276)
-- [OrionStarAI/claudecode-vertex-proxy](https://github.com/OrionStarAI/claudecode-vertex-proxy) (214)
-- [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) (139)
-- [dongshuyan/Awesome-Prompts](https://github.com/dongshuyan/Awesome-Prompts) (95)
+- [Dimillian/CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) (181)
+- [snarktank/ralph](https://github.com/snarktank/ralph) (177)
+- [BowTiedSwan/buildflow](https://github.com/BowTiedSwan/buildflow) (150)
+- [muratcankoylan/ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer) (147)
+- [egebese/seo-research-mcp](https://github.com/egebese/seo-research-mcp) (84)
