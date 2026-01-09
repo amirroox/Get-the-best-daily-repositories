@@ -1,32 +1,32 @@
 [
   {
-    "name": "snarktank/ralph",
-    "clone_url": "https://github.com/snarktank/ralph.git",
-    "stars": 318,
-    "size": 4716
+    "name": "jarrodwatts/claude-code-config",
+    "clone_url": "https://github.com/jarrodwatts/claude-code-config.git",
+    "stars": 482,
+    "size": 50
   },
   {
-    "name": "Dimillian/CodexSkillManager",
-    "clone_url": "https://github.com/Dimillian/CodexSkillManager.git",
-    "stars": 312,
-    "size": 4103
+    "name": "richhickson/claudecodeusage",
+    "clone_url": "https://github.com/richhickson/claudecodeusage.git",
+    "stars": 119,
+    "size": 492
   },
   {
-    "name": "BowTiedSwan/buildflow",
-    "clone_url": "https://github.com/BowTiedSwan/buildflow.git",
-    "stars": 188,
-    "size": 69
+    "name": "sgasser/llm-shield",
+    "clone_url": "https://github.com/sgasser/llm-shield.git",
+    "stars": 119,
+    "size": 160
   },
   {
-    "name": "muratcankoylan/ralph-wiggum-marketer",
-    "clone_url": "https://github.com/muratcankoylan/ralph-wiggum-marketer.git",
-    "stars": 182,
-    "size": 60
+    "name": "imbue-bit/AlphaGPT",
+    "clone_url": "https://github.com/imbue-bit/AlphaGPT.git",
+    "stars": 76,
+    "size": 2256
   },
   {
-    "name": "yeahhe365/Prisma",
-    "clone_url": "https://github.com/yeahhe365/Prisma.git",
-    "stars": 114,
-    "size": 70
+    "name": "Anarkh-Lee/nginx-flow",
+    "clone_url": "https://github.com/Anarkh-Lee/nginx-flow.git",
+    "stars": 65,
+    "size": 256
   }
 ]
