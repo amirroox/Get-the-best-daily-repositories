@@ -2,31 +2,31 @@
   {
     "name": "jarrodwatts/claude-code-config",
     "clone_url": "https://github.com/jarrodwatts/claude-code-config.git",
-    "stars": 482,
+    "stars": 584,
     "size": 50
   },
   {
     "name": "richhickson/claudecodeusage",
     "clone_url": "https://github.com/richhickson/claudecodeusage.git",
-    "stars": 119,
-    "size": 492
-  },
-  {
-    "name": "sgasser/llm-shield",
-    "clone_url": "https://github.com/sgasser/llm-shield.git",
-    "stars": 119,
-    "size": 160
-  },
-  {
-    "name": "imbue-bit/AlphaGPT",
-    "clone_url": "https://github.com/imbue-bit/AlphaGPT.git",
-    "stars": 76,
-    "size": 2256
+    "stars": 208,
+    "size": 913
   },
   {
     "name": "Anarkh-Lee/nginx-flow",
     "clone_url": "https://github.com/Anarkh-Lee/nginx-flow.git",
-    "stars": 65,
+    "stars": 202,
     "size": 256
+  },
+  {
+    "name": "jtydhr88/ComfyUI-qwenmultiangle",
+    "clone_url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle.git",
+    "stars": 184,
+    "size": 624
+  },
+  {
+    "name": "torvalds/AudioNoise",
+    "clone_url": "https://github.com/torvalds/AudioNoise.git",
+    "stars": 161,
+    "size": 1393
   }
 ]
