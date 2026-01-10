@@ -2,31 +2,31 @@
   {
     "name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "clone_url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus.git",
-    "stars": 286,
-    "size": 484
+    "stars": 375,
+    "size": 518
   },
   {
     "name": "torvalds/AudioNoise",
     "clone_url": "https://github.com/torvalds/AudioNoise.git",
-    "stars": 228,
+    "stars": 243,
     "size": 1393
   },
   {
     "name": "FezVrasta/cafe-hass",
     "clone_url": "https://github.com/FezVrasta/cafe-hass.git",
-    "stars": 119,
-    "size": 3339
+    "stars": 131,
+    "size": 3234
   },
   {
     "name": "DevAgentForge/claude-code-webui",
     "clone_url": "https://github.com/DevAgentForge/claude-code-webui.git",
-    "stars": 81,
+    "stars": 115,
     "size": 383
   },
   {
-    "name": "yoanbernabeu/grepai",
-    "clone_url": "https://github.com/yoanbernabeu/grepai.git",
-    "stars": 37,
-    "size": 177
+    "name": "parcadei/llm-tldr",
+    "clone_url": "https://github.com/parcadei/llm-tldr.git",
+    "stars": 70,
+    "size": 369
   }
 ]
