@@ -1,32 +1,32 @@
 [
   {
-    "name": "jarrodwatts/claude-code-config",
-    "clone_url": "https://github.com/jarrodwatts/claude-code-config.git",
-    "stars": 584,
-    "size": 50
-  },
-  {
-    "name": "richhickson/claudecodeusage",
-    "clone_url": "https://github.com/richhickson/claudecodeusage.git",
-    "stars": 208,
-    "size": 913
-  },
-  {
-    "name": "Anarkh-Lee/nginx-flow",
-    "clone_url": "https://github.com/Anarkh-Lee/nginx-flow.git",
-    "stars": 202,
-    "size": 256
-  },
-  {
-    "name": "jtydhr88/ComfyUI-qwenmultiangle",
-    "clone_url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle.git",
-    "stars": 184,
-    "size": 624
+    "name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "clone_url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus.git",
+    "stars": 286,
+    "size": 484
   },
   {
     "name": "torvalds/AudioNoise",
     "clone_url": "https://github.com/torvalds/AudioNoise.git",
-    "stars": 161,
+    "stars": 228,
     "size": 1393
+  },
+  {
+    "name": "FezVrasta/cafe-hass",
+    "clone_url": "https://github.com/FezVrasta/cafe-hass.git",
+    "stars": 119,
+    "size": 3339
+  },
+  {
+    "name": "DevAgentForge/claude-code-webui",
+    "clone_url": "https://github.com/DevAgentForge/claude-code-webui.git",
+    "stars": 81,
+    "size": 383
+  },
+  {
+    "name": "yoanbernabeu/grepai",
+    "clone_url": "https://github.com/yoanbernabeu/grepai.git",
+    "stars": 37,
+    "size": 177
   }
 ]
