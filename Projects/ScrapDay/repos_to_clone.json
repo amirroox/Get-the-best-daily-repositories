@@ -2,31 +2,31 @@
   {
     "name": "ZhangHanDong/makepad-skills",
     "clone_url": "https://github.com/ZhangHanDong/makepad-skills.git",
-    "stars": 177,
-    "size": 389
+    "stars": 311,
+    "size": 487
   },
   {
     "name": "miantiao-me/bm.md",
     "clone_url": "https://github.com/miantiao-me/bm.md.git",
-    "stars": 85,
-    "size": 480
+    "stars": 140,
+    "size": 562
   },
   {
     "name": "CloudAI-X/opencode-workflow",
     "clone_url": "https://github.com/CloudAI-X/opencode-workflow.git",
-    "stars": 79,
+    "stars": 106,
     "size": 73
+  },
+  {
+    "name": "1rgs/nanocode",
+    "clone_url": "https://github.com/1rgs/nanocode.git",
+    "stars": 102,
+    "size": 172
   },
   {
     "name": "shanselman/toasty",
     "clone_url": "https://github.com/shanselman/toasty.git",
-    "stars": 61,
+    "stars": 69,
     "size": 386
-  },
-  {
-    "name": "link1107/claude-ide-tools",
-    "clone_url": "https://github.com/link1107/claude-ide-tools.git",
-    "stars": 33,
-    "size": 513
   }
 ]
