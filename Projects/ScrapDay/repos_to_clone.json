@@ -1,32 +1,32 @@
 [
   {
-    "name": "Yeachan-Heo/oh-my-claude-sisyphus",
-    "clone_url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus.git",
-    "stars": 375,
-    "size": 518
+    "name": "ZhangHanDong/makepad-skills",
+    "clone_url": "https://github.com/ZhangHanDong/makepad-skills.git",
+    "stars": 177,
+    "size": 389
   },
   {
-    "name": "torvalds/AudioNoise",
-    "clone_url": "https://github.com/torvalds/AudioNoise.git",
-    "stars": 243,
-    "size": 1393
+    "name": "miantiao-me/bm.md",
+    "clone_url": "https://github.com/miantiao-me/bm.md.git",
+    "stars": 85,
+    "size": 480
   },
   {
-    "name": "FezVrasta/cafe-hass",
-    "clone_url": "https://github.com/FezVrasta/cafe-hass.git",
-    "stars": 131,
-    "size": 3234
+    "name": "CloudAI-X/opencode-workflow",
+    "clone_url": "https://github.com/CloudAI-X/opencode-workflow.git",
+    "stars": 79,
+    "size": 73
   },
   {
-    "name": "DevAgentForge/claude-code-webui",
-    "clone_url": "https://github.com/DevAgentForge/claude-code-webui.git",
-    "stars": 115,
-    "size": 383
+    "name": "shanselman/toasty",
+    "clone_url": "https://github.com/shanselman/toasty.git",
+    "stars": 61,
+    "size": 386
   },
   {
-    "name": "parcadei/llm-tldr",
-    "clone_url": "https://github.com/parcadei/llm-tldr.git",
-    "stars": 70,
-    "size": 369
+    "name": "link1107/claude-ide-tools",
+    "clone_url": "https://github.com/link1107/claude-ide-tools.git",
+    "stars": 33,
+    "size": 513
   }
 ]
