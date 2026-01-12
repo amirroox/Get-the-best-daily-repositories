@@ -1,32 +1,32 @@
 [
   {
-    "name": "ZhangHanDong/makepad-skills",
-    "clone_url": "https://github.com/ZhangHanDong/makepad-skills.git",
-    "stars": 311,
-    "size": 487
-  },
-  {
-    "name": "miantiao-me/bm.md",
-    "clone_url": "https://github.com/miantiao-me/bm.md.git",
-    "stars": 140,
-    "size": 562
-  },
-  {
-    "name": "CloudAI-X/opencode-workflow",
-    "clone_url": "https://github.com/CloudAI-X/opencode-workflow.git",
-    "stars": 106,
-    "size": 73
+    "name": "zscole/adversarial-spec",
+    "clone_url": "https://github.com/zscole/adversarial-spec.git",
+    "stars": 264,
+    "size": 115
   },
   {
     "name": "1rgs/nanocode",
     "clone_url": "https://github.com/1rgs/nanocode.git",
-    "stars": 102,
+    "stars": 203,
     "size": 172
   },
   {
-    "name": "shanselman/toasty",
-    "clone_url": "https://github.com/shanselman/toasty.git",
-    "stars": 69,
-    "size": 386
+    "name": "Dimillian/CodexMonitor",
+    "clone_url": "https://github.com/Dimillian/CodexMonitor.git",
+    "stars": 113,
+    "size": 4664
+  },
+  {
+    "name": "Spirit-AI-Team/spirit-v1.5",
+    "clone_url": "https://github.com/Spirit-AI-Team/spirit-v1.5.git",
+    "stars": 108,
+    "size": 266
+  },
+  {
+    "name": "z-libs/Zen-C",
+    "clone_url": "https://github.com/z-libs/Zen-C.git",
+    "stars": 76,
+    "size": 181
   }
 ]
