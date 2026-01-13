@@ -1,32 +1,32 @@
 [
   {
-    "name": "z-libs/Zen-C",
-    "clone_url": "https://github.com/z-libs/Zen-C.git",
-    "stars": 339,
-    "size": 228
+    "name": "deepseek-ai/Engram",
+    "clone_url": "https://github.com/deepseek-ai/Engram.git",
+    "stars": 687,
+    "size": 2295
   },
   {
-    "name": "zscole/adversarial-spec",
-    "clone_url": "https://github.com/zscole/adversarial-spec.git",
-    "stars": 321,
-    "size": 115
+    "name": "iannuttall/ralph",
+    "clone_url": "https://github.com/iannuttall/ralph.git",
+    "stars": 124,
+    "size": 380
   },
   {
-    "name": "Spirit-AI-Team/spirit-v1.5",
-    "clone_url": "https://github.com/Spirit-AI-Team/spirit-v1.5.git",
-    "stars": 261,
-    "size": 267
+    "name": "wafer-ai/gpu-perf-engineering-resources",
+    "clone_url": "https://github.com/wafer-ai/gpu-perf-engineering-resources.git",
+    "stars": 74,
+    "size": 2527
   },
   {
-    "name": "1rgs/nanocode",
-    "clone_url": "https://github.com/1rgs/nanocode.git",
-    "stars": 262,
-    "size": 172
+    "name": "Anarkh-Lee/resume-alchemist",
+    "clone_url": "https://github.com/Anarkh-Lee/resume-alchemist.git",
+    "stars": 68,
+    "size": 260
   },
   {
-    "name": "terauss/Polymarket-trading-bot-15min-BTC",
-    "clone_url": "https://github.com/terauss/Polymarket-trading-bot-15min-BTC.git",
-    "stars": 159,
-    "size": 84
+    "name": "runesatsdev/polymarket-arbitrage-bot",
+    "clone_url": "https://github.com/runesatsdev/polymarket-arbitrage-bot.git",
+    "stars": 57,
+    "size": 509
   }
 ]
