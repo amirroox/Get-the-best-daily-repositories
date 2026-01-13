@@ -2,31 +2,31 @@
   {
     "name": "deepseek-ai/Engram",
     "clone_url": "https://github.com/deepseek-ai/Engram.git",
-    "stars": 687,
+    "stars": 1436,
     "size": 2295
-  },
-  {
-    "name": "iannuttall/ralph",
-    "clone_url": "https://github.com/iannuttall/ralph.git",
-    "stars": 124,
-    "size": 380
-  },
-  {
-    "name": "wafer-ai/gpu-perf-engineering-resources",
-    "clone_url": "https://github.com/wafer-ai/gpu-perf-engineering-resources.git",
-    "stars": 74,
-    "size": 2527
-  },
-  {
-    "name": "Anarkh-Lee/resume-alchemist",
-    "clone_url": "https://github.com/Anarkh-Lee/resume-alchemist.git",
-    "stars": 68,
-    "size": 260
   },
   {
     "name": "runesatsdev/polymarket-arbitrage-bot",
     "clone_url": "https://github.com/runesatsdev/polymarket-arbitrage-bot.git",
-    "stars": 57,
+    "stars": 229,
     "size": 509
+  },
+  {
+    "name": "iannuttall/ralph",
+    "clone_url": "https://github.com/iannuttall/ralph.git",
+    "stars": 220,
+    "size": 384
+  },
+  {
+    "name": "wafer-ai/gpu-perf-engineering-resources",
+    "clone_url": "https://github.com/wafer-ai/gpu-perf-engineering-resources.git",
+    "stars": 130,
+    "size": 2539
+  },
+  {
+    "name": "Anarkh-Lee/resume-alchemist",
+    "clone_url": "https://github.com/Anarkh-Lee/resume-alchemist.git",
+    "stars": 85,
+    "size": 291
   }
 ]
