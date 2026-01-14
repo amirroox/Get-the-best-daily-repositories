@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-11 .. 2026-01-13)
+# Latest Repositories (2026-01-12 .. 2026-01-14)
 
-- [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) (1436)
-- [runesatsdev/polymarket-arbitrage-bot](https://github.com/runesatsdev/polymarket-arbitrage-bot) (229)
-- [iannuttall/ralph](https://github.com/iannuttall/ralph) (220)
-- [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) (130)
-- [Anarkh-Lee/resume-alchemist](https://github.com/Anarkh-Lee/resume-alchemist) (85)
+- [DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork) (277)
+- [openkursar/hello-halo](https://github.com/openkursar/hello-halo) (107)
+- [7836246/aws-builder-id](https://github.com/7836246/aws-builder-id) (76)
+- [opbytes/polymarket-bot-decision-engine](https://github.com/opbytes/polymarket-bot-decision-engine) (70)
+- [Gezine/Luac0re](https://github.com/Gezine/Luac0re) (54)
