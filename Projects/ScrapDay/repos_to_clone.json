@@ -2,31 +2,31 @@
   {
     "name": "vercel-labs/json-render",
     "clone_url": "https://github.com/vercel-labs/json-render.git",
-    "stars": 398,
-    "size": 821
-  },
-  {
-    "name": "ChatPRD/lennys-podcast-transcripts",
-    "clone_url": "https://github.com/ChatPRD/lennys-podcast-transcripts.git",
-    "stars": 284,
-    "size": 4399
+    "stars": 2370,
+    "size": 900
   },
   {
     "name": "trailofbits/skills",
     "clone_url": "https://github.com/trailofbits/skills.git",
-    "stars": 249,
-    "size": 646
+    "stars": 575,
+    "size": 648
+  },
+  {
+    "name": "ChatPRD/lennys-podcast-transcripts",
+    "clone_url": "https://github.com/ChatPRD/lennys-podcast-transcripts.git",
+    "stars": 352,
+    "size": 4399
   },
   {
     "name": "github/copilot-sdk",
     "clone_url": "https://github.com/github/copilot-sdk.git",
-    "stars": 109,
-    "size": 382
+    "stars": 308,
+    "size": 409
   },
   {
-    "name": "xuzeyu91/WebCode",
-    "clone_url": "https://github.com/xuzeyu91/WebCode.git",
-    "stars": 78,
-    "size": 4028
+    "name": "vudovn/antigravity-kit",
+    "clone_url": "https://github.com/vudovn/antigravity-kit.git",
+    "stars": 91,
+    "size": 963
   }
 ]
