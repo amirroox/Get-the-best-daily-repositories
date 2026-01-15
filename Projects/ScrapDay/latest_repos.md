@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-12 .. 2026-01-14)
+# Latest Repositories (2026-01-13 .. 2026-01-15)
 
-- [DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork) (660)
-- [openkursar/hello-halo](https://github.com/openkursar/hello-halo) (182)
-- [thomaskolmans/rsvp-reading](https://github.com/thomaskolmans/rsvp-reading) (90)
-- [7836246/aws-builder-id](https://github.com/7836246/aws-builder-id) (81)
-- [cporter202/vibe-coding-for-dummies](https://github.com/cporter202/vibe-coding-for-dummies) (77)
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) (398)
+- [ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts) (284)
+- [trailofbits/skills](https://github.com/trailofbits/skills) (249)
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) (109)
+- [xuzeyu91/WebCode](https://github.com/xuzeyu91/WebCode) (78)

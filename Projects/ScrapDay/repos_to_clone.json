@@ -1,32 +1,32 @@
 [
   {
-    "name": "DevAgentForge/Claude-Cowork",
-    "clone_url": "https://github.com/DevAgentForge/Claude-Cowork.git",
-    "stars": 660,
-    "size": 383
+    "name": "vercel-labs/json-render",
+    "clone_url": "https://github.com/vercel-labs/json-render.git",
+    "stars": 398,
+    "size": 821
   },
   {
-    "name": "openkursar/hello-halo",
-    "clone_url": "https://github.com/openkursar/hello-halo.git",
-    "stars": 182,
-    "size": 4099
+    "name": "ChatPRD/lennys-podcast-transcripts",
+    "clone_url": "https://github.com/ChatPRD/lennys-podcast-transcripts.git",
+    "stars": 284,
+    "size": 4399
   },
   {
-    "name": "thomaskolmans/rsvp-reading",
-    "clone_url": "https://github.com/thomaskolmans/rsvp-reading.git",
-    "stars": 90,
-    "size": 198
+    "name": "trailofbits/skills",
+    "clone_url": "https://github.com/trailofbits/skills.git",
+    "stars": 249,
+    "size": 646
   },
   {
-    "name": "7836246/aws-builder-id",
-    "clone_url": "https://github.com/7836246/aws-builder-id.git",
-    "stars": 81,
-    "size": 58
+    "name": "github/copilot-sdk",
+    "clone_url": "https://github.com/github/copilot-sdk.git",
+    "stars": 109,
+    "size": 382
   },
   {
-    "name": "cporter202/vibe-coding-for-dummies",
-    "clone_url": "https://github.com/cporter202/vibe-coding-for-dummies.git",
-    "stars": 77,
-    "size": 55
+    "name": "xuzeyu91/WebCode",
+    "clone_url": "https://github.com/xuzeyu91/WebCode.git",
+    "stars": 78,
+    "size": 4028
   }
 ]
