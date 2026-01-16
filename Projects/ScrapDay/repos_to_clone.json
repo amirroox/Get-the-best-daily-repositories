@@ -2,31 +2,31 @@
   {
     "name": "openresponses/openresponses",
     "clone_url": "https://github.com/openresponses/openresponses.git",
-    "stars": 169,
+    "stars": 280,
     "size": 540
-  },
-  {
-    "name": "h9-tec/uloom-quran",
-    "clone_url": "https://github.com/h9-tec/uloom-quran.git",
-    "stars": 103,
-    "size": 3621
   },
   {
     "name": "chrisdiana/TinyCity",
     "clone_url": "https://github.com/chrisdiana/TinyCity.git",
-    "stars": 97,
+    "stars": 126,
     "size": 347
   },
   {
-    "name": "TUAN130294/awf",
-    "clone_url": "https://github.com/TUAN130294/awf.git",
-    "stars": 68,
-    "size": 53
+    "name": "h9-tec/uloom-quran",
+    "clone_url": "https://github.com/h9-tec/uloom-quran.git",
+    "stars": 120,
+    "size": 3621
   },
   {
-    "name": "josephlopezh888/polymarket-copy-trading-bot",
-    "clone_url": "https://github.com/josephlopezh888/polymarket-copy-trading-bot.git",
-    "stars": 56,
-    "size": 481
+    "name": "HeartMuLa/heartlib",
+    "clone_url": "https://github.com/HeartMuLa/heartlib.git",
+    "stars": 118,
+    "size": 601
+  },
+  {
+    "name": "AMAP-ML/SocioReasoner",
+    "clone_url": "https://github.com/AMAP-ML/SocioReasoner.git",
+    "stars": 114,
+    "size": 3131
   }
 ]
