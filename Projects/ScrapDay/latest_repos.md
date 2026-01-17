@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-14 .. 2026-01-16)
+# Latest Repositories (2026-01-15 .. 2026-01-17)
 
-- [openresponses/openresponses](https://github.com/openresponses/openresponses) (280)
-- [chrisdiana/TinyCity](https://github.com/chrisdiana/TinyCity) (126)
-- [h9-tec/uloom-quran](https://github.com/h9-tec/uloom-quran) (120)
-- [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib) (118)
-- [AMAP-ML/SocioReasoner](https://github.com/AMAP-ML/SocioReasoner) (114)
+- [salem98/kmp-luckin-coffee-clone](https://github.com/salem98/kmp-luckin-coffee-clone) (76)
+- [browser-use/agent-sdk](https://github.com/browser-use/agent-sdk) (75)
+- [EthanLipnik/MirageKit](https://github.com/EthanLipnik/MirageKit) (42)
+- [TheDecipherist/docker-swarm-guide](https://github.com/TheDecipherist/docker-swarm-guide) (33)
+- [Kaupenjoe/Hytale-Example-Plugin](https://github.com/Kaupenjoe/Hytale-Example-Plugin) (31)
