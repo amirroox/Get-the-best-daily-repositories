@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-15 .. 2026-01-17)
+# Latest Repositories (2026-01-16 .. 2026-01-18)
 
-- [EthanLipnik/MirageKit](https://github.com/EthanLipnik/MirageKit) (133)
-- [browser-use/agent-sdk](https://github.com/browser-use/agent-sdk) (133)
-- [salem98/kmp-luckin-coffee-clone](https://github.com/salem98/kmp-luckin-coffee-clone) (75)
-- [DmitrySolana/ralph-claude-code](https://github.com/DmitrySolana/ralph-claude-code) (75)
-- [ButaiKirin/MaiMaiBot](https://github.com/ButaiKirin/MaiMaiBot) (39)
+- [zalexdev/wpair-app](https://github.com/zalexdev/wpair-app) (81)
+- [zstmfhy/annas-to-notebooklm](https://github.com/zstmfhy/annas-to-notebooklm) (44)
+- [lulistart/business-gemini-2api](https://github.com/lulistart/business-gemini-2api) (37)
+- [elb-pr/claudikins-kernel](https://github.com/elb-pr/claudikins-kernel) (32)
+- [Pluviobyte/Kiro-auto-register](https://github.com/Pluviobyte/Kiro-auto-register) (25)
