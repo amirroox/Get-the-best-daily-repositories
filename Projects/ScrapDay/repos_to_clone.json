@@ -2,31 +2,31 @@
   {
     "name": "affaan-m/everything-claude-code",
     "clone_url": "https://github.com/affaan-m/everything-claude-code.git",
-    "stars": 1093,
+    "stars": 2279,
     "size": 112
   },
   {
     "name": "antirez/flux2.c",
     "clone_url": "https://github.com/antirez/flux2.c.git",
-    "stars": 365,
-    "size": 353
+    "stars": 671,
+    "size": 694
   },
   {
     "name": "Nearcyan/vibecraft",
     "clone_url": "https://github.com/Nearcyan/vibecraft.git",
-    "stars": 180,
+    "stars": 368,
     "size": 1106
-  },
-  {
-    "name": "iam-veeramalla/a-to-z-of-networking",
-    "clone_url": "https://github.com/iam-veeramalla/a-to-z-of-networking.git",
-    "stars": 84,
-    "size": 66
   },
   {
     "name": "rohunj/claude-build-workflow",
     "clone_url": "https://github.com/rohunj/claude-build-workflow.git",
-    "stars": 58,
+    "stars": 150,
     "size": 186
+  },
+  {
+    "name": "iam-veeramalla/a-to-z-of-networking",
+    "clone_url": "https://github.com/iam-veeramalla/a-to-z-of-networking.git",
+    "stars": 146,
+    "size": 66
   }
 ]
