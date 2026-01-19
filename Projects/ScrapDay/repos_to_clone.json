@@ -2,31 +2,31 @@
   {
     "name": "affaan-m/everything-claude-code",
     "clone_url": "https://github.com/affaan-m/everything-claude-code.git",
-    "stars": 195,
+    "stars": 1093,
     "size": 112
   },
   {
-    "name": "zalexdev/wpair-app",
-    "clone_url": "https://github.com/zalexdev/wpair-app.git",
-    "stars": 108,
-    "size": 1505
+    "name": "antirez/flux2.c",
+    "clone_url": "https://github.com/antirez/flux2.c.git",
+    "stars": 365,
+    "size": 353
   },
   {
-    "name": "zstmfhy/annas-to-notebooklm",
-    "clone_url": "https://github.com/zstmfhy/annas-to-notebooklm.git",
-    "stars": 105,
-    "size": 63
+    "name": "Nearcyan/vibecraft",
+    "clone_url": "https://github.com/Nearcyan/vibecraft.git",
+    "stars": 180,
+    "size": 1106
   },
   {
-    "name": "ZhangHanDong/rust-skills",
-    "clone_url": "https://github.com/ZhangHanDong/rust-skills.git",
-    "stars": 59,
-    "size": 346
+    "name": "iam-veeramalla/a-to-z-of-networking",
+    "clone_url": "https://github.com/iam-veeramalla/a-to-z-of-networking.git",
+    "stars": 84,
+    "size": 66
   },
   {
-    "name": "scavin/lucky",
-    "clone_url": "https://github.com/scavin/lucky.git",
-    "stars": 45,
-    "size": 3160
+    "name": "rohunj/claude-build-workflow",
+    "clone_url": "https://github.com/rohunj/claude-build-workflow.git",
+    "stars": 58,
+    "size": 186
   }
 ]
