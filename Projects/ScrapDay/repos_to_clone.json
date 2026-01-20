@@ -1,32 +1,32 @@
 [
   {
+    "name": "xai-org/x-algorithm",
+    "clone_url": "https://github.com/xai-org/x-algorithm.git",
+    "stars": 4702,
+    "size": 100
+  },
+  {
     "name": "lukilabs/craft-agents-oss",
     "clone_url": "https://github.com/lukilabs/craft-agents-oss.git",
-    "stars": 131,
-    "size": 2884
+    "stars": 447,
+    "size": 3146
   },
   {
-    "name": "punkpeye/pipenet",
-    "clone_url": "https://github.com/punkpeye/pipenet.git",
-    "stars": 104,
-    "size": 221
+    "name": "dexorynlabs/polymarket-trading-bot-ts",
+    "clone_url": "https://github.com/dexorynlabs/polymarket-trading-bot-ts.git",
+    "stars": 435,
+    "size": 209
   },
   {
-    "name": "Mist-kail/polymarket-arb-trading-bot",
-    "clone_url": "https://github.com/Mist-kail/polymarket-arb-trading-bot.git",
-    "stars": 103,
-    "size": 196
-  },
-  {
-    "name": "Arcanum-Sec/sec-context",
-    "clone_url": "https://github.com/Arcanum-Sec/sec-context.git",
-    "stars": 71,
-    "size": 210
+    "name": "snwfdhmp/awesome-ralph",
+    "clone_url": "https://github.com/snwfdhmp/awesome-ralph.git",
+    "stars": 302,
+    "size": 60
   },
   {
     "name": "charIesding/claude-trade",
     "clone_url": "https://github.com/charIesding/claude-trade.git",
-    "stars": 62,
+    "stars": 169,
     "size": 451
   }
 ]
