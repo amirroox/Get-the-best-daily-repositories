@@ -1,32 +1,32 @@
 [
   {
-    "name": "affaan-m/everything-claude-code",
-    "clone_url": "https://github.com/affaan-m/everything-claude-code.git",
-    "stars": 2279,
-    "size": 112
+    "name": "lukilabs/craft-agents-oss",
+    "clone_url": "https://github.com/lukilabs/craft-agents-oss.git",
+    "stars": 131,
+    "size": 2884
   },
   {
-    "name": "antirez/flux2.c",
-    "clone_url": "https://github.com/antirez/flux2.c.git",
-    "stars": 671,
-    "size": 694
+    "name": "punkpeye/pipenet",
+    "clone_url": "https://github.com/punkpeye/pipenet.git",
+    "stars": 104,
+    "size": 221
   },
   {
-    "name": "Nearcyan/vibecraft",
-    "clone_url": "https://github.com/Nearcyan/vibecraft.git",
-    "stars": 368,
-    "size": 1106
+    "name": "Mist-kail/polymarket-arb-trading-bot",
+    "clone_url": "https://github.com/Mist-kail/polymarket-arb-trading-bot.git",
+    "stars": 103,
+    "size": 196
   },
   {
-    "name": "rohunj/claude-build-workflow",
-    "clone_url": "https://github.com/rohunj/claude-build-workflow.git",
-    "stars": 150,
-    "size": 186
+    "name": "Arcanum-Sec/sec-context",
+    "clone_url": "https://github.com/Arcanum-Sec/sec-context.git",
+    "stars": 71,
+    "size": 210
   },
   {
-    "name": "iam-veeramalla/a-to-z-of-networking",
-    "clone_url": "https://github.com/iam-veeramalla/a-to-z-of-networking.git",
-    "stars": 146,
-    "size": 66
+    "name": "charIesding/claude-trade",
+    "clone_url": "https://github.com/charIesding/claude-trade.git",
+    "stars": 62,
+    "size": 451
   }
 ]

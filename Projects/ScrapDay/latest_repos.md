@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-17 .. 2026-01-19)
+# Latest Repositories (2026-01-18 .. 2026-01-20)
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) (2279)
-- [antirez/flux2.c](https://github.com/antirez/flux2.c) (671)
-- [Nearcyan/vibecraft](https://github.com/Nearcyan/vibecraft) (368)
-- [rohunj/claude-build-workflow](https://github.com/rohunj/claude-build-workflow) (150)
-- [iam-veeramalla/a-to-z-of-networking](https://github.com/iam-veeramalla/a-to-z-of-networking) (146)
+- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) (131)
+- [punkpeye/pipenet](https://github.com/punkpeye/pipenet) (104)
+- [Mist-kail/polymarket-arb-trading-bot](https://github.com/Mist-kail/polymarket-arb-trading-bot) (103)
+- [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) (71)
+- [charIesding/claude-trade](https://github.com/charIesding/claude-trade) (62)
