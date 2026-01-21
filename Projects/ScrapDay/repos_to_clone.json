@@ -1,32 +1,32 @@
 [
   {
-    "name": "xai-org/x-algorithm",
-    "clone_url": "https://github.com/xai-org/x-algorithm.git",
-    "stars": 4702,
-    "size": 100
+    "name": "majcheradam/ocrbase",
+    "clone_url": "https://github.com/majcheradam/ocrbase.git",
+    "stars": 264,
+    "size": 1440
   },
   {
-    "name": "lukilabs/craft-agents-oss",
-    "clone_url": "https://github.com/lukilabs/craft-agents-oss.git",
-    "stars": 447,
-    "size": 3146
+    "name": "cporter202/social-media-scraping-apis",
+    "clone_url": "https://github.com/cporter202/social-media-scraping-apis.git",
+    "stars": 67,
+    "size": 4260
   },
   {
-    "name": "dexorynlabs/polymarket-trading-bot-ts",
-    "clone_url": "https://github.com/dexorynlabs/polymarket-trading-bot-ts.git",
-    "stars": 435,
-    "size": 209
+    "name": "project-numina/numina-lean-agent",
+    "clone_url": "https://github.com/project-numina/numina-lean-agent.git",
+    "stars": 44,
+    "size": 4266
   },
   {
-    "name": "snwfdhmp/awesome-ralph",
-    "clone_url": "https://github.com/snwfdhmp/awesome-ralph.git",
-    "stars": 302,
-    "size": 60
+    "name": "filliptm/ComfyUI_FL-HeartMuLa",
+    "clone_url": "https://github.com/filliptm/ComfyUI_FL-HeartMuLa.git",
+    "stars": 40,
+    "size": 136
   },
   {
-    "name": "charIesding/claude-trade",
-    "clone_url": "https://github.com/charIesding/claude-trade.git",
-    "stars": 169,
-    "size": 451
+    "name": "ailazytech/antigravity-stock-analysis-workflow",
+    "clone_url": "https://github.com/ailazytech/antigravity-stock-analysis-workflow.git",
+    "stars": 39,
+    "size": 906
   }
 ]
