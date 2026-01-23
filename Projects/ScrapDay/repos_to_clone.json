@@ -2,31 +2,31 @@
   {
     "name": "op7418/Youtube-clipper-skill",
     "clone_url": "https://github.com/op7418/Youtube-clipper-skill.git",
-    "stars": 362,
+    "stars": 464,
     "size": 56
   },
   {
     "name": "better-auth/better-icons",
     "clone_url": "https://github.com/better-auth/better-icons.git",
-    "stars": 197,
+    "stars": 226,
     "size": 77
   },
   {
     "name": "snarktank/compound-product",
     "clone_url": "https://github.com/snarktank/compound-product.git",
-    "stars": 141,
-    "size": 75
+    "stars": 194,
+    "size": 85
+  },
+  {
+    "name": "YuJunZhiXue/github-skill-forge",
+    "clone_url": "https://github.com/YuJunZhiXue/github-skill-forge.git",
+    "stars": 150,
+    "size": 62
   },
   {
     "name": "paid-tw/skills",
     "clone_url": "https://github.com/paid-tw/skills.git",
-    "stars": 126,
+    "stars": 139,
     "size": 132
-  },
-  {
-    "name": "zhukunpenglinyutong/ai-max",
-    "clone_url": "https://github.com/zhukunpenglinyutong/ai-max.git",
-    "stars": 55,
-    "size": 131
   }
 ]
