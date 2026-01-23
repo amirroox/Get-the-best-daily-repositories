@@ -1,32 +1,32 @@
 [
   {
-    "name": "hyf0/vue-skills",
-    "clone_url": "https://github.com/hyf0/vue-skills.git",
-    "stars": 374,
-    "size": 82
-  },
-  {
     "name": "op7418/Youtube-clipper-skill",
     "clone_url": "https://github.com/op7418/Youtube-clipper-skill.git",
-    "stars": 216,
+    "stars": 362,
     "size": 56
-  },
-  {
-    "name": "op7418/Document-illustrator-skill",
-    "clone_url": "https://github.com/op7418/Document-illustrator-skill.git",
-    "stars": 124,
-    "size": 4881
   },
   {
     "name": "better-auth/better-icons",
     "clone_url": "https://github.com/better-auth/better-icons.git",
-    "stars": 117,
-    "size": 66
+    "stars": 197,
+    "size": 77
+  },
+  {
+    "name": "snarktank/compound-product",
+    "clone_url": "https://github.com/snarktank/compound-product.git",
+    "stars": 141,
+    "size": 75
   },
   {
     "name": "paid-tw/skills",
     "clone_url": "https://github.com/paid-tw/skills.git",
-    "stars": 87,
-    "size": 63
+    "stars": 126,
+    "size": 132
+  },
+  {
+    "name": "zhukunpenglinyutong/ai-max",
+    "clone_url": "https://github.com/zhukunpenglinyutong/ai-max.git",
+    "stars": 55,
+    "size": 131
   }
 ]
