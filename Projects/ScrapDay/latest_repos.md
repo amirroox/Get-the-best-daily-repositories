@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-22 .. 2026-01-24)
+# Latest Repositories (2026-01-23 .. 2026-01-25)
 
-- [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) (146)
-- [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) (108)
-- [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) (89)
-- [Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp) (83)
-- [teorth/optimizationproblems](https://github.com/teorth/optimizationproblems) (66)
+- [analogjs/angular-skills](https://github.com/analogjs/angular-skills) (67)
+- [WhiskeyCoder/Qwen3-Audiobook-Converter](https://github.com/WhiskeyCoder/Qwen3-Audiobook-Converter) (42)
+- [Ragul-29/Super-Market](https://github.com/Ragul-29/Super-Market) (35)
+- [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio) (32)
+- [tomohiro-owada/gmn](https://github.com/tomohiro-owada/gmn) (26)
