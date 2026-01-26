@@ -1,32 +1,32 @@
 [
   {
-    "name": "WhiskeyCoder/Qwen3-Audiobook-Converter",
-    "clone_url": "https://github.com/WhiskeyCoder/Qwen3-Audiobook-Converter.git",
-    "stars": 84,
-    "size": 2533
-  },
-  {
-    "name": "analogjs/angular-skills",
-    "clone_url": "https://github.com/analogjs/angular-skills.git",
-    "stars": 72,
-    "size": 66
+    "name": "VoltAgent/awesome-clawdbot-skills",
+    "clone_url": "https://github.com/VoltAgent/awesome-clawdbot-skills.git",
+    "stars": 286,
+    "size": 128
   },
   {
     "name": "miantiao-me/cloud-code",
     "clone_url": "https://github.com/miantiao-me/cloud-code.git",
-    "stars": 66,
+    "stars": 154,
     "size": 91
   },
   {
-    "name": "FranckyB/Voice-Clone-Studio",
-    "clone_url": "https://github.com/FranckyB/Voice-Clone-Studio.git",
-    "stars": 64,
-    "size": 289
+    "name": "mitjafelicijan/xdgctl",
+    "clone_url": "https://github.com/mitjafelicijan/xdgctl.git",
+    "stars": 130,
+    "size": 59
   },
   {
-    "name": "tanaer/WindowsClear",
-    "clone_url": "https://github.com/tanaer/WindowsClear.git",
-    "stars": 53,
-    "size": 324
+    "name": "joeseesun/anything-to-notebooklm",
+    "clone_url": "https://github.com/joeseesun/anything-to-notebooklm.git",
+    "stars": 97,
+    "size": 50
+  },
+  {
+    "name": "Ilias1988/Hacking-Cheatsheets",
+    "clone_url": "https://github.com/Ilias1988/Hacking-Cheatsheets.git",
+    "stars": 92,
+    "size": 280
   }
 ]

@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-23 .. 2026-01-25)
+# Latest Repositories (2026-01-24 .. 2026-01-26)
 
-- [WhiskeyCoder/Qwen3-Audiobook-Converter](https://github.com/WhiskeyCoder/Qwen3-Audiobook-Converter) (84)
-- [analogjs/angular-skills](https://github.com/analogjs/angular-skills) (72)
-- [miantiao-me/cloud-code](https://github.com/miantiao-me/cloud-code) (66)
-- [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio) (64)
-- [tanaer/WindowsClear](https://github.com/tanaer/WindowsClear) (53)
+- [VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills) (286)
+- [miantiao-me/cloud-code](https://github.com/miantiao-me/cloud-code) (154)
+- [mitjafelicijan/xdgctl](https://github.com/mitjafelicijan/xdgctl) (130)
+- [joeseesun/anything-to-notebooklm](https://github.com/joeseesun/anything-to-notebooklm) (97)
+- [Ilias1988/Hacking-Cheatsheets](https://github.com/Ilias1988/Hacking-Cheatsheets) (92)
