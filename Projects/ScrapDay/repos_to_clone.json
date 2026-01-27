@@ -1,32 +1,32 @@
 [
   {
+    "name": "deepseek-ai/DeepSeek-OCR-2",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-OCR-2.git",
+    "stars": 632,
+    "size": 1081
+  },
+  {
     "name": "terausss/15min-btc-polymarket-trading-bot",
     "clone_url": "https://github.com/terausss/15min-btc-polymarket-trading-bot.git",
-    "stars": 109,
-    "size": 50
+    "stars": 150,
+    "size": 59
   },
   {
     "name": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
     "clone_url": "https://github.com/terausss/Polymarket-Kalshi-Arbitrage-Bot.git",
-    "stars": 107,
+    "stars": 147,
     "size": 169
   },
   {
     "name": "nhevers/claude-recall",
     "clone_url": "https://github.com/nhevers/claude-recall.git",
-    "stars": 51,
-    "size": 4554
+    "stars": 122,
+    "size": 4789
   },
   {
-    "name": "filliptm/ComfyUI-FL-Qwen3TTS",
-    "clone_url": "https://github.com/filliptm/ComfyUI-FL-Qwen3TTS.git",
-    "stars": 44,
-    "size": 493
-  },
-  {
-    "name": "unslop-xyz/noodles",
-    "clone_url": "https://github.com/unslop-xyz/noodles.git",
-    "stars": 43,
-    "size": 3261
+    "name": "blendi-remade/sprite-sheet-creator",
+    "clone_url": "https://github.com/blendi-remade/sprite-sheet-creator.git",
+    "stars": 75,
+    "size": 3065
   }
 ]
