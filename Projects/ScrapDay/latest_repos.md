@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-24 .. 2026-01-26)
+# Latest Repositories (2026-01-25 .. 2026-01-27)
 
-- [VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills) (690)
-- [miantiao-me/cloud-code](https://github.com/miantiao-me/cloud-code) (211)
-- [hanxiao/claudecode-telegram](https://github.com/hanxiao/claudecode-telegram) (204)
-- [joeseesun/anything-to-notebooklm](https://github.com/joeseesun/anything-to-notebooklm) (179)
-- [mitjafelicijan/xdgctl](https://github.com/mitjafelicijan/xdgctl) (147)
+- [terausss/15min-btc-polymarket-trading-bot](https://github.com/terausss/15min-btc-polymarket-trading-bot) (109)
+- [terausss/Polymarket-Kalshi-Arbitrage-Bot](https://github.com/terausss/Polymarket-Kalshi-Arbitrage-Bot) (107)
+- [nhevers/claude-recall](https://github.com/nhevers/claude-recall) (51)
+- [filliptm/ComfyUI-FL-Qwen3TTS](https://github.com/filliptm/ComfyUI-FL-Qwen3TTS) (44)
+- [unslop-xyz/noodles](https://github.com/unslop-xyz/noodles) (43)

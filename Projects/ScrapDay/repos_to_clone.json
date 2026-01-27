@@ -1,32 +1,32 @@
 [
   {
-    "name": "VoltAgent/awesome-clawdbot-skills",
-    "clone_url": "https://github.com/VoltAgent/awesome-clawdbot-skills.git",
-    "stars": 690,
-    "size": 192
-  },
-  {
-    "name": "miantiao-me/cloud-code",
-    "clone_url": "https://github.com/miantiao-me/cloud-code.git",
-    "stars": 211,
-    "size": 101
-  },
-  {
-    "name": "hanxiao/claudecode-telegram",
-    "clone_url": "https://github.com/hanxiao/claudecode-telegram.git",
-    "stars": 204,
-    "size": 1120
-  },
-  {
-    "name": "joeseesun/anything-to-notebooklm",
-    "clone_url": "https://github.com/joeseesun/anything-to-notebooklm.git",
-    "stars": 179,
+    "name": "terausss/15min-btc-polymarket-trading-bot",
+    "clone_url": "https://github.com/terausss/15min-btc-polymarket-trading-bot.git",
+    "stars": 109,
     "size": 50
   },
   {
-    "name": "mitjafelicijan/xdgctl",
-    "clone_url": "https://github.com/mitjafelicijan/xdgctl.git",
-    "stars": 147,
-    "size": 76
+    "name": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "clone_url": "https://github.com/terausss/Polymarket-Kalshi-Arbitrage-Bot.git",
+    "stars": 107,
+    "size": 169
+  },
+  {
+    "name": "nhevers/claude-recall",
+    "clone_url": "https://github.com/nhevers/claude-recall.git",
+    "stars": 51,
+    "size": 4554
+  },
+  {
+    "name": "filliptm/ComfyUI-FL-Qwen3TTS",
+    "clone_url": "https://github.com/filliptm/ComfyUI-FL-Qwen3TTS.git",
+    "stars": 44,
+    "size": 493
+  },
+  {
+    "name": "unslop-xyz/noodles",
+    "clone_url": "https://github.com/unslop-xyz/noodles.git",
+    "stars": 43,
+    "size": 3261
   }
 ]
