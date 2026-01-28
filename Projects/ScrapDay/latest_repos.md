@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-25 .. 2026-01-27)
+# Latest Repositories (2026-01-26 .. 2026-01-28)
 
-- [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) (632)
-- [terausss/15min-btc-polymarket-trading-bot](https://github.com/terausss/15min-btc-polymarket-trading-bot) (150)
-- [terausss/Polymarket-Kalshi-Arbitrage-Bot](https://github.com/terausss/Polymarket-Kalshi-Arbitrage-Bot) (147)
-- [nhevers/claude-recall](https://github.com/nhevers/claude-recall) (122)
-- [blendi-remade/sprite-sheet-creator](https://github.com/blendi-remade/sprite-sheet-creator) (75)
+- [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) (944)
+- [PrasannaKrishna0307/offline-rag-system](https://github.com/PrasannaKrishna0307/offline-rag-system) (54)
+- [MLT-OSS/FirstData](https://github.com/MLT-OSS/FirstData) (51)
+- [johunsang/pi-browser](https://github.com/johunsang/pi-browser) (50)
+- [ecto/vcad](https://github.com/ecto/vcad) (49)
