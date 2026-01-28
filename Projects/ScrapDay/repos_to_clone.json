@@ -2,31 +2,31 @@
   {
     "name": "deepseek-ai/DeepSeek-OCR-2",
     "clone_url": "https://github.com/deepseek-ai/DeepSeek-OCR-2.git",
-    "stars": 944,
+    "stars": 1170,
     "size": 1069
   },
   {
-    "name": "PrasannaKrishna0307/offline-rag-system",
-    "clone_url": "https://github.com/PrasannaKrishna0307/offline-rag-system.git",
-    "stars": 54,
-    "size": 2478
-  },
-  {
-    "name": "MLT-OSS/FirstData",
-    "clone_url": "https://github.com/MLT-OSS/FirstData.git",
-    "stars": 51,
-    "size": 400
-  },
-  {
-    "name": "johunsang/pi-browser",
-    "clone_url": "https://github.com/johunsang/pi-browser.git",
-    "stars": 50,
-    "size": 98
+    "name": "antfu/skills",
+    "clone_url": "https://github.com/antfu/skills.git",
+    "stars": 773,
+    "size": 732
   },
   {
     "name": "ecto/vcad",
     "clone_url": "https://github.com/ecto/vcad.git",
-    "stars": 49,
+    "stars": 112,
     "size": 3326
+  },
+  {
+    "name": "MLT-OSS/FirstData",
+    "clone_url": "https://github.com/MLT-OSS/FirstData.git",
+    "stars": 82,
+    "size": 400
+  },
+  {
+    "name": "h9zdev/WireTapper",
+    "clone_url": "https://github.com/h9zdev/WireTapper.git",
+    "stars": 72,
+    "size": 4147
   }
 ]
