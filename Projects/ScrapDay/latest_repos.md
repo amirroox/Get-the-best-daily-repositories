@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-26 .. 2026-01-28)
+# Latest Repositories (2026-01-27 .. 2026-01-29)
 
-- [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) (1170)
-- [antfu/skills](https://github.com/antfu/skills) (773)
-- [ecto/vcad](https://github.com/ecto/vcad) (112)
-- [MLT-OSS/FirstData](https://github.com/MLT-OSS/FirstData) (82)
-- [h9zdev/WireTapper](https://github.com/h9zdev/WireTapper) (72)
+- [antfu/skills](https://github.com/antfu/skills) (1517)
+- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) (357)
+- [DingTalk-Real-AI/dingtalk-moltbot-connector](https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector) (181)
+- [op7418/Video-Wrapper-Skills](https://github.com/op7418/Video-Wrapper-Skills) (71)
+- [S-Jaswant18/MindSense-AI-](https://github.com/S-Jaswant18/MindSense-AI-) (50)

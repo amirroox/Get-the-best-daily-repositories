@@ -1,32 +1,32 @@
 [
   {
-    "name": "deepseek-ai/DeepSeek-OCR-2",
-    "clone_url": "https://github.com/deepseek-ai/DeepSeek-OCR-2.git",
-    "stars": 1170,
-    "size": 1069
-  },
-  {
     "name": "antfu/skills",
     "clone_url": "https://github.com/antfu/skills.git",
-    "stars": 773,
-    "size": 732
+    "stars": 1517,
+    "size": 776
   },
   {
-    "name": "ecto/vcad",
-    "clone_url": "https://github.com/ecto/vcad.git",
-    "stars": 112,
-    "size": 3326
+    "name": "lukilabs/beautiful-mermaid",
+    "clone_url": "https://github.com/lukilabs/beautiful-mermaid.git",
+    "stars": 357,
+    "size": 577
   },
   {
-    "name": "MLT-OSS/FirstData",
-    "clone_url": "https://github.com/MLT-OSS/FirstData.git",
-    "stars": 82,
-    "size": 400
+    "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
+    "clone_url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector.git",
+    "stars": 181,
+    "size": 66
   },
   {
-    "name": "h9zdev/WireTapper",
-    "clone_url": "https://github.com/h9zdev/WireTapper.git",
-    "stars": 72,
-    "size": 4147
+    "name": "op7418/Video-Wrapper-Skills",
+    "clone_url": "https://github.com/op7418/Video-Wrapper-Skills.git",
+    "stars": 71,
+    "size": 57
+  },
+  {
+    "name": "S-Jaswant18/MindSense-AI-",
+    "clone_url": "https://github.com/S-Jaswant18/MindSense-AI-.git",
+    "stars": 50,
+    "size": 74
   }
 ]
