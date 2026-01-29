@@ -2,31 +2,31 @@
   {
     "name": "antfu/skills",
     "clone_url": "https://github.com/antfu/skills.git",
-    "stars": 1517,
+    "stars": 2031,
     "size": 776
   },
   {
     "name": "lukilabs/beautiful-mermaid",
     "clone_url": "https://github.com/lukilabs/beautiful-mermaid.git",
-    "stars": 357,
+    "stars": 1570,
     "size": 577
   },
   {
     "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
     "clone_url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector.git",
-    "stars": 181,
-    "size": 66
+    "stars": 249,
+    "size": 88
   },
   {
-    "name": "op7418/Video-Wrapper-Skills",
-    "clone_url": "https://github.com/op7418/Video-Wrapper-Skills.git",
-    "stars": 71,
-    "size": 57
+    "name": "Kylsky/chatgpt-team-helper",
+    "clone_url": "https://github.com/Kylsky/chatgpt-team-helper.git",
+    "stars": 168,
+    "size": 571
   },
   {
-    "name": "S-Jaswant18/MindSense-AI-",
-    "clone_url": "https://github.com/S-Jaswant18/MindSense-AI-.git",
-    "stars": 50,
-    "size": 74
+    "name": "OpenMOSS/MOVA",
+    "clone_url": "https://github.com/OpenMOSS/MOVA.git",
+    "stars": 116,
+    "size": 3358
   }
 ]
