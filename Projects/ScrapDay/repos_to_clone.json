@@ -1,32 +1,32 @@
 [
   {
-    "name": "antfu/skills",
-    "clone_url": "https://github.com/antfu/skills.git",
-    "stars": 2031,
-    "size": 776
-  },
-  {
-    "name": "lukilabs/beautiful-mermaid",
-    "clone_url": "https://github.com/lukilabs/beautiful-mermaid.git",
-    "stars": 1570,
-    "size": 577
-  },
-  {
-    "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
-    "clone_url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector.git",
-    "stars": 249,
-    "size": 88
-  },
-  {
     "name": "Kylsky/chatgpt-team-helper",
     "clone_url": "https://github.com/Kylsky/chatgpt-team-helper.git",
-    "stars": 168,
-    "size": 571
+    "stars": 213,
+    "size": 590
   },
   {
-    "name": "OpenMOSS/MOVA",
-    "clone_url": "https://github.com/OpenMOSS/MOVA.git",
-    "stars": 116,
-    "size": 3358
+    "name": "pierceboggan/primer",
+    "clone_url": "https://github.com/pierceboggan/primer.git",
+    "stars": 189,
+    "size": 543
+  },
+  {
+    "name": "btseytlin/hr-breaker",
+    "clone_url": "https://github.com/btseytlin/hr-breaker.git",
+    "stars": 182,
+    "size": 405
+  },
+  {
+    "name": "cisco-ai-defense/skill-scanner",
+    "clone_url": "https://github.com/cisco-ai-defense/skill-scanner.git",
+    "stars": 80,
+    "size": 835
+  },
+  {
+    "name": "zacdcook/claude-code-semantic-memory",
+    "clone_url": "https://github.com/zacdcook/claude-code-semantic-memory.git",
+    "stars": 66,
+    "size": 64
   }
 ]
