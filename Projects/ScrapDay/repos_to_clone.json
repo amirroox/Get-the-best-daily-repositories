@@ -1,32 +1,32 @@
 [
   {
-    "name": "miaoxworld/ClawdBotInstaller",
-    "clone_url": "https://github.com/miaoxworld/ClawdBotInstaller.git",
-    "stars": 310,
-    "size": 1040
+    "name": "antfu/skills-npm",
+    "clone_url": "https://github.com/antfu/skills-npm.git",
+    "stars": 31,
+    "size": 141
   },
   {
-    "name": "btseytlin/hr-breaker",
-    "clone_url": "https://github.com/btseytlin/hr-breaker.git",
-    "stars": 288,
-    "size": 405
+    "name": "xiaowanjiagit/linuxdo",
+    "clone_url": "https://github.com/xiaowanjiagit/linuxdo.git",
+    "stars": 27,
+    "size": 50
   },
   {
-    "name": "Kylsky/chatgpt-team-helper",
-    "clone_url": "https://github.com/Kylsky/chatgpt-team-helper.git",
-    "stars": 242,
-    "size": 590
+    "name": "AhmedGD1/GoTween",
+    "clone_url": "https://github.com/AhmedGD1/GoTween.git",
+    "stars": 24,
+    "size": 60
   },
   {
-    "name": "pierceboggan/primer",
-    "clone_url": "https://github.com/pierceboggan/primer.git",
-    "stars": 241,
-    "size": 543
+    "name": "agno-agi/data-agent",
+    "clone_url": "https://github.com/agno-agi/data-agent.git",
+    "stars": 21,
+    "size": 171
   },
   {
-    "name": "cisco-ai-defense/skill-scanner",
-    "clone_url": "https://github.com/cisco-ai-defense/skill-scanner.git",
-    "stars": 101,
-    "size": 835
+    "name": "AvdLee/Core-Data-Agent-Skill",
+    "clone_url": "https://github.com/AvdLee/Core-Data-Agent-Skill.git",
+    "stars": 20,
+    "size": 65
   }
 ]

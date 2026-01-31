@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-28 .. 2026-01-30)
+# Latest Repositories (2026-01-29 .. 2026-01-31)
 
-- [miaoxworld/ClawdBotInstaller](https://github.com/miaoxworld/ClawdBotInstaller) (310)
-- [btseytlin/hr-breaker](https://github.com/btseytlin/hr-breaker) (288)
-- [Kylsky/chatgpt-team-helper](https://github.com/Kylsky/chatgpt-team-helper) (242)
-- [pierceboggan/primer](https://github.com/pierceboggan/primer) (241)
-- [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) (101)
+- [antfu/skills-npm](https://github.com/antfu/skills-npm) (31)
+- [xiaowanjiagit/linuxdo](https://github.com/xiaowanjiagit/linuxdo) (27)
+- [AhmedGD1/GoTween](https://github.com/AhmedGD1/GoTween) (24)
+- [agno-agi/data-agent](https://github.com/agno-agi/data-agent) (21)
+- [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill) (20)
