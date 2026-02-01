@@ -2,31 +2,31 @@
   {
     "name": "antfu/skills-npm",
     "clone_url": "https://github.com/antfu/skills-npm.git",
-    "stars": 116,
+    "stars": 168,
     "size": 141
   },
   {
-    "name": "1186258278/OpenClawChineseTranslation",
-    "clone_url": "https://github.com/1186258278/OpenClawChineseTranslation.git",
-    "stars": 84,
-    "size": 1461
+    "name": "burpheart/cursor-tap",
+    "clone_url": "https://github.com/burpheart/cursor-tap.git",
+    "stars": 77,
+    "size": 4271
   },
   {
-    "name": "agno-agi/data-agent",
-    "clone_url": "https://github.com/agno-agi/data-agent.git",
-    "stars": 50,
-    "size": 171
+    "name": "xywml/PaperGrid",
+    "clone_url": "https://github.com/xywml/PaperGrid.git",
+    "stars": 51,
+    "size": 281
   },
   {
-    "name": "jeromeyyy/DeepSea-AI",
-    "clone_url": "https://github.com/jeromeyyy/DeepSea-AI.git",
+    "name": "joeseesun/music-genre-finder",
+    "clone_url": "https://github.com/joeseesun/music-genre-finder.git",
+    "stars": 44,
+    "size": 2230
+  },
+  {
+    "name": "liuxiaopai-ai/ralph-desktop",
+    "clone_url": "https://github.com/liuxiaopai-ai/ralph-desktop.git",
     "stars": 43,
-    "size": 287
-  },
-  {
-    "name": "easychen/ask4me",
-    "clone_url": "https://github.com/easychen/ask4me.git",
-    "stars": 33,
-    "size": 153
+    "size": 3899
   }
 ]
