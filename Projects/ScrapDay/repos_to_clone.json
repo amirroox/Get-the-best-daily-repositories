@@ -2,31 +2,31 @@
   {
     "name": "antfu/skills-npm",
     "clone_url": "https://github.com/antfu/skills-npm.git",
-    "stars": 168,
+    "stars": 189,
     "size": 141
   },
   {
     "name": "burpheart/cursor-tap",
     "clone_url": "https://github.com/burpheart/cursor-tap.git",
-    "stars": 77,
+    "stars": 120,
     "size": 4271
+  },
+  {
+    "name": "YougLin-dev/Aha-Loop",
+    "clone_url": "https://github.com/YougLin-dev/Aha-Loop.git",
+    "stars": 114,
+    "size": 155
+  },
+  {
+    "name": "jgarzik/botmaker",
+    "clone_url": "https://github.com/jgarzik/botmaker.git",
+    "stars": 85,
+    "size": 426
   },
   {
     "name": "xywml/PaperGrid",
     "clone_url": "https://github.com/xywml/PaperGrid.git",
-    "stars": 51,
-    "size": 281
-  },
-  {
-    "name": "joeseesun/music-genre-finder",
-    "clone_url": "https://github.com/joeseesun/music-genre-finder.git",
-    "stars": 44,
-    "size": 2230
-  },
-  {
-    "name": "liuxiaopai-ai/ralph-desktop",
-    "clone_url": "https://github.com/liuxiaopai-ai/ralph-desktop.git",
-    "stars": 43,
-    "size": 3899
+    "stars": 82,
+    "size": 327
   }
 ]
