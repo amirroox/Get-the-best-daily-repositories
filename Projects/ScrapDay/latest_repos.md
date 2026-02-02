@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-30 .. 2026-02-01)
+# Latest Repositories (2026-01-31 .. 2026-02-02)
 
-- [antfu/skills-npm](https://github.com/antfu/skills-npm) (189)
-- [burpheart/cursor-tap](https://github.com/burpheart/cursor-tap) (120)
-- [YougLin-dev/Aha-Loop](https://github.com/YougLin-dev/Aha-Loop) (114)
-- [jgarzik/botmaker](https://github.com/jgarzik/botmaker) (85)
-- [xywml/PaperGrid](https://github.com/xywml/PaperGrid) (82)
+- [ygwyg/MAHORAGA](https://github.com/ygwyg/MAHORAGA) (164)
+- [YougLin-dev/Aha-Loop](https://github.com/YougLin-dev/Aha-Loop) (139)
+- [sonpiaz/evox](https://github.com/sonpiaz/evox) (42)
+- [darekchmarz/DeepSeek-R1-Desktop-Uncensored-GUI](https://github.com/darekchmarz/DeepSeek-R1-Desktop-Uncensored-GUI) (33)
+- [MIX-LJ/FundMonitor](https://github.com/MIX-LJ/FundMonitor) (32)

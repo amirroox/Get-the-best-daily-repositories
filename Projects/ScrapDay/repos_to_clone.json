@@ -1,32 +1,32 @@
 [
   {
-    "name": "antfu/skills-npm",
-    "clone_url": "https://github.com/antfu/skills-npm.git",
-    "stars": 189,
-    "size": 141
-  },
-  {
-    "name": "burpheart/cursor-tap",
-    "clone_url": "https://github.com/burpheart/cursor-tap.git",
-    "stars": 120,
-    "size": 4271
+    "name": "ygwyg/MAHORAGA",
+    "clone_url": "https://github.com/ygwyg/MAHORAGA.git",
+    "stars": 164,
+    "size": 209
   },
   {
     "name": "YougLin-dev/Aha-Loop",
     "clone_url": "https://github.com/YougLin-dev/Aha-Loop.git",
-    "stars": 114,
-    "size": 155
+    "stars": 139,
+    "size": 169
   },
   {
-    "name": "jgarzik/botmaker",
-    "clone_url": "https://github.com/jgarzik/botmaker.git",
-    "stars": 85,
-    "size": 426
+    "name": "sonpiaz/evox",
+    "clone_url": "https://github.com/sonpiaz/evox.git",
+    "stars": 42,
+    "size": 415
   },
   {
-    "name": "xywml/PaperGrid",
-    "clone_url": "https://github.com/xywml/PaperGrid.git",
-    "stars": 82,
-    "size": 327
+    "name": "darekchmarz/DeepSeek-R1-Desktop-Uncensored-GUI",
+    "clone_url": "https://github.com/darekchmarz/DeepSeek-R1-Desktop-Uncensored-GUI.git",
+    "stars": 33,
+    "size": 531
+  },
+  {
+    "name": "MIX-LJ/FundMonitor",
+    "clone_url": "https://github.com/MIX-LJ/FundMonitor.git",
+    "stars": 32,
+    "size": 162
   }
 ]
