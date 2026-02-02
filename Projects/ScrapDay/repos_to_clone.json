@@ -2,31 +2,31 @@
   {
     "name": "ygwyg/MAHORAGA",
     "clone_url": "https://github.com/ygwyg/MAHORAGA.git",
-    "stars": 164,
-    "size": 209
+    "stars": 251,
+    "size": 838
   },
   {
     "name": "YougLin-dev/Aha-Loop",
     "clone_url": "https://github.com/YougLin-dev/Aha-Loop.git",
-    "stars": 139,
-    "size": 169
+    "stars": 148,
+    "size": 179
+  },
+  {
+    "name": "voocel/openclaw-mini",
+    "clone_url": "https://github.com/voocel/openclaw-mini.git",
+    "stars": 107,
+    "size": 82
   },
   {
     "name": "sonpiaz/evox",
     "clone_url": "https://github.com/sonpiaz/evox.git",
-    "stars": 42,
-    "size": 415
+    "stars": 72,
+    "size": 536
   },
   {
-    "name": "darekchmarz/DeepSeek-R1-Desktop-Uncensored-GUI",
-    "clone_url": "https://github.com/darekchmarz/DeepSeek-R1-Desktop-Uncensored-GUI.git",
-    "stars": 33,
-    "size": 531
-  },
-  {
-    "name": "MIX-LJ/FundMonitor",
-    "clone_url": "https://github.com/MIX-LJ/FundMonitor.git",
-    "stars": 32,
-    "size": 162
+    "name": "mirarr-app/network-checker",
+    "clone_url": "https://github.com/mirarr-app/network-checker.git",
+    "stars": 47,
+    "size": 485
   }
 ]
