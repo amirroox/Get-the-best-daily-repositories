@@ -1,32 +1,32 @@
 [
   {
-    "name": "elder-plinius/GLOSSOPETRAE",
-    "clone_url": "https://github.com/elder-plinius/GLOSSOPETRAE.git",
-    "stars": 70,
-    "size": 381
-  },
-  {
-    "name": "SL0ANE/TheMoldsmalPlugin",
-    "clone_url": "https://github.com/SL0ANE/TheMoldsmalPlugin.git",
-    "stars": 47,
-    "size": 293
-  },
-  {
-    "name": "HarderLemonade/ddwrap",
-    "clone_url": "https://github.com/HarderLemonade/ddwrap.git",
-    "stars": 39,
-    "size": 119
-  },
-  {
-    "name": "PsiACE/skills",
-    "clone_url": "https://github.com/PsiACE/skills.git",
-    "stars": 28,
-    "size": 732
+    "name": "sheeki03/tirith",
+    "clone_url": "https://github.com/sheeki03/tirith.git",
+    "stars": 404,
+    "size": 309
   },
   {
     "name": "TsingmaoAI/xw-cli",
     "clone_url": "https://github.com/TsingmaoAI/xw-cli.git",
-    "stars": 25,
-    "size": 398
+    "stars": 163,
+    "size": 1739
+  },
+  {
+    "name": "elder-plinius/GLOSSOPETRAE",
+    "clone_url": "https://github.com/elder-plinius/GLOSSOPETRAE.git",
+    "stars": 88,
+    "size": 381
+  },
+  {
+    "name": "bc-dunia/qwen3-TTS-studio",
+    "clone_url": "https://github.com/bc-dunia/qwen3-TTS-studio.git",
+    "stars": 75,
+    "size": 357
+  },
+  {
+    "name": "SL0ANE/TheMoldsmalPlugin",
+    "clone_url": "https://github.com/SL0ANE/TheMoldsmalPlugin.git",
+    "stars": 66,
+    "size": 293
   }
 ]
