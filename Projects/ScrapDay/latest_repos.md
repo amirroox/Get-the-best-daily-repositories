@@ -1,7 +1,7 @@
-# Latest Repositories (2026-01-31 .. 2026-02-02)
+# Latest Repositories (2026-02-01 .. 2026-02-03)
 
-- [ygwyg/MAHORAGA](https://github.com/ygwyg/MAHORAGA) (251)
-- [YougLin-dev/Aha-Loop](https://github.com/YougLin-dev/Aha-Loop) (148)
-- [voocel/openclaw-mini](https://github.com/voocel/openclaw-mini) (107)
-- [sonpiaz/evox](https://github.com/sonpiaz/evox) (72)
-- [mirarr-app/network-checker](https://github.com/mirarr-app/network-checker) (47)
+- [elder-plinius/GLOSSOPETRAE](https://github.com/elder-plinius/GLOSSOPETRAE) (70)
+- [SL0ANE/TheMoldsmalPlugin](https://github.com/SL0ANE/TheMoldsmalPlugin) (47)
+- [HarderLemonade/ddwrap](https://github.com/HarderLemonade/ddwrap) (39)
+- [PsiACE/skills](https://github.com/PsiACE/skills) (28)
+- [TsingmaoAI/xw-cli](https://github.com/TsingmaoAI/xw-cli) (25)

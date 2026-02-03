@@ -1,32 +1,32 @@
 [
   {
-    "name": "ygwyg/MAHORAGA",
-    "clone_url": "https://github.com/ygwyg/MAHORAGA.git",
-    "stars": 251,
-    "size": 838
+    "name": "elder-plinius/GLOSSOPETRAE",
+    "clone_url": "https://github.com/elder-plinius/GLOSSOPETRAE.git",
+    "stars": 70,
+    "size": 381
   },
   {
-    "name": "YougLin-dev/Aha-Loop",
-    "clone_url": "https://github.com/YougLin-dev/Aha-Loop.git",
-    "stars": 148,
-    "size": 179
-  },
-  {
-    "name": "voocel/openclaw-mini",
-    "clone_url": "https://github.com/voocel/openclaw-mini.git",
-    "stars": 107,
-    "size": 82
-  },
-  {
-    "name": "sonpiaz/evox",
-    "clone_url": "https://github.com/sonpiaz/evox.git",
-    "stars": 72,
-    "size": 536
-  },
-  {
-    "name": "mirarr-app/network-checker",
-    "clone_url": "https://github.com/mirarr-app/network-checker.git",
+    "name": "SL0ANE/TheMoldsmalPlugin",
+    "clone_url": "https://github.com/SL0ANE/TheMoldsmalPlugin.git",
     "stars": 47,
-    "size": 485
+    "size": 293
+  },
+  {
+    "name": "HarderLemonade/ddwrap",
+    "clone_url": "https://github.com/HarderLemonade/ddwrap.git",
+    "stars": 39,
+    "size": 119
+  },
+  {
+    "name": "PsiACE/skills",
+    "clone_url": "https://github.com/PsiACE/skills.git",
+    "stars": 28,
+    "size": 732
+  },
+  {
+    "name": "TsingmaoAI/xw-cli",
+    "clone_url": "https://github.com/TsingmaoAI/xw-cli.git",
+    "stars": 25,
+    "size": 398
   }
 ]
