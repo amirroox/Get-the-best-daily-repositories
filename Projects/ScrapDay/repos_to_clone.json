@@ -1,32 +1,32 @@
 [
   {
-    "name": "sheeki03/tirith",
-    "clone_url": "https://github.com/sheeki03/tirith.git",
-    "stars": 404,
-    "size": 309
+    "name": "antirez/tgterm",
+    "clone_url": "https://github.com/antirez/tgterm.git",
+    "stars": 112,
+    "size": 2983
   },
   {
-    "name": "TsingmaoAI/xw-cli",
-    "clone_url": "https://github.com/TsingmaoAI/xw-cli.git",
-    "stars": 163,
-    "size": 1739
+    "name": "dev-protocol/polymarket-copy-bot",
+    "clone_url": "https://github.com/dev-protocol/polymarket-copy-bot.git",
+    "stars": 61,
+    "size": 346
   },
   {
-    "name": "elder-plinius/GLOSSOPETRAE",
-    "clone_url": "https://github.com/elder-plinius/GLOSSOPETRAE.git",
-    "stars": 88,
-    "size": 381
+    "name": "CodeXTF2/Cobaltstrike_BOFLoader",
+    "clone_url": "https://github.com/CodeXTF2/Cobaltstrike_BOFLoader.git",
+    "stars": 33,
+    "size": 97
   },
   {
-    "name": "bc-dunia/qwen3-TTS-studio",
-    "clone_url": "https://github.com/bc-dunia/qwen3-TTS-studio.git",
-    "stars": 75,
-    "size": 357
+    "name": "chatfire-AI/huobao-novel",
+    "clone_url": "https://github.com/chatfire-AI/huobao-novel.git",
+    "stars": 31,
+    "size": 390
   },
   {
-    "name": "SL0ANE/TheMoldsmalPlugin",
-    "clone_url": "https://github.com/SL0ANE/TheMoldsmalPlugin.git",
-    "stars": 66,
-    "size": 293
+    "name": "alskea/hytale2mc",
+    "clone_url": "https://github.com/alskea/hytale2mc.git",
+    "stars": 28,
+    "size": 188
   }
 ]
