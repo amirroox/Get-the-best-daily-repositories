@@ -1,32 +1,32 @@
 [
   {
-    "name": "BlockRunAI/ClawRouter",
-    "clone_url": "https://github.com/BlockRunAI/ClawRouter.git",
-    "stars": 140,
-    "size": 246
-  },
-  {
-    "name": "antirez/tgterm",
-    "clone_url": "https://github.com/antirez/tgterm.git",
-    "stars": 137,
-    "size": 2983
-  },
-  {
     "name": "SamNet-dev/paqctl",
     "clone_url": "https://github.com/SamNet-dev/paqctl.git",
-    "stars": 70,
-    "size": 226
+    "stars": 134,
+    "size": 116
+  },
+  {
+    "name": "starccy/doubaoime-asr",
+    "clone_url": "https://github.com/starccy/doubaoime-asr.git",
+    "stars": 82,
+    "size": 58
   },
   {
     "name": "Suren57668/movie-review",
     "clone_url": "https://github.com/Suren57668/movie-review.git",
-    "stars": 54,
+    "stars": 59,
     "size": 1726
   },
   {
-    "name": "BALAJI582/ML_Project",
-    "clone_url": "https://github.com/BALAJI582/ML_Project.git",
-    "stars": 46,
-    "size": 285
+    "name": "MOGANAKRISHNA-R/TrackingSkills",
+    "clone_url": "https://github.com/MOGANAKRISHNA-R/TrackingSkills.git",
+    "stars": 56,
+    "size": 96
+  },
+  {
+    "name": "Quorinex/Kiro-Go",
+    "clone_url": "https://github.com/Quorinex/Kiro-Go.git",
+    "stars": 47,
+    "size": 63
   }
 ]
