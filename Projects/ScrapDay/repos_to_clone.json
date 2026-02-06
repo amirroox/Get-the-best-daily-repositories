@@ -1,32 +1,32 @@
 [
   {
-    "name": "foru17/clash-master",
-    "clone_url": "https://github.com/foru17/clash-master.git",
-    "stars": 168,
-    "size": 4743
+    "name": "antirez/voxtral.c",
+    "clone_url": "https://github.com/antirez/voxtral.c.git",
+    "stars": 227,
+    "size": 2816
   },
   {
     "name": "ibelick/webclaw",
     "clone_url": "https://github.com/ibelick/webclaw.git",
-    "stars": 139,
+    "stars": 171,
     "size": 241
-  },
-  {
-    "name": "antirez/voxtral.c",
-    "clone_url": "https://github.com/antirez/voxtral.c.git",
-    "stars": 116,
-    "size": 2767
   },
   {
     "name": "jarodise/pdf2epub-paddle",
     "clone_url": "https://github.com/jarodise/pdf2epub-paddle.git",
-    "stars": 116,
-    "size": 143
+    "stars": 157,
+    "size": 144
+  },
+  {
+    "name": "mdp/linkedin-extension-fingerprinting",
+    "clone_url": "https://github.com/mdp/linkedin-extension-fingerprinting.git",
+    "stars": 93,
+    "size": 573
   },
   {
     "name": "vkazanov/elcity",
     "clone_url": "https://github.com/vkazanov/elcity.git",
-    "stars": 70,
+    "stars": 77,
     "size": 252
   }
 ]
