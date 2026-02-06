@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-03 .. 2026-02-05)
+# Latest Repositories (2026-02-04 .. 2026-02-06)
 
-- [SamNet-dev/paqctl](https://github.com/SamNet-dev/paqctl) (143)
-- [starccy/doubaoime-asr](https://github.com/starccy/doubaoime-asr) (122)
-- [Suren57668/movie-review](https://github.com/Suren57668/movie-review) (60)
-- [MOGANAKRISHNA-R/TrackingSkills](https://github.com/MOGANAKRISHNA-R/TrackingSkills) (59)
-- [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go) (54)
+- [foru17/clash-master](https://github.com/foru17/clash-master) (168)
+- [ibelick/webclaw](https://github.com/ibelick/webclaw) (139)
+- [antirez/voxtral.c](https://github.com/antirez/voxtral.c) (116)
+- [jarodise/pdf2epub-paddle](https://github.com/jarodise/pdf2epub-paddle) (116)
+- [vkazanov/elcity](https://github.com/vkazanov/elcity) (70)
