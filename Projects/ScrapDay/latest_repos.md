@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-04 .. 2026-02-06)
+# Latest Repositories (2026-02-05 .. 2026-02-07)
 
-- [antirez/voxtral.c](https://github.com/antirez/voxtral.c) (227)
-- [ibelick/webclaw](https://github.com/ibelick/webclaw) (171)
-- [jarodise/pdf2epub-paddle](https://github.com/jarodise/pdf2epub-paddle) (157)
-- [mdp/linkedin-extension-fingerprinting](https://github.com/mdp/linkedin-extension-fingerprinting) (93)
-- [vkazanov/elcity](https://github.com/vkazanov/elcity) (77)
+- [africa1207/AWS-BuildID-Auto-For-Ext](https://github.com/africa1207/AWS-BuildID-Auto-For-Ext) (65)
+- [hunter-shen-ai/deepagents_bot](https://github.com/hunter-shen-ai/deepagents_bot) (48)
+- [aaddrick/claude-pipeline](https://github.com/aaddrick/claude-pipeline) (31)
+- [ali-vilab/ProMoE](https://github.com/ali-vilab/ProMoE) (26)
+- [elitesniperbr/NeuroScope-AI-Desktop](https://github.com/elitesniperbr/NeuroScope-AI-Desktop) (25)
