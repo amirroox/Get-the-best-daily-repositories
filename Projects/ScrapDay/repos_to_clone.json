@@ -1,32 +1,32 @@
 [
   {
+    "name": "op7418/CodePilot",
+    "clone_url": "https://github.com/op7418/CodePilot.git",
+    "stars": 115,
+    "size": 3120
+  },
+  {
     "name": "africa1207/AWS-BuildID-Auto-For-Ext",
     "clone_url": "https://github.com/africa1207/AWS-BuildID-Auto-For-Ext.git",
-    "stars": 65,
+    "stars": 86,
     "size": 57
   },
   {
     "name": "hunter-shen-ai/deepagents_bot",
     "clone_url": "https://github.com/hunter-shen-ai/deepagents_bot.git",
-    "stars": 48,
-    "size": 136
+    "stars": 49,
+    "size": 198
+  },
+  {
+    "name": "mqudsi/monospace-ocr",
+    "clone_url": "https://github.com/mqudsi/monospace-ocr.git",
+    "stars": 45,
+    "size": 612
   },
   {
     "name": "aaddrick/claude-pipeline",
     "clone_url": "https://github.com/aaddrick/claude-pipeline.git",
-    "stars": 31,
+    "stars": 42,
     "size": 307
-  },
-  {
-    "name": "ali-vilab/ProMoE",
-    "clone_url": "https://github.com/ali-vilab/ProMoE.git",
-    "stars": 26,
-    "size": 68
-  },
-  {
-    "name": "elitesniperbr/NeuroScope-AI-Desktop",
-    "clone_url": "https://github.com/elitesniperbr/NeuroScope-AI-Desktop.git",
-    "stars": 25,
-    "size": 87
   }
 ]
