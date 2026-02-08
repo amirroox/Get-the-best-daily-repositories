@@ -2,31 +2,31 @@
   {
     "name": "The-Vibe-Company/claude-code-controller",
     "clone_url": "https://github.com/The-Vibe-Company/claude-code-controller.git",
-    "stars": 171,
-    "size": 337
+    "stars": 287,
+    "size": 374
+  },
+  {
+    "name": "jarodise/XQuery",
+    "clone_url": "https://github.com/jarodise/XQuery.git",
+    "stars": 105,
+    "size": 1364
   },
   {
     "name": "mqudsi/monospace-ocr",
     "clone_url": "https://github.com/mqudsi/monospace-ocr.git",
-    "stars": 81,
-    "size": 614
+    "stars": 90,
+    "size": 617
+  },
+  {
+    "name": "roblaughter/ace-step-studio",
+    "clone_url": "https://github.com/roblaughter/ace-step-studio.git",
+    "stars": 67,
+    "size": 1703
   },
   {
     "name": "louisho5/picobot",
     "clone_url": "https://github.com/louisho5/picobot.git",
     "stars": 62,
-    "size": 159
-  },
-  {
-    "name": "roblaughter/ace-step-studio",
-    "clone_url": "https://github.com/roblaughter/ace-step-studio.git",
-    "stars": 55,
-    "size": 1703
-  },
-  {
-    "name": "jarodise/XQuery",
-    "clone_url": "https://github.com/jarodise/XQuery.git",
-    "stars": 34,
-    "size": 1360
+    "size": 179
   }
 ]
