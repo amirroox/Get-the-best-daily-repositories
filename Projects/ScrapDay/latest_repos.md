@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-05 .. 2026-02-07)
+# Latest Repositories (2026-02-06 .. 2026-02-08)
 
-- [op7418/CodePilot](https://github.com/op7418/CodePilot) (115)
-- [africa1207/AWS-BuildID-Auto-For-Ext](https://github.com/africa1207/AWS-BuildID-Auto-For-Ext) (86)
-- [hunter-shen-ai/deepagents_bot](https://github.com/hunter-shen-ai/deepagents_bot) (49)
-- [mqudsi/monospace-ocr](https://github.com/mqudsi/monospace-ocr) (45)
-- [aaddrick/claude-pipeline](https://github.com/aaddrick/claude-pipeline) (42)
+- [The-Vibe-Company/claude-code-controller](https://github.com/The-Vibe-Company/claude-code-controller) (171)
+- [mqudsi/monospace-ocr](https://github.com/mqudsi/monospace-ocr) (81)
+- [louisho5/picobot](https://github.com/louisho5/picobot) (62)
+- [roblaughter/ace-step-studio](https://github.com/roblaughter/ace-step-studio) (55)
+- [jarodise/XQuery](https://github.com/jarodise/XQuery) (34)
