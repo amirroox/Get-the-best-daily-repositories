@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-06 .. 2026-02-08)
+# Latest Repositories (2026-02-07 .. 2026-02-09)
 
-- [The-Vibe-Company/claude-code-controller](https://github.com/The-Vibe-Company/claude-code-controller) (287)
-- [jarodise/XQuery](https://github.com/jarodise/XQuery) (105)
-- [mqudsi/monospace-ocr](https://github.com/mqudsi/monospace-ocr) (90)
-- [roblaughter/ace-step-studio](https://github.com/roblaughter/ace-step-studio) (67)
-- [louisho5/picobot](https://github.com/louisho5/picobot) (62)
+- [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) (297)
+- [shanselman/MaximizeToVirtualDesktop](https://github.com/shanselman/MaximizeToVirtualDesktop) (80)
+- [wbenny/scfw](https://github.com/wbenny/scfw) (52)
+- [K-YAMINI-28/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM](https://github.com/K-YAMINI-28/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM) (47)
+- [SulfurNitride/Fluorine-Manager](https://github.com/SulfurNitride/Fluorine-Manager) (39)
