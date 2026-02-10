@@ -2,31 +2,31 @@
   {
     "name": "jlia0/tinyclaw",
     "clone_url": "https://github.com/jlia0/tinyclaw.git",
-    "stars": 424,
-    "size": 124
+    "stars": 537,
+    "size": 153
   },
   {
     "name": "MemeCalculate/moyin-creator",
     "clone_url": "https://github.com/MemeCalculate/moyin-creator.git",
-    "stars": 211,
-    "size": 1224
+    "stars": 254,
+    "size": 1235
+  },
+  {
+    "name": "aeromomo/claw-compactor",
+    "clone_url": "https://github.com/aeromomo/claw-compactor.git",
+    "stars": 105,
+    "size": 1003
   },
   {
     "name": "lukilabs/beautiful-mermaid-swift",
     "clone_url": "https://github.com/lukilabs/beautiful-mermaid-swift.git",
-    "stars": 67,
+    "stars": 100,
     "size": 1507
   },
   {
     "name": "harrymunro/nelson",
     "clone_url": "https://github.com/harrymunro/nelson.git",
-    "stars": 55,
-    "size": 254
-  },
-  {
-    "name": "avinshe/agentseed",
-    "clone_url": "https://github.com/avinshe/agentseed.git",
-    "stars": 32,
-    "size": 73
+    "stars": 77,
+    "size": 288
   }
 ]
