@@ -1,32 +1,32 @@
 [
   {
-    "name": "rohunvora/x-research-skill",
-    "clone_url": "https://github.com/rohunvora/x-research-skill.git",
-    "stars": 418,
-    "size": 60
+    "name": "jlia0/tinyclaw",
+    "clone_url": "https://github.com/jlia0/tinyclaw.git",
+    "stars": 424,
+    "size": 124
   },
   {
-    "name": "shanselman/MaximizeToVirtualDesktop",
-    "clone_url": "https://github.com/shanselman/MaximizeToVirtualDesktop.git",
-    "stars": 100,
-    "size": 1240
+    "name": "MemeCalculate/moyin-creator",
+    "clone_url": "https://github.com/MemeCalculate/moyin-creator.git",
+    "stars": 211,
+    "size": 1224
   },
   {
-    "name": "wbenny/scfw",
-    "clone_url": "https://github.com/wbenny/scfw.git",
-    "stars": 71,
-    "size": 277
-  },
-  {
-    "name": "SulfurNitride/Fluorine-Manager",
-    "clone_url": "https://github.com/SulfurNitride/Fluorine-Manager.git",
+    "name": "lukilabs/beautiful-mermaid-swift",
+    "clone_url": "https://github.com/lukilabs/beautiful-mermaid-swift.git",
     "stars": 67,
-    "size": 2005
+    "size": 1507
   },
   {
-    "name": "warreth/GPhotosAlbum_To_Immich",
-    "clone_url": "https://github.com/warreth/GPhotosAlbum_To_Immich.git",
-    "stars": 57,
-    "size": 4554
+    "name": "harrymunro/nelson",
+    "clone_url": "https://github.com/harrymunro/nelson.git",
+    "stars": 55,
+    "size": 254
+  },
+  {
+    "name": "avinshe/agentseed",
+    "clone_url": "https://github.com/avinshe/agentseed.git",
+    "stars": 32,
+    "size": 73
   }
 ]
