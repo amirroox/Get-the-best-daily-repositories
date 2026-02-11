@@ -2,31 +2,31 @@
   {
     "name": "aeromomo/claw-compactor",
     "clone_url": "https://github.com/aeromomo/claw-compactor.git",
-    "stars": 228,
+    "stars": 285,
     "size": 1003
-  },
-  {
-    "name": "taf2/mdvi",
-    "clone_url": "https://github.com/taf2/mdvi.git",
-    "stars": 91,
-    "size": 121
   },
   {
     "name": "rebornix/Agmente",
     "clone_url": "https://github.com/rebornix/Agmente.git",
-    "stars": 80,
+    "stars": 264,
     "size": 2236
+  },
+  {
+    "name": "taf2/mdvi",
+    "clone_url": "https://github.com/taf2/mdvi.git",
+    "stars": 128,
+    "size": 121
   },
   {
     "name": "digitalknk/openclaw-runbook",
     "clone_url": "https://github.com/digitalknk/openclaw-runbook.git",
-    "stars": 61,
-    "size": 56
+    "stars": 101,
+    "size": 83
   },
   {
     "name": "xvhuan/xiaoi",
     "clone_url": "https://github.com/xvhuan/xiaoi.git",
-    "stars": 41,
+    "stars": 54,
     "size": 80
   }
 ]
