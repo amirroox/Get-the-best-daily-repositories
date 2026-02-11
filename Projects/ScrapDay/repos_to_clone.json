@@ -1,32 +1,32 @@
 [
   {
-    "name": "jlia0/tinyclaw",
-    "clone_url": "https://github.com/jlia0/tinyclaw.git",
-    "stars": 537,
-    "size": 153
-  },
-  {
-    "name": "MemeCalculate/moyin-creator",
-    "clone_url": "https://github.com/MemeCalculate/moyin-creator.git",
-    "stars": 254,
-    "size": 1235
-  },
-  {
     "name": "aeromomo/claw-compactor",
     "clone_url": "https://github.com/aeromomo/claw-compactor.git",
-    "stars": 105,
+    "stars": 228,
     "size": 1003
   },
   {
-    "name": "lukilabs/beautiful-mermaid-swift",
-    "clone_url": "https://github.com/lukilabs/beautiful-mermaid-swift.git",
-    "stars": 100,
-    "size": 1507
+    "name": "taf2/mdvi",
+    "clone_url": "https://github.com/taf2/mdvi.git",
+    "stars": 91,
+    "size": 121
   },
   {
-    "name": "harrymunro/nelson",
-    "clone_url": "https://github.com/harrymunro/nelson.git",
-    "stars": 77,
-    "size": 288
+    "name": "rebornix/Agmente",
+    "clone_url": "https://github.com/rebornix/Agmente.git",
+    "stars": 80,
+    "size": 2236
+  },
+  {
+    "name": "digitalknk/openclaw-runbook",
+    "clone_url": "https://github.com/digitalknk/openclaw-runbook.git",
+    "stars": 61,
+    "size": 56
+  },
+  {
+    "name": "xvhuan/xiaoi",
+    "clone_url": "https://github.com/xvhuan/xiaoi.git",
+    "stars": 41,
+    "size": 80
   }
 ]

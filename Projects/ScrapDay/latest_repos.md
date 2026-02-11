@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-08 .. 2026-02-10)
+# Latest Repositories (2026-02-09 .. 2026-02-11)
 
-- [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) (537)
-- [MemeCalculate/moyin-creator](https://github.com/MemeCalculate/moyin-creator) (254)
-- [aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor) (105)
-- [lukilabs/beautiful-mermaid-swift](https://github.com/lukilabs/beautiful-mermaid-swift) (100)
-- [harrymunro/nelson](https://github.com/harrymunro/nelson) (77)
+- [aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor) (228)
+- [taf2/mdvi](https://github.com/taf2/mdvi) (91)
+- [rebornix/Agmente](https://github.com/rebornix/Agmente) (80)
+- [digitalknk/openclaw-runbook](https://github.com/digitalknk/openclaw-runbook) (61)
+- [xvhuan/xiaoi](https://github.com/xvhuan/xiaoi) (41)
