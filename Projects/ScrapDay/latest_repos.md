@@ -1,7 +1,7 @@
 # Latest Repositories (2026-02-10 .. 2026-02-12)
 
-- [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) (310)
-- [RevylAI/greenlight](https://github.com/RevylAI/greenlight) (167)
-- [johunsang/vive-md](https://github.com/johunsang/vive-md) (60)
-- [andygmassey/telephone-and-conversation-transcriber](https://github.com/andygmassey/telephone-and-conversation-transcriber) (43)
-- [yuanxiaochenAC/MamiHealth.AI](https://github.com/yuanxiaochenAC/MamiHealth.AI) (41)
+- [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) (622)
+- [RevylAI/greenlight](https://github.com/RevylAI/greenlight) (327)
+- [zts212653/cat-cafe-tutorials](https://github.com/zts212653/cat-cafe-tutorials) (188)
+- [chu2bard/pinion-os](https://github.com/chu2bard/pinion-os) (100)
+- [XiaomiRobotics/Xiaomi-Robotics-0](https://github.com/XiaomiRobotics/Xiaomi-Robotics-0) (90)
