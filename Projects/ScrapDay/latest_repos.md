@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-09 .. 2026-02-11)
+# Latest Repositories (2026-02-10 .. 2026-02-12)
 
-- [aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor) (285)
-- [rebornix/Agmente](https://github.com/rebornix/Agmente) (264)
-- [taf2/mdvi](https://github.com/taf2/mdvi) (128)
-- [digitalknk/openclaw-runbook](https://github.com/digitalknk/openclaw-runbook) (101)
-- [xvhuan/xiaoi](https://github.com/xvhuan/xiaoi) (54)
+- [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) (310)
+- [RevylAI/greenlight](https://github.com/RevylAI/greenlight) (167)
+- [johunsang/vive-md](https://github.com/johunsang/vive-md) (60)
+- [andygmassey/telephone-and-conversation-transcriber](https://github.com/andygmassey/telephone-and-conversation-transcriber) (43)
+- [yuanxiaochenAC/MamiHealth.AI](https://github.com/yuanxiaochenAC/MamiHealth.AI) (41)
