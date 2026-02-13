@@ -2,31 +2,31 @@
   {
     "name": "devops-interviews/devops-interviews",
     "clone_url": "https://github.com/devops-interviews/devops-interviews.git",
-    "stars": 142,
+    "stars": 281,
     "size": 203
   },
   {
     "name": "freestylefly/openclaw-wechat",
     "clone_url": "https://github.com/freestylefly/openclaw-wechat.git",
-    "stars": 118,
+    "stars": 186,
     "size": 238
+  },
+  {
+    "name": "ochyai/open-japan-politech-platform",
+    "clone_url": "https://github.com/ochyai/open-japan-politech-platform.git",
+    "stars": 107,
+    "size": 4792
   },
   {
     "name": "requestsession/IndexGPT",
     "clone_url": "https://github.com/requestsession/IndexGPT.git",
-    "stars": 100,
+    "stars": 101,
     "size": 823
   },
   {
     "name": "calebwin/pgclaw",
     "clone_url": "https://github.com/calebwin/pgclaw.git",
-    "stars": 57,
+    "stars": 93,
     "size": 52
-  },
-  {
-    "name": "sofish/agemily",
-    "clone_url": "https://github.com/sofish/agemily.git",
-    "stars": 53,
-    "size": 4215
   }
 ]
