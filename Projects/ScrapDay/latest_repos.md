@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-11 .. 2026-02-13)
+# Latest Repositories (2026-02-12 .. 2026-02-14)
 
-- [devops-interviews/devops-interviews](https://github.com/devops-interviews/devops-interviews) (281)
-- [freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) (186)
-- [ochyai/open-japan-politech-platform](https://github.com/ochyai/open-japan-politech-platform) (107)
-- [requestsession/IndexGPT](https://github.com/requestsession/IndexGPT) (101)
-- [calebwin/pgclaw](https://github.com/calebwin/pgclaw) (93)
+- [HKUDS/FastCode](https://github.com/HKUDS/FastCode) (104)
+- [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5) (95)
+- [3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit) (72)
+- [SamuelQZQ/auto-coding-agent-demo](https://github.com/SamuelQZQ/auto-coding-agent-demo) (40)
+- [hoodini/whatsapp-public-logan](https://github.com/hoodini/whatsapp-public-logan) (29)
