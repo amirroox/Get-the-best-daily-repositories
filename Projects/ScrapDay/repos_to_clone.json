@@ -1,32 +1,32 @@
 [
   {
+    "name": "mickamy/sql-tap",
+    "clone_url": "https://github.com/mickamy/sql-tap.git",
+    "stars": 378,
+    "size": 2784
+  },
+  {
+    "name": "theonlyhennygod/zeroclaw",
+    "clone_url": "https://github.com/theonlyhennygod/zeroclaw.git",
+    "stars": 249,
+    "size": 2138
+  },
+  {
     "name": "HKUDS/FastCode",
     "clone_url": "https://github.com/HKUDS/FastCode.git",
-    "stars": 104,
+    "stars": 244,
     "size": 1126
   },
   {
     "name": "MiniMax-AI/MiniMax-M2.5",
     "clone_url": "https://github.com/MiniMax-AI/MiniMax-M2.5.git",
-    "stars": 95,
+    "stars": 151,
     "size": 2212
-  },
-  {
-    "name": "3stoneBrother/code-audit",
-    "clone_url": "https://github.com/3stoneBrother/code-audit.git",
-    "stars": 72,
-    "size": 1214
   },
   {
     "name": "SamuelQZQ/auto-coding-agent-demo",
     "clone_url": "https://github.com/SamuelQZQ/auto-coding-agent-demo.git",
-    "stars": 40,
+    "stars": 92,
     "size": 679
-  },
-  {
-    "name": "hoodini/whatsapp-public-logan",
-    "clone_url": "https://github.com/hoodini/whatsapp-public-logan.git",
-    "stars": 29,
-    "size": 4075
   }
 ]
