@@ -2,31 +2,31 @@
   {
     "name": "mickamy/sql-tap",
     "clone_url": "https://github.com/mickamy/sql-tap.git",
-    "stars": 590,
-    "size": 2787
+    "stars": 663,
+    "size": 2790
   },
   {
     "name": "vigorX777/ai-daily-digest",
     "clone_url": "https://github.com/vigorX777/ai-daily-digest.git",
-    "stars": 420,
+    "stars": 568,
     "size": 512
-  },
-  {
-    "name": "Infatoshi/x-cli",
-    "clone_url": "https://github.com/Infatoshi/x-cli.git",
-    "stars": 186,
-    "size": 53
   },
   {
     "name": "dev-protocol/polymarket-trading-tools-telegram-bot",
     "clone_url": "https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot.git",
-    "stars": 170,
+    "stars": 239,
     "size": 413
+  },
+  {
+    "name": "Infatoshi/x-cli",
+    "clone_url": "https://github.com/Infatoshi/x-cli.git",
+    "stars": 210,
+    "size": 53
   },
   {
     "name": "Infatoshi/metal-mc-terrain",
     "clone_url": "https://github.com/Infatoshi/metal-mc-terrain.git",
-    "stars": 100,
+    "stars": 134,
     "size": 169
   }
 ]
