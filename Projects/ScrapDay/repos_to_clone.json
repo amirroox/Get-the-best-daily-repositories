@@ -2,31 +2,31 @@
   {
     "name": "vercel-labs/portless",
     "clone_url": "https://github.com/vercel-labs/portless.git",
-    "stars": 160,
+    "stars": 350,
     "size": 137
+  },
+  {
+    "name": "AlexsJones/llmfit",
+    "clone_url": "https://github.com/AlexsJones/llmfit.git",
+    "stars": 138,
+    "size": 4178
   },
   {
     "name": "gpasquero/voog",
     "clone_url": "https://github.com/gpasquero/voog.git",
-    "stars": 73,
+    "stars": 104,
     "size": 2061
   },
   {
     "name": "iangithub/translate",
     "clone_url": "https://github.com/iangithub/translate.git",
-    "stars": 65,
+    "stars": 99,
     "size": 438
   },
   {
-    "name": "MrFadiAi/openclaw-one-click-installer",
-    "clone_url": "https://github.com/MrFadiAi/openclaw-one-click-installer.git",
-    "stars": 53,
-    "size": 3117
-  },
-  {
-    "name": "AlexsJones/llmfit",
-    "clone_url": "https://github.com/AlexsJones/llmfit.git",
-    "stars": 52,
-    "size": 3739
+    "name": "gxjansen/claude-code-meter",
+    "clone_url": "https://github.com/gxjansen/claude-code-meter.git",
+    "stars": 62,
+    "size": 240
   }
 ]
