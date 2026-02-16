@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-13 .. 2026-02-15)
+# Latest Repositories (2026-02-14 .. 2026-02-16)
 
-- [mickamy/sql-tap](https://github.com/mickamy/sql-tap) (663)
-- [vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) (568)
-- [dev-protocol/polymarket-trading-tools-telegram-bot](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot) (239)
-- [Infatoshi/x-cli](https://github.com/Infatoshi/x-cli) (210)
-- [Infatoshi/metal-mc-terrain](https://github.com/Infatoshi/metal-mc-terrain) (134)
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) (160)
+- [gpasquero/voog](https://github.com/gpasquero/voog) (73)
+- [iangithub/translate](https://github.com/iangithub/translate) (65)
+- [MrFadiAi/openclaw-one-click-installer](https://github.com/MrFadiAi/openclaw-one-click-installer) (53)
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) (52)

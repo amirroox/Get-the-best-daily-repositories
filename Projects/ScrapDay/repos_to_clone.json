@@ -1,32 +1,32 @@
 [
   {
-    "name": "mickamy/sql-tap",
-    "clone_url": "https://github.com/mickamy/sql-tap.git",
-    "stars": 663,
-    "size": 2790
+    "name": "vercel-labs/portless",
+    "clone_url": "https://github.com/vercel-labs/portless.git",
+    "stars": 160,
+    "size": 137
   },
   {
-    "name": "vigorX777/ai-daily-digest",
-    "clone_url": "https://github.com/vigorX777/ai-daily-digest.git",
-    "stars": 568,
-    "size": 512
+    "name": "gpasquero/voog",
+    "clone_url": "https://github.com/gpasquero/voog.git",
+    "stars": 73,
+    "size": 2061
   },
   {
-    "name": "dev-protocol/polymarket-trading-tools-telegram-bot",
-    "clone_url": "https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot.git",
-    "stars": 239,
-    "size": 413
+    "name": "iangithub/translate",
+    "clone_url": "https://github.com/iangithub/translate.git",
+    "stars": 65,
+    "size": 438
   },
   {
-    "name": "Infatoshi/x-cli",
-    "clone_url": "https://github.com/Infatoshi/x-cli.git",
-    "stars": 210,
-    "size": 53
+    "name": "MrFadiAi/openclaw-one-click-installer",
+    "clone_url": "https://github.com/MrFadiAi/openclaw-one-click-installer.git",
+    "stars": 53,
+    "size": 3117
   },
   {
-    "name": "Infatoshi/metal-mc-terrain",
-    "clone_url": "https://github.com/Infatoshi/metal-mc-terrain.git",
-    "stars": 134,
-    "size": 169
+    "name": "AlexsJones/llmfit",
+    "clone_url": "https://github.com/AlexsJones/llmfit.git",
+    "stars": 52,
+    "size": 3739
   }
 ]
