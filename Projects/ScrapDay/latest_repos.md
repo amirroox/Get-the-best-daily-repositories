@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-14 .. 2026-02-16)
+# Latest Repositories (2026-02-15 .. 2026-02-17)
 
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) (350)
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) (138)
-- [gpasquero/voog](https://github.com/gpasquero/voog) (104)
-- [iangithub/translate](https://github.com/iangithub/translate) (99)
-- [gxjansen/claude-code-meter](https://github.com/gxjansen/claude-code-meter) (62)
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) (175)
+- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) (85)
+- [Pouare514/Voxium](https://github.com/Pouare514/Voxium) (55)
+- [enjector/microgpt-c](https://github.com/enjector/microgpt-c) (41)
+- [javaevolved/javaevolved.github.io](https://github.com/javaevolved/javaevolved.github.io) (32)
