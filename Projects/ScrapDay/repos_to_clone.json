@@ -2,31 +2,31 @@
   {
     "name": "ShinMegamiBoson/OpenPlanter",
     "clone_url": "https://github.com/ShinMegamiBoson/OpenPlanter.git",
-    "stars": 547,
+    "stars": 676,
     "size": 195
+  },
+  {
+    "name": "vercel-labs/visual-json",
+    "clone_url": "https://github.com/vercel-labs/visual-json.git",
+    "stars": 133,
+    "size": 419
   },
   {
     "name": "nemocake/claude-obsidian-assistant",
     "clone_url": "https://github.com/nemocake/claude-obsidian-assistant.git",
-    "stars": 55,
+    "stars": 72,
     "size": 1047
-  },
-  {
-    "name": "Shubhamsaboo/gemini-artboard",
-    "clone_url": "https://github.com/Shubhamsaboo/gemini-artboard.git",
-    "stars": 50,
-    "size": 4146
   },
   {
     "name": "WistfulHopes/DBZ1",
     "clone_url": "https://github.com/WistfulHopes/DBZ1.git",
-    "stars": 46,
+    "stars": 56,
     "size": 66
   },
   {
-    "name": "mikker/Poof",
-    "clone_url": "https://github.com/mikker/Poof.git",
-    "stars": 27,
-    "size": 2291
+    "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "clone_url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot.git",
+    "stars": 53,
+    "size": 62
   }
 ]
