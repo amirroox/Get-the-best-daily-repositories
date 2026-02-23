@@ -2,8 +2,14 @@
   {
     "name": "Kirubel125/Kalshi-Claw",
     "clone_url": "https://github.com/Kirubel125/Kalshi-Claw.git",
-    "stars": 275,
+    "stars": 533,
     "size": 66
+  },
+  {
+    "name": "ochyai/vibe-local",
+    "clone_url": "https://github.com/ochyai/vibe-local.git",
+    "stars": 243,
+    "size": 1172
   },
   {
     "name": "innoqiu/newsieai",
@@ -12,21 +18,15 @@
     "size": 176
   },
   {
-    "name": "ochyai/vibe-local",
-    "clone_url": "https://github.com/ochyai/vibe-local.git",
-    "stars": 109,
-    "size": 779
-  },
-  {
     "name": "xiaotianfotos/skills",
     "clone_url": "https://github.com/xiaotianfotos/skills.git",
-    "stars": 100,
+    "stars": 135,
     "size": 64
   },
   {
-    "name": "0xAstroAlpha/Gia-Pha-Dien-Tu",
-    "clone_url": "https://github.com/0xAstroAlpha/Gia-Pha-Dien-Tu.git",
-    "stars": 60,
-    "size": 2161
+    "name": "avbiswas/fast-rlm",
+    "clone_url": "https://github.com/avbiswas/fast-rlm.git",
+    "stars": 72,
+    "size": 1439
   }
 ]
