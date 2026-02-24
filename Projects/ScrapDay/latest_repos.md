@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-21 .. 2026-02-23)
+# Latest Repositories (2026-02-22 .. 2026-02-24)
 
-- [Kirubel125/Kalshi-Claw](https://github.com/Kirubel125/Kalshi-Claw) (533)
-- [ochyai/vibe-local](https://github.com/ochyai/vibe-local) (243)
-- [innoqiu/newsieai](https://github.com/innoqiu/newsieai) (147)
-- [xiaotianfotos/skills](https://github.com/xiaotianfotos/skills) (135)
-- [avbiswas/fast-rlm](https://github.com/avbiswas/fast-rlm) (72)
+- [xM0kht4r/VEN0m-Ransomware](https://github.com/xM0kht4r/VEN0m-Ransomware) (150)
+- [kitlangton/tailcode](https://github.com/kitlangton/tailcode) (107)
+- [lifo-sh/lifo](https://github.com/lifo-sh/lifo) (99)
+- [direkturcrypto/polymarket-terminal](https://github.com/direkturcrypto/polymarket-terminal) (92)
+- [Dhravya/agent-captcha](https://github.com/Dhravya/agent-captcha) (37)
