@@ -1,32 +1,32 @@
 [
   {
+    "name": "lifo-sh/lifo",
+    "clone_url": "https://github.com/lifo-sh/lifo.git",
+    "stars": 181,
+    "size": 351
+  },
+  {
+    "name": "rebane2001/x86CSS",
+    "clone_url": "https://github.com/rebane2001/x86CSS.git",
+    "stars": 174,
+    "size": 297
+  },
+  {
     "name": "xM0kht4r/VEN0m-Ransomware",
     "clone_url": "https://github.com/xM0kht4r/VEN0m-Ransomware.git",
-    "stars": 150,
-    "size": 946
+    "stars": 165,
+    "size": 951
   },
   {
     "name": "kitlangton/tailcode",
     "clone_url": "https://github.com/kitlangton/tailcode.git",
-    "stars": 107,
+    "stars": 159,
     "size": 55
-  },
-  {
-    "name": "lifo-sh/lifo",
-    "clone_url": "https://github.com/lifo-sh/lifo.git",
-    "stars": 99,
-    "size": 280
   },
   {
     "name": "direkturcrypto/polymarket-terminal",
     "clone_url": "https://github.com/direkturcrypto/polymarket-terminal.git",
-    "stars": 92,
+    "stars": 141,
     "size": 76
-  },
-  {
-    "name": "Dhravya/agent-captcha",
-    "clone_url": "https://github.com/Dhravya/agent-captcha.git",
-    "stars": 37,
-    "size": 102
   }
 ]
