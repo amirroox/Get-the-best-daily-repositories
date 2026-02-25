@@ -2,31 +2,31 @@
   {
     "name": "Polymarket/polymarket-cli",
     "clone_url": "https://github.com/Polymarket/polymarket-cli.git",
-    "stars": 527,
+    "stars": 776,
     "size": 251
   },
   {
     "name": "Panniantong/Agent-Reach",
     "clone_url": "https://github.com/Panniantong/Agent-Reach.git",
-    "stars": 353,
-    "size": 477
+    "stars": 742,
+    "size": 599
+  },
+  {
+    "name": "peteromallet/dataclaw",
+    "clone_url": "https://github.com/peteromallet/dataclaw.git",
+    "stars": 555,
+    "size": 623
   },
   {
     "name": "rebane2001/x86CSS",
     "clone_url": "https://github.com/rebane2001/x86CSS.git",
-    "stars": 298,
+    "stars": 370,
     "size": 299
   },
   {
     "name": "win4r/memory-lancedb-pro",
     "clone_url": "https://github.com/win4r/memory-lancedb-pro.git",
-    "stars": 183,
-    "size": 130
-  },
-  {
-    "name": "jesselau76/cigen",
-    "clone_url": "https://github.com/jesselau76/cigen.git",
-    "stars": 129,
-    "size": 66
+    "stars": 293,
+    "size": 131
   }
 ]
