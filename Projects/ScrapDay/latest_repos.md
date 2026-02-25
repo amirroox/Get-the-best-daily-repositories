@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-22 .. 2026-02-24)
+# Latest Repositories (2026-02-23 .. 2026-02-25)
 
-- [lifo-sh/lifo](https://github.com/lifo-sh/lifo) (181)
-- [rebane2001/x86CSS](https://github.com/rebane2001/x86CSS) (174)
-- [xM0kht4r/VEN0m-Ransomware](https://github.com/xM0kht4r/VEN0m-Ransomware) (165)
-- [kitlangton/tailcode](https://github.com/kitlangton/tailcode) (159)
-- [direkturcrypto/polymarket-terminal](https://github.com/direkturcrypto/polymarket-terminal) (141)
+- [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) (527)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (353)
+- [rebane2001/x86CSS](https://github.com/rebane2001/x86CSS) (298)
+- [win4r/memory-lancedb-pro](https://github.com/win4r/memory-lancedb-pro) (183)
+- [jesselau76/cigen](https://github.com/jesselau76/cigen) (129)
