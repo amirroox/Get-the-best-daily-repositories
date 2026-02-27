@@ -2,31 +2,31 @@
   {
     "name": "6551Team/opennews-mcp",
     "clone_url": "https://github.com/6551Team/opennews-mcp.git",
-    "stars": 288,
+    "stars": 424,
     "size": 78
   },
   {
-    "name": "qlabs-eng/slowrun",
-    "clone_url": "https://github.com/qlabs-eng/slowrun.git",
-    "stars": 67,
-    "size": 1290
-  },
-  {
-    "name": "jina-ai/jina-grep-cli",
-    "clone_url": "https://github.com/jina-ai/jina-grep-cli.git",
-    "stars": 63,
-    "size": 254
+    "name": "xstongxue/best-prompts",
+    "clone_url": "https://github.com/xstongxue/best-prompts.git",
+    "stars": 176,
+    "size": 58
   },
   {
     "name": "bcurts/agentchattr",
     "clone_url": "https://github.com/bcurts/agentchattr.git",
-    "stars": 63,
-    "size": 839
+    "stars": 129,
+    "size": 847
   },
   {
-    "name": "lovisdotio/falsprite",
-    "clone_url": "https://github.com/lovisdotio/falsprite.git",
-    "stars": 42,
-    "size": 2216
+    "name": "charonviz/text2geo",
+    "clone_url": "https://github.com/charonviz/text2geo.git",
+    "stars": 122,
+    "size": 3727
+  },
+  {
+    "name": "jina-ai/jina-grep-cli",
+    "clone_url": "https://github.com/jina-ai/jina-grep-cli.git",
+    "stars": 89,
+    "size": 438
   }
 ]
