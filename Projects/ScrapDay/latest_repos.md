@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-24 .. 2026-02-26)
+# Latest Repositories (2026-02-25 .. 2026-02-27)
 
-- [3DCF-Labs/safepilot](https://github.com/3DCF-Labs/safepilot) (368)
-- [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) (340)
-- [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) (174)
-- [joeseesun/word-root-workshop](https://github.com/joeseesun/word-root-workshop) (132)
-- [joeseesun/knowledge-site-creator](https://github.com/joeseesun/knowledge-site-creator) (121)
+- [6551Team/opennews-mcp](https://github.com/6551Team/opennews-mcp) (288)
+- [qlabs-eng/slowrun](https://github.com/qlabs-eng/slowrun) (67)
+- [jina-ai/jina-grep-cli](https://github.com/jina-ai/jina-grep-cli) (63)
+- [bcurts/agentchattr](https://github.com/bcurts/agentchattr) (63)
+- [lovisdotio/falsprite](https://github.com/lovisdotio/falsprite) (42)

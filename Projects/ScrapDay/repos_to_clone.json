@@ -1,32 +1,32 @@
 [
   {
-    "name": "3DCF-Labs/safepilot",
-    "clone_url": "https://github.com/3DCF-Labs/safepilot.git",
-    "stars": 368,
-    "size": 261
+    "name": "6551Team/opennews-mcp",
+    "clone_url": "https://github.com/6551Team/opennews-mcp.git",
+    "stars": 288,
+    "size": 78
   },
   {
-    "name": "apple/python-apple-fm-sdk",
-    "clone_url": "https://github.com/apple/python-apple-fm-sdk.git",
-    "stars": 340,
-    "size": 2189
+    "name": "qlabs-eng/slowrun",
+    "clone_url": "https://github.com/qlabs-eng/slowrun.git",
+    "stars": 67,
+    "size": 1290
   },
   {
-    "name": "Emily2040/seedance-2.0",
-    "clone_url": "https://github.com/Emily2040/seedance-2.0.git",
-    "stars": 174,
-    "size": 244
+    "name": "jina-ai/jina-grep-cli",
+    "clone_url": "https://github.com/jina-ai/jina-grep-cli.git",
+    "stars": 63,
+    "size": 254
   },
   {
-    "name": "joeseesun/word-root-workshop",
-    "clone_url": "https://github.com/joeseesun/word-root-workshop.git",
-    "stars": 132,
-    "size": 533
+    "name": "bcurts/agentchattr",
+    "clone_url": "https://github.com/bcurts/agentchattr.git",
+    "stars": 63,
+    "size": 839
   },
   {
-    "name": "joeseesun/knowledge-site-creator",
-    "clone_url": "https://github.com/joeseesun/knowledge-site-creator.git",
-    "stars": 121,
-    "size": 104
+    "name": "lovisdotio/falsprite",
+    "clone_url": "https://github.com/lovisdotio/falsprite.git",
+    "stars": 42,
+    "size": 2216
   }
 ]
