@@ -2,31 +2,31 @@
   {
     "name": "xstongxue/best-prompts",
     "clone_url": "https://github.com/xstongxue/best-prompts.git",
-    "stars": 359,
+    "stars": 461,
     "size": 58
   },
   {
     "name": "arturoabreuhd/pinescript-ai",
     "clone_url": "https://github.com/arturoabreuhd/pinescript-ai.git",
-    "stars": 233,
+    "stars": 294,
     "size": 1080
+  },
+  {
+    "name": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+    "clone_url": "https://github.com/Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool.git",
+    "stars": 258,
+    "size": 72
   },
   {
     "name": "theforeveriris/simulated-12306-view",
     "clone_url": "https://github.com/theforeveriris/simulated-12306-view.git",
-    "stars": 120,
-    "size": 937
+    "stars": 171,
+    "size": 946
   },
   {
-    "name": "poteto/brainmaxxing",
-    "clone_url": "https://github.com/poteto/brainmaxxing.git",
-    "stars": 103,
-    "size": 126
-  },
-  {
-    "name": "rust-multiplatform/rmp",
-    "clone_url": "https://github.com/rust-multiplatform/rmp.git",
-    "stars": 71,
-    "size": 213
+    "name": "adysec/CForum",
+    "clone_url": "https://github.com/adysec/CForum.git",
+    "stars": 127,
+    "size": 479
   }
 ]
