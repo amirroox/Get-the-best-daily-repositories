@@ -1,32 +1,32 @@
 [
   {
-    "name": "6551Team/opennews-mcp",
-    "clone_url": "https://github.com/6551Team/opennews-mcp.git",
-    "stars": 424,
-    "size": 78
-  },
-  {
     "name": "xstongxue/best-prompts",
     "clone_url": "https://github.com/xstongxue/best-prompts.git",
-    "stars": 176,
+    "stars": 359,
     "size": 58
   },
   {
-    "name": "bcurts/agentchattr",
-    "clone_url": "https://github.com/bcurts/agentchattr.git",
-    "stars": 129,
-    "size": 847
+    "name": "arturoabreuhd/pinescript-ai",
+    "clone_url": "https://github.com/arturoabreuhd/pinescript-ai.git",
+    "stars": 233,
+    "size": 1080
   },
   {
-    "name": "charonviz/text2geo",
-    "clone_url": "https://github.com/charonviz/text2geo.git",
-    "stars": 122,
-    "size": 3727
+    "name": "theforeveriris/simulated-12306-view",
+    "clone_url": "https://github.com/theforeveriris/simulated-12306-view.git",
+    "stars": 120,
+    "size": 937
   },
   {
-    "name": "jina-ai/jina-grep-cli",
-    "clone_url": "https://github.com/jina-ai/jina-grep-cli.git",
-    "stars": 89,
-    "size": 438
+    "name": "poteto/brainmaxxing",
+    "clone_url": "https://github.com/poteto/brainmaxxing.git",
+    "stars": 103,
+    "size": 126
+  },
+  {
+    "name": "rust-multiplatform/rmp",
+    "clone_url": "https://github.com/rust-multiplatform/rmp.git",
+    "stars": 71,
+    "size": 213
   }
 ]
