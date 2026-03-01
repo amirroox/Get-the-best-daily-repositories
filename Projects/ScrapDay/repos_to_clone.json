@@ -2,14 +2,20 @@
   {
     "name": "star23/Day1Global-Skills",
     "clone_url": "https://github.com/star23/Day1Global-Skills.git",
-    "stars": 148,
-    "size": 106
+    "stars": 243,
+    "size": 1995
   },
   {
     "name": "34306/vphone-aio",
     "clone_url": "https://github.com/34306/vphone-aio.git",
-    "stars": 139,
+    "stars": 205,
     "size": 2745
+  },
+  {
+    "name": "geekjourneyx/jina-cli",
+    "clone_url": "https://github.com/geekjourneyx/jina-cli.git",
+    "stars": 129,
+    "size": 76
   },
   {
     "name": "adysec/CForum",
@@ -18,15 +24,9 @@
     "size": 479
   },
   {
-    "name": "junyuw2289-svg/voicepaste",
-    "clone_url": "https://github.com/junyuw2289-svg/voicepaste.git",
-    "stars": 75,
-    "size": 960
-  },
-  {
-    "name": "geekjourneyx/jina-cli",
-    "clone_url": "https://github.com/geekjourneyx/jina-cli.git",
-    "stars": 70,
-    "size": 76
+    "name": "bleuropa/loom",
+    "clone_url": "https://github.com/bleuropa/loom.git",
+    "stars": 91,
+    "size": 1946
   }
 ]
