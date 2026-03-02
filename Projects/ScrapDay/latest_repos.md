@@ -1,7 +1,7 @@
-# Latest Repositories (2026-02-27 .. 2026-03-01)
+# Latest Repositories (2026-02-28 .. 2026-03-02)
 
-- [star23/Day1Global-Skills](https://github.com/star23/Day1Global-Skills) (243)
-- [34306/vphone-aio](https://github.com/34306/vphone-aio) (205)
-- [geekjourneyx/jina-cli](https://github.com/geekjourneyx/jina-cli) (129)
-- [adysec/CForum](https://github.com/adysec/CForum) (127)
-- [bleuropa/loom](https://github.com/bleuropa/loom) (91)
+- [traderwillhu/market_dashboard](https://github.com/traderwillhu/market_dashboard) (86)
+- [ahmadawais/terminui](https://github.com/ahmadawais/terminui) (65)
+- [ahmed-ashraf-dv/egydata](https://github.com/ahmed-ashraf-dv/egydata) (55)
+- [Harih7/5-stage-pipelined-MIPS-RISC-V-like-processor](https://github.com/Harih7/5-stage-pipelined-MIPS-RISC-V-like-processor) (50)
+- [dawa4real/Dawa-Nuke](https://github.com/dawa4real/Dawa-Nuke) (37)
