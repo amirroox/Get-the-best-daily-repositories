@@ -1,32 +1,32 @@
 [
   {
-    "name": "LeoYeAI/openclaw-master-skills",
-    "clone_url": "https://github.com/LeoYeAI/openclaw-master-skills.git",
-    "stars": 460,
-    "size": 1811
-  },
-  {
     "name": "slowmist/openclaw-security-practice-guide",
     "clone_url": "https://github.com/slowmist/openclaw-security-practice-guide.git",
-    "stars": 347,
-    "size": 51
+    "stars": 548,
+    "size": 62
   },
   {
-    "name": "TriangleMagistrate/DeepSeek-Claw",
-    "clone_url": "https://github.com/TriangleMagistrate/DeepSeek-Claw.git",
-    "stars": 179,
-    "size": 53
+    "name": "LeoYeAI/openclaw-master-skills",
+    "clone_url": "https://github.com/LeoYeAI/openclaw-master-skills.git",
+    "stars": 510,
+    "size": 1811
   },
   {
     "name": "dev-protocol/polymarket-bot",
     "clone_url": "https://github.com/dev-protocol/polymarket-bot.git",
-    "stars": 148,
+    "stars": 255,
     "size": 346
   },
   {
     "name": "i1kazantsev/claude-code-spinner",
     "clone_url": "https://github.com/i1kazantsev/claude-code-spinner.git",
-    "stars": 128,
-    "size": 744
+    "stars": 187,
+    "size": 748
+  },
+  {
+    "name": "TriangleMagistrate/lovable-openclaw",
+    "clone_url": "https://github.com/TriangleMagistrate/lovable-openclaw.git",
+    "stars": 181,
+    "size": 86
   }
 ]
