@@ -1,32 +1,32 @@
 [
   {
+    "name": "duoan/TorchCode",
+    "clone_url": "https://github.com/duoan/TorchCode.git",
+    "stars": 256,
+    "size": 54
+  },
+  {
     "name": "heri1845/Polymarket-trading-tool",
     "clone_url": "https://github.com/heri1845/Polymarket-trading-tool.git",
-    "stars": 156,
+    "stars": 163,
     "size": 112
+  },
+  {
+    "name": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "clone_url": "https://github.com/Gentleatvice/seed-phrase-recover-BTC-ETH.git",
+    "stars": 135,
+    "size": 100
+  },
+  {
+    "name": "Heartflabrace/Doubao-Claw",
+    "clone_url": "https://github.com/Heartflabrace/Doubao-Claw.git",
+    "stars": 111,
+    "size": 84
   },
   {
     "name": "johnmai-dev/ANE-LM",
     "clone_url": "https://github.com/johnmai-dev/ANE-LM.git",
-    "stars": 53,
-    "size": 148
-  },
-  {
-    "name": "marketingjuliancongdanh79-pixel/skill-generator",
-    "clone_url": "https://github.com/marketingjuliancongdanh79-pixel/skill-generator.git",
-    "stars": 47,
-    "size": 166
-  },
-  {
-    "name": "mrphrazer/binary-ninja-headless-mcp",
-    "clone_url": "https://github.com/mrphrazer/binary-ninja-headless-mcp.git",
-    "stars": 36,
-    "size": 174
-  },
-  {
-    "name": "ty3vstar/torzon-marketplace",
-    "clone_url": "https://github.com/ty3vstar/torzon-marketplace.git",
-    "stars": 32,
-    "size": 63
+    "stars": 92,
+    "size": 163
   }
 ]
