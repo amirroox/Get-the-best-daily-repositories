@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-02 .. 2026-03-04)
+# Latest Repositories (2026-03-03 .. 2026-03-05)
 
-- [duoan/TorchCode](https://github.com/duoan/TorchCode) (256)
-- [heri1845/Polymarket-trading-tool](https://github.com/heri1845/Polymarket-trading-tool) (163)
-- [Gentleatvice/seed-phrase-recover-BTC-ETH](https://github.com/Gentleatvice/seed-phrase-recover-BTC-ETH) (135)
-- [Heartflabrace/Doubao-Claw](https://github.com/Heartflabrace/Doubao-Claw) (111)
-- [johnmai-dev/ANE-LM](https://github.com/johnmai-dev/ANE-LM) (92)
+- [duoan/TorchCode](https://github.com/duoan/TorchCode) (379)
+- [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) (212)
+- [jackwener/bilibili-cli](https://github.com/jackwener/bilibili-cli) (156)
+- [dev-protocol/polymarket-trading-bot-new](https://github.com/dev-protocol/polymarket-trading-bot-new) (155)
+- [Heartflabrace/Doubao-Claw](https://github.com/Heartflabrace/Doubao-Claw) (136)

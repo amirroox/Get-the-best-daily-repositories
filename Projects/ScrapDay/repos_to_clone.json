@@ -2,31 +2,31 @@
   {
     "name": "duoan/TorchCode",
     "clone_url": "https://github.com/duoan/TorchCode.git",
-    "stars": 256,
+    "stars": 379,
     "size": 54
   },
   {
-    "name": "heri1845/Polymarket-trading-tool",
-    "clone_url": "https://github.com/heri1845/Polymarket-trading-tool.git",
-    "stars": 163,
-    "size": 112
+    "name": "tanishqkumar/ssd",
+    "clone_url": "https://github.com/tanishqkumar/ssd.git",
+    "stars": 212,
+    "size": 344
   },
   {
-    "name": "Gentleatvice/seed-phrase-recover-BTC-ETH",
-    "clone_url": "https://github.com/Gentleatvice/seed-phrase-recover-BTC-ETH.git",
-    "stars": 135,
-    "size": 100
+    "name": "jackwener/bilibili-cli",
+    "clone_url": "https://github.com/jackwener/bilibili-cli.git",
+    "stars": 156,
+    "size": 679
+  },
+  {
+    "name": "dev-protocol/polymarket-trading-bot-new",
+    "clone_url": "https://github.com/dev-protocol/polymarket-trading-bot-new.git",
+    "stars": 155,
+    "size": 3690
   },
   {
     "name": "Heartflabrace/Doubao-Claw",
     "clone_url": "https://github.com/Heartflabrace/Doubao-Claw.git",
-    "stars": 111,
-    "size": 84
-  },
-  {
-    "name": "johnmai-dev/ANE-LM",
-    "clone_url": "https://github.com/johnmai-dev/ANE-LM.git",
-    "stars": 92,
-    "size": 163
+    "stars": 136,
+    "size": 115
   }
 ]
