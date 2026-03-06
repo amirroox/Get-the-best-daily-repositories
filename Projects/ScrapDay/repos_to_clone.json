@@ -2,31 +2,31 @@
   {
     "name": "xstongxue/best-skills",
     "clone_url": "https://github.com/xstongxue/best-skills.git",
-    "stars": 252,
-    "size": 111
+    "stars": 344,
+    "size": 700
+  },
+  {
+    "name": "TinyAGI/fractals",
+    "clone_url": "https://github.com/TinyAGI/fractals.git",
+    "stars": 289,
+    "size": 778
   },
   {
     "name": "op7418/Claude-to-IM-skill",
     "clone_url": "https://github.com/op7418/Claude-to-IM-skill.git",
-    "stars": 184,
-    "size": 160
+    "stars": 275,
+    "size": 230
   },
   {
     "name": "Thearas/wechat-db-decrypt-macos",
     "clone_url": "https://github.com/Thearas/wechat-db-decrypt-macos.git",
-    "stars": 134,
+    "stars": 235,
     "size": 2315
   },
   {
     "name": "heri1845/ai-meme-trading-bot",
     "clone_url": "https://github.com/heri1845/ai-meme-trading-bot.git",
-    "stars": 113,
+    "stars": 141,
     "size": 100
-  },
-  {
-    "name": "TinyAGI/fractals",
-    "clone_url": "https://github.com/TinyAGI/fractals.git",
-    "stars": 104,
-    "size": 777
   }
 ]
