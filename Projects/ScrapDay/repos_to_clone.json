@@ -1,32 +1,32 @@
 [
   {
-    "name": "duoan/TorchCode",
-    "clone_url": "https://github.com/duoan/TorchCode.git",
-    "stars": 482,
-    "size": 169
-  },
-  {
-    "name": "tanishqkumar/ssd",
-    "clone_url": "https://github.com/tanishqkumar/ssd.git",
-    "stars": 374,
-    "size": 344
-  },
-  {
-    "name": "jackwener/bilibili-cli",
-    "clone_url": "https://github.com/jackwener/bilibili-cli.git",
-    "stars": 233,
-    "size": 1003
-  },
-  {
-    "name": "dev-protocol/polymarket-trading-bot-new",
-    "clone_url": "https://github.com/dev-protocol/polymarket-trading-bot-new.git",
-    "stars": 199,
-    "size": 3690
-  },
-  {
     "name": "xstongxue/best-skills",
     "clone_url": "https://github.com/xstongxue/best-skills.git",
-    "stars": 173,
+    "stars": 252,
     "size": 111
+  },
+  {
+    "name": "op7418/Claude-to-IM-skill",
+    "clone_url": "https://github.com/op7418/Claude-to-IM-skill.git",
+    "stars": 184,
+    "size": 160
+  },
+  {
+    "name": "Thearas/wechat-db-decrypt-macos",
+    "clone_url": "https://github.com/Thearas/wechat-db-decrypt-macos.git",
+    "stars": 134,
+    "size": 2315
+  },
+  {
+    "name": "heri1845/ai-meme-trading-bot",
+    "clone_url": "https://github.com/heri1845/ai-meme-trading-bot.git",
+    "stars": 113,
+    "size": 100
+  },
+  {
+    "name": "TinyAGI/fractals",
+    "clone_url": "https://github.com/TinyAGI/fractals.git",
+    "stars": 104,
+    "size": 777
   }
 ]
