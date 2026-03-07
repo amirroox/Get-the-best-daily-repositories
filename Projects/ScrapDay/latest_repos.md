@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-04 .. 2026-03-06)
+# Latest Repositories (2026-03-05 .. 2026-03-07)
 
-- [xstongxue/best-skills](https://github.com/xstongxue/best-skills) (344)
-- [TinyAGI/fractals](https://github.com/TinyAGI/fractals) (289)
-- [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) (275)
-- [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) (235)
-- [heri1845/ai-meme-trading-bot](https://github.com/heri1845/ai-meme-trading-bot) (141)
+- [cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy) (336)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) (140)
+- [dazzyddos/PrivHound](https://github.com/dazzyddos/PrivHound) (120)
+- [QJHWC/PaperForge](https://github.com/QJHWC/PaperForge) (61)
+- [joeseesun/yt-search-download](https://github.com/joeseesun/yt-search-download) (39)
