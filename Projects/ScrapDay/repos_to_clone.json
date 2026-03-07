@@ -2,31 +2,31 @@
   {
     "name": "cyxzdev/Uncodixfy",
     "clone_url": "https://github.com/cyxzdev/Uncodixfy.git",
-    "stars": 336,
+    "stars": 638,
     "size": 2654
   },
   {
     "name": "karpathy/autoresearch",
     "clone_url": "https://github.com/karpathy/autoresearch.git",
-    "stars": 140,
-    "size": 169
+    "stars": 485,
+    "size": 171
   },
   {
     "name": "dazzyddos/PrivHound",
     "clone_url": "https://github.com/dazzyddos/PrivHound.git",
-    "stars": 120,
+    "stars": 163,
     "size": 1158
   },
   {
-    "name": "QJHWC/PaperForge",
-    "clone_url": "https://github.com/QJHWC/PaperForge.git",
-    "stars": 61,
-    "size": 2606
+    "name": "Guid-Lab/kdecrypt",
+    "clone_url": "https://github.com/Guid-Lab/kdecrypt.git",
+    "stars": 114,
+    "size": 102
   },
   {
-    "name": "joeseesun/yt-search-download",
-    "clone_url": "https://github.com/joeseesun/yt-search-download.git",
-    "stars": 39,
-    "size": 58
+    "name": "OasAIStudio/symphony-ts",
+    "clone_url": "https://github.com/OasAIStudio/symphony-ts.git",
+    "stars": 99,
+    "size": 1807
   }
 ]
