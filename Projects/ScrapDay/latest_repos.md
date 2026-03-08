@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-05 .. 2026-03-07)
+# Latest Repositories (2026-03-06 .. 2026-03-08)
 
-- [cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy) (638)
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) (485)
-- [dazzyddos/PrivHound](https://github.com/dazzyddos/PrivHound) (163)
-- [Guid-Lab/kdecrypt](https://github.com/Guid-Lab/kdecrypt) (114)
-- [OasAIStudio/symphony-ts](https://github.com/OasAIStudio/symphony-ts) (99)
+- [steipete/discrawl](https://github.com/steipete/discrawl) (203)
+- [helenigtxu/blooket](https://github.com/helenigtxu/blooket) (145)
+- [lardissone/ansi-saver](https://github.com/lardissone/ansi-saver) (105)
+- [deborahikssv/Antigravity-claw](https://github.com/deborahikssv/Antigravity-claw) (104)
+- [tarac62ov-91/torzon-link-onion](https://github.com/tarac62ov-91/torzon-link-onion) (81)
