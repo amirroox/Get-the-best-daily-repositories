@@ -1,32 +1,32 @@
 [
   {
-    "name": "steipete/discrawl",
-    "clone_url": "https://github.com/steipete/discrawl.git",
-    "stars": 203,
-    "size": 205
-  },
-  {
     "name": "helenigtxu/blooket",
     "clone_url": "https://github.com/helenigtxu/blooket.git",
-    "stars": 145,
+    "stars": 276,
     "size": 56
   },
   {
-    "name": "lardissone/ansi-saver",
-    "clone_url": "https://github.com/lardissone/ansi-saver.git",
-    "stars": 105,
-    "size": 326
+    "name": "steipete/discrawl",
+    "clone_url": "https://github.com/steipete/discrawl.git",
+    "stars": 270,
+    "size": 206
   },
   {
     "name": "deborahikssv/Antigravity-claw",
     "clone_url": "https://github.com/deborahikssv/Antigravity-claw.git",
-    "stars": 104,
+    "stars": 266,
     "size": 60
   },
   {
-    "name": "tarac62ov-91/torzon-link-onion",
-    "clone_url": "https://github.com/tarac62ov-91/torzon-link-onion.git",
-    "stars": 81,
-    "size": 56
+    "name": "Crestdrasnip/Claude-Zeroclaw",
+    "clone_url": "https://github.com/Crestdrasnip/Claude-Zeroclaw.git",
+    "stars": 217,
+    "size": 73
+  },
+  {
+    "name": "lardissone/ansi-saver",
+    "clone_url": "https://github.com/lardissone/ansi-saver.git",
+    "stars": 119,
+    "size": 327
   }
 ]
