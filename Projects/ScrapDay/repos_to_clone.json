@@ -2,31 +2,31 @@
   {
     "name": "trevin-creator/autoresearch-mlx",
     "clone_url": "https://github.com/trevin-creator/autoresearch-mlx.git",
-    "stars": 188,
+    "stars": 310,
     "size": 58
-  },
-  {
-    "name": "OpusDelta/opusdelta",
-    "clone_url": "https://github.com/OpusDelta/opusdelta.git",
-    "stars": 179,
-    "size": 52
-  },
-  {
-    "name": "ammaarreshi/SkyRoads-Codex",
-    "clone_url": "https://github.com/ammaarreshi/SkyRoads-Codex.git",
-    "stars": 123,
-    "size": 692
   },
   {
     "name": "uluckyXH/OpenMOSS",
     "clone_url": "https://github.com/uluckyXH/OpenMOSS.git",
-    "stars": 116,
-    "size": 402
+    "stars": 174,
+    "size": 895
   },
   {
-    "name": "mli55/pdfdelta",
-    "clone_url": "https://github.com/mli55/pdfdelta.git",
-    "stars": 98,
-    "size": 1942
+    "name": "OpusDelta/opusdelta",
+    "clone_url": "https://github.com/OpusDelta/opusdelta.git",
+    "stars": 173,
+    "size": 53
+  },
+  {
+    "name": "tanweai/pua",
+    "clone_url": "https://github.com/tanweai/pua.git",
+    "stars": 166,
+    "size": 154
+  },
+  {
+    "name": "ammaarreshi/SkyRoads-Codex",
+    "clone_url": "https://github.com/ammaarreshi/SkyRoads-Codex.git",
+    "stars": 137,
+    "size": 692
   }
 ]
