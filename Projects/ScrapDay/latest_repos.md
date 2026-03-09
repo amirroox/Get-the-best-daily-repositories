@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-06 .. 2026-03-08)
+# Latest Repositories (2026-03-07 .. 2026-03-09)
 
-- [helenigtxu/blooket](https://github.com/helenigtxu/blooket) (276)
-- [steipete/discrawl](https://github.com/steipete/discrawl) (270)
-- [deborahikssv/Antigravity-claw](https://github.com/deborahikssv/Antigravity-claw) (266)
-- [Crestdrasnip/Claude-Zeroclaw](https://github.com/Crestdrasnip/Claude-Zeroclaw) (217)
-- [lardissone/ansi-saver](https://github.com/lardissone/ansi-saver) (119)
+- [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) (188)
+- [OpusDelta/opusdelta](https://github.com/OpusDelta/opusdelta) (179)
+- [ammaarreshi/SkyRoads-Codex](https://github.com/ammaarreshi/SkyRoads-Codex) (123)
+- [uluckyXH/OpenMOSS](https://github.com/uluckyXH/OpenMOSS) (116)
+- [mli55/pdfdelta](https://github.com/mli55/pdfdelta) (98)
