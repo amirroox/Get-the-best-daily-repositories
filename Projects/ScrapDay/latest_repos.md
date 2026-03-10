@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-07 .. 2026-03-09)
+# Latest Repositories (2026-03-08 .. 2026-03-10)
 
-- [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) (310)
-- [uluckyXH/OpenMOSS](https://github.com/uluckyXH/OpenMOSS) (174)
-- [OpusDelta/opusdelta](https://github.com/OpusDelta/opusdelta) (173)
-- [tanweai/pua](https://github.com/tanweai/pua) (166)
-- [ammaarreshi/SkyRoads-Codex](https://github.com/ammaarreshi/SkyRoads-Codex) (137)
+- [HenryXiaoYang/wechat-access-unqclawed](https://github.com/HenryXiaoYang/wechat-access-unqclawed) (130)
+- [get-Lucid/Lucid](https://github.com/get-Lucid/Lucid) (101)
+- [EthanLipnik/Loom](https://github.com/EthanLipnik/Loom) (89)
+- [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) (87)
+- [shenhao-stu/ohmycaptcha](https://github.com/shenhao-stu/ohmycaptcha) (84)
