@@ -1,7 +1,7 @@
 # Latest Repositories (2026-03-09 .. 2026-03-11)
 
-- [snoglobe/helios](https://github.com/snoglobe/helios) (111)
-- [infraform/polymarket-kalshi-arbitrage-bot](https://github.com/infraform/polymarket-kalshi-arbitrage-bot) (96)
-- [zhukunpenglinyutong/mossc](https://github.com/zhukunpenglinyutong/mossc) (85)
-- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) (67)
-- [sysprog21/zhtw-mcp](https://github.com/sysprog21/zhtw-mcp) (66)
+- [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) (252)
+- [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) (201)
+- [michelleoincx/Bunkr-Downloader-Python](https://github.com/michelleoincx/Bunkr-Downloader-Python) (158)
+- [snoglobe/helios](https://github.com/snoglobe/helios) (146)
+- [luckyyyyy/specc.sh](https://github.com/luckyyyyy/specc.sh) (123)

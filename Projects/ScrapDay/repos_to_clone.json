@@ -1,32 +1,32 @@
 [
   {
+    "name": "gsd-build/gsd-2",
+    "clone_url": "https://github.com/gsd-build/gsd-2.git",
+    "stars": 252,
+    "size": 842
+  },
+  {
+    "name": "RightNow-AI/autokernel",
+    "clone_url": "https://github.com/RightNow-AI/autokernel.git",
+    "stars": 201,
+    "size": 811
+  },
+  {
+    "name": "michelleoincx/Bunkr-Downloader-Python",
+    "clone_url": "https://github.com/michelleoincx/Bunkr-Downloader-Python.git",
+    "stars": 158,
+    "size": 63
+  },
+  {
     "name": "snoglobe/helios",
     "clone_url": "https://github.com/snoglobe/helios.git",
-    "stars": 111,
-    "size": 838
+    "stars": 146,
+    "size": 921
   },
   {
-    "name": "infraform/polymarket-kalshi-arbitrage-bot",
-    "clone_url": "https://github.com/infraform/polymarket-kalshi-arbitrage-bot.git",
-    "stars": 96,
-    "size": 1038
-  },
-  {
-    "name": "zhukunpenglinyutong/mossc",
-    "clone_url": "https://github.com/zhukunpenglinyutong/mossc.git",
-    "stars": 85,
-    "size": 2992
-  },
-  {
-    "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
-    "clone_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep.git",
-    "stars": 67,
-    "size": 97
-  },
-  {
-    "name": "sysprog21/zhtw-mcp",
-    "clone_url": "https://github.com/sysprog21/zhtw-mcp.git",
-    "stars": 66,
-    "size": 280
+    "name": "luckyyyyy/specc.sh",
+    "clone_url": "https://github.com/luckyyyyy/specc.sh.git",
+    "stars": 123,
+    "size": 248
   }
 ]
