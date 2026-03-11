@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-08 .. 2026-03-10)
+# Latest Repositories (2026-03-09 .. 2026-03-11)
 
-- [HenryXiaoYang/wechat-access-unqclawed](https://github.com/HenryXiaoYang/wechat-access-unqclawed) (302)
-- [jzOcb/xhs-note-health-checker](https://github.com/jzOcb/xhs-note-health-checker) (209)
-- [Rohit24567/HyperLiquid-Claw](https://github.com/Rohit24567/HyperLiquid-Claw) (186)
-- [EthanLipnik/Loom](https://github.com/EthanLipnik/Loom) (173)
-- [shenhao-stu/ohmycaptcha](https://github.com/shenhao-stu/ohmycaptcha) (160)
+- [snoglobe/helios](https://github.com/snoglobe/helios) (111)
+- [infraform/polymarket-kalshi-arbitrage-bot](https://github.com/infraform/polymarket-kalshi-arbitrage-bot) (96)
+- [zhukunpenglinyutong/mossc](https://github.com/zhukunpenglinyutong/mossc) (85)
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) (67)
+- [sysprog21/zhtw-mcp](https://github.com/sysprog21/zhtw-mcp) (66)
