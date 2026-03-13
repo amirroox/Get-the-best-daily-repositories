@@ -1,32 +1,32 @@
 [
   {
-    "name": "gsd-build/gsd-2",
-    "clone_url": "https://github.com/gsd-build/gsd-2.git",
-    "stars": 659,
-    "size": 1052
+    "name": "tokoroten/prompt-review",
+    "clone_url": "https://github.com/tokoroten/prompt-review.git",
+    "stars": 183,
+    "size": 920
   },
   {
-    "name": "RightNow-AI/autokernel",
-    "clone_url": "https://github.com/RightNow-AI/autokernel.git",
-    "stars": 462,
-    "size": 866
+    "name": "asonglin/crypto-liquidity-ai-trading-bot",
+    "clone_url": "https://github.com/asonglin/crypto-liquidity-ai-trading-bot.git",
+    "stars": 103,
+    "size": 3131
   },
   {
-    "name": "chrisworsey55/atlas-gic",
-    "clone_url": "https://github.com/chrisworsey55/atlas-gic.git",
-    "stars": 429,
-    "size": 140
+    "name": "510myRday/Cursor-Toolbox",
+    "clone_url": "https://github.com/510myRday/Cursor-Toolbox.git",
+    "stars": 88,
+    "size": 160
   },
   {
-    "name": "Anmrex/Anmrex-Antiscams",
-    "clone_url": "https://github.com/Anmrex/Anmrex-Antiscams.git",
-    "stars": 155,
-    "size": 63
+    "name": "JudyaiLab/ai-night-shift",
+    "clone_url": "https://github.com/JudyaiLab/ai-night-shift.git",
+    "stars": 79,
+    "size": 127
   },
   {
-    "name": "vasilytrofimchuk/domainsearcher-app",
-    "clone_url": "https://github.com/vasilytrofimchuk/domainsearcher-app.git",
-    "stars": 138,
-    "size": 1218
+    "name": "youjunjer/mqttgo_dashboard",
+    "clone_url": "https://github.com/youjunjer/mqttgo_dashboard.git",
+    "stars": 34,
+    "size": 246
   }
 ]

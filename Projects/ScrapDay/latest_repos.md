@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-10 .. 2026-03-12)
+# Latest Repositories (2026-03-11 .. 2026-03-13)
 
-- [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) (659)
-- [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) (462)
-- [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) (429)
-- [Anmrex/Anmrex-Antiscams](https://github.com/Anmrex/Anmrex-Antiscams) (155)
-- [vasilytrofimchuk/domainsearcher-app](https://github.com/vasilytrofimchuk/domainsearcher-app) (138)
+- [tokoroten/prompt-review](https://github.com/tokoroten/prompt-review) (183)
+- [asonglin/crypto-liquidity-ai-trading-bot](https://github.com/asonglin/crypto-liquidity-ai-trading-bot) (103)
+- [510myRday/Cursor-Toolbox](https://github.com/510myRday/Cursor-Toolbox) (88)
+- [JudyaiLab/ai-night-shift](https://github.com/JudyaiLab/ai-night-shift) (79)
+- [youjunjer/mqttgo_dashboard](https://github.com/youjunjer/mqttgo_dashboard) (34)
