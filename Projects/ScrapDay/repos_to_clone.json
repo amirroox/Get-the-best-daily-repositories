@@ -2,13 +2,25 @@
   {
     "name": "upper-up/meta-lobbying-and-other-findings",
     "clone_url": "https://github.com/upper-up/meta-lobbying-and-other-findings.git",
-    "stars": 469,
-    "size": 2044
+    "stars": 583,
+    "size": 2380
+  },
+  {
+    "name": "skernelx/tavily-key-generator",
+    "clone_url": "https://github.com/skernelx/tavily-key-generator.git",
+    "stars": 408,
+    "size": 932
+  },
+  {
+    "name": "jackwener/boss-cli",
+    "clone_url": "https://github.com/jackwener/boss-cli.git",
+    "stars": 204,
+    "size": 345
   },
   {
     "name": "pretyflaco/meetscribe",
     "clone_url": "https://github.com/pretyflaco/meetscribe.git",
-    "stars": 184,
+    "stars": 194,
     "size": 104
   },
   {
@@ -16,17 +28,5 @@
     "clone_url": "https://github.com/longnghiemduc6-art/ob12api.git",
     "stars": 159,
     "size": 64
-  },
-  {
-    "name": "meowscles69/PaperClaw",
-    "clone_url": "https://github.com/meowscles69/PaperClaw.git",
-    "stars": 102,
-    "size": 784
-  },
-  {
-    "name": "jina-ai/cli",
-    "clone_url": "https://github.com/jina-ai/cli.git",
-    "stars": 53,
-    "size": 91
   }
 ]
