@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-11 .. 2026-03-13)
+# Latest Repositories (2026-03-12 .. 2026-03-14)
 
-- [tokoroten/prompt-review](https://github.com/tokoroten/prompt-review) (250)
-- [longnghiemduc6-art/ob12api](https://github.com/longnghiemduc6-art/ob12api) (156)
-- [Narcooo/inkos](https://github.com/Narcooo/inkos) (114)
-- [510myRday/Cursor-Toolbox](https://github.com/510myRday/Cursor-Toolbox) (112)
-- [JudyaiLab/ai-night-shift](https://github.com/JudyaiLab/ai-night-shift) (106)
+- [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings) (469)
+- [pretyflaco/meetscribe](https://github.com/pretyflaco/meetscribe) (184)
+- [longnghiemduc6-art/ob12api](https://github.com/longnghiemduc6-art/ob12api) (159)
+- [meowscles69/PaperClaw](https://github.com/meowscles69/PaperClaw) (102)
+- [jina-ai/cli](https://github.com/jina-ai/cli) (53)

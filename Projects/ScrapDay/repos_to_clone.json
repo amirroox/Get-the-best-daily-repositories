@@ -1,32 +1,32 @@
 [
   {
-    "name": "tokoroten/prompt-review",
-    "clone_url": "https://github.com/tokoroten/prompt-review.git",
-    "stars": 250,
-    "size": 940
+    "name": "upper-up/meta-lobbying-and-other-findings",
+    "clone_url": "https://github.com/upper-up/meta-lobbying-and-other-findings.git",
+    "stars": 469,
+    "size": 2044
+  },
+  {
+    "name": "pretyflaco/meetscribe",
+    "clone_url": "https://github.com/pretyflaco/meetscribe.git",
+    "stars": 184,
+    "size": 104
   },
   {
     "name": "longnghiemduc6-art/ob12api",
     "clone_url": "https://github.com/longnghiemduc6-art/ob12api.git",
-    "stars": 156,
+    "stars": 159,
     "size": 64
   },
   {
-    "name": "Narcooo/inkos",
-    "clone_url": "https://github.com/Narcooo/inkos.git",
-    "stars": 114,
-    "size": 704
+    "name": "meowscles69/PaperClaw",
+    "clone_url": "https://github.com/meowscles69/PaperClaw.git",
+    "stars": 102,
+    "size": 784
   },
   {
-    "name": "510myRday/Cursor-Toolbox",
-    "clone_url": "https://github.com/510myRday/Cursor-Toolbox.git",
-    "stars": 112,
-    "size": 169
-  },
-  {
-    "name": "JudyaiLab/ai-night-shift",
-    "clone_url": "https://github.com/JudyaiLab/ai-night-shift.git",
-    "stars": 106,
-    "size": 127
+    "name": "jina-ai/cli",
+    "clone_url": "https://github.com/jina-ai/cli.git",
+    "stars": 53,
+    "size": 91
   }
 ]
