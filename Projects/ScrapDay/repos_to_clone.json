@@ -2,31 +2,31 @@
   {
     "name": "skernelx/tavily-key-generator",
     "clone_url": "https://github.com/skernelx/tavily-key-generator.git",
-    "stars": 691,
+    "stars": 817,
     "size": 932
   },
   {
     "name": "calesthio/Crucix",
     "clone_url": "https://github.com/calesthio/Crucix.git",
-    "stars": 287,
+    "stars": 447,
     "size": 1415
   },
   {
     "name": "jackwener/opencli",
     "clone_url": "https://github.com/jackwener/opencli.git",
-    "stars": 134,
-    "size": 276
-  },
-  {
-    "name": "karpathy/jobs",
-    "clone_url": "https://github.com/karpathy/jobs.git",
-    "stars": 114,
-    "size": 3497
+    "stars": 360,
+    "size": 363
   },
   {
     "name": "epiral/bb-sites",
     "clone_url": "https://github.com/epiral/bb-sites.git",
-    "stars": 86,
+    "stars": 134,
     "size": 169
+  },
+  {
+    "name": "wuji-labs/nopua",
+    "clone_url": "https://github.com/wuji-labs/nopua.git",
+    "stars": 105,
+    "size": 2510
   }
 ]
