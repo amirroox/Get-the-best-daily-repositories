@@ -1,32 +1,32 @@
 [
   {
-    "name": "upper-up/meta-lobbying-and-other-findings",
-    "clone_url": "https://github.com/upper-up/meta-lobbying-and-other-findings.git",
-    "stars": 583,
-    "size": 2380
-  },
-  {
     "name": "skernelx/tavily-key-generator",
     "clone_url": "https://github.com/skernelx/tavily-key-generator.git",
-    "stars": 408,
+    "stars": 691,
     "size": 932
   },
   {
-    "name": "jackwener/boss-cli",
-    "clone_url": "https://github.com/jackwener/boss-cli.git",
-    "stars": 204,
-    "size": 345
+    "name": "calesthio/Crucix",
+    "clone_url": "https://github.com/calesthio/Crucix.git",
+    "stars": 287,
+    "size": 1415
   },
   {
-    "name": "pretyflaco/meetscribe",
-    "clone_url": "https://github.com/pretyflaco/meetscribe.git",
-    "stars": 194,
-    "size": 104
+    "name": "jackwener/opencli",
+    "clone_url": "https://github.com/jackwener/opencli.git",
+    "stars": 134,
+    "size": 276
   },
   {
-    "name": "longnghiemduc6-art/ob12api",
-    "clone_url": "https://github.com/longnghiemduc6-art/ob12api.git",
-    "stars": 159,
-    "size": 64
+    "name": "karpathy/jobs",
+    "clone_url": "https://github.com/karpathy/jobs.git",
+    "stars": 114,
+    "size": 3497
+  },
+  {
+    "name": "epiral/bb-sites",
+    "clone_url": "https://github.com/epiral/bb-sites.git",
+    "stars": 86,
+    "size": 169
   }
 ]
