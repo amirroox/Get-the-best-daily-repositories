@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-13 .. 2026-03-15)
+# Latest Repositories (2026-03-14 .. 2026-03-16)
 
-- [skernelx/tavily-key-generator](https://github.com/skernelx/tavily-key-generator) (817)
-- [calesthio/Crucix](https://github.com/calesthio/Crucix) (447)
-- [jackwener/opencli](https://github.com/jackwener/opencli) (360)
-- [epiral/bb-sites](https://github.com/epiral/bb-sites) (134)
-- [wuji-labs/nopua](https://github.com/wuji-labs/nopua) (105)
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) (228)
+- [JoshKale/jobs](https://github.com/JoshKale/jobs) (216)
+- [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public) (211)
+- [cnlimiter/codex-register](https://github.com/cnlimiter/codex-register) (133)
+- [lux-db/lux](https://github.com/lux-db/lux) (115)
