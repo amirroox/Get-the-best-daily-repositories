@@ -1,32 +1,32 @@
 [
   {
-    "name": "RuizeLyu/paper-dl",
-    "clone_url": "https://github.com/RuizeLyu/paper-dl.git",
-    "stars": 181,
-    "size": 1349
+    "name": "lcoutodemos/clui-cc",
+    "clone_url": "https://github.com/lcoutodemos/clui-cc.git",
+    "stars": 313,
+    "size": 341
   },
   {
     "name": "infraform/polymarket-trading-bot",
     "clone_url": "https://github.com/infraform/polymarket-trading-bot.git",
-    "stars": 166,
+    "stars": 191,
     "size": 347
   },
   {
-    "name": "lcoutodemos/clui-cc",
-    "clone_url": "https://github.com/lcoutodemos/clui-cc.git",
-    "stars": 107,
-    "size": 341
+    "name": "NeoVertex1/nuggets",
+    "clone_url": "https://github.com/NeoVertex1/nuggets.git",
+    "stars": 189,
+    "size": 1798
+  },
+  {
+    "name": "RuizeLyu/paper-dl",
+    "clone_url": "https://github.com/RuizeLyu/paper-dl.git",
+    "stars": 186,
+    "size": 1349
   },
   {
     "name": "RhysSullivan/nextjs-mobile-app-template",
     "clone_url": "https://github.com/RhysSullivan/nextjs-mobile-app-template.git",
-    "stars": 103,
+    "stars": 107,
     "size": 162
-  },
-  {
-    "name": "grapeot/context-infrastructure",
-    "clone_url": "https://github.com/grapeot/context-infrastructure.git",
-    "stars": 67,
-    "size": 306
   }
 ]
