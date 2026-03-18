@@ -1,32 +1,32 @@
 [
   {
+    "name": "VoltAgent/awesome-codex-subagents",
+    "clone_url": "https://github.com/VoltAgent/awesome-codex-subagents.git",
+    "stars": 419,
+    "size": 230
+  },
+  {
     "name": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
     "clone_url": "https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026.git",
-    "stars": 85,
-    "size": 52
+    "stars": 141,
+    "size": 383
   },
   {
     "name": "hubeiqiao/apple-bento-grid",
     "clone_url": "https://github.com/hubeiqiao/apple-bento-grid.git",
-    "stars": 71,
+    "stars": 118,
     "size": 4738
-  },
-  {
-    "name": "stevibe/local-llm-video-captioning",
-    "clone_url": "https://github.com/stevibe/local-llm-video-captioning.git",
-    "stars": 46,
-    "size": 833
   },
   {
     "name": "0x5uo2hen/codex_register",
     "clone_url": "https://github.com/0x5uo2hen/codex_register.git",
-    "stars": 41,
+    "stars": 102,
     "size": 705
   },
   {
-    "name": "johunsang/reddit-campaign-cli",
-    "clone_url": "https://github.com/johunsang/reddit-campaign-cli.git",
-    "stars": 28,
-    "size": 140
+    "name": "leo-lilinxiao/codex-autoresearch",
+    "clone_url": "https://github.com/leo-lilinxiao/codex-autoresearch.git",
+    "stars": 75,
+    "size": 74
   }
 ]
