@@ -1,32 +1,32 @@
 [
   {
-    "name": "VoltAgent/awesome-codex-subagents",
-    "clone_url": "https://github.com/VoltAgent/awesome-codex-subagents.git",
-    "stars": 419,
-    "size": 230
+    "name": "leo-lilinxiao/codex-autoresearch",
+    "clone_url": "https://github.com/leo-lilinxiao/codex-autoresearch.git",
+    "stars": 198,
+    "size": 2602
+  },
+  {
+    "name": "lxf746/any-auto-register",
+    "clone_url": "https://github.com/lxf746/any-auto-register.git",
+    "stars": 197,
+    "size": 224
+  },
+  {
+    "name": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+    "clone_url": "https://github.com/seabra98/Polymarket-Kalshi-Arbitrage-Bot.git",
+    "stars": 158,
+    "size": 74
   },
   {
     "name": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
     "clone_url": "https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026.git",
-    "stars": 141,
-    "size": 383
+    "stars": 150,
+    "size": 698
   },
   {
-    "name": "hubeiqiao/apple-bento-grid",
-    "clone_url": "https://github.com/hubeiqiao/apple-bento-grid.git",
-    "stars": 118,
-    "size": 4738
-  },
-  {
-    "name": "0x5uo2hen/codex_register",
-    "clone_url": "https://github.com/0x5uo2hen/codex_register.git",
-    "stars": 102,
-    "size": 705
-  },
-  {
-    "name": "leo-lilinxiao/codex-autoresearch",
-    "clone_url": "https://github.com/leo-lilinxiao/codex-autoresearch.git",
-    "stars": 75,
-    "size": 74
+    "name": "alaeelhariri/sqlite-python-app",
+    "clone_url": "https://github.com/alaeelhariri/sqlite-python-app.git",
+    "stars": 122,
+    "size": 443
   }
 ]
