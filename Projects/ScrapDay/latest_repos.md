@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-17 .. 2026-03-19)
+# Latest Repositories (2026-03-18 .. 2026-03-20)
 
-- [mattprusak/autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy) (360)
-- [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) (291)
-- [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) (264)
-- [seabra98/Polymarket-Kalshi-Arbitrage-Bot](https://github.com/seabra98/Polymarket-Kalshi-Arbitrage-Bot) (214)
-- [alaeelhariri/sqlite-python-app](https://github.com/alaeelhariri/sqlite-python-app) (182)
+- [cornel-pe/online-casino-platform-backend](https://github.com/cornel-pe/online-casino-platform-backend) (87)
+- [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) (80)
+- [stvlynn/dingtalk-wukong-skills](https://github.com/stvlynn/dingtalk-wukong-skills) (77)
+- [ShawnPana/aurl](https://github.com/ShawnPana/aurl) (70)
+- [tuanhavinalink/nikaya](https://github.com/tuanhavinalink/nikaya) (63)
