@@ -1,32 +1,32 @@
 [
   {
+    "name": "griffinmartin/opencode-claude-auth",
+    "clone_url": "https://github.com/griffinmartin/opencode-claude-auth.git",
+    "stars": 158,
+    "size": 57
+  },
+  {
     "name": "cornel-pe/online-casino-platform-backend",
     "clone_url": "https://github.com/cornel-pe/online-casino-platform-backend.git",
-    "stars": 87,
+    "stars": 127,
     "size": 340
   },
   {
     "name": "mucsbr/ppt-agent-workflow-san",
     "clone_url": "https://github.com/mucsbr/ppt-agent-workflow-san.git",
-    "stars": 80,
-    "size": 3597
+    "stars": 107,
+    "size": 3603
   },
   {
     "name": "stvlynn/dingtalk-wukong-skills",
     "clone_url": "https://github.com/stvlynn/dingtalk-wukong-skills.git",
-    "stars": 77,
+    "stars": 87,
     "size": 391
   },
   {
     "name": "ShawnPana/aurl",
     "clone_url": "https://github.com/ShawnPana/aurl.git",
-    "stars": 70,
+    "stars": 85,
     "size": 71
-  },
-  {
-    "name": "tuanhavinalink/nikaya",
-    "clone_url": "https://github.com/tuanhavinalink/nikaya.git",
-    "stars": 63,
-    "size": 73
   }
 ]
