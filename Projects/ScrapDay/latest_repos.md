@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-18 .. 2026-03-20)
+# Latest Repositories (2026-03-19 .. 2026-03-21)
 
-- [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) (158)
-- [cornel-pe/online-casino-platform-backend](https://github.com/cornel-pe/online-casino-platform-backend) (127)
-- [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) (107)
-- [stvlynn/dingtalk-wukong-skills](https://github.com/stvlynn/dingtalk-wukong-skills) (87)
-- [ShawnPana/aurl](https://github.com/ShawnPana/aurl) (85)
+- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) (151)
+- [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) (123)
+- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) (97)
+- [skill-sonar/Skill-Sonar](https://github.com/skill-sonar/Skill-Sonar) (53)
+- [lehdqlsl/opencode-claude-auth-sync](https://github.com/lehdqlsl/opencode-claude-auth-sync) (51)
