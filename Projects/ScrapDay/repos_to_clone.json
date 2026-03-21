@@ -2,31 +2,31 @@
   {
     "name": "ghostty-org/ghostling",
     "clone_url": "https://github.com/ghostty-org/ghostling.git",
-    "stars": 151,
-    "size": 1452
+    "stars": 397,
+    "size": 1469
   },
   {
     "name": "dontbesilent2025/dbskill",
     "clone_url": "https://github.com/dontbesilent2025/dbskill.git",
-    "stars": 123,
+    "stars": 275,
     "size": 545
   },
   {
     "name": "vercel-labs/emulate",
     "clone_url": "https://github.com/vercel-labs/emulate.git",
-    "stars": 97,
-    "size": 447
+    "stars": 141,
+    "size": 436
   },
   {
-    "name": "skill-sonar/Skill-Sonar",
-    "clone_url": "https://github.com/skill-sonar/Skill-Sonar.git",
-    "stars": 53,
-    "size": 1362
+    "name": "SethGammon/Citadel",
+    "clone_url": "https://github.com/SethGammon/Citadel.git",
+    "stars": 85,
+    "size": 152
   },
   {
-    "name": "lehdqlsl/opencode-claude-auth-sync",
-    "clone_url": "https://github.com/lehdqlsl/opencode-claude-auth-sync.git",
-    "stars": 51,
-    "size": 120
+    "name": "sunbigfly/ppt-agent-skill",
+    "clone_url": "https://github.com/sunbigfly/ppt-agent-skill.git",
+    "stars": 79,
+    "size": 1775
   }
 ]
