@@ -1,32 +1,32 @@
 [
   {
+    "name": "gnekt/My-Brain-Is-Full-Crew",
+    "clone_url": "https://github.com/gnekt/My-Brain-Is-Full-Crew.git",
+    "stars": 556,
+    "size": 291
+  },
+  {
     "name": "dou-jiang/codex-console",
     "clone_url": "https://github.com/dou-jiang/codex-console.git",
-    "stars": 336,
+    "stars": 475,
     "size": 274
   },
   {
-    "name": "gnekt/My-Brain-Is-Full-Crew",
-    "clone_url": "https://github.com/gnekt/My-Brain-Is-Full-Crew.git",
-    "stars": 213,
-    "size": 254
+    "name": "wong2/weixin-agent-sdk",
+    "clone_url": "https://github.com/wong2/weixin-agent-sdk.git",
+    "stars": 314,
+    "size": 94
   },
   {
-    "name": "zengwenliang416/ppt-agent",
-    "clone_url": "https://github.com/zengwenliang416/ppt-agent.git",
-    "stars": 175,
-    "size": 3227
+    "name": "xiaolajiaoyyds/regplatformm",
+    "clone_url": "https://github.com/xiaolajiaoyyds/regplatformm.git",
+    "stars": 179,
+    "size": 4878
   },
   {
-    "name": "victorsosaMx/vsWaybar-Studio",
-    "clone_url": "https://github.com/victorsosaMx/vsWaybar-Studio.git",
-    "stars": 84,
-    "size": 1317
-  },
-  {
-    "name": "komunite/kalfa-os",
-    "clone_url": "https://github.com/komunite/kalfa-os.git",
-    "stars": 63,
-    "size": 1079
+    "name": "epiral/weixin-bot",
+    "clone_url": "https://github.com/epiral/weixin-bot.git",
+    "stars": 96,
+    "size": 178
   }
 ]
