@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-19 .. 2026-03-21)
+# Latest Repositories (2026-03-20 .. 2026-03-22)
 
-- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) (397)
-- [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) (275)
-- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) (141)
-- [SethGammon/Citadel](https://github.com/SethGammon/Citadel) (85)
-- [sunbigfly/ppt-agent-skill](https://github.com/sunbigfly/ppt-agent-skill) (79)
+- [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) (336)
+- [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) (213)
+- [zengwenliang416/ppt-agent](https://github.com/zengwenliang416/ppt-agent) (175)
+- [victorsosaMx/vsWaybar-Studio](https://github.com/victorsosaMx/vsWaybar-Studio) (84)
+- [komunite/kalfa-os](https://github.com/komunite/kalfa-os) (63)
