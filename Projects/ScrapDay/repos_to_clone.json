@@ -2,31 +2,31 @@
   {
     "name": "wong2/weixin-agent-sdk",
     "clone_url": "https://github.com/wong2/weixin-agent-sdk.git",
-    "stars": 513,
-    "size": 94
+    "stars": 705,
+    "size": 82
+  },
+  {
+    "name": "fastclaw-ai/weclaw",
+    "clone_url": "https://github.com/fastclaw-ai/weclaw.git",
+    "stars": 373,
+    "size": 1458
+  },
+  {
+    "name": "Vacutagin/GameEnhancementSuite",
+    "clone_url": "https://github.com/Vacutagin/GameEnhancementSuite.git",
+    "stars": 201,
+    "size": 1991
   },
   {
     "name": "epiral/weixin-bot",
     "clone_url": "https://github.com/epiral/weixin-bot.git",
-    "stars": 167,
+    "stars": 191,
     "size": 178
   },
   {
     "name": "meodai/skill.color-expert",
     "clone_url": "https://github.com/meodai/skill.color-expert.git",
-    "stars": 123,
-    "size": 972
-  },
-  {
-    "name": "Johnixr/claude-code-wechat-channel",
-    "clone_url": "https://github.com/Johnixr/claude-code-wechat-channel.git",
-    "stars": 109,
-    "size": 137
-  },
-  {
-    "name": "fastclaw-ai/weclaw",
-    "clone_url": "https://github.com/fastclaw-ai/weclaw.git",
-    "stars": 100,
-    "size": 1404
+    "stars": 188,
+    "size": 981
   }
 ]
