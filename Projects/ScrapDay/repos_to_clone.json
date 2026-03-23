@@ -1,32 +1,32 @@
 [
   {
-    "name": "gnekt/My-Brain-Is-Full-Crew",
-    "clone_url": "https://github.com/gnekt/My-Brain-Is-Full-Crew.git",
-    "stars": 556,
-    "size": 291
-  },
-  {
-    "name": "dou-jiang/codex-console",
-    "clone_url": "https://github.com/dou-jiang/codex-console.git",
-    "stars": 475,
-    "size": 274
-  },
-  {
     "name": "wong2/weixin-agent-sdk",
     "clone_url": "https://github.com/wong2/weixin-agent-sdk.git",
-    "stars": 314,
+    "stars": 513,
     "size": 94
-  },
-  {
-    "name": "xiaolajiaoyyds/regplatformm",
-    "clone_url": "https://github.com/xiaolajiaoyyds/regplatformm.git",
-    "stars": 179,
-    "size": 4878
   },
   {
     "name": "epiral/weixin-bot",
     "clone_url": "https://github.com/epiral/weixin-bot.git",
-    "stars": 96,
+    "stars": 167,
     "size": 178
+  },
+  {
+    "name": "meodai/skill.color-expert",
+    "clone_url": "https://github.com/meodai/skill.color-expert.git",
+    "stars": 123,
+    "size": 972
+  },
+  {
+    "name": "Johnixr/claude-code-wechat-channel",
+    "clone_url": "https://github.com/Johnixr/claude-code-wechat-channel.git",
+    "stars": 109,
+    "size": 137
+  },
+  {
+    "name": "fastclaw-ai/weclaw",
+    "clone_url": "https://github.com/fastclaw-ai/weclaw.git",
+    "stars": 100,
+    "size": 1404
   }
 ]

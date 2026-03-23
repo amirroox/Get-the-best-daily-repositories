@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-20 .. 2026-03-22)
+# Latest Repositories (2026-03-21 .. 2026-03-23)
 
-- [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) (556)
-- [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) (475)
-- [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) (314)
-- [xiaolajiaoyyds/regplatformm](https://github.com/xiaolajiaoyyds/regplatformm) (179)
-- [epiral/weixin-bot](https://github.com/epiral/weixin-bot) (96)
+- [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) (513)
+- [epiral/weixin-bot](https://github.com/epiral/weixin-bot) (167)
+- [meodai/skill.color-expert](https://github.com/meodai/skill.color-expert) (123)
+- [Johnixr/claude-code-wechat-channel](https://github.com/Johnixr/claude-code-wechat-channel) (109)
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (100)
