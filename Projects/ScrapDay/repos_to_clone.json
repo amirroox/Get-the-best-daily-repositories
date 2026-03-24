@@ -1,32 +1,32 @@
 [
   {
-    "name": "wong2/weixin-agent-sdk",
-    "clone_url": "https://github.com/wong2/weixin-agent-sdk.git",
-    "stars": 705,
-    "size": 82
-  },
-  {
-    "name": "fastclaw-ai/weclaw",
-    "clone_url": "https://github.com/fastclaw-ai/weclaw.git",
-    "stars": 373,
-    "size": 1458
-  },
-  {
     "name": "Vacutagin/GameEnhancementSuite",
     "clone_url": "https://github.com/Vacutagin/GameEnhancementSuite.git",
     "stars": 201,
     "size": 1991
   },
   {
-    "name": "epiral/weixin-bot",
-    "clone_url": "https://github.com/epiral/weixin-bot.git",
-    "stars": 191,
-    "size": 178
+    "name": "0reki/cocodex",
+    "clone_url": "https://github.com/0reki/cocodex.git",
+    "stars": 73,
+    "size": 767
   },
   {
-    "name": "meodai/skill.color-expert",
-    "clone_url": "https://github.com/meodai/skill.color-expert.git",
-    "stars": 188,
-    "size": 981
+    "name": "MarioGalindoQ/Modern-CPP-Design-Patterns",
+    "clone_url": "https://github.com/MarioGalindoQ/Modern-CPP-Design-Patterns.git",
+    "stars": 61,
+    "size": 286
+  },
+  {
+    "name": "formulahendry/wechat-acp",
+    "clone_url": "https://github.com/formulahendry/wechat-acp.git",
+    "stars": 53,
+    "size": 360
+  },
+  {
+    "name": "Shudesu/line-harness-oss",
+    "clone_url": "https://github.com/Shudesu/line-harness-oss.git",
+    "stars": 42,
+    "size": 404
   }
 ]
