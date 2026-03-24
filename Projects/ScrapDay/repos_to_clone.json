@@ -1,32 +1,32 @@
 [
   {
+    "name": "marswaveai/TypeNo",
+    "clone_url": "https://github.com/marswaveai/TypeNo.git",
+    "stars": 214,
+    "size": 2233
+  },
+  {
     "name": "Vacutagin/GameEnhancementSuite",
     "clone_url": "https://github.com/Vacutagin/GameEnhancementSuite.git",
     "stars": 201,
     "size": 1991
   },
   {
-    "name": "0reki/cocodex",
-    "clone_url": "https://github.com/0reki/cocodex.git",
-    "stars": 73,
-    "size": 767
+    "name": "apechurch/polymarket-arbitrage-trading-bot",
+    "clone_url": "https://github.com/apechurch/polymarket-arbitrage-trading-bot.git",
+    "stars": 158,
+    "size": 62
   },
   {
-    "name": "MarioGalindoQ/Modern-CPP-Design-Patterns",
-    "clone_url": "https://github.com/MarioGalindoQ/Modern-CPP-Design-Patterns.git",
-    "stars": 61,
-    "size": 286
+    "name": "capybara-zy/xiaoye-ai",
+    "clone_url": "https://github.com/capybara-zy/xiaoye-ai.git",
+    "stars": 147,
+    "size": 1651
   },
   {
-    "name": "formulahendry/wechat-acp",
-    "clone_url": "https://github.com/formulahendry/wechat-acp.git",
-    "stars": 53,
-    "size": 360
-  },
-  {
-    "name": "Shudesu/line-harness-oss",
-    "clone_url": "https://github.com/Shudesu/line-harness-oss.git",
-    "stars": 42,
-    "size": 404
+    "name": "verialabs/ctf-agent",
+    "clone_url": "https://github.com/verialabs/ctf-agent.git",
+    "stars": 128,
+    "size": 66
   }
 ]
