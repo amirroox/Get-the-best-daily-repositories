@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-22 .. 2026-03-24)
+# Latest Repositories (2026-03-23 .. 2026-03-25)
 
-- [marswaveai/TypeNo](https://github.com/marswaveai/TypeNo) (214)
-- [Vacutagin/GameEnhancementSuite](https://github.com/Vacutagin/GameEnhancementSuite) (201)
-- [apechurch/polymarket-arbitrage-trading-bot](https://github.com/apechurch/polymarket-arbitrage-trading-bot) (158)
-- [capybara-zy/xiaoye-ai](https://github.com/capybara-zy/xiaoye-ai) (147)
-- [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent) (128)
+- [marswaveai/TypeNo](https://github.com/marswaveai/TypeNo) (404)
+- [remorses/usecomputer](https://github.com/remorses/usecomputer) (123)
+- [0xShe/PHP-Code-Audit-Skill](https://github.com/0xShe/PHP-Code-Audit-Skill) (78)
+- [udayanwalvekar/clearshot](https://github.com/udayanwalvekar/clearshot) (77)
+- [45645678a/scholar-mcp](https://github.com/45645678a/scholar-mcp) (77)
