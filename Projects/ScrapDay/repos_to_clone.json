@@ -2,31 +2,31 @@
   {
     "name": "elder-plinius/G0DM0D3",
     "clone_url": "https://github.com/elder-plinius/G0DM0D3.git",
-    "stars": 130,
+    "stars": 325,
     "size": 1078
-  },
-  {
-    "name": "dev-protocol/polymarket-arbitrage-trade-bot",
-    "clone_url": "https://github.com/dev-protocol/polymarket-arbitrage-trade-bot.git",
-    "stars": 108,
-    "size": 1691
   },
   {
     "name": "TheTom/turboquant_plus",
     "clone_url": "https://github.com/TheTom/turboquant_plus.git",
-    "stars": 79,
-    "size": 157
+    "stars": 200,
+    "size": 176
   },
   {
-    "name": "jnsahaj/gazectl",
-    "clone_url": "https://github.com/jnsahaj/gazectl.git",
-    "stars": 63,
-    "size": 758
+    "name": "dev-protocol/polymarket-arbitrage-trade-bot",
+    "clone_url": "https://github.com/dev-protocol/polymarket-arbitrage-trade-bot.git",
+    "stars": 161,
+    "size": 1691
   },
   {
-    "name": "iad1tya/Quitty",
-    "clone_url": "https://github.com/iad1tya/Quitty.git",
-    "stars": 63,
-    "size": 3497
+    "name": "Percepta-Core/transformer-vm",
+    "clone_url": "https://github.com/Percepta-Core/transformer-vm.git",
+    "stars": 111,
+    "size": 167
+  },
+  {
+    "name": "stevibe/ToolCall-15",
+    "clone_url": "https://github.com/stevibe/ToolCall-15.git",
+    "stars": 96,
+    "size": 1311
   }
 ]
