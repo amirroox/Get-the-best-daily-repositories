@@ -1,32 +1,32 @@
 [
   {
-    "name": "marswaveai/TypeNo",
-    "clone_url": "https://github.com/marswaveai/TypeNo.git",
-    "stars": 540,
-    "size": 2240
+    "name": "elder-plinius/G0DM0D3",
+    "clone_url": "https://github.com/elder-plinius/G0DM0D3.git",
+    "stars": 130,
+    "size": 1078
   },
   {
-    "name": "nashsu/opencli-rs",
-    "clone_url": "https://github.com/nashsu/opencli-rs.git",
-    "stars": 370,
-    "size": 1124
-  },
-  {
-    "name": "remorses/usecomputer",
-    "clone_url": "https://github.com/remorses/usecomputer.git",
-    "stars": 137,
-    "size": 98
-  },
-  {
-    "name": "denoland/ronly",
-    "clone_url": "https://github.com/denoland/ronly.git",
-    "stars": 111,
-    "size": 136
-  },
-  {
-    "name": "0xShe/PHP-Code-Audit-Skill",
-    "clone_url": "https://github.com/0xShe/PHP-Code-Audit-Skill.git",
+    "name": "dev-protocol/polymarket-arbitrage-trade-bot",
+    "clone_url": "https://github.com/dev-protocol/polymarket-arbitrage-trade-bot.git",
     "stars": 108,
-    "size": 146
+    "size": 1691
+  },
+  {
+    "name": "TheTom/turboquant_plus",
+    "clone_url": "https://github.com/TheTom/turboquant_plus.git",
+    "stars": 79,
+    "size": 157
+  },
+  {
+    "name": "jnsahaj/gazectl",
+    "clone_url": "https://github.com/jnsahaj/gazectl.git",
+    "stars": 63,
+    "size": 758
+  },
+  {
+    "name": "iad1tya/Quitty",
+    "clone_url": "https://github.com/iad1tya/Quitty.git",
+    "stars": 63,
+    "size": 3497
   }
 ]
