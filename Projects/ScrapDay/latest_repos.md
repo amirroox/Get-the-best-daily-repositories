@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-24 .. 2026-03-26)
+# Latest Repositories (2026-03-25 .. 2026-03-27)
 
-- [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) (325)
-- [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus) (200)
-- [dev-protocol/polymarket-arbitrage-trade-bot](https://github.com/dev-protocol/polymarket-arbitrage-trade-bot) (161)
-- [Percepta-Core/transformer-vm](https://github.com/Percepta-Core/transformer-vm) (111)
-- [stevibe/ToolCall-15](https://github.com/stevibe/ToolCall-15) (96)
+- [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) (626)
+- [jxnxts/mcp-brasil](https://github.com/jxnxts/mcp-brasil) (410)
+- [oaker-io/wewrite](https://github.com/oaker-io/wewrite) (217)
+- [0x8dxd/Polymarket-Trading-Bot-Arbitrage-Maker](https://github.com/0x8dxd/Polymarket-Trading-Bot-Arbitrage-Maker) (90)
+- [edinetdb/dexter-jp](https://github.com/edinetdb/dexter-jp) (78)
