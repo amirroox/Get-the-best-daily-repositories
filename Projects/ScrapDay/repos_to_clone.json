@@ -1,32 +1,32 @@
 [
   {
-    "name": "magnum6actual/flipoff",
-    "clone_url": "https://github.com/magnum6actual/flipoff.git",
-    "stars": 995,
-    "size": 672
-  },
-  {
-    "name": "jxnxts/mcp-brasil",
-    "clone_url": "https://github.com/jxnxts/mcp-brasil.git",
-    "stars": 565,
-    "size": 2500
-  },
-  {
-    "name": "oaker-io/wewrite",
-    "clone_url": "https://github.com/oaker-io/wewrite.git",
-    "stars": 455,
-    "size": 56
-  },
-  {
-    "name": "ericboy0224/learn-docker-and-k8s",
-    "clone_url": "https://github.com/ericboy0224/learn-docker-and-k8s.git",
-    "stars": 210,
-    "size": 313
-  },
-  {
     "name": "KusumaHadiman/EORMC",
     "clone_url": "https://github.com/KusumaHadiman/EORMC.git",
     "stars": 158,
     "size": 3227
+  },
+  {
+    "name": "rivet-dev/antiox",
+    "clone_url": "https://github.com/rivet-dev/antiox.git",
+    "stars": 81,
+    "size": 278
+  },
+  {
+    "name": "yizhiyanhua-ai/fireworks-skill-memory",
+    "clone_url": "https://github.com/yizhiyanhua-ai/fireworks-skill-memory.git",
+    "stars": 60,
+    "size": 69
+  },
+  {
+    "name": "ErikHellman/android-cli",
+    "clone_url": "https://github.com/ErikHellman/android-cli.git",
+    "stars": 43,
+    "size": 128
+  },
+  {
+    "name": "Ikari54/CDCamera-Camera-Overhaul-for-Crimson-Desert",
+    "clone_url": "https://github.com/Ikari54/CDCamera-Camera-Overhaul-for-Crimson-Desert.git",
+    "stars": 33,
+    "size": 76
   }
 ]

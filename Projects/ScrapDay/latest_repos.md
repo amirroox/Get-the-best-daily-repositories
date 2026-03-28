@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-25 .. 2026-03-27)
+# Latest Repositories (2026-03-26 .. 2026-03-28)
 
-- [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) (995)
-- [jxnxts/mcp-brasil](https://github.com/jxnxts/mcp-brasil) (565)
-- [oaker-io/wewrite](https://github.com/oaker-io/wewrite) (455)
-- [ericboy0224/learn-docker-and-k8s](https://github.com/ericboy0224/learn-docker-and-k8s) (210)
 - [KusumaHadiman/EORMC](https://github.com/KusumaHadiman/EORMC) (158)
+- [rivet-dev/antiox](https://github.com/rivet-dev/antiox) (81)
+- [yizhiyanhua-ai/fireworks-skill-memory](https://github.com/yizhiyanhua-ai/fireworks-skill-memory) (60)
+- [ErikHellman/android-cli](https://github.com/ErikHellman/android-cli) (43)
+- [Ikari54/CDCamera-Camera-Overhaul-for-Crimson-Desert](https://github.com/Ikari54/CDCamera-Camera-Overhaul-for-Crimson-Desert) (33)
