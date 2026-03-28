@@ -1,5 +1,11 @@
 [
   {
+    "name": "adamlyttleapps/notchy",
+    "clone_url": "https://github.com/adamlyttleapps/notchy.git",
+    "stars": 219,
+    "size": 1481
+  },
+  {
     "name": "KusumaHadiman/EORMC",
     "clone_url": "https://github.com/KusumaHadiman/EORMC.git",
     "stars": 158,
@@ -8,25 +14,19 @@
   {
     "name": "rivet-dev/antiox",
     "clone_url": "https://github.com/rivet-dev/antiox.git",
-    "stars": 81,
+    "stars": 106,
     "size": 278
   },
   {
-    "name": "yizhiyanhua-ai/fireworks-skill-memory",
-    "clone_url": "https://github.com/yizhiyanhua-ai/fireworks-skill-memory.git",
-    "stars": 60,
-    "size": 69
-  },
-  {
-    "name": "ErikHellman/android-cli",
-    "clone_url": "https://github.com/ErikHellman/android-cli.git",
-    "stars": 43,
-    "size": 128
+    "name": "spool-lab/spool",
+    "clone_url": "https://github.com/spool-lab/spool.git",
+    "stars": 95,
+    "size": 1342
   },
   {
     "name": "Ikari54/CDCamera-Camera-Overhaul-for-Crimson-Desert",
     "clone_url": "https://github.com/Ikari54/CDCamera-Camera-Overhaul-for-Crimson-Desert.git",
-    "stars": 33,
+    "stars": 72,
     "size": 76
   }
 ]
