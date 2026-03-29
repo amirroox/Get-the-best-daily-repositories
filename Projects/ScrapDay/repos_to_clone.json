@@ -2,31 +2,31 @@
   {
     "name": "adamlyttleapps/notchy",
     "clone_url": "https://github.com/adamlyttleapps/notchy.git",
-    "stars": 342,
-    "size": 1481
+    "stars": 407,
+    "size": 4009
   },
   {
     "name": "Railly/agentfiles",
     "clone_url": "https://github.com/Railly/agentfiles.git",
-    "stars": 114,
+    "stars": 157,
     "size": 241
+  },
+  {
+    "name": "meodai/heerich",
+    "clone_url": "https://github.com/meodai/heerich.git",
+    "stars": 146,
+    "size": 369
   },
   {
     "name": "v1r3n/dinesh-gilfoyle",
     "clone_url": "https://github.com/v1r3n/dinesh-gilfoyle.git",
-    "stars": 103,
+    "stars": 119,
     "size": 76
-  },
-  {
-    "name": "kayba-ai/recursive-improve",
-    "clone_url": "https://github.com/kayba-ai/recursive-improve.git",
-    "stars": 83,
-    "size": 1761
   },
   {
     "name": "VexedWilosn/AetherSwap",
     "clone_url": "https://github.com/VexedWilosn/AetherSwap.git",
-    "stars": 82,
+    "stars": 101,
     "size": 3740
   }
 ]
