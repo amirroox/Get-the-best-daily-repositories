@@ -2,31 +2,31 @@
   {
     "name": "adamlyttleapps/notchy",
     "clone_url": "https://github.com/adamlyttleapps/notchy.git",
-    "stars": 219,
+    "stars": 342,
     "size": 1481
   },
   {
-    "name": "KusumaHadiman/EORMC",
-    "clone_url": "https://github.com/KusumaHadiman/EORMC.git",
-    "stars": 158,
-    "size": 3227
+    "name": "Railly/agentfiles",
+    "clone_url": "https://github.com/Railly/agentfiles.git",
+    "stars": 114,
+    "size": 241
   },
   {
-    "name": "rivet-dev/antiox",
-    "clone_url": "https://github.com/rivet-dev/antiox.git",
-    "stars": 106,
-    "size": 278
-  },
-  {
-    "name": "spool-lab/spool",
-    "clone_url": "https://github.com/spool-lab/spool.git",
-    "stars": 95,
-    "size": 1342
-  },
-  {
-    "name": "Ikari54/CDCamera-Camera-Overhaul-for-Crimson-Desert",
-    "clone_url": "https://github.com/Ikari54/CDCamera-Camera-Overhaul-for-Crimson-Desert.git",
-    "stars": 72,
+    "name": "v1r3n/dinesh-gilfoyle",
+    "clone_url": "https://github.com/v1r3n/dinesh-gilfoyle.git",
+    "stars": 103,
     "size": 76
+  },
+  {
+    "name": "kayba-ai/recursive-improve",
+    "clone_url": "https://github.com/kayba-ai/recursive-improve.git",
+    "stars": 83,
+    "size": 1761
+  },
+  {
+    "name": "VexedWilosn/AetherSwap",
+    "clone_url": "https://github.com/VexedWilosn/AetherSwap.git",
+    "stars": 82,
+    "size": 3740
   }
 ]
