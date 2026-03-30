@@ -1,32 +1,32 @@
 [
   {
+    "name": "WecomTeam/wecom-cli",
+    "clone_url": "https://github.com/WecomTeam/wecom-cli.git",
+    "stars": 824,
+    "size": 134
+  },
+  {
     "name": "hitmux/HitCC",
     "clone_url": "https://github.com/hitmux/HitCC.git",
-    "stars": 318,
+    "stars": 404,
     "size": 451
   },
   {
     "name": "dreddnafious/thereisnospoon",
     "clone_url": "https://github.com/dreddnafious/thereisnospoon.git",
-    "stars": 251,
+    "stars": 345,
     "size": 3168
   },
   {
-    "name": "WecomTeam/wecom-cli",
-    "clone_url": "https://github.com/WecomTeam/wecom-cli.git",
-    "stars": 245,
-    "size": 90
+    "name": "titanwings/colleague-skill",
+    "clone_url": "https://github.com/titanwings/colleague-skill.git",
+    "stars": 278,
+    "size": 140
   },
   {
     "name": "marswaveai/ColaMD",
     "clone_url": "https://github.com/marswaveai/ColaMD.git",
-    "stars": 163,
-    "size": 446
-  },
-  {
-    "name": "YOTSingularity/yearofthesingularity",
-    "clone_url": "https://github.com/YOTSingularity/yearofthesingularity.git",
-    "stars": 117,
-    "size": 68
+    "stars": 200,
+    "size": 524
   }
 ]
