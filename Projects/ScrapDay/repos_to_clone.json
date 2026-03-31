@@ -1,32 +1,32 @@
 [
   {
-    "name": "WecomTeam/wecom-cli",
-    "clone_url": "https://github.com/WecomTeam/wecom-cli.git",
-    "stars": 824,
-    "size": 134
-  },
-  {
-    "name": "hitmux/HitCC",
-    "clone_url": "https://github.com/hitmux/HitCC.git",
-    "stars": 404,
-    "size": 451
-  },
-  {
-    "name": "dreddnafious/thereisnospoon",
-    "clone_url": "https://github.com/dreddnafious/thereisnospoon.git",
-    "stars": 345,
-    "size": 3168
+    "name": "openai/codex-plugin-cc",
+    "clone_url": "https://github.com/openai/codex-plugin-cc.git",
+    "stars": 2432,
+    "size": 90
   },
   {
     "name": "titanwings/colleague-skill",
     "clone_url": "https://github.com/titanwings/colleague-skill.git",
-    "stars": 278,
-    "size": 140
+    "stars": 1204,
+    "size": 163
   },
   {
-    "name": "marswaveai/ColaMD",
-    "clone_url": "https://github.com/marswaveai/ColaMD.git",
-    "stars": 200,
-    "size": 524
+    "name": "joedhawan1/helios",
+    "clone_url": "https://github.com/joedhawan1/helios.git",
+    "stars": 114,
+    "size": 116
+  },
+  {
+    "name": "jaussog/polymarket-sports-politics-trading-bot",
+    "clone_url": "https://github.com/jaussog/polymarket-sports-politics-trading-bot.git",
+    "stars": 89,
+    "size": 1188
+  },
+  {
+    "name": "HyperIiquid/Polymarket-copy-trading-bot",
+    "clone_url": "https://github.com/HyperIiquid/Polymarket-copy-trading-bot.git",
+    "stars": 85,
+    "size": 154
   }
 ]
