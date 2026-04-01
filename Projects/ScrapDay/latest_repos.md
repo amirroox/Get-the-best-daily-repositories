@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-29 .. 2026-03-31)
+# Latest Repositories (2026-03-30 .. 2026-04-01)
 
-- [instructkr/clawd-code](https://github.com/instructkr/clawd-code) (31158)
-- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) (4697)
-- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) (3152)
-- [tvytlx/claude-code-deep-dive](https://github.com/tvytlx/claude-code-deep-dive) (312)
-- [6551Team/claude-code-design-guide](https://github.com/6551Team/claude-code-design-guide) (261)
+- [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code) (4227)
+- [Leonxlnx/claude-code-system-prompts](https://github.com/Leonxlnx/claude-code-system-prompts) (1284)
+- [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) (683)
+- [6551Team/claude-code-design-guide](https://github.com/6551Team/claude-code-design-guide) (491)
+- [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book) (421)

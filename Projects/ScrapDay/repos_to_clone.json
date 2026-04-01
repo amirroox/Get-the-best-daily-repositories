@@ -1,32 +1,32 @@
 [
   {
-    "name": "instructkr/clawd-code",
-    "clone_url": "https://github.com/instructkr/clawd-code.git",
-    "stars": 31158,
-    "size": 2606
+    "name": "Kuberwastaken/claude-code",
+    "clone_url": "https://github.com/Kuberwastaken/claude-code.git",
+    "stars": 4227,
+    "size": 1644
   },
   {
-    "name": "openai/codex-plugin-cc",
-    "clone_url": "https://github.com/openai/codex-plugin-cc.git",
-    "stars": 4697,
-    "size": 90
+    "name": "Leonxlnx/claude-code-system-prompts",
+    "clone_url": "https://github.com/Leonxlnx/claude-code-system-prompts.git",
+    "stars": 1284,
+    "size": 73
   },
   {
-    "name": "titanwings/colleague-skill",
-    "clone_url": "https://github.com/titanwings/colleague-skill.git",
-    "stars": 3152,
-    "size": 3155
-  },
-  {
-    "name": "tvytlx/claude-code-deep-dive",
-    "clone_url": "https://github.com/tvytlx/claude-code-deep-dive.git",
-    "stars": 312,
-    "size": 346
+    "name": "openedclaude/claude-reviews-claude",
+    "clone_url": "https://github.com/openedclaude/claude-reviews-claude.git",
+    "stars": 683,
+    "size": 483
   },
   {
     "name": "6551Team/claude-code-design-guide",
     "clone_url": "https://github.com/6551Team/claude-code-design-guide.git",
-    "stars": 261,
-    "size": 133
+    "stars": 491,
+    "size": 265
+  },
+  {
+    "name": "lintsinghua/claude-code-book",
+    "clone_url": "https://github.com/lintsinghua/claude-code-book.git",
+    "stars": 421,
+    "size": 499
   }
 ]
