@@ -1,32 +1,32 @@
 [
   {
-    "name": "Kuberwastaken/claude-code",
-    "clone_url": "https://github.com/Kuberwastaken/claude-code.git",
-    "stars": 4227,
-    "size": 1644
+    "name": "Kuberwastaken/claurst",
+    "clone_url": "https://github.com/Kuberwastaken/claurst.git",
+    "stars": 5653,
+    "size": 1725
   },
   {
-    "name": "Leonxlnx/claude-code-system-prompts",
-    "clone_url": "https://github.com/Leonxlnx/claude-code-system-prompts.git",
-    "stars": 1284,
+    "name": "codeany-ai/open-agent-sdk-typescript",
+    "clone_url": "https://github.com/codeany-ai/open-agent-sdk-typescript.git",
+    "stars": 1755,
+    "size": 91
+  },
+  {
+    "name": "Leonxlnx/agentic-ai-prompt-research",
+    "clone_url": "https://github.com/Leonxlnx/agentic-ai-prompt-research.git",
+    "stars": 1637,
     "size": 73
+  },
+  {
+    "name": "JackChen-me/open-multi-agent",
+    "clone_url": "https://github.com/JackChen-me/open-multi-agent.git",
+    "stars": 1381,
+    "size": 111
   },
   {
     "name": "openedclaude/claude-reviews-claude",
     "clone_url": "https://github.com/openedclaude/claude-reviews-claude.git",
-    "stars": 683,
-    "size": 483
-  },
-  {
-    "name": "6551Team/claude-code-design-guide",
-    "clone_url": "https://github.com/6551Team/claude-code-design-guide.git",
-    "stars": 491,
-    "size": 265
-  },
-  {
-    "name": "lintsinghua/claude-code-book",
-    "clone_url": "https://github.com/lintsinghua/claude-code-book.git",
-    "stars": 421,
-    "size": 499
+    "stars": 929,
+    "size": 448
   }
 ]
