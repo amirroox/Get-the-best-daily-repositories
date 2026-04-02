@@ -2,31 +2,31 @@
   {
     "name": "dominikmartn/nothing-design-skill",
     "clone_url": "https://github.com/dominikmartn/nothing-design-skill.git",
-    "stars": 446,
+    "stars": 753,
     "size": 1682
-  },
-  {
-    "name": "repowise-dev/claude-code-prompts",
-    "clone_url": "https://github.com/repowise-dev/claude-code-prompts.git",
-    "stars": 360,
-    "size": 382
   },
   {
     "name": "wquguru/harness-books",
     "clone_url": "https://github.com/wquguru/harness-books.git",
-    "stars": 325,
-    "size": 2073
+    "stars": 551,
+    "size": 2083
   },
   {
-    "name": "code-yeongyu/not-claude-code-emulator",
-    "clone_url": "https://github.com/code-yeongyu/not-claude-code-emulator.git",
-    "stars": 319,
-    "size": 811
+    "name": "repowise-dev/claude-code-prompts",
+    "clone_url": "https://github.com/repowise-dev/claude-code-prompts.git",
+    "stars": 464,
+    "size": 382
+  },
+  {
+    "name": "HKUDS/OpenHarness",
+    "clone_url": "https://github.com/HKUDS/OpenHarness.git",
+    "stars": 443,
+    "size": 3752
   },
   {
     "name": "win4r/cc-notebook",
     "clone_url": "https://github.com/win4r/cc-notebook.git",
-    "stars": 310,
+    "stars": 383,
     "size": 851
   }
 ]
