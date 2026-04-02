@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-30 .. 2026-04-01)
+# Latest Repositories (2026-03-31 .. 2026-04-02)
 
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (5653)
-- [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) (1755)
-- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) (1637)
-- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) (1381)
-- [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) (929)
+- [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) (446)
+- [repowise-dev/claude-code-prompts](https://github.com/repowise-dev/claude-code-prompts) (360)
+- [wquguru/harness-books](https://github.com/wquguru/harness-books) (325)
+- [code-yeongyu/not-claude-code-emulator](https://github.com/code-yeongyu/not-claude-code-emulator) (319)
+- [win4r/cc-notebook](https://github.com/win4r/cc-notebook) (310)
