@@ -2,31 +2,31 @@
   {
     "name": "luyao618/Claude-Code-Source-Study",
     "clone_url": "https://github.com/luyao618/Claude-Code-Source-Study.git",
-    "stars": 340,
+    "stars": 752,
     "size": 807
+  },
+  {
+    "name": "kevinrgu/autoagent",
+    "clone_url": "https://github.com/kevinrgu/autoagent.git",
+    "stars": 476,
+    "size": 1262
   },
   {
     "name": "Paidax01/math-curve-loaders",
     "clone_url": "https://github.com/Paidax01/math-curve-loaders.git",
-    "stars": 238,
+    "stars": 283,
     "size": 66
-  },
-  {
-    "name": "LeoYeAI/MyClaw",
-    "clone_url": "https://github.com/LeoYeAI/MyClaw.git",
-    "stars": 195,
-    "size": 99
   },
   {
     "name": "inclusionAI/cuLA",
     "clone_url": "https://github.com/inclusionAI/cuLA.git",
-    "stars": 191,
-    "size": 701
+    "stars": 262,
+    "size": 714
   },
   {
-    "name": "IndustryCodeLab/polymarket-copy-trading-bot",
-    "clone_url": "https://github.com/IndustryCodeLab/polymarket-copy-trading-bot.git",
-    "stars": 133,
-    "size": 83
+    "name": "bddicken/tuitter",
+    "clone_url": "https://github.com/bddicken/tuitter.git",
+    "stars": 216,
+    "size": 966
   }
 ]
