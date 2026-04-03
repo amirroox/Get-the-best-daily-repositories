@@ -1,7 +1,7 @@
-# Latest Repositories (2026-03-31 .. 2026-04-02)
+# Latest Repositories (2026-04-01 .. 2026-04-03)
 
-- [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) (753)
-- [wquguru/harness-books](https://github.com/wquguru/harness-books) (551)
-- [repowise-dev/claude-code-prompts](https://github.com/repowise-dev/claude-code-prompts) (464)
-- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) (443)
-- [win4r/cc-notebook](https://github.com/win4r/cc-notebook) (383)
+- [luyao618/Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study) (340)
+- [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders) (238)
+- [LeoYeAI/MyClaw](https://github.com/LeoYeAI/MyClaw) (195)
+- [inclusionAI/cuLA](https://github.com/inclusionAI/cuLA) (191)
+- [IndustryCodeLab/polymarket-copy-trading-bot](https://github.com/IndustryCodeLab/polymarket-copy-trading-bot) (133)
