@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-01 .. 2026-04-03)
+# Latest Repositories (2026-04-02 .. 2026-04-04)
 
-- [luyao618/Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study) (752)
-- [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) (476)
-- [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders) (283)
-- [inclusionAI/cuLA](https://github.com/inclusionAI/cuLA) (262)
-- [bddicken/tuitter](https://github.com/bddicken/tuitter) (216)
+- [hilash/cabinet](https://github.com/hilash/cabinet) (212)
+- [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) (127)
+- [agc-desarrollo/polymarket-trading-bot](https://github.com/agc-desarrollo/polymarket-trading-bot) (101)
+- [SSFEFS/polymarket-trading-bot](https://github.com/SSFEFS/polymarket-trading-bot) (100)
+- [codescript94/Cozy-Heater-2-The-Titanic-Supermod](https://github.com/codescript94/Cozy-Heater-2-The-Titanic-Supermod) (42)
