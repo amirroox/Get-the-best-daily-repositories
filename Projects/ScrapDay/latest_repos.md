@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-02 .. 2026-04-04)
+# Latest Repositories (2026-04-03 .. 2026-04-05)
 
-- [hilash/cabinet](https://github.com/hilash/cabinet) (262)
-- [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) (195)
-- [agc-desarrollo/polymarket-trading-bot](https://github.com/agc-desarrollo/polymarket-trading-bot) (139)
-- [SSFEFS/polymarket-trading-bot](https://github.com/SSFEFS/polymarket-trading-bot) (138)
-- [SamDiep/MCM-Helper-SkyUI-6-Compatibility-Patch](https://github.com/SamDiep/MCM-Helper-SkyUI-6-Compatibility-Patch) (92)
+- [codeninja/oauth-cli-coder](https://github.com/codeninja/oauth-cli-coder) (107)
+- [junjiezhou1122/GptCrate](https://github.com/junjiezhou1122/GptCrate) (93)
+- [badlogic/pi-telegram](https://github.com/badlogic/pi-telegram) (78)
+- [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub) (75)
+- [Snake1029/Lossless-Scaling-Frame-Generation-PC](https://github.com/Snake1029/Lossless-Scaling-Frame-Generation-PC) (61)
