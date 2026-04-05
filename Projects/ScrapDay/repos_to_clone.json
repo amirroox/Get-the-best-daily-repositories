@@ -1,32 +1,32 @@
 [
   {
+    "name": "alchaincyf/nuwa-skill",
+    "clone_url": "https://github.com/alchaincyf/nuwa-skill.git",
+    "stars": 290,
+    "size": 383
+  },
+  {
     "name": "codeninja/oauth-cli-coder",
     "clone_url": "https://github.com/codeninja/oauth-cli-coder.git",
-    "stars": 107,
+    "stars": 117,
     "size": 129
   },
   {
     "name": "junjiezhou1122/GptCrate",
     "clone_url": "https://github.com/junjiezhou1122/GptCrate.git",
-    "stars": 93,
-    "size": 98
+    "stars": 110,
+    "size": 202
   },
   {
-    "name": "badlogic/pi-telegram",
-    "clone_url": "https://github.com/badlogic/pi-telegram.git",
-    "stars": 78,
-    "size": 4809
-  },
-  {
-    "name": "halal-beef/houston-pub",
-    "clone_url": "https://github.com/halal-beef/houston-pub.git",
-    "stars": 75,
-    "size": 225
+    "name": "34306/FilzaJailedDS",
+    "clone_url": "https://github.com/34306/FilzaJailedDS.git",
+    "stars": 109,
+    "size": 193
   },
   {
     "name": "Snake1029/Lossless-Scaling-Frame-Generation-PC",
     "clone_url": "https://github.com/Snake1029/Lossless-Scaling-Frame-Generation-PC.git",
-    "stars": 61,
+    "stars": 108,
     "size": 70
   }
 ]
