@@ -2,31 +2,31 @@
   {
     "name": "alchaincyf/nuwa-skill",
     "clone_url": "https://github.com/alchaincyf/nuwa-skill.git",
-    "stars": 684,
-    "size": 383
-  },
-  {
-    "name": "alchaincyf/steve-jobs-skill",
-    "clone_url": "https://github.com/alchaincyf/steve-jobs-skill.git",
-    "stars": 279,
-    "size": 94
+    "stars": 1195,
+    "size": 389
   },
   {
     "name": "fikrikarim/parlor",
     "clone_url": "https://github.com/fikrikarim/parlor.git",
-    "stars": 120,
-    "size": 206
+    "stars": 478,
+    "size": 217
   },
   {
-    "name": "DevTechJr/turboquant-gpu",
-    "clone_url": "https://github.com/DevTechJr/turboquant-gpu.git",
-    "stars": 92,
-    "size": 255
+    "name": "alchaincyf/steve-jobs-skill",
+    "clone_url": "https://github.com/alchaincyf/steve-jobs-skill.git",
+    "stars": 393,
+    "size": 94
   },
   {
-    "name": "R6410418/Jackrong-llm-finetuning-guide",
-    "clone_url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide.git",
-    "stars": 80,
-    "size": 606
+    "name": "zacdcook/openclaw-billing-proxy",
+    "clone_url": "https://github.com/zacdcook/openclaw-billing-proxy.git",
+    "stars": 170,
+    "size": 70
+  },
+  {
+    "name": "AFahim02/House-Flipper-2-Multiplayer",
+    "clone_url": "https://github.com/AFahim02/House-Flipper-2-Multiplayer.git",
+    "stars": 137,
+    "size": 60
   }
 ]
