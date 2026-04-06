@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-03 .. 2026-04-05)
+# Latest Repositories (2026-04-04 .. 2026-04-06)
 
-- [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) (290)
-- [codeninja/oauth-cli-coder](https://github.com/codeninja/oauth-cli-coder) (117)
-- [junjiezhou1122/GptCrate](https://github.com/junjiezhou1122/GptCrate) (110)
-- [34306/FilzaJailedDS](https://github.com/34306/FilzaJailedDS) (109)
-- [Snake1029/Lossless-Scaling-Frame-Generation-PC](https://github.com/Snake1029/Lossless-Scaling-Frame-Generation-PC) (108)
+- [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) (684)
+- [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) (279)
+- [fikrikarim/parlor](https://github.com/fikrikarim/parlor) (120)
+- [DevTechJr/turboquant-gpu](https://github.com/DevTechJr/turboquant-gpu) (92)
+- [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) (80)
