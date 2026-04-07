@@ -2,31 +2,31 @@
   {
     "name": "wxtsky/CodeIsland",
     "clone_url": "https://github.com/wxtsky/CodeIsland.git",
-    "stars": 302,
-    "size": 1261
+    "stars": 402,
+    "size": 2555
   },
   {
     "name": "alchaincyf/x-mentor-skill",
     "clone_url": "https://github.com/alchaincyf/x-mentor-skill.git",
-    "stars": 289,
-    "size": 505
-  },
-  {
-    "name": "Ar9av/obsidian-wiki",
-    "clone_url": "https://github.com/Ar9av/obsidian-wiki.git",
-    "stars": 133,
-    "size": 166
+    "stars": 396,
+    "size": 535
   },
   {
     "name": "karpathy/KarpathyTalk",
     "clone_url": "https://github.com/karpathy/KarpathyTalk.git",
-    "stars": 97,
-    "size": 125
+    "stars": 249,
+    "size": 89
   },
   {
-    "name": "whwh1233/StepFlow-Duck",
-    "clone_url": "https://github.com/whwh1233/StepFlow-Duck.git",
-    "stars": 93,
-    "size": 113
+    "name": "coleam00/claude-memory-compiler",
+    "clone_url": "https://github.com/coleam00/claude-memory-compiler.git",
+    "stars": 170,
+    "size": 55
+  },
+  {
+    "name": "Ar9av/obsidian-wiki",
+    "clone_url": "https://github.com/Ar9av/obsidian-wiki.git",
+    "stars": 164,
+    "size": 211
   }
 ]
