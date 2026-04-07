@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-04 .. 2026-04-06)
+# Latest Repositories (2026-04-05 .. 2026-04-07)
 
-- [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) (1195)
-- [fikrikarim/parlor](https://github.com/fikrikarim/parlor) (478)
-- [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) (393)
-- [zacdcook/openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy) (170)
-- [AFahim02/House-Flipper-2-Multiplayer](https://github.com/AFahim02/House-Flipper-2-Multiplayer) (137)
+- [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) (302)
+- [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) (289)
+- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) (133)
+- [karpathy/KarpathyTalk](https://github.com/karpathy/KarpathyTalk) (97)
+- [whwh1233/StepFlow-Duck](https://github.com/whwh1233/StepFlow-Duck) (93)
