@@ -1,32 +1,32 @@
 [
   {
-    "name": "wxtsky/CodeIsland",
-    "clone_url": "https://github.com/wxtsky/CodeIsland.git",
-    "stars": 402,
-    "size": 2555
+    "name": "mattmireles/gemma-tuner-multimodal",
+    "clone_url": "https://github.com/mattmireles/gemma-tuner-multimodal.git",
+    "stars": 273,
+    "size": 2328
   },
   {
-    "name": "alchaincyf/x-mentor-skill",
-    "clone_url": "https://github.com/alchaincyf/x-mentor-skill.git",
-    "stars": 396,
-    "size": 535
+    "name": "phuryn/claude-usage",
+    "clone_url": "https://github.com/phuryn/claude-usage.git",
+    "stars": 208,
+    "size": 1156
   },
   {
-    "name": "karpathy/KarpathyTalk",
-    "clone_url": "https://github.com/karpathy/KarpathyTalk.git",
-    "stars": 249,
-    "size": 89
+    "name": "NyxTides/SimpleAuthFlow",
+    "clone_url": "https://github.com/NyxTides/SimpleAuthFlow.git",
+    "stars": 183,
+    "size": 72
   },
   {
-    "name": "coleam00/claude-memory-compiler",
-    "clone_url": "https://github.com/coleam00/claude-memory-compiler.git",
-    "stars": 170,
-    "size": 55
+    "name": "nox-project/nox-framework",
+    "clone_url": "https://github.com/nox-project/nox-framework.git",
+    "stars": 162,
+    "size": 165
   },
   {
-    "name": "Ar9av/obsidian-wiki",
-    "clone_url": "https://github.com/Ar9av/obsidian-wiki.git",
-    "stars": 164,
-    "size": 211
+    "name": "LoseNine/ruyipage",
+    "clone_url": "https://github.com/LoseNine/ruyipage.git",
+    "stars": 91,
+    "size": 2818
   }
 ]
