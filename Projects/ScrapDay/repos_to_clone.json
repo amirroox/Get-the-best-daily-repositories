@@ -1,32 +1,32 @@
 [
   {
-    "name": "mattmireles/gemma-tuner-multimodal",
-    "clone_url": "https://github.com/mattmireles/gemma-tuner-multimodal.git",
-    "stars": 529,
-    "size": 2328
+    "name": "nashsu/llm_wiki",
+    "clone_url": "https://github.com/nashsu/llm_wiki.git",
+    "stars": 93,
+    "size": 4359
   },
   {
-    "name": "phuryn/claude-usage",
-    "clone_url": "https://github.com/phuryn/claude-usage.git",
-    "stars": 445,
-    "size": 1910
+    "name": "ksimback/hermes-ecosystem",
+    "clone_url": "https://github.com/ksimback/hermes-ecosystem.git",
+    "stars": 81,
+    "size": 66
   },
   {
-    "name": "nox-project/nox-framework",
-    "clone_url": "https://github.com/nox-project/nox-framework.git",
-    "stars": 249,
-    "size": 165
+    "name": "mr-r3b00t/fingerprintdetector",
+    "clone_url": "https://github.com/mr-r3b00t/fingerprintdetector.git",
+    "stars": 74,
+    "size": 79
   },
   {
-    "name": "NyxTides/SimpleAuthFlow",
-    "clone_url": "https://github.com/NyxTides/SimpleAuthFlow.git",
-    "stars": 242,
-    "size": 81
+    "name": "wxwxOk/multiPagePlugins",
+    "clone_url": "https://github.com/wxwxOk/multiPagePlugins.git",
+    "stars": 71,
+    "size": 116
   },
   {
-    "name": "LoseNine/ruyipage",
-    "clone_url": "https://github.com/LoseNine/ruyipage.git",
-    "stars": 134,
-    "size": 2905
+    "name": "obdev/littlesnitch-linux",
+    "clone_url": "https://github.com/obdev/littlesnitch-linux.git",
+    "stars": 64,
+    "size": 234
   }
 ]
