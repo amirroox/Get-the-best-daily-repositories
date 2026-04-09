@@ -1,32 +1,32 @@
 [
   {
+    "name": "obdev/littlesnitch-linux",
+    "clone_url": "https://github.com/obdev/littlesnitch-linux.git",
+    "stars": 278,
+    "size": 234
+  },
+  {
     "name": "nashsu/llm_wiki",
     "clone_url": "https://github.com/nashsu/llm_wiki.git",
-    "stars": 93,
-    "size": 4359
+    "stars": 206,
+    "size": 4508
   },
   {
     "name": "ksimback/hermes-ecosystem",
     "clone_url": "https://github.com/ksimback/hermes-ecosystem.git",
-    "stars": 81,
+    "stars": 121,
     "size": 66
+  },
+  {
+    "name": "QLHazyCoder/codex-oauth-automation-extension",
+    "clone_url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension.git",
+    "stars": 96,
+    "size": 184
   },
   {
     "name": "mr-r3b00t/fingerprintdetector",
     "clone_url": "https://github.com/mr-r3b00t/fingerprintdetector.git",
-    "stars": 74,
+    "stars": 87,
     "size": 79
-  },
-  {
-    "name": "wxwxOk/multiPagePlugins",
-    "clone_url": "https://github.com/wxwxOk/multiPagePlugins.git",
-    "stars": 71,
-    "size": 116
-  },
-  {
-    "name": "obdev/littlesnitch-linux",
-    "clone_url": "https://github.com/obdev/littlesnitch-linux.git",
-    "stars": 64,
-    "size": 234
   }
 ]
