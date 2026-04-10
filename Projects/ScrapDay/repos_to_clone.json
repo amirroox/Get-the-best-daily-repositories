@@ -1,32 +1,32 @@
 [
   {
-    "name": "obdev/littlesnitch-linux",
-    "clone_url": "https://github.com/obdev/littlesnitch-linux.git",
-    "stars": 278,
-    "size": 234
+    "name": "whwangovo/pyre-code",
+    "clone_url": "https://github.com/whwangovo/pyre-code.git",
+    "stars": 249,
+    "size": 373
   },
   {
-    "name": "nashsu/llm_wiki",
-    "clone_url": "https://github.com/nashsu/llm_wiki.git",
-    "stars": 206,
-    "size": 4508
+    "name": "dominikmartn/ProgressiveBlurHeader",
+    "clone_url": "https://github.com/dominikmartn/ProgressiveBlurHeader.git",
+    "stars": 179,
+    "size": 2158
   },
   {
-    "name": "ksimback/hermes-ecosystem",
-    "clone_url": "https://github.com/ksimback/hermes-ecosystem.git",
-    "stars": 121,
-    "size": 66
+    "name": "UnluckyNinja/SBTI-test",
+    "clone_url": "https://github.com/UnluckyNinja/SBTI-test.git",
+    "stars": 149,
+    "size": 4609
   },
   {
     "name": "QLHazyCoder/codex-oauth-automation-extension",
     "clone_url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension.git",
-    "stars": 96,
-    "size": 184
+    "stars": 136,
+    "size": 214
   },
   {
-    "name": "mr-r3b00t/fingerprintdetector",
-    "clone_url": "https://github.com/mr-r3b00t/fingerprintdetector.git",
-    "stars": 87,
-    "size": 79
+    "name": "joeynyc/hermes-hudui",
+    "clone_url": "https://github.com/joeynyc/hermes-hudui.git",
+    "stars": 104,
+    "size": 1464
   }
 ]
