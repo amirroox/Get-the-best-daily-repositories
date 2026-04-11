@@ -1,32 +1,32 @@
 [
   {
+    "name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "clone_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph.git",
+    "stars": 643,
+    "size": 1761
+  },
+  {
     "name": "AMAP-ML/SkillClaw",
     "clone_url": "https://github.com/AMAP-ML/SkillClaw.git",
-    "stars": 314,
+    "stars": 349,
     "size": 3521
   },
   {
-    "name": "yizhiyanhua-ai/fireworks-tech-graph",
-    "clone_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph.git",
+    "name": "retlehs/quien",
+    "clone_url": "https://github.com/retlehs/quien.git",
     "stars": 192,
-    "size": 1761
+    "size": 834
   },
   {
     "name": "klsf/codex-register",
     "clone_url": "https://github.com/klsf/codex-register.git",
-    "stars": 152,
+    "stars": 159,
     "size": 63
-  },
-  {
-    "name": "MarchLiu/hypatia",
-    "clone_url": "https://github.com/MarchLiu/hypatia.git",
-    "stars": 121,
-    "size": 109
   },
   {
     "name": "DIYgod/cloudflare-edge-tts",
     "clone_url": "https://github.com/DIYgod/cloudflare-edge-tts.git",
-    "stars": 106,
+    "stars": 137,
     "size": 129
   }
 ]
