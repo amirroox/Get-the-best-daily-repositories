@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-09 .. 2026-04-11)
+# Latest Repositories (2026-04-10 .. 2026-04-12)
 
-- [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) (643)
-- [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) (349)
-- [retlehs/quien](https://github.com/retlehs/quien) (192)
-- [klsf/codex-register](https://github.com/klsf/codex-register) (159)
-- [DIYgod/cloudflare-edge-tts](https://github.com/DIYgod/cloudflare-edge-tts) (137)
+- [millionco/cli-to-js](https://github.com/millionco/cli-to-js) (125)
+- [ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod](https://github.com/ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod) (76)
+- [hussennader/JSON-Mod-Manager-For-Crimson-Desert](https://github.com/hussennader/JSON-Mod-Manager-For-Crimson-Desert) (57)
+- [NYCU-Chung/my-claude-devteam](https://github.com/NYCU-Chung/my-claude-devteam) (56)
+- [HJCheng0602/nanoPD](https://github.com/HJCheng0602/nanoPD) (47)
