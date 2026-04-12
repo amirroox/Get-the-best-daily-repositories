@@ -2,31 +2,31 @@
   {
     "name": "millionco/cli-to-js",
     "clone_url": "https://github.com/millionco/cli-to-js.git",
-    "stars": 125,
+    "stars": 169,
     "size": 203
   },
   {
     "name": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
     "clone_url": "https://github.com/ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod.git",
-    "stars": 76,
+    "stars": 89,
     "size": 85
+  },
+  {
+    "name": "ListerOvO1211/LazyEnv",
+    "clone_url": "https://github.com/ListerOvO1211/LazyEnv.git",
+    "stars": 82,
+    "size": 72
   },
   {
     "name": "hussennader/JSON-Mod-Manager-For-Crimson-Desert",
     "clone_url": "https://github.com/hussennader/JSON-Mod-Manager-For-Crimson-Desert.git",
-    "stars": 57,
+    "stars": 76,
     "size": 65
   },
   {
-    "name": "NYCU-Chung/my-claude-devteam",
-    "clone_url": "https://github.com/NYCU-Chung/my-claude-devteam.git",
-    "stars": 56,
-    "size": 143
-  },
-  {
-    "name": "HJCheng0602/nanoPD",
-    "clone_url": "https://github.com/HJCheng0602/nanoPD.git",
-    "stars": 47,
-    "size": 2486
+    "name": "litmus4ai/litmus",
+    "clone_url": "https://github.com/litmus4ai/litmus.git",
+    "stars": 72,
+    "size": 167
   }
 ]
