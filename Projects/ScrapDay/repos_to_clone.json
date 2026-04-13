@@ -1,32 +1,32 @@
 [
   {
-    "name": "0xquqi/crypto-kol-quant",
-    "clone_url": "https://github.com/0xquqi/crypto-kol-quant.git",
-    "stars": 131,
-    "size": 2628
-  },
-  {
-    "name": "clawvader-tech/hermes-telegram-miniapp",
-    "clone_url": "https://github.com/clawvader-tech/hermes-telegram-miniapp.git",
-    "stars": 103,
-    "size": 58
-  },
-  {
-    "name": "Ansub/wiki-os",
-    "clone_url": "https://github.com/Ansub/wiki-os.git",
-    "stars": 91,
-    "size": 214
-  },
-  {
-    "name": "amitshekhariitbhu/llm-internals",
-    "clone_url": "https://github.com/amitshekhariitbhu/llm-internals.git",
-    "stars": 86,
-    "size": 145
+    "name": "Mouseww/anything-analyzer",
+    "clone_url": "https://github.com/Mouseww/anything-analyzer.git",
+    "stars": 252,
+    "size": 206
   },
   {
     "name": "V-IOLE-T/hotmail-register-extension",
     "clone_url": "https://github.com/V-IOLE-T/hotmail-register-extension.git",
-    "stars": 83,
-    "size": 533
+    "stars": 207,
+    "size": 844
+  },
+  {
+    "name": "sterlingcrispin/nothing-ever-happens",
+    "clone_url": "https://github.com/sterlingcrispin/nothing-ever-happens.git",
+    "stars": 193,
+    "size": 254
+  },
+  {
+    "name": "0xquqi/crypto-kol-quant",
+    "clone_url": "https://github.com/0xquqi/crypto-kol-quant.git",
+    "stars": 176,
+    "size": 2628
+  },
+  {
+    "name": "amitshekhariitbhu/llm-internals",
+    "clone_url": "https://github.com/amitshekhariitbhu/llm-internals.git",
+    "stars": 169,
+    "size": 150
   }
 ]
