@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-10 .. 2026-04-12)
+# Latest Repositories (2026-04-11 .. 2026-04-13)
 
-- [millionco/cli-to-js](https://github.com/millionco/cli-to-js) (169)
-- [ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod](https://github.com/ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod) (89)
-- [ListerOvO1211/LazyEnv](https://github.com/ListerOvO1211/LazyEnv) (82)
-- [hussennader/JSON-Mod-Manager-For-Crimson-Desert](https://github.com/hussennader/JSON-Mod-Manager-For-Crimson-Desert) (76)
-- [litmus4ai/litmus](https://github.com/litmus4ai/litmus) (72)
+- [0xquqi/crypto-kol-quant](https://github.com/0xquqi/crypto-kol-quant) (131)
+- [clawvader-tech/hermes-telegram-miniapp](https://github.com/clawvader-tech/hermes-telegram-miniapp) (103)
+- [Ansub/wiki-os](https://github.com/Ansub/wiki-os) (91)
+- [amitshekhariitbhu/llm-internals](https://github.com/amitshekhariitbhu/llm-internals) (86)
+- [V-IOLE-T/hotmail-register-extension](https://github.com/V-IOLE-T/hotmail-register-extension) (83)
