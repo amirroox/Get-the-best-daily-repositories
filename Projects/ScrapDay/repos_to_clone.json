@@ -1,32 +1,32 @@
 [
   {
+    "name": "vercel-labs/wterm",
+    "clone_url": "https://github.com/vercel-labs/wterm.git",
+    "stars": 298,
+    "size": 399
+  },
+  {
+    "name": "thegdsks/awesome-modern-cli",
+    "clone_url": "https://github.com/thegdsks/awesome-modern-cli.git",
+    "stars": 143,
+    "size": 64
+  },
+  {
     "name": "5ec1cff/FuseFixer",
     "clone_url": "https://github.com/5ec1cff/FuseFixer.git",
-    "stars": 130,
+    "stars": 142,
     "size": 154
   },
   {
-    "name": "vercel-labs/wterm",
-    "clone_url": "https://github.com/vercel-labs/wterm.git",
-    "stars": 90,
-    "size": 360
+    "name": "poseljacob/agentic-video-editor",
+    "clone_url": "https://github.com/poseljacob/agentic-video-editor.git",
+    "stars": 105,
+    "size": 475
   },
   {
-    "name": "LIDR-academy/manual-SDD",
-    "clone_url": "https://github.com/LIDR-academy/manual-SDD.git",
-    "stars": 74,
-    "size": 106
-  },
-  {
-    "name": "weareaisle/nano-analyzer",
-    "clone_url": "https://github.com/weareaisle/nano-analyzer.git",
-    "stars": 62,
-    "size": 297
-  },
-  {
-    "name": "v0id4real/Void-Nuke",
-    "clone_url": "https://github.com/v0id4real/Void-Nuke.git",
-    "stars": 51,
-    "size": 80
+    "name": "xataio/xata",
+    "clone_url": "https://github.com/xataio/xata.git",
+    "stars": 94,
+    "size": 1128
   }
 ]

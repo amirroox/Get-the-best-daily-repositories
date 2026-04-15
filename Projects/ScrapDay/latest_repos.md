@@ -1,7 +1,7 @@
 # Latest Repositories (2026-04-13 .. 2026-04-15)
 
-- [5ec1cff/FuseFixer](https://github.com/5ec1cff/FuseFixer) (130)
-- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) (90)
-- [LIDR-academy/manual-SDD](https://github.com/LIDR-academy/manual-SDD) (74)
-- [weareaisle/nano-analyzer](https://github.com/weareaisle/nano-analyzer) (62)
-- [v0id4real/Void-Nuke](https://github.com/v0id4real/Void-Nuke) (51)
+- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) (298)
+- [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli) (143)
+- [5ec1cff/FuseFixer](https://github.com/5ec1cff/FuseFixer) (142)
+- [poseljacob/agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) (105)
+- [xataio/xata](https://github.com/xataio/xata) (94)
