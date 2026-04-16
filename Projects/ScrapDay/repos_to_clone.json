@@ -2,31 +2,31 @@
   {
     "name": "WeaveMindAI/weft",
     "clone_url": "https://github.com/WeaveMindAI/weft.git",
-    "stars": 399,
-    "size": 1813
+    "stars": 554,
+    "size": 1838
   },
   {
     "name": "xataio/xata",
     "clone_url": "https://github.com/xataio/xata.git",
-    "stars": 336,
-    "size": 1134
+    "stars": 447,
+    "size": 1136
+  },
+  {
+    "name": "Nightmare-Eclipse/RedSun",
+    "clone_url": "https://github.com/Nightmare-Eclipse/RedSun.git",
+    "stars": 435,
+    "size": 56
+  },
+  {
+    "name": "op7418/logo-generator-skill",
+    "clone_url": "https://github.com/op7418/logo-generator-skill.git",
+    "stars": 362,
+    "size": 55
   },
   {
     "name": "stanford-iris-lab/meta-harness",
     "clone_url": "https://github.com/stanford-iris-lab/meta-harness.git",
-    "stars": 232,
+    "stars": 330,
     "size": 1314
-  },
-  {
-    "name": "millionco/claude-doctor",
-    "clone_url": "https://github.com/millionco/claude-doctor.git",
-    "stars": 203,
-    "size": 232
-  },
-  {
-    "name": "thegdsks/awesome-modern-cli",
-    "clone_url": "https://github.com/thegdsks/awesome-modern-cli.git",
-    "stars": 201,
-    "size": 113
   }
 ]
