@@ -1,32 +1,32 @@
 [
   {
-    "name": "vercel-labs/wterm",
-    "clone_url": "https://github.com/vercel-labs/wterm.git",
-    "stars": 298,
-    "size": 399
-  },
-  {
-    "name": "thegdsks/awesome-modern-cli",
-    "clone_url": "https://github.com/thegdsks/awesome-modern-cli.git",
-    "stars": 143,
-    "size": 64
-  },
-  {
-    "name": "5ec1cff/FuseFixer",
-    "clone_url": "https://github.com/5ec1cff/FuseFixer.git",
-    "stars": 142,
-    "size": 154
-  },
-  {
-    "name": "poseljacob/agentic-video-editor",
-    "clone_url": "https://github.com/poseljacob/agentic-video-editor.git",
-    "stars": 105,
-    "size": 475
+    "name": "WeaveMindAI/weft",
+    "clone_url": "https://github.com/WeaveMindAI/weft.git",
+    "stars": 399,
+    "size": 1813
   },
   {
     "name": "xataio/xata",
     "clone_url": "https://github.com/xataio/xata.git",
-    "stars": 94,
-    "size": 1128
+    "stars": 336,
+    "size": 1134
+  },
+  {
+    "name": "stanford-iris-lab/meta-harness",
+    "clone_url": "https://github.com/stanford-iris-lab/meta-harness.git",
+    "stars": 232,
+    "size": 1314
+  },
+  {
+    "name": "millionco/claude-doctor",
+    "clone_url": "https://github.com/millionco/claude-doctor.git",
+    "stars": 203,
+    "size": 232
+  },
+  {
+    "name": "thegdsks/awesome-modern-cli",
+    "clone_url": "https://github.com/thegdsks/awesome-modern-cli.git",
+    "stars": 201,
+    "size": 113
   }
 ]

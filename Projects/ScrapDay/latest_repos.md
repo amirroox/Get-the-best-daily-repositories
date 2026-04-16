@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-13 .. 2026-04-15)
+# Latest Repositories (2026-04-14 .. 2026-04-16)
 
-- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) (298)
-- [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli) (143)
-- [5ec1cff/FuseFixer](https://github.com/5ec1cff/FuseFixer) (142)
-- [poseljacob/agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) (105)
-- [xataio/xata](https://github.com/xataio/xata) (94)
+- [WeaveMindAI/weft](https://github.com/WeaveMindAI/weft) (399)
+- [xataio/xata](https://github.com/xataio/xata) (336)
+- [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) (232)
+- [millionco/claude-doctor](https://github.com/millionco/claude-doctor) (203)
+- [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli) (201)
