@@ -1,7 +1,7 @@
 # Latest Repositories (2026-04-15 .. 2026-04-17)
 
-- [GRVYDEV/marky](https://github.com/GRVYDEV/marky) (81)
-- [rexa-developer/tiks](https://github.com/rexa-developer/tiks) (78)
-- [SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version](https://github.com/SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version) (76)
-- [DarshilNaliyapara/Tomodachi-Life-Living-the-Dream-PC-Version](https://github.com/DarshilNaliyapara/Tomodachi-Life-Living-the-Dream-PC-Version) (75)
-- [Kaligali/FL-Production-25.2.5](https://github.com/Kaligali/FL-Production-25.2.5) (71)
+- [jackwener/wx-cli](https://github.com/jackwener/wx-cli) (244)
+- [GRVYDEV/marky](https://github.com/GRVYDEV/marky) (126)
+- [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) (90)
+- [rexa-developer/tiks](https://github.com/rexa-developer/tiks) (85)
+- [cosmic-market/polymarket-copy-trading-bot](https://github.com/cosmic-market/polymarket-copy-trading-bot) (73)
