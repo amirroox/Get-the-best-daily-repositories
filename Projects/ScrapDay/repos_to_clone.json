@@ -1,32 +1,32 @@
 [
   {
+    "name": "kyegomez/OpenMythos",
+    "clone_url": "https://github.com/kyegomez/OpenMythos.git",
+    "stars": 461,
+    "size": 75
+  },
+  {
     "name": "drasimwagan/mdv",
     "clone_url": "https://github.com/drasimwagan/mdv.git",
-    "stars": 155,
+    "stars": 209,
     "size": 387
   },
   {
-    "name": "kyegomez/OpenMythos",
-    "clone_url": "https://github.com/kyegomez/OpenMythos.git",
-    "stars": 80,
-    "size": 57
+    "name": "ZeroZ-lab/cc-design",
+    "clone_url": "https://github.com/ZeroZ-lab/cc-design.git",
+    "stars": 177,
+    "size": 54
   },
   {
     "name": "nizarlbogos/Windrose-Game-Server-Docker",
     "clone_url": "https://github.com/nizarlbogos/Windrose-Game-Server-Docker.git",
-    "stars": 71,
+    "stars": 154,
     "size": 51
   },
   {
     "name": "chabba1234/Claude-Design-By-Anthropic",
     "clone_url": "https://github.com/chabba1234/Claude-Design-By-Anthropic.git",
-    "stars": 70,
+    "stars": 155,
     "size": 86
-  },
-  {
-    "name": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
-    "clone_url": "https://github.com/aidanBoi123/AutoDesk-AutoCad-2026-Desktop.git",
-    "stars": 66,
-    "size": 67
   }
 ]
