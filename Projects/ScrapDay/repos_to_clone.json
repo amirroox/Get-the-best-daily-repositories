@@ -1,32 +1,32 @@
 [
   {
-    "name": "kyegomez/OpenMythos",
-    "clone_url": "https://github.com/kyegomez/OpenMythos.git",
-    "stars": 461,
-    "size": 75
-  },
-  {
-    "name": "drasimwagan/mdv",
-    "clone_url": "https://github.com/drasimwagan/mdv.git",
-    "stars": 209,
-    "size": 387
-  },
-  {
     "name": "ZeroZ-lab/cc-design",
     "clone_url": "https://github.com/ZeroZ-lab/cc-design.git",
-    "stars": 177,
-    "size": 54
+    "stars": 322,
+    "size": 98
   },
   {
-    "name": "nizarlbogos/Windrose-Game-Server-Docker",
-    "clone_url": "https://github.com/nizarlbogos/Windrose-Game-Server-Docker.git",
-    "stars": 154,
-    "size": 51
+    "name": "oritera/Cairn",
+    "clone_url": "https://github.com/oritera/Cairn.git",
+    "stars": 129,
+    "size": 1855
   },
   {
-    "name": "chabba1234/Claude-Design-By-Anthropic",
-    "clone_url": "https://github.com/chabba1234/Claude-Design-By-Anthropic.git",
-    "stars": 155,
-    "size": 86
+    "name": "rohitg00/awesome-claude-design",
+    "clone_url": "https://github.com/rohitg00/awesome-claude-design.git",
+    "stars": 105,
+    "size": 52
+  },
+  {
+    "name": "vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
+    "clone_url": "https://github.com/vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8.git",
+    "stars": 102,
+    "size": 2102
+  },
+  {
+    "name": "basketikun/chatgpt2api",
+    "clone_url": "https://github.com/basketikun/chatgpt2api.git",
+    "stars": 88,
+    "size": 1957
   }
 ]

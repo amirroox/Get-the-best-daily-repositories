@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-17 .. 2026-04-19)
+# Latest Repositories (2026-04-18 .. 2026-04-20)
 
-- [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) (461)
-- [drasimwagan/mdv](https://github.com/drasimwagan/mdv) (209)
-- [ZeroZ-lab/cc-design](https://github.com/ZeroZ-lab/cc-design) (177)
-- [nizarlbogos/Windrose-Game-Server-Docker](https://github.com/nizarlbogos/Windrose-Game-Server-Docker) (154)
-- [chabba1234/Claude-Design-By-Anthropic](https://github.com/chabba1234/Claude-Design-By-Anthropic) (155)
+- [ZeroZ-lab/cc-design](https://github.com/ZeroZ-lab/cc-design) (322)
+- [oritera/Cairn](https://github.com/oritera/Cairn) (129)
+- [rohitg00/awesome-claude-design](https://github.com/rohitg00/awesome-claude-design) (105)
+- [vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8](https://github.com/vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8) (102)
+- [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) (88)
