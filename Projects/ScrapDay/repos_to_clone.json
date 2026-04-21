@@ -1,32 +1,32 @@
 [
   {
+    "name": "cosmicstack-labs/mercury-agent",
+    "clone_url": "https://github.com/cosmicstack-labs/mercury-agent.git",
+    "stars": 273,
+    "size": 902
+  },
+  {
+    "name": "masterking32/MasterHttpRelayVPN",
+    "clone_url": "https://github.com/masterking32/MasterHttpRelayVPN.git",
+    "stars": 235,
+    "size": 267
+  },
+  {
     "name": "ArcaneNibble/awawausb",
     "clone_url": "https://github.com/ArcaneNibble/awawausb.git",
-    "stars": 170,
+    "stars": 228,
     "size": 645
   },
   {
-    "name": "cosmicstack-labs/mercury-agent",
-    "clone_url": "https://github.com/cosmicstack-labs/mercury-agent.git",
-    "stars": 165,
-    "size": 867
+    "name": "nateherkai/token-dashboard",
+    "clone_url": "https://github.com/nateherkai/token-dashboard.git",
+    "stars": 117,
+    "size": 660
   },
   {
-    "name": "knit-finances/polymarket-arbitrage-bot",
-    "clone_url": "https://github.com/knit-finances/polymarket-arbitrage-bot.git",
-    "stars": 108,
-    "size": 558
-  },
-  {
-    "name": "lemini-protocol/polymarket-copytrading-bot",
-    "clone_url": "https://github.com/lemini-protocol/polymarket-copytrading-bot.git",
-    "stars": 108,
-    "size": 548
-  },
-  {
-    "name": "ovoment/ovo-local-llm",
-    "clone_url": "https://github.com/ovoment/ovo-local-llm.git",
-    "stars": 65,
-    "size": 4747
+    "name": "akseolabs-seo/AK-Threads-booster",
+    "clone_url": "https://github.com/akseolabs-seo/AK-Threads-booster.git",
+    "stars": 115,
+    "size": 302
   }
 ]
