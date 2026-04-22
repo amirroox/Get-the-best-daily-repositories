@@ -1,32 +1,32 @@
 [
   {
-    "name": "unicircle-finance/polymarket-copytrading-bot",
-    "clone_url": "https://github.com/unicircle-finance/polymarket-copytrading-bot.git",
-    "stars": 132,
-    "size": 558
-  },
-  {
-    "name": "unicircle-finance/polymarket-arbitrage-bot",
-    "clone_url": "https://github.com/unicircle-finance/polymarket-arbitrage-bot.git",
-    "stars": 133,
-    "size": 562
-  },
-  {
-    "name": "QuantBots-Collective/polymarket-copy-trading-bot",
-    "clone_url": "https://github.com/QuantBots-Collective/polymarket-copy-trading-bot.git",
-    "stars": 112,
-    "size": 1033
+    "name": "Russell-cell/PPT-Design-Prompt",
+    "clone_url": "https://github.com/Russell-cell/PPT-Design-Prompt.git",
+    "stars": 163,
+    "size": 563
   },
   {
     "name": "jasonkneen/agent-simulator",
     "clone_url": "https://github.com/jasonkneen/agent-simulator.git",
-    "stars": 91,
+    "stars": 109,
     "size": 279
+  },
+  {
+    "name": "Yu9191/sub-store-workers",
+    "clone_url": "https://github.com/Yu9191/sub-store-workers.git",
+    "stars": 78,
+    "size": 257
   },
   {
     "name": "Pedrozz13755/Lottie-Whatsapp",
     "clone_url": "https://github.com/Pedrozz13755/Lottie-Whatsapp.git",
-    "stars": 71,
+    "stars": 73,
     "size": 407
+  },
+  {
+    "name": "AlgoInfraTech/polymarket-sports-copytrading-bot",
+    "clone_url": "https://github.com/AlgoInfraTech/polymarket-sports-copytrading-bot.git",
+    "stars": 67,
+    "size": 68
   }
 ]
