@@ -1,32 +1,32 @@
 [
   {
+    "name": "deepseek-ai/TileKernels",
+    "clone_url": "https://github.com/deepseek-ai/TileKernels.git",
+    "stars": 427,
+    "size": 146
+  },
+  {
     "name": "Russell-cell/PPT-Design-Prompt",
     "clone_url": "https://github.com/Russell-cell/PPT-Design-Prompt.git",
-    "stars": 269,
+    "stars": 350,
     "size": 563
-  },
-  {
-    "name": "FlowTrader-Labs/polymarket-trading-bot",
-    "clone_url": "https://github.com/FlowTrader-Labs/polymarket-trading-bot.git",
-    "stars": 127,
-    "size": 1522
-  },
-  {
-    "name": "Axion-Trading-Labs/polymarket-trading-bot",
-    "clone_url": "https://github.com/Axion-Trading-Labs/polymarket-trading-bot.git",
-    "stars": 126,
-    "size": 1523
-  },
-  {
-    "name": "Yu9191/sub-store-workers",
-    "clone_url": "https://github.com/Yu9191/sub-store-workers.git",
-    "stars": 106,
-    "size": 263
   },
   {
     "name": "TraderAlice/Auto-Quant",
     "clone_url": "https://github.com/TraderAlice/Auto-Quant.git",
-    "stars": 104,
-    "size": 692
+    "stars": 150,
+    "size": 782
+  },
+  {
+    "name": "Axion-Trading-Labs/polymarket-trading-bot",
+    "clone_url": "https://github.com/Axion-Trading-Labs/polymarket-trading-bot.git",
+    "stars": 148,
+    "size": 1523
+  },
+  {
+    "name": "FlowTrader-Labs/polymarket-trading-bot",
+    "clone_url": "https://github.com/FlowTrader-Labs/polymarket-trading-bot.git",
+    "stars": 148,
+    "size": 1522
   }
 ]
