@@ -1,32 +1,32 @@
 [
   {
+    "name": "op7418/guizang-ppt-skill",
+    "clone_url": "https://github.com/op7418/guizang-ppt-skill.git",
+    "stars": 1562,
+    "size": 51
+  },
+  {
     "name": "levelsio/superlevels",
     "clone_url": "https://github.com/levelsio/superlevels.git",
-    "stars": 264,
+    "stars": 345,
     "size": 1970
   },
   {
-    "name": "muxprotocol/kalshi-trading-bot",
-    "clone_url": "https://github.com/muxprotocol/kalshi-trading-bot.git",
-    "stars": 124,
-    "size": 98
+    "name": "Parallax-Trading/polymarket-copy-trading-bot",
+    "clone_url": "https://github.com/Parallax-Trading/polymarket-copy-trading-bot.git",
+    "stars": 192,
+    "size": 681
   },
   {
-    "name": "muxprotocol/solana-trading-bot",
-    "clone_url": "https://github.com/muxprotocol/solana-trading-bot.git",
-    "stars": 122,
-    "size": 109
+    "name": "SmartOrder-Systems/polymarket-copy-trading-bot",
+    "clone_url": "https://github.com/SmartOrder-Systems/polymarket-copy-trading-bot.git",
+    "stars": 191,
+    "size": 682
   },
   {
-    "name": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
-    "clone_url": "https://github.com/bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi.git",
-    "stars": 59,
-    "size": 924
-  },
-  {
-    "name": "TheTom/vllm-swift",
-    "clone_url": "https://github.com/TheTom/vllm-swift.git",
-    "stars": 54,
-    "size": 633
+    "name": "0x0funky/agent-sprite-forge",
+    "clone_url": "https://github.com/0x0funky/agent-sprite-forge.git",
+    "stars": 183,
+    "size": 1115
   }
 ]
