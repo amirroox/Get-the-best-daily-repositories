@@ -1,32 +1,32 @@
 [
   {
-    "name": "deepseek-ai/TileKernels",
-    "clone_url": "https://github.com/deepseek-ai/TileKernels.git",
-    "stars": 427,
-    "size": 146
+    "name": "levelsio/superlevels",
+    "clone_url": "https://github.com/levelsio/superlevels.git",
+    "stars": 264,
+    "size": 1970
   },
   {
-    "name": "Russell-cell/PPT-Design-Prompt",
-    "clone_url": "https://github.com/Russell-cell/PPT-Design-Prompt.git",
-    "stars": 350,
-    "size": 563
+    "name": "muxprotocol/kalshi-trading-bot",
+    "clone_url": "https://github.com/muxprotocol/kalshi-trading-bot.git",
+    "stars": 124,
+    "size": 98
   },
   {
-    "name": "TraderAlice/Auto-Quant",
-    "clone_url": "https://github.com/TraderAlice/Auto-Quant.git",
-    "stars": 150,
-    "size": 782
+    "name": "muxprotocol/solana-trading-bot",
+    "clone_url": "https://github.com/muxprotocol/solana-trading-bot.git",
+    "stars": 122,
+    "size": 109
   },
   {
-    "name": "Axion-Trading-Labs/polymarket-trading-bot",
-    "clone_url": "https://github.com/Axion-Trading-Labs/polymarket-trading-bot.git",
-    "stars": 148,
-    "size": 1523
+    "name": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
+    "clone_url": "https://github.com/bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi.git",
+    "stars": 59,
+    "size": 924
   },
   {
-    "name": "FlowTrader-Labs/polymarket-trading-bot",
-    "clone_url": "https://github.com/FlowTrader-Labs/polymarket-trading-bot.git",
-    "stars": 148,
-    "size": 1522
+    "name": "TheTom/vllm-swift",
+    "clone_url": "https://github.com/TheTom/vllm-swift.git",
+    "stars": 54,
+    "size": 633
   }
 ]
