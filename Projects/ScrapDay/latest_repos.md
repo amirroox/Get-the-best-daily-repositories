@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-24 .. 2026-04-26)
+# Latest Repositories (2026-04-25 .. 2026-04-27)
 
-- [PrimeOrder-Labs/polymarket-copy-trading-bot](https://github.com/PrimeOrder-Labs/polymarket-copy-trading-bot) (231)
-- [Orbital-Alpha/polymarket-copy-trading-bot](https://github.com/Orbital-Alpha/polymarket-copy-trading-bot) (229)
-- [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) (186)
-- [wxtsky/byob](https://github.com/wxtsky/byob) (81)
-- [calendar0917/DeepseekWeb-enhance](https://github.com/calendar0917/DeepseekWeb-enhance) (75)
+- [avaco-cloud/Vercel-XHTTP](https://github.com/avaco-cloud/Vercel-XHTTP) (155)
+- [alefinvest/polymarket-arbitrage-bot](https://github.com/alefinvest/polymarket-arbitrage-bot) (146)
+- [PolyPulse-Analytics/hyperliquid-trading-bot](https://github.com/PolyPulse-Analytics/hyperliquid-trading-bot) (141)
+- [SignalBot-Labs/aster-bot](https://github.com/SignalBot-Labs/aster-bot) (141)
+- [SharifiZarchi/janfadaa](https://github.com/SharifiZarchi/janfadaa) (46)
