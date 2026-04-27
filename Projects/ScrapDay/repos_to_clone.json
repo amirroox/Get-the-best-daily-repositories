@@ -2,31 +2,31 @@
   {
     "name": "avaco-cloud/Vercel-XHTTP",
     "clone_url": "https://github.com/avaco-cloud/Vercel-XHTTP.git",
-    "stars": 155,
+    "stars": 387,
     "size": 69
-  },
-  {
-    "name": "alefinvest/polymarket-arbitrage-bot",
-    "clone_url": "https://github.com/alefinvest/polymarket-arbitrage-bot.git",
-    "stars": 146,
-    "size": 126
   },
   {
     "name": "PolyPulse-Analytics/hyperliquid-trading-bot",
     "clone_url": "https://github.com/PolyPulse-Analytics/hyperliquid-trading-bot.git",
-    "stars": 141,
+    "stars": 263,
     "size": 235
   },
   {
     "name": "SignalBot-Labs/aster-bot",
     "clone_url": "https://github.com/SignalBot-Labs/aster-bot.git",
-    "stars": 141,
+    "stars": 263,
     "size": 1106
   },
   {
-    "name": "SharifiZarchi/janfadaa",
-    "clone_url": "https://github.com/SharifiZarchi/janfadaa.git",
-    "stars": 46,
-    "size": 3852
+    "name": "evanklem/evanflow",
+    "clone_url": "https://github.com/evanklem/evanflow.git",
+    "stars": 235,
+    "size": 60
+  },
+  {
+    "name": "alefinvest/polymarket-arbitrage-bot",
+    "clone_url": "https://github.com/alefinvest/polymarket-arbitrage-bot.git",
+    "stars": 161,
+    "size": 126
   }
 ]
