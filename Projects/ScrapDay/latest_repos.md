@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-25 .. 2026-04-27)
+# Latest Repositories (2026-04-26 .. 2026-04-28)
 
-- [avaco-cloud/Vercel-XHTTP](https://github.com/avaco-cloud/Vercel-XHTTP) (387)
-- [PolyPulse-Analytics/hyperliquid-trading-bot](https://github.com/PolyPulse-Analytics/hyperliquid-trading-bot) (263)
-- [SignalBot-Labs/aster-bot](https://github.com/SignalBot-Labs/aster-bot) (263)
-- [evanklem/evanflow](https://github.com/evanklem/evanflow) (235)
-- [alefinvest/polymarket-arbitrage-bot](https://github.com/alefinvest/polymarket-arbitrage-bot) (161)
+- [evanklem/evanflow](https://github.com/evanklem/evanflow) (287)
+- [HKUDS-AI/polymarket-ai-trading](https://github.com/HKUDS-AI/polymarket-ai-trading) (187)
+- [Udacity-ai/pumpfun-ai-trading-bot](https://github.com/Udacity-ai/pumpfun-ai-trading-bot) (187)
+- [6551-Team/ai-auto-trading](https://github.com/6551-Team/ai-auto-trading) (134)
+- [CatsJuice/medal-forge](https://github.com/CatsJuice/medal-forge) (123)

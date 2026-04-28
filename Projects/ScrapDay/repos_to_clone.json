@@ -1,32 +1,32 @@
 [
   {
-    "name": "avaco-cloud/Vercel-XHTTP",
-    "clone_url": "https://github.com/avaco-cloud/Vercel-XHTTP.git",
-    "stars": 387,
-    "size": 69
-  },
-  {
-    "name": "PolyPulse-Analytics/hyperliquid-trading-bot",
-    "clone_url": "https://github.com/PolyPulse-Analytics/hyperliquid-trading-bot.git",
-    "stars": 263,
-    "size": 235
-  },
-  {
-    "name": "SignalBot-Labs/aster-bot",
-    "clone_url": "https://github.com/SignalBot-Labs/aster-bot.git",
-    "stars": 263,
-    "size": 1106
-  },
-  {
     "name": "evanklem/evanflow",
     "clone_url": "https://github.com/evanklem/evanflow.git",
-    "stars": 235,
-    "size": 60
+    "stars": 287,
+    "size": 65
   },
   {
-    "name": "alefinvest/polymarket-arbitrage-bot",
-    "clone_url": "https://github.com/alefinvest/polymarket-arbitrage-bot.git",
-    "stars": 161,
-    "size": 126
+    "name": "HKUDS-AI/polymarket-ai-trading",
+    "clone_url": "https://github.com/HKUDS-AI/polymarket-ai-trading.git",
+    "stars": 187,
+    "size": 463
+  },
+  {
+    "name": "Udacity-ai/pumpfun-ai-trading-bot",
+    "clone_url": "https://github.com/Udacity-ai/pumpfun-ai-trading-bot.git",
+    "stars": 187,
+    "size": 52
+  },
+  {
+    "name": "6551-Team/ai-auto-trading",
+    "clone_url": "https://github.com/6551-Team/ai-auto-trading.git",
+    "stars": 134,
+    "size": 2919
+  },
+  {
+    "name": "CatsJuice/medal-forge",
+    "clone_url": "https://github.com/CatsJuice/medal-forge.git",
+    "stars": 123,
+    "size": 1452
   }
 ]
