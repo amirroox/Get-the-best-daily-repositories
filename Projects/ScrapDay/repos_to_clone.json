@@ -2,31 +2,31 @@
   {
     "name": "evanklem/evanflow",
     "clone_url": "https://github.com/evanklem/evanflow.git",
-    "stars": 287,
+    "stars": 319,
     "size": 65
   },
   {
-    "name": "HKUDS-AI/polymarket-ai-trading",
-    "clone_url": "https://github.com/HKUDS-AI/polymarket-ai-trading.git",
-    "stars": 187,
-    "size": 463
-  },
-  {
-    "name": "Udacity-ai/pumpfun-ai-trading-bot",
-    "clone_url": "https://github.com/Udacity-ai/pumpfun-ai-trading-bot.git",
-    "stars": 187,
-    "size": 52
-  },
-  {
-    "name": "6551-Team/ai-auto-trading",
-    "clone_url": "https://github.com/6551-Team/ai-auto-trading.git",
-    "stars": 134,
-    "size": 2919
+    "name": "DanOps-1/gpt-pp-team",
+    "clone_url": "https://github.com/DanOps-1/gpt-pp-team.git",
+    "stars": 214,
+    "size": 482
   },
   {
     "name": "CatsJuice/medal-forge",
     "clone_url": "https://github.com/CatsJuice/medal-forge.git",
+    "stars": 200,
+    "size": 1453
+  },
+  {
+    "name": "denuitt1/mhr-cfw",
+    "clone_url": "https://github.com/denuitt1/mhr-cfw.git",
+    "stars": 160,
+    "size": 63
+  },
+  {
+    "name": "HKUDS-AI/polymarket-ai-trading",
+    "clone_url": "https://github.com/HKUDS-AI/polymarket-ai-trading.git",
     "stars": 123,
-    "size": 1452
+    "size": 463
   }
 ]
