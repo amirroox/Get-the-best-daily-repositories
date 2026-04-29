@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-26 .. 2026-04-28)
+# Latest Repositories (2026-04-27 .. 2026-04-29)
 
-- [evanklem/evanflow](https://github.com/evanklem/evanflow) (319)
-- [DanOps-1/gpt-pp-team](https://github.com/DanOps-1/gpt-pp-team) (214)
-- [CatsJuice/medal-forge](https://github.com/CatsJuice/medal-forge) (200)
-- [denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw) (160)
-- [HKUDS-AI/polymarket-ai-trading](https://github.com/HKUDS-AI/polymarket-ai-trading) (123)
+- [99xAgency/GodModeSkill](https://github.com/99xAgency/GodModeSkill) (130)
+- [Dhravya/webpull](https://github.com/Dhravya/webpull) (122)
+- [Reyhankunlah/Yuzu-Emulator-Nintendo-Switch](https://github.com/Reyhankunlah/Yuzu-Emulator-Nintendo-Switch) (70)
+- [Dav777000/Create-Aeronautics-Minecraft-Mod](https://github.com/Dav777000/Create-Aeronautics-Minecraft-Mod) (70)
+- [cloudgen/ShellParser](https://github.com/cloudgen/ShellParser) (59)
