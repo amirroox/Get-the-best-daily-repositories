@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-27 .. 2026-04-29)
+# Latest Repositories (2026-04-28 .. 2026-04-30)
 
-- [99xAgency/GodModeSkill](https://github.com/99xAgency/GodModeSkill) (153)
-- [Dhravya/webpull](https://github.com/Dhravya/webpull) (132)
-- [Dav777000/Create-Aeronautics-Minecraft-Mod](https://github.com/Dav777000/Create-Aeronautics-Minecraft-Mod) (118)
-- [Reyhankunlah/Yuzu-Emulator-Nintendo-Switch](https://github.com/Reyhankunlah/Yuzu-Emulator-Nintendo-Switch) (117)
-- [VoctorX/All-the-Mods-11-Minecraft](https://github.com/VoctorX/All-the-Mods-11-Minecraft) (109)
+- [t8y2/dbx](https://github.com/t8y2/dbx) (263)
+- [Fokkyp/SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) (251)
+- [willchen96/mike](https://github.com/willchen96/mike) (166)
+- [skydoves/compose-performance-skills](https://github.com/skydoves/compose-performance-skills) (152)
+- [AI4FinanceFoundation/coinbase-trading-bot](https://github.com/AI4FinanceFoundation/coinbase-trading-bot) (150)
