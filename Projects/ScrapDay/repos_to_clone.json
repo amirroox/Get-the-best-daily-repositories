@@ -1,32 +1,32 @@
 [
   {
+    "name": "darrylmorley/whatcable",
+    "clone_url": "https://github.com/darrylmorley/whatcable.git",
+    "stars": 333,
+    "size": 447
+  },
+  {
+    "name": "mattpocock/dictionary-of-ai-coding",
+    "clone_url": "https://github.com/mattpocock/dictionary-of-ai-coding.git",
+    "stars": 302,
+    "size": 272
+  },
+  {
     "name": "MasnoNi/Invincible-VS-Game-Release-Desktop",
     "clone_url": "https://github.com/MasnoNi/Invincible-VS-Game-Release-Desktop.git",
-    "stars": 92,
+    "stars": 135,
     "size": 53
   },
   {
-    "name": "foyzulkarim/claude-lens",
-    "clone_url": "https://github.com/foyzulkarim/claude-lens.git",
-    "stars": 33,
-    "size": 338
+    "name": "ershiyidian/context-bridge",
+    "clone_url": "https://github.com/ershiyidian/context-bridge.git",
+    "stars": 92,
+    "size": 103
   },
   {
-    "name": "iss4cf0ng/CVE-2026-31431-Linux-Copy-Fail",
-    "clone_url": "https://github.com/iss4cf0ng/CVE-2026-31431-Linux-Copy-Fail.git",
-    "stars": 26,
-    "size": 1141
-  },
-  {
-    "name": "DevelopCubeLab/CellularInfo",
-    "clone_url": "https://github.com/DevelopCubeLab/CellularInfo.git",
-    "stars": 25,
-    "size": 703
-  },
-  {
-    "name": "yui540/reanimated-css-animations",
-    "clone_url": "https://github.com/yui540/reanimated-css-animations.git",
-    "stars": 24,
-    "size": 128
+    "name": "TQ-trade/defidollar-core",
+    "clone_url": "https://github.com/TQ-trade/defidollar-core.git",
+    "stars": 90,
+    "size": 2346
   }
 ]
