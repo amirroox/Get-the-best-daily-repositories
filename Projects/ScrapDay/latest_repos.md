@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-29 .. 2026-05-01)
+# Latest Repositories (2026-04-30 .. 2026-05-02)
 
-- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) (333)
-- [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) (302)
-- [MasnoNi/Invincible-VS-Game-Release-Desktop](https://github.com/MasnoNi/Invincible-VS-Game-Release-Desktop) (135)
-- [ershiyidian/context-bridge](https://github.com/ershiyidian/context-bridge) (92)
-- [TQ-trade/defidollar-core](https://github.com/TQ-trade/defidollar-core) (90)
+- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) (812)
+- [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) (414)
+- [lukiIabs/trading-agents](https://github.com/lukiIabs/trading-agents) (136)
+- [TQ-trade/defidollar-core](https://github.com/TQ-trade/defidollar-core) (132)
+- [ynsmroztas/cPanelSniper](https://github.com/ynsmroztas/cPanelSniper) (103)

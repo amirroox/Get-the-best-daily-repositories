@@ -2,31 +2,31 @@
   {
     "name": "darrylmorley/whatcable",
     "clone_url": "https://github.com/darrylmorley/whatcable.git",
-    "stars": 333,
-    "size": 447
+    "stars": 812,
+    "size": 544
   },
   {
     "name": "mattpocock/dictionary-of-ai-coding",
     "clone_url": "https://github.com/mattpocock/dictionary-of-ai-coding.git",
-    "stars": 302,
+    "stars": 414,
     "size": 272
   },
   {
-    "name": "MasnoNi/Invincible-VS-Game-Release-Desktop",
-    "clone_url": "https://github.com/MasnoNi/Invincible-VS-Game-Release-Desktop.git",
-    "stars": 135,
-    "size": 53
-  },
-  {
-    "name": "ershiyidian/context-bridge",
-    "clone_url": "https://github.com/ershiyidian/context-bridge.git",
-    "stars": 92,
-    "size": 103
+    "name": "lukiIabs/trading-agents",
+    "clone_url": "https://github.com/lukiIabs/trading-agents.git",
+    "stars": 136,
+    "size": 4590
   },
   {
     "name": "TQ-trade/defidollar-core",
     "clone_url": "https://github.com/TQ-trade/defidollar-core.git",
-    "stars": 90,
+    "stars": 132,
     "size": 2346
+  },
+  {
+    "name": "ynsmroztas/cPanelSniper",
+    "clone_url": "https://github.com/ynsmroztas/cPanelSniper.git",
+    "stars": 103,
+    "size": 278
   }
 ]
