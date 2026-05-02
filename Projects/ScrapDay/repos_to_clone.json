@@ -2,31 +2,31 @@
   {
     "name": "darrylmorley/whatcable",
     "clone_url": "https://github.com/darrylmorley/whatcable.git",
-    "stars": 812,
+    "stars": 1121,
     "size": 544
   },
   {
     "name": "mattpocock/dictionary-of-ai-coding",
     "clone_url": "https://github.com/mattpocock/dictionary-of-ai-coding.git",
-    "stars": 414,
+    "stars": 577,
     "size": 272
+  },
+  {
+    "name": "ynsmroztas/cPanelSniper",
+    "clone_url": "https://github.com/ynsmroztas/cPanelSniper.git",
+    "stars": 153,
+    "size": 278
   },
   {
     "name": "lukiIabs/trading-agents",
     "clone_url": "https://github.com/lukiIabs/trading-agents.git",
-    "stars": 136,
+    "stars": 153,
     "size": 4590
   },
   {
     "name": "TQ-trade/defidollar-core",
     "clone_url": "https://github.com/TQ-trade/defidollar-core.git",
-    "stars": 132,
+    "stars": 146,
     "size": 2346
-  },
-  {
-    "name": "ynsmroztas/cPanelSniper",
-    "clone_url": "https://github.com/ynsmroztas/cPanelSniper.git",
-    "stars": 103,
-    "size": 278
   }
 ]
