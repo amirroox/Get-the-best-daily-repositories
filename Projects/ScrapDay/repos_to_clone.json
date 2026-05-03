@@ -2,31 +2,31 @@
   {
     "name": "vibeforge1111/keep-codex-fast",
     "clone_url": "https://github.com/vibeforge1111/keep-codex-fast.git",
-    "stars": 267,
+    "stars": 405,
     "size": 1165
   },
   {
-    "name": "mebrown47/CUDA_spectrum",
-    "clone_url": "https://github.com/mebrown47/CUDA_spectrum.git",
-    "stars": 63,
-    "size": 3332
-  },
-  {
-    "name": "Jerry-0821/deep-learning-formula-cheatsheet",
-    "clone_url": "https://github.com/Jerry-0821/deep-learning-formula-cheatsheet.git",
-    "stars": 59,
-    "size": 2304
-  },
-  {
-    "name": "Teaonly/SKILL.make",
-    "clone_url": "https://github.com/Teaonly/SKILL.make.git",
-    "stars": 57,
-    "size": 62
+    "name": "AlexCheema/talos-vs-macbook",
+    "clone_url": "https://github.com/AlexCheema/talos-vs-macbook.git",
+    "stars": 96,
+    "size": 190
   },
   {
     "name": "techomies/ai-layoff-and-exploitative-companies",
     "clone_url": "https://github.com/techomies/ai-layoff-and-exploitative-companies.git",
-    "stars": 54,
+    "stars": 81,
     "size": 2020
+  },
+  {
+    "name": "mrdrvt99/YouProEXTRA",
+    "clone_url": "https://github.com/mrdrvt99/YouProEXTRA.git",
+    "stars": 75,
+    "size": 76
+  },
+  {
+    "name": "Jerry-0821/deep-learning-formula-cheatsheet",
+    "clone_url": "https://github.com/Jerry-0821/deep-learning-formula-cheatsheet.git",
+    "stars": 74,
+    "size": 2304
   }
 ]
