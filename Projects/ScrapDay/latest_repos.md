@@ -1,7 +1,7 @@
-# Latest Repositories (2026-04-30 .. 2026-05-02)
+# Latest Repositories (2026-05-01 .. 2026-05-03)
 
-- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) (1121)
-- [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) (577)
-- [ynsmroztas/cPanelSniper](https://github.com/ynsmroztas/cPanelSniper) (153)
-- [lukiIabs/trading-agents](https://github.com/lukiIabs/trading-agents) (153)
-- [TQ-trade/defidollar-core](https://github.com/TQ-trade/defidollar-core) (146)
+- [vibeforge1111/keep-codex-fast](https://github.com/vibeforge1111/keep-codex-fast) (267)
+- [mebrown47/CUDA_spectrum](https://github.com/mebrown47/CUDA_spectrum) (63)
+- [Jerry-0821/deep-learning-formula-cheatsheet](https://github.com/Jerry-0821/deep-learning-formula-cheatsheet) (59)
+- [Teaonly/SKILL.make](https://github.com/Teaonly/SKILL.make) (57)
+- [techomies/ai-layoff-and-exploitative-companies](https://github.com/techomies/ai-layoff-and-exploitative-companies) (54)
