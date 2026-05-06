@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-03 .. 2026-05-05)
+# Latest Repositories (2026-05-04 .. 2026-05-06)
 
-- [Composio-HQ/polymarket-kalshi-arbitrage-bot](https://github.com/Composio-HQ/polymarket-kalshi-arbitrage-bot) (153)
-- [bestpracticaI/kalshi-ai-trading-bot](https://github.com/bestpracticaI/kalshi-ai-trading-bot) (150)
-- [nikolinakovacevic1/MLB-The-Show-26-PC](https://github.com/nikolinakovacevic1/MLB-The-Show-26-PC) (91)
-- [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal) (71)
-- [petergpt/codex-pet-limit-rings](https://github.com/petergpt/codex-pet-limit-rings) (57)
+- [XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) (413)
+- [BuluBulugege/Free-BAI](https://github.com/BuluBulugege/Free-BAI) (131)
+- [louisedesadeleer/clipify](https://github.com/louisedesadeleer/clipify) (117)
+- [Viedie/BongoCat-Windows](https://github.com/Viedie/BongoCat-Windows) (104)
+- [aidenboomhero/Subnautica-2-PS5-Port](https://github.com/aidenboomhero/Subnautica-2-PS5-Port) (103)
