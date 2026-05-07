@@ -2,31 +2,31 @@
   {
     "name": "yaojingang/yao-open-prompts",
     "clone_url": "https://github.com/yaojingang/yao-open-prompts.git",
-    "stars": 558,
-    "size": 666
-  },
-  {
-    "name": "NamKhoa-07/Voidstrap",
-    "clone_url": "https://github.com/NamKhoa-07/Voidstrap.git",
-    "stars": 483,
-    "size": 3613
+    "stars": 996,
+    "size": 1016
   },
   {
     "name": "lightseekorg/tokenspeed",
     "clone_url": "https://github.com/lightseekorg/tokenspeed.git",
-    "stars": 362,
-    "size": 1496
+    "stars": 569,
+    "size": 1296
+  },
+  {
+    "name": "NamKhoa-07/Voidstrap",
+    "clone_url": "https://github.com/NamKhoa-07/Voidstrap.git",
+    "stars": 484,
+    "size": 3613
+  },
+  {
+    "name": "NamKhoa-07/wallet-recovery-seed",
+    "clone_url": "https://github.com/NamKhoa-07/wallet-recovery-seed.git",
+    "stars": 363,
+    "size": 1693
   },
   {
     "name": "mereses-labs/solana-pumpfun-bundler",
     "clone_url": "https://github.com/mereses-labs/solana-pumpfun-bundler.git",
-    "stars": 170,
+    "stars": 238,
     "size": 212
-  },
-  {
-    "name": "cv-cat/XHS_ALL_IN_ONE",
-    "clone_url": "https://github.com/cv-cat/XHS_ALL_IN_ONE.git",
-    "stars": 142,
-    "size": 4767
   }
 ]
