@@ -1,14 +1,8 @@
 [
   {
-    "name": "NamKhoa-07/wallet-recovery-seed",
-    "clone_url": "https://github.com/NamKhoa-07/wallet-recovery-seed.git",
-    "stars": 363,
-    "size": 1693
-  },
-  {
     "name": "iam567/LifeManga",
     "clone_url": "https://github.com/iam567/LifeManga.git",
-    "stars": 179,
+    "stars": 225,
     "size": 3031
   },
   {
@@ -18,15 +12,21 @@
     "size": 52
   },
   {
+    "name": "wojtczyk/trust",
+    "clone_url": "https://github.com/wojtczyk/trust.git",
+    "stars": 129,
+    "size": 1305
+  },
+  {
     "name": "JeanDupuis68/polymarket-arbitrage",
     "clone_url": "https://github.com/JeanDupuis68/polymarket-arbitrage.git",
-    "stars": 127,
+    "stars": 128,
     "size": 51
   },
   {
-    "name": "wojtczyk/trust",
-    "clone_url": "https://github.com/wojtczyk/trust.git",
-    "stars": 93,
-    "size": 1305
+    "name": "Sayhi-bzb/AIEden",
+    "clone_url": "https://github.com/Sayhi-bzb/AIEden.git",
+    "stars": 68,
+    "size": 140
   }
 ]
