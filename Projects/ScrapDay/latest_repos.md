@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-07 .. 2026-05-09)
+# Latest Repositories (2026-05-08 .. 2026-05-10)
 
-- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) (1176)
-- [Ping89/MT5EA-Forex-Trading](https://github.com/Ping89/MT5EA-Forex-Trading) (168)
-- [gelo1231/Pokemon-Pokopia-For-PC](https://github.com/gelo1231/Pokemon-Pokopia-For-PC) (168)
-- [GALIAIS/k_i_r_o-register](https://github.com/GALIAIS/k_i_r_o-register) (86)
-- [Salomondiei08/oh-my-hermes](https://github.com/Salomondiei08/oh-my-hermes) (83)
+- [GALIAIS/k_i_r_o-register](https://github.com/GALIAIS/k_i_r_o-register) (144)
+- [baydarerhan/Sora-2-App-No-Watermark](https://github.com/baydarerhan/Sora-2-App-No-Watermark) (137)
+- [pvpoxx/PrismLauncherCrackedEly](https://github.com/pvpoxx/PrismLauncherCrackedEly) (131)
+- [cosmicstack-labs/mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills) (61)
+- [MusiCode1/obsidian-web](https://github.com/MusiCode1/obsidian-web) (57)
