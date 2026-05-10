@@ -1,32 +1,32 @@
 [
   {
-    "name": "GALIAIS/k_i_r_o-register",
-    "clone_url": "https://github.com/GALIAIS/k_i_r_o-register.git",
-    "stars": 144,
-    "size": 119
-  },
-  {
     "name": "baydarerhan/Sora-2-App-No-Watermark",
     "clone_url": "https://github.com/baydarerhan/Sora-2-App-No-Watermark.git",
-    "stars": 137,
+    "stars": 176,
     "size": 72
   },
   {
     "name": "pvpoxx/PrismLauncherCrackedEly",
     "clone_url": "https://github.com/pvpoxx/PrismLauncherCrackedEly.git",
-    "stars": 131,
+    "stars": 165,
     "size": 73
   },
   {
-    "name": "cosmicstack-labs/mercury-agent-skills",
-    "clone_url": "https://github.com/cosmicstack-labs/mercury-agent-skills.git",
-    "stars": 61,
-    "size": 1422
+    "name": "GALIAIS/k_i_r_o-register",
+    "clone_url": "https://github.com/GALIAIS/k_i_r_o-register.git",
+    "stars": 162,
+    "size": 119
   },
   {
-    "name": "MusiCode1/obsidian-web",
-    "clone_url": "https://github.com/MusiCode1/obsidian-web.git",
-    "stars": 57,
-    "size": 111
+    "name": "williamcachamwri/zalo-tg",
+    "clone_url": "https://github.com/williamcachamwri/zalo-tg.git",
+    "stars": 119,
+    "size": 101
+  },
+  {
+    "name": "ThatXliner/rust-but-lisp",
+    "clone_url": "https://github.com/ThatXliner/rust-but-lisp.git",
+    "stars": 86,
+    "size": 1273
   }
 ]
