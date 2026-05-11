@@ -1,32 +1,32 @@
 [
   {
-    "name": "hoaibaone/OP-Auto-Clicker",
-    "clone_url": "https://github.com/hoaibaone/OP-Auto-Clicker.git",
-    "stars": 168,
-    "size": 53
-  },
-  {
     "name": "LSPosed/DirtySepolicy",
     "clone_url": "https://github.com/LSPosed/DirtySepolicy.git",
-    "stars": 129,
-    "size": 58
-  },
-  {
-    "name": "yaneony/2STEP-Converter",
-    "clone_url": "https://github.com/yaneony/2STEP-Converter.git",
-    "stars": 65,
-    "size": 225
-  },
-  {
-    "name": "tidwall/btype",
-    "clone_url": "https://github.com/tidwall/btype.git",
-    "stars": 62,
-    "size": 92
+    "stars": 207,
+    "size": 61
   },
   {
     "name": "ai-twinkle/Hub",
     "clone_url": "https://github.com/ai-twinkle/Hub.git",
-    "stars": 55,
-    "size": 216
+    "stars": 106,
+    "size": 220
+  },
+  {
+    "name": "yaneony/2STEP-Converter",
+    "clone_url": "https://github.com/yaneony/2STEP-Converter.git",
+    "stars": 100,
+    "size": 535
+  },
+  {
+    "name": "Octoday-Hub/Embodied-Al",
+    "clone_url": "https://github.com/Octoday-Hub/Embodied-Al.git",
+    "stars": 92,
+    "size": 1875
+  },
+  {
+    "name": "tidwall/btype",
+    "clone_url": "https://github.com/tidwall/btype.git",
+    "stars": 83,
+    "size": 92
   }
 ]
