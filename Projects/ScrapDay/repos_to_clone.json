@@ -1,32 +1,32 @@
 [
   {
-    "name": "LSPosed/DirtySepolicy",
-    "clone_url": "https://github.com/LSPosed/DirtySepolicy.git",
-    "stars": 207,
-    "size": 61
-  },
-  {
     "name": "ai-twinkle/Hub",
     "clone_url": "https://github.com/ai-twinkle/Hub.git",
-    "stars": 106,
+    "stars": 116,
     "size": 220
   },
   {
-    "name": "yaneony/2STEP-Converter",
-    "clone_url": "https://github.com/yaneony/2STEP-Converter.git",
-    "stars": 100,
-    "size": 535
+    "name": "JUk1-GH/gpt-promo-scanner",
+    "clone_url": "https://github.com/JUk1-GH/gpt-promo-scanner.git",
+    "stars": 116,
+    "size": 110
   },
   {
-    "name": "Octoday-Hub/Embodied-Al",
-    "clone_url": "https://github.com/Octoday-Hub/Embodied-Al.git",
-    "stars": 92,
-    "size": 1875
-  },
-  {
-    "name": "tidwall/btype",
-    "clone_url": "https://github.com/tidwall/btype.git",
+    "name": "simonlin1212/a-stock-data",
+    "clone_url": "https://github.com/simonlin1212/a-stock-data.git",
     "stars": 83,
-    "size": 92
+    "size": 171
+  },
+  {
+    "name": "ab-613/OpenGravity",
+    "clone_url": "https://github.com/ab-613/OpenGravity.git",
+    "stars": 56,
+    "size": 904
+  },
+  {
+    "name": "vercel-labs/mdxg",
+    "clone_url": "https://github.com/vercel-labs/mdxg.git",
+    "stars": 55,
+    "size": 252
   }
 ]

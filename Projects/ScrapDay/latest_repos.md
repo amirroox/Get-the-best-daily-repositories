@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-09 .. 2026-05-11)
+# Latest Repositories (2026-05-10 .. 2026-05-12)
 
-- [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) (207)
-- [ai-twinkle/Hub](https://github.com/ai-twinkle/Hub) (106)
-- [yaneony/2STEP-Converter](https://github.com/yaneony/2STEP-Converter) (100)
-- [Octoday-Hub/Embodied-Al](https://github.com/Octoday-Hub/Embodied-Al) (92)
-- [tidwall/btype](https://github.com/tidwall/btype) (83)
+- [ai-twinkle/Hub](https://github.com/ai-twinkle/Hub) (116)
+- [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) (116)
+- [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data) (83)
+- [ab-613/OpenGravity](https://github.com/ab-613/OpenGravity) (56)
+- [vercel-labs/mdxg](https://github.com/vercel-labs/mdxg) (55)
