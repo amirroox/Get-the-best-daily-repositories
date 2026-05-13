@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-10 .. 2026-05-12)
+# Latest Repositories (2026-05-11 .. 2026-05-13)
 
 - [patchfighterway90/cs2-external-overlay](https://github.com/patchfighterway90/cs2-external-overlay) (519)
-- [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) (240)
-- [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data) (225)
-- [agentara/skills](https://github.com/agentara/skills) (134)
-- [ai-twinkle/Hub](https://github.com/ai-twinkle/Hub) (129)
+- [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) (368)
+- [chrisbanes/skills](https://github.com/chrisbanes/skills) (269)
+- [ltyzen/KMSAutoTool](https://github.com/ltyzen/KMSAutoTool) (259)
+- [yaassin12/DeepSeek-V4-Pro-App](https://github.com/yaassin12/DeepSeek-V4-Pro-App) (249)
