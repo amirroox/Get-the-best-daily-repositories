@@ -1,32 +1,32 @@
 [
   {
-    "name": "lucasfrre/BongoCat-Desktop",
-    "clone_url": "https://github.com/lucasfrre/BongoCat-Desktop.git",
-    "stars": 288,
+    "name": "yetone/native-feel-skill",
+    "clone_url": "https://github.com/yetone/native-feel-skill.git",
+    "stars": 628,
+    "size": 77
+  },
+  {
+    "name": "Juwluuu/Subnautica-2-Release",
+    "clone_url": "https://github.com/Juwluuu/Subnautica-2-Release.git",
+    "stars": 297,
+    "size": 62
+  },
+  {
+    "name": "DARKHOLEUM/VoidStrap-For-Roblox",
+    "clone_url": "https://github.com/DARKHOLEUM/VoidStrap-For-Roblox.git",
+    "stars": 289,
+    "size": 178
+  },
+  {
+    "name": "mcjavarp/Manager2026",
+    "clone_url": "https://github.com/mcjavarp/Manager2026.git",
+    "stars": 285,
     "size": 59
   },
   {
-    "name": "snoozinjs/Delta-exec",
-    "clone_url": "https://github.com/snoozinjs/Delta-exec.git",
-    "stars": 287,
-    "size": 59
-  },
-  {
-    "name": "WantongC/journal-adapt-writing-skill",
-    "clone_url": "https://github.com/WantongC/journal-adapt-writing-skill.git",
-    "stars": 154,
-    "size": 115
-  },
-  {
-    "name": "dexhorthy/shannon",
-    "clone_url": "https://github.com/dexhorthy/shannon.git",
-    "stars": 151,
-    "size": 390
-  },
-  {
-    "name": "smithersai/claude-p",
-    "clone_url": "https://github.com/smithersai/claude-p.git",
-    "stars": 150,
-    "size": 71
+    "name": "jiaoyanming0-bot/OPAutoClicker",
+    "clone_url": "https://github.com/jiaoyanming0-bot/OPAutoClicker.git",
+    "stars": 284,
+    "size": 175
   }
 ]

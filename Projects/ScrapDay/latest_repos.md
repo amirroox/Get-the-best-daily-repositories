@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-12 .. 2026-05-14)
+# Latest Repositories (2026-05-13 .. 2026-05-15)
 
-- [lucasfrre/BongoCat-Desktop](https://github.com/lucasfrre/BongoCat-Desktop) (288)
-- [snoozinjs/Delta-exec](https://github.com/snoozinjs/Delta-exec) (287)
-- [WantongC/journal-adapt-writing-skill](https://github.com/WantongC/journal-adapt-writing-skill) (154)
-- [dexhorthy/shannon](https://github.com/dexhorthy/shannon) (151)
-- [smithersai/claude-p](https://github.com/smithersai/claude-p) (150)
+- [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill) (628)
+- [Juwluuu/Subnautica-2-Release](https://github.com/Juwluuu/Subnautica-2-Release) (297)
+- [DARKHOLEUM/VoidStrap-For-Roblox](https://github.com/DARKHOLEUM/VoidStrap-For-Roblox) (289)
+- [mcjavarp/Manager2026](https://github.com/mcjavarp/Manager2026) (285)
+- [jiaoyanming0-bot/OPAutoClicker](https://github.com/jiaoyanming0-bot/OPAutoClicker) (284)
