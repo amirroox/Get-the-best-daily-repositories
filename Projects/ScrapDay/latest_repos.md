@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-13 .. 2026-05-15)
+# Latest Repositories (2026-05-14 .. 2026-05-16)
 
-- [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill) (946)
-- [Juwluuu/Subnautica-2-Release](https://github.com/Juwluuu/Subnautica-2-Release) (360)
-- [mcjavarp/Manager2026](https://github.com/mcjavarp/Manager2026) (356)
-- [jiaoyanming0-bot/OPAutoClicker](https://github.com/jiaoyanming0-bot/OPAutoClicker) (355)
-- [DARKHOLEUM/VoidStrap-For-Roblox](https://github.com/DARKHOLEUM/VoidStrap-For-Roblox) (354)
+- [Harshit-pruthi/sklauncher-minecraft](https://github.com/Harshit-pruthi/sklauncher-minecraft) (292)
+- [dannyhsueh2/Forza-Horizon-6-Premium](https://github.com/dannyhsueh2/Forza-Horizon-6-Premium) (291)
+- [Alkih/Nightlight-Game-Launcher](https://github.com/Alkih/Nightlight-Game-Launcher) (286)
+- [vercel-labs/zero](https://github.com/vercel-labs/zero) (236)
+- [DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices) (181)
