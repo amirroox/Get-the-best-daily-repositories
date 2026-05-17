@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-14 .. 2026-05-16)
+# Latest Repositories (2026-05-15 .. 2026-05-17)
 
-- [vercel-labs/zero](https://github.com/vercel-labs/zero) (663)
-- [trong776/gta-5-mod-menu](https://github.com/trong776/gta-5-mod-menu) (497)
-- [DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices) (439)
-- [dannyhsueh2/Forza-Horizon-6-Premium](https://github.com/dannyhsueh2/Forza-Horizon-6-Premium) (366)
-- [Harshit-pruthi/sklauncher-minecraft](https://github.com/Harshit-pruthi/sklauncher-minecraft) (366)
+- [cdanielc293/Jenny-Mod-All-Versions](https://github.com/cdanielc293/Jenny-Mod-All-Versions) (332)
+- [shootthesound/comfyui-mesh](https://github.com/shootthesound/comfyui-mesh) (51)
+- [Code-Leafy/G2rayXCodeLeafy](https://github.com/Code-Leafy/G2rayXCodeLeafy) (48)
+- [piyushgarg-dev/trpc-monorepo](https://github.com/piyushgarg-dev/trpc-monorepo) (47)
+- [zimingttkx/QuantumFlow](https://github.com/zimingttkx/QuantumFlow) (36)
