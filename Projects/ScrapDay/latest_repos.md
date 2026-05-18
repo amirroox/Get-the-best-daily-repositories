@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-15 .. 2026-05-17)
+# Latest Repositories (2026-05-16 .. 2026-05-18)
 
-- [cdanielc293/Jenny-Mod-All-Versions](https://github.com/cdanielc293/Jenny-Mod-All-Versions) (423)
-- [RastProxy88/Vivid-R6-Cracked-2026](https://github.com/RastProxy88/Vivid-R6-Cracked-2026) (286)
-- [VAENPP/solana-trading-bot](https://github.com/VAENPP/solana-trading-bot) (78)
+- [AIchovy/vibe-observer](https://github.com/AIchovy/vibe-observer) (93)
 - [sachmalan/kalshi-trading-bot](https://github.com/sachmalan/kalshi-trading-bot) (78)
-- [fristork/hyperliquid-trading-bot](https://github.com/fristork/hyperliquid-trading-bot) (78)
+- [varshini11ravi/Sentiment-Analysis](https://github.com/varshini11ravi/Sentiment-Analysis) (59)
+- [greatvishal27-rc/AI-Resume_Analyzer](https://github.com/greatvishal27-rc/AI-Resume_Analyzer) (57)
+- [Stevia-S/MultiClass-LungDisease-Detection-Using-XAI](https://github.com/Stevia-S/MultiClass-LungDisease-Detection-Using-XAI) (54)

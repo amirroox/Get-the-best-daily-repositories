@@ -1,21 +1,9 @@
 [
   {
-    "name": "cdanielc293/Jenny-Mod-All-Versions",
-    "clone_url": "https://github.com/cdanielc293/Jenny-Mod-All-Versions.git",
-    "stars": 423,
-    "size": 173
-  },
-  {
-    "name": "RastProxy88/Vivid-R6-Cracked-2026",
-    "clone_url": "https://github.com/RastProxy88/Vivid-R6-Cracked-2026.git",
-    "stars": 286,
-    "size": 63
-  },
-  {
-    "name": "VAENPP/solana-trading-bot",
-    "clone_url": "https://github.com/VAENPP/solana-trading-bot.git",
-    "stars": 78,
-    "size": 125
+    "name": "AIchovy/vibe-observer",
+    "clone_url": "https://github.com/AIchovy/vibe-observer.git",
+    "stars": 93,
+    "size": 814
   },
   {
     "name": "sachmalan/kalshi-trading-bot",
@@ -24,9 +12,21 @@
     "size": 112
   },
   {
-    "name": "fristork/hyperliquid-trading-bot",
-    "clone_url": "https://github.com/fristork/hyperliquid-trading-bot.git",
-    "stars": 78,
-    "size": 55
+    "name": "varshini11ravi/Sentiment-Analysis",
+    "clone_url": "https://github.com/varshini11ravi/Sentiment-Analysis.git",
+    "stars": 59,
+    "size": 145
+  },
+  {
+    "name": "greatvishal27-rc/AI-Resume_Analyzer",
+    "clone_url": "https://github.com/greatvishal27-rc/AI-Resume_Analyzer.git",
+    "stars": 57,
+    "size": 121
+  },
+  {
+    "name": "Stevia-S/MultiClass-LungDisease-Detection-Using-XAI",
+    "clone_url": "https://github.com/Stevia-S/MultiClass-LungDisease-Detection-Using-XAI.git",
+    "stars": 54,
+    "size": 69
   }
 ]
