@@ -1,32 +1,32 @@
 [
   {
-    "name": "AIchovy/vibe-observer",
-    "clone_url": "https://github.com/AIchovy/vibe-observer.git",
-    "stars": 93,
-    "size": 814
+    "name": "Doorman11991/smallcode",
+    "clone_url": "https://github.com/Doorman11991/smallcode.git",
+    "stars": 317,
+    "size": 350
+  },
+  {
+    "name": "thongthaibm/Lossless-Scaling-LSFG",
+    "clone_url": "https://github.com/thongthaibm/Lossless-Scaling-LSFG.git",
+    "stars": 225,
+    "size": 171
+  },
+  {
+    "name": "LiuMengxuan04/shushu-internship-tool",
+    "clone_url": "https://github.com/LiuMengxuan04/shushu-internship-tool.git",
+    "stars": 161,
+    "size": 65
+  },
+  {
+    "name": "disintegr8te/teams-policy-export",
+    "clone_url": "https://github.com/disintegr8te/teams-policy-export.git",
+    "stars": 117,
+    "size": 112
   },
   {
     "name": "sachmalan/kalshi-trading-bot",
     "clone_url": "https://github.com/sachmalan/kalshi-trading-bot.git",
-    "stars": 78,
+    "stars": 101,
     "size": 112
-  },
-  {
-    "name": "varshini11ravi/Sentiment-Analysis",
-    "clone_url": "https://github.com/varshini11ravi/Sentiment-Analysis.git",
-    "stars": 59,
-    "size": 145
-  },
-  {
-    "name": "greatvishal27-rc/AI-Resume_Analyzer",
-    "clone_url": "https://github.com/greatvishal27-rc/AI-Resume_Analyzer.git",
-    "stars": 57,
-    "size": 121
-  },
-  {
-    "name": "Stevia-S/MultiClass-LungDisease-Detection-Using-XAI",
-    "clone_url": "https://github.com/Stevia-S/MultiClass-LungDisease-Detection-Using-XAI.git",
-    "stars": 54,
-    "size": 69
   }
 ]
