@@ -2,31 +2,31 @@
   {
     "name": "FoundZiGu/GuJumpgate",
     "clone_url": "https://github.com/FoundZiGu/GuJumpgate.git",
-    "stars": 480,
-    "size": 4122
+    "stars": 875,
+    "size": 4123
   },
   {
     "name": "littlefrogyq/UE4SS-Subnautica-2",
     "clone_url": "https://github.com/littlefrogyq/UE4SS-Subnautica-2.git",
-    "stars": 328,
+    "stars": 434,
     "size": 61
   },
   {
-    "name": "nhutdang198/AI-Final-fantasy-6-remake",
-    "clone_url": "https://github.com/nhutdang198/AI-Final-fantasy-6-remake.git",
-    "stars": 321,
-    "size": 61
-  },
-  {
-    "name": "bishopscode/Yoshi-and-the-Mysterious-Book-PC",
-    "clone_url": "https://github.com/bishopscode/Yoshi-and-the-Mysterious-Book-PC.git",
-    "stars": 315,
+    "name": "uktrash/LSFG-Desktop",
+    "clone_url": "https://github.com/uktrash/LSFG-Desktop.git",
+    "stars": 210,
     "size": 174
   },
   {
     "name": "suyancc/openai-plus-vxt",
     "clone_url": "https://github.com/suyancc/openai-plus-vxt.git",
-    "stars": 169,
+    "stars": 196,
     "size": 719
+  },
+  {
+    "name": "redteamfortress/PhantomKiller",
+    "clone_url": "https://github.com/redteamfortress/PhantomKiller.git",
+    "stars": 126,
+    "size": 1139
   }
 ]
