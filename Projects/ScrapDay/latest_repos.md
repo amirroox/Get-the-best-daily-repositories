@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-18 .. 2026-05-20)
+# Latest Repositories (2026-05-19 .. 2026-05-21)
 
-- [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) (875)
-- [littlefrogyq/UE4SS-Subnautica-2](https://github.com/littlefrogyq/UE4SS-Subnautica-2) (434)
-- [uktrash/LSFG-Desktop](https://github.com/uktrash/LSFG-Desktop) (210)
-- [suyancc/openai-plus-vxt](https://github.com/suyancc/openai-plus-vxt) (196)
-- [redteamfortress/PhantomKiller](https://github.com/redteamfortress/PhantomKiller) (126)
+- [uktrash/LSFG-Desktop](https://github.com/uktrash/LSFG-Desktop) (379)
+- [ZettPW/KMSTools](https://github.com/ZettPW/KMSTools) (329)
+- [texsellix/polymarket-trading-bot](https://github.com/texsellix/polymarket-trading-bot) (204)
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) (167)
+- [5ec1cff/injectrc](https://github.com/5ec1cff/injectrc) (57)

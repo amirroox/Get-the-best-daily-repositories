@@ -1,32 +1,32 @@
 [
   {
-    "name": "FoundZiGu/GuJumpgate",
-    "clone_url": "https://github.com/FoundZiGu/GuJumpgate.git",
-    "stars": 875,
-    "size": 4123
-  },
-  {
-    "name": "littlefrogyq/UE4SS-Subnautica-2",
-    "clone_url": "https://github.com/littlefrogyq/UE4SS-Subnautica-2.git",
-    "stars": 434,
-    "size": 61
-  },
-  {
     "name": "uktrash/LSFG-Desktop",
     "clone_url": "https://github.com/uktrash/LSFG-Desktop.git",
-    "stars": 210,
+    "stars": 379,
     "size": 174
   },
   {
-    "name": "suyancc/openai-plus-vxt",
-    "clone_url": "https://github.com/suyancc/openai-plus-vxt.git",
-    "stars": 196,
-    "size": 719
+    "name": "ZettPW/KMSTools",
+    "clone_url": "https://github.com/ZettPW/KMSTools.git",
+    "stars": 329,
+    "size": 170
   },
   {
-    "name": "redteamfortress/PhantomKiller",
-    "clone_url": "https://github.com/redteamfortress/PhantomKiller.git",
-    "stars": 126,
-    "size": 1139
+    "name": "texsellix/polymarket-trading-bot",
+    "clone_url": "https://github.com/texsellix/polymarket-trading-bot.git",
+    "stars": 204,
+    "size": 76
+  },
+  {
+    "name": "kageroumado/phosphene",
+    "clone_url": "https://github.com/kageroumado/phosphene.git",
+    "stars": 167,
+    "size": 82
+  },
+  {
+    "name": "5ec1cff/injectrc",
+    "clone_url": "https://github.com/5ec1cff/injectrc.git",
+    "stars": 57,
+    "size": 65
   }
 ]
