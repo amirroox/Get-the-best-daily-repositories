@@ -2,8 +2,20 @@
   {
     "name": "unprovable/ShadowCat",
     "clone_url": "https://github.com/unprovable/ShadowCat.git",
-    "stars": 162,
+    "stars": 191,
     "size": 139
+  },
+  {
+    "name": "Qwilxy/paralives-release",
+    "clone_url": "https://github.com/Qwilxy/paralives-release.git",
+    "stars": 154,
+    "size": 173
+  },
+  {
+    "name": "aayan555/DS4Windows",
+    "clone_url": "https://github.com/aayan555/DS4Windows.git",
+    "stars": 153,
+    "size": 173
   },
   {
     "name": "MariCarmen1971/solana-pumpfun-raydium-bundler",
@@ -16,17 +28,5 @@
     "clone_url": "https://github.com/thesammy26/polymarket-arbitrage-bot.git",
     "stars": 136,
     "size": 57
-  },
-  {
-    "name": "amet2901/asterdex-trading-bot",
-    "clone_url": "https://github.com/amet2901/asterdex-trading-bot.git",
-    "stars": 136,
-    "size": 521
-  },
-  {
-    "name": "bonny1220/solana-trading-bot",
-    "clone_url": "https://github.com/bonny1220/solana-trading-bot.git",
-    "stars": 136,
-    "size": 118
   }
 ]
