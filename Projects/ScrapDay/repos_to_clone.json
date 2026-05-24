@@ -2,31 +2,31 @@
   {
     "name": "RayceAnderson/tomodachi-pc",
     "clone_url": "https://github.com/RayceAnderson/tomodachi-pc.git",
-    "stars": 140,
+    "stars": 187,
     "size": 171
+  },
+  {
+    "name": "yui540/comimi",
+    "clone_url": "https://github.com/yui540/comimi.git",
+    "stars": 121,
+    "size": 265
   },
   {
     "name": "aref-vc/tufte-claude-skill",
     "clone_url": "https://github.com/aref-vc/tufte-claude-skill.git",
-    "stars": 96,
+    "stars": 116,
     "size": 1625
   },
   {
     "name": "bryanyzhu/agentic-ai-system-course",
     "clone_url": "https://github.com/bryanyzhu/agentic-ai-system-course.git",
-    "stars": 84,
+    "stars": 95,
     "size": 223
   },
   {
-    "name": "Signal-Market-Engine/polymarket-trading-bot",
-    "clone_url": "https://github.com/Signal-Market-Engine/polymarket-trading-bot.git",
-    "stars": 79,
-    "size": 56
-  },
-  {
-    "name": "Alpha-Vector-Core/polymarket-trading-bot",
-    "clone_url": "https://github.com/Alpha-Vector-Core/polymarket-trading-bot.git",
-    "stars": 79,
-    "size": 56
+    "name": "modaic-ai/gepa-viz",
+    "clone_url": "https://github.com/modaic-ai/gepa-viz.git",
+    "stars": 83,
+    "size": 343
   }
 ]
