@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-21 .. 2026-05-23)
+# Latest Repositories (2026-05-22 .. 2026-05-24)
 
-- [unprovable/ShadowCat](https://github.com/unprovable/ShadowCat) (191)
-- [Qwilxy/paralives-release](https://github.com/Qwilxy/paralives-release) (154)
-- [aayan555/DS4Windows](https://github.com/aayan555/DS4Windows) (153)
-- [MariCarmen1971/solana-pumpfun-raydium-bundler](https://github.com/MariCarmen1971/solana-pumpfun-raydium-bundler) (136)
-- [thesammy26/polymarket-arbitrage-bot](https://github.com/thesammy26/polymarket-arbitrage-bot) (136)
+- [RayceAnderson/tomodachi-pc](https://github.com/RayceAnderson/tomodachi-pc) (140)
+- [aref-vc/tufte-claude-skill](https://github.com/aref-vc/tufte-claude-skill) (96)
+- [bryanyzhu/agentic-ai-system-course](https://github.com/bryanyzhu/agentic-ai-system-course) (84)
+- [Signal-Market-Engine/polymarket-trading-bot](https://github.com/Signal-Market-Engine/polymarket-trading-bot) (79)
+- [Alpha-Vector-Core/polymarket-trading-bot](https://github.com/Alpha-Vector-Core/polymarket-trading-bot) (79)

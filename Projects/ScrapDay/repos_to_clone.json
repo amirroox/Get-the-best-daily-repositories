@@ -1,32 +1,32 @@
 [
   {
-    "name": "unprovable/ShadowCat",
-    "clone_url": "https://github.com/unprovable/ShadowCat.git",
-    "stars": 191,
-    "size": 139
+    "name": "RayceAnderson/tomodachi-pc",
+    "clone_url": "https://github.com/RayceAnderson/tomodachi-pc.git",
+    "stars": 140,
+    "size": 171
   },
   {
-    "name": "Qwilxy/paralives-release",
-    "clone_url": "https://github.com/Qwilxy/paralives-release.git",
-    "stars": 154,
-    "size": 173
+    "name": "aref-vc/tufte-claude-skill",
+    "clone_url": "https://github.com/aref-vc/tufte-claude-skill.git",
+    "stars": 96,
+    "size": 1625
   },
   {
-    "name": "aayan555/DS4Windows",
-    "clone_url": "https://github.com/aayan555/DS4Windows.git",
-    "stars": 153,
-    "size": 173
+    "name": "bryanyzhu/agentic-ai-system-course",
+    "clone_url": "https://github.com/bryanyzhu/agentic-ai-system-course.git",
+    "stars": 84,
+    "size": 223
   },
   {
-    "name": "MariCarmen1971/solana-pumpfun-raydium-bundler",
-    "clone_url": "https://github.com/MariCarmen1971/solana-pumpfun-raydium-bundler.git",
-    "stars": 136,
-    "size": 236
+    "name": "Signal-Market-Engine/polymarket-trading-bot",
+    "clone_url": "https://github.com/Signal-Market-Engine/polymarket-trading-bot.git",
+    "stars": 79,
+    "size": 56
   },
   {
-    "name": "thesammy26/polymarket-arbitrage-bot",
-    "clone_url": "https://github.com/thesammy26/polymarket-arbitrage-bot.git",
-    "stars": 136,
-    "size": 57
+    "name": "Alpha-Vector-Core/polymarket-trading-bot",
+    "clone_url": "https://github.com/Alpha-Vector-Core/polymarket-trading-bot.git",
+    "stars": 79,
+    "size": 56
   }
 ]
