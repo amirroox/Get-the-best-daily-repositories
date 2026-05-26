@@ -1,32 +1,32 @@
 [
   {
-    "name": "Yahya0306/polymarket-arbitrage-bot",
-    "clone_url": "https://github.com/Yahya0306/polymarket-arbitrage-bot.git",
-    "stars": 128,
-    "size": 53
+    "name": "SigmaTradeLabs/aster-bot",
+    "clone_url": "https://github.com/SigmaTradeLabs/aster-bot.git",
+    "stars": 215,
+    "size": 1034
+  },
+  {
+    "name": "Novaquant-labs/hyperliquid-trading-bot",
+    "clone_url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot.git",
+    "stars": 214,
+    "size": 243
   },
   {
     "name": "BJTUpupil/AscendFHE",
     "clone_url": "https://github.com/BJTUpupil/AscendFHE.git",
-    "stars": 118,
-    "size": 107
+    "stars": 141,
+    "size": 110
   },
   {
     "name": "osulazerdownload/osulazer",
     "clone_url": "https://github.com/osulazerdownload/osulazer.git",
-    "stars": 103,
+    "stars": 134,
     "size": 175
   },
   {
     "name": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
     "clone_url": "https://github.com/OldenEraTemplateGenerator/Olden-Era-Template-Generator.git",
-    "stars": 101,
-    "size": 171
-  },
-  {
-    "name": "Monke-Manager/MonkeModManager",
-    "clone_url": "https://github.com/Monke-Manager/MonkeModManager.git",
-    "stars": 97,
+    "stars": 132,
     "size": 171
   }
 ]
