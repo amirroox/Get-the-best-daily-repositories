@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-23 .. 2026-05-25)
+# Latest Repositories (2026-05-24 .. 2026-05-26)
 
-- [zclllyybb/lofisu-identity-engine](https://github.com/zclllyybb/lofisu-identity-engine) (115)
-- [maowuzz/chatgpt-session-forge](https://github.com/maowuzz/chatgpt-session-forge) (98)
-- [joeancilin/MindMate-AI](https://github.com/joeancilin/MindMate-AI) (65)
-- [Abirami-19/taskloom-kanban](https://github.com/Abirami-19/taskloom-kanban) (60)
-- [BJTUpupil/AscendFHE](https://github.com/BJTUpupil/AscendFHE) (57)
+- [Yahya0306/polymarket-arbitrage-bot](https://github.com/Yahya0306/polymarket-arbitrage-bot) (128)
+- [BJTUpupil/AscendFHE](https://github.com/BJTUpupil/AscendFHE) (118)
+- [osulazerdownload/osulazer](https://github.com/osulazerdownload/osulazer) (103)
+- [OldenEraTemplateGenerator/Olden-Era-Template-Generator](https://github.com/OldenEraTemplateGenerator/Olden-Era-Template-Generator) (101)
+- [Monke-Manager/MonkeModManager](https://github.com/Monke-Manager/MonkeModManager) (97)

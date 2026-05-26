@@ -1,32 +1,32 @@
 [
   {
-    "name": "zclllyybb/lofisu-identity-engine",
-    "clone_url": "https://github.com/zclllyybb/lofisu-identity-engine.git",
-    "stars": 115,
-    "size": 905
-  },
-  {
-    "name": "maowuzz/chatgpt-session-forge",
-    "clone_url": "https://github.com/maowuzz/chatgpt-session-forge.git",
-    "stars": 98,
-    "size": 145
-  },
-  {
-    "name": "joeancilin/MindMate-AI",
-    "clone_url": "https://github.com/joeancilin/MindMate-AI.git",
-    "stars": 65,
-    "size": 89
-  },
-  {
-    "name": "Abirami-19/taskloom-kanban",
-    "clone_url": "https://github.com/Abirami-19/taskloom-kanban.git",
-    "stars": 60,
-    "size": 109
+    "name": "Yahya0306/polymarket-arbitrage-bot",
+    "clone_url": "https://github.com/Yahya0306/polymarket-arbitrage-bot.git",
+    "stars": 128,
+    "size": 53
   },
   {
     "name": "BJTUpupil/AscendFHE",
     "clone_url": "https://github.com/BJTUpupil/AscendFHE.git",
-    "stars": 57,
+    "stars": 118,
     "size": 107
+  },
+  {
+    "name": "osulazerdownload/osulazer",
+    "clone_url": "https://github.com/osulazerdownload/osulazer.git",
+    "stars": 103,
+    "size": 175
+  },
+  {
+    "name": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
+    "clone_url": "https://github.com/OldenEraTemplateGenerator/Olden-Era-Template-Generator.git",
+    "stars": 101,
+    "size": 171
+  },
+  {
+    "name": "Monke-Manager/MonkeModManager",
+    "clone_url": "https://github.com/Monke-Manager/MonkeModManager.git",
+    "stars": 97,
+    "size": 171
   }
 ]
