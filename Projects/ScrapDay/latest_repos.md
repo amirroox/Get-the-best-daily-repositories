@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-24 .. 2026-05-26)
+# Latest Repositories (2026-05-25 .. 2026-05-27)
 
-- [SigmaTradeLabs/aster-bot](https://github.com/SigmaTradeLabs/aster-bot) (215)
-- [Novaquant-labs/hyperliquid-trading-bot](https://github.com/Novaquant-labs/hyperliquid-trading-bot) (214)
-- [BJTUpupil/AscendFHE](https://github.com/BJTUpupil/AscendFHE) (141)
-- [osulazerdownload/osulazer](https://github.com/osulazerdownload/osulazer) (134)
-- [OldenEraTemplateGenerator/Olden-Era-Template-Generator](https://github.com/OldenEraTemplateGenerator/Olden-Era-Template-Generator) (132)
+- [paraschopra/make-pages-interactive](https://github.com/paraschopra/make-pages-interactive) (150)
+- [cellinlab/how-pi-agent-works](https://github.com/cellinlab/how-pi-agent-works) (95)
+- [actuallyaridan/linux-devmgmt](https://github.com/actuallyaridan/linux-devmgmt) (77)
+- [Dharyen/ryujinx-emu](https://github.com/Dharyen/ryujinx-emu) (60)
+- [Bhojendra-dev/LSFG-Desktop](https://github.com/Bhojendra-dev/LSFG-Desktop) (60)
