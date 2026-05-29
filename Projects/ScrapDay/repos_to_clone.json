@@ -1,32 +1,32 @@
 [
   {
-    "name": "op7418/guizang-social-card-skill",
-    "clone_url": "https://github.com/op7418/guizang-social-card-skill.git",
-    "stars": 698,
-    "size": 1933
-  },
-  {
     "name": "Sophomoresty/gemini-web2api",
     "clone_url": "https://github.com/Sophomoresty/gemini-web2api.git",
-    "stars": 184,
-    "size": 199
+    "stars": 286,
+    "size": 168
+  },
+  {
+    "name": "MatinSenPai/SenPaiScanner",
+    "clone_url": "https://github.com/MatinSenPai/SenPaiScanner.git",
+    "stars": 234,
+    "size": 77
   },
   {
     "name": "ShadowSpread/polymarket-auto-trading",
     "clone_url": "https://github.com/ShadowSpread/polymarket-auto-trading.git",
-    "stars": 167,
+    "stars": 216,
     "size": 2686
   },
   {
-    "name": "Noahmusahdevs/roblox-account-manager",
-    "clone_url": "https://github.com/Noahmusahdevs/roblox-account-manager.git",
-    "stars": 155,
-    "size": 171
+    "name": "Michaelliv/pi-dynamic-workflows",
+    "clone_url": "https://github.com/Michaelliv/pi-dynamic-workflows.git",
+    "stars": 156,
+    "size": 101
   },
   {
-    "name": "oyunhacktr/Windows-Xbox-Mode",
-    "clone_url": "https://github.com/oyunhacktr/Windows-Xbox-Mode.git",
-    "stars": 150,
-    "size": 59
+    "name": "tor-browsers/tor-browser",
+    "clone_url": "https://github.com/tor-browsers/tor-browser.git",
+    "stars": 129,
+    "size": 171
   }
 ]
