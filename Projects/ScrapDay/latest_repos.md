@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-27 .. 2026-05-29)
+# Latest Repositories (2026-05-28 .. 2026-05-30)
 
-- [Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows) (380)
-- [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) (378)
-- [MatinSenPai/SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner) (340)
-- [ShadowSpread/polymarket-auto-trading](https://github.com/ShadowSpread/polymarket-auto-trading) (245)
-- [Signal-Trade-Core/weather-prediction-bot](https://github.com/Signal-Trade-Core/weather-prediction-bot) (191)
+- [fxyz666/LogicPipe](https://github.com/fxyz666/LogicPipe) (190)
+- [Allanlv5324F/Lossless-Scaling-Github](https://github.com/Allanlv5324F/Lossless-Scaling-Github) (152)
+- [Polymarket-DevRel/polymarket-devrel](https://github.com/Polymarket-DevRel/polymarket-devrel) (151)
+- [yuyefeiyu/yt-downloader](https://github.com/yuyefeiyu/yt-downloader) (144)
+- [risedownlabs/polymarket-weather-bot](https://github.com/risedownlabs/polymarket-weather-bot) (98)
