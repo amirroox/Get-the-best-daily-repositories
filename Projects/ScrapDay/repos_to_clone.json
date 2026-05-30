@@ -1,15 +1,21 @@
 [
   {
-    "name": "fxyz666/LogicPipe",
-    "clone_url": "https://github.com/fxyz666/LogicPipe.git",
-    "stars": 190,
-    "size": 76
-  },
-  {
     "name": "Allanlv5324F/Lossless-Scaling-Github",
     "clone_url": "https://github.com/Allanlv5324F/Lossless-Scaling-Github.git",
-    "stars": 152,
+    "stars": 218,
     "size": 173
+  },
+  {
+    "name": "yuyefeiyu/yt-downloader",
+    "clone_url": "https://github.com/yuyefeiyu/yt-downloader.git",
+    "stars": 210,
+    "size": 174
+  },
+  {
+    "name": "fxyz666/LogicPipe",
+    "clone_url": "https://github.com/fxyz666/LogicPipe.git",
+    "stars": 195,
+    "size": 103
   },
   {
     "name": "Polymarket-DevRel/polymarket-devrel",
@@ -18,15 +24,9 @@
     "size": 782
   },
   {
-    "name": "yuyefeiyu/yt-downloader",
-    "clone_url": "https://github.com/yuyefeiyu/yt-downloader.git",
-    "stars": 144,
-    "size": 174
-  },
-  {
     "name": "risedownlabs/polymarket-weather-bot",
     "clone_url": "https://github.com/risedownlabs/polymarket-weather-bot.git",
-    "stars": 98,
+    "stars": 120,
     "size": 3252
   }
 ]
