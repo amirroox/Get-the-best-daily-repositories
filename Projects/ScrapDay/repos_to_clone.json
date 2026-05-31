@@ -6,27 +6,27 @@
     "size": 4762
   },
   {
-    "name": "faldyrd/Auto-2026",
-    "clone_url": "https://github.com/faldyrd/Auto-2026.git",
-    "stars": 147,
-    "size": 67
-  },
-  {
     "name": "TaiwanBoss/DualSenseX-Steam-PC-Controller",
     "clone_url": "https://github.com/TaiwanBoss/DualSenseX-Steam-PC-Controller.git",
-    "stars": 146,
+    "stars": 199,
     "size": 171
+  },
+  {
+    "name": "faldyrd/Auto-2026",
+    "clone_url": "https://github.com/faldyrd/Auto-2026.git",
+    "stars": 194,
+    "size": 67
   },
   {
     "name": "paralives-free/Paralives-Money-Cheats",
     "clone_url": "https://github.com/paralives-free/Paralives-Money-Cheats.git",
-    "stars": 139,
+    "stars": 188,
     "size": 173
   },
   {
     "name": "liyue-aigc/female-portrait-director",
     "clone_url": "https://github.com/liyue-aigc/female-portrait-director.git",
-    "stars": 116,
-    "size": 1280
+    "stars": 168,
+    "size": 1672
   }
 ]
