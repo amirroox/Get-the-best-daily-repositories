@@ -1,32 +1,32 @@
 [
   {
-    "name": "polymaxi2/polymarket-arbitrage-trading-bot",
-    "clone_url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot.git",
-    "stars": 259,
-    "size": 4762
+    "name": "asz798838958/aBaiAutoplus",
+    "clone_url": "https://github.com/asz798838958/aBaiAutoplus.git",
+    "stars": 609,
+    "size": 2594
   },
   {
-    "name": "optiscalerclient/optiscaler-client",
-    "clone_url": "https://github.com/optiscalerclient/optiscaler-client.git",
-    "stars": 163,
-    "size": 175
+    "name": "anomalyco/rift",
+    "clone_url": "https://github.com/anomalyco/rift.git",
+    "stars": 338,
+    "size": 210
+  },
+  {
+    "name": "polymaxi2/polymarket-arbitrage-trading-bot",
+    "clone_url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot.git",
+    "stars": 260,
+    "size": 4762
   },
   {
     "name": "MatixYo/ESP32-Plane-Radar",
     "clone_url": "https://github.com/MatixYo/ESP32-Plane-Radar.git",
-    "stars": 162,
-    "size": 56
+    "stars": 246,
+    "size": 103
   },
   {
-    "name": "PentesterFlow/agent",
-    "clone_url": "https://github.com/PentesterFlow/agent.git",
-    "stars": 156,
-    "size": 572
-  },
-  {
-    "name": "asz798838958/aBaiAutoplus",
-    "clone_url": "https://github.com/asz798838958/aBaiAutoplus.git",
-    "stars": 137,
-    "size": 2365
+    "name": "optiscalerclient/optiscaler-client",
+    "clone_url": "https://github.com/optiscalerclient/optiscaler-client.git",
+    "stars": 210,
+    "size": 175
   }
 ]
