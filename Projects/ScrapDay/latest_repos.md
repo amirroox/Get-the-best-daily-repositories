@@ -1,7 +1,7 @@
-# Latest Repositories (2026-05-30 .. 2026-06-01)
+# Latest Repositories (2026-05-31 .. 2026-06-02)
 
-- [asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus) (609)
-- [anomalyco/rift](https://github.com/anomalyco/rift) (338)
-- [polymaxi2/polymarket-arbitrage-trading-bot](https://github.com/polymaxi2/polymarket-arbitrage-trading-bot) (260)
-- [MatixYo/ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) (246)
-- [optiscalerclient/optiscaler-client](https://github.com/optiscalerclient/optiscaler-client) (210)
+- [qiuqiubuchongle-cloud/chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas) (290)
+- [build-poe2/PathOfBuilding-PoE2](https://github.com/build-poe2/PathOfBuilding-PoE2) (162)
+- [PackAshReside79/TG-WS-Proxy-v1.7.1](https://github.com/PackAshReside79/TG-WS-Proxy-v1.7.1) (139)
+- [VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat) (109)
+- [F001net/polymarket-trade-bot](https://github.com/F001net/polymarket-trade-bot) (96)
