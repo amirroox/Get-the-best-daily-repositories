@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-02 .. 2026-06-04)
+# Latest Repositories (2026-06-03 .. 2026-06-05)
 
-- [tastyeffectco/sandboxes](https://github.com/tastyeffectco/sandboxes) (339)
-- [Albert-Weasker/niubi_guard](https://github.com/Albert-Weasker/niubi_guard) (152)
-- [boona13/glb-shrink](https://github.com/boona13/glb-shrink) (97)
-- [Jasionf/smart-home-button](https://github.com/Jasionf/smart-home-button) (95)
-- [Mr-Un1k0d3r/AzureRedOps](https://github.com/Mr-Un1k0d3r/AzureRedOps) (91)
+- [Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab) (161)
+- [jeff141/meatshell](https://github.com/jeff141/meatshell) (148)
+- [Jasionf/smart-home-button](https://github.com/Jasionf/smart-home-button) (128)
+- [wy51ai/edulab](https://github.com/wy51ai/edulab) (114)
+- [Forlives/cloudsight-ai](https://github.com/Forlives/cloudsight-ai) (84)
