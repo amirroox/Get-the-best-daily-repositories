@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-03 .. 2026-06-05)
+# Latest Repositories (2026-06-04 .. 2026-06-06)
 
-- [Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab) (331)
-- [jeff141/meatshell](https://github.com/jeff141/meatshell) (213)
-- [wy51ai/edulab](https://github.com/wy51ai/edulab) (183)
-- [zenhosta/9drive](https://github.com/zenhosta/9drive) (144)
-- [Jasionf/smart-home-button](https://github.com/Jasionf/smart-home-button) (143)
+- [iampedii/WhiteDNS-Wizard](https://github.com/iampedii/WhiteDNS-Wizard) (60)
+- [elder-plinius/ENTHEA](https://github.com/elder-plinius/ENTHEA) (58)
+- [DEV-krokodile/auto](https://github.com/DEV-krokodile/auto) (58)
+- [LeoLope-z/CrosshairX](https://github.com/LeoLope-z/CrosshairX) (58)
+- [KRYU2002/Gothic-1-Remake-Release](https://github.com/KRYU2002/Gothic-1-Remake-Release) (57)
