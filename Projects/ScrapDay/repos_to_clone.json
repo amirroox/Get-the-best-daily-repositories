@@ -2,31 +2,31 @@
   {
     "name": "iampedii/WhiteDNS-Wizard",
     "clone_url": "https://github.com/iampedii/WhiteDNS-Wizard.git",
-    "stars": 60,
+    "stars": 82,
     "size": 950
   },
   {
-    "name": "elder-plinius/ENTHEA",
-    "clone_url": "https://github.com/elder-plinius/ENTHEA.git",
-    "stars": 58,
-    "size": 117
-  },
-  {
-    "name": "DEV-krokodile/auto",
-    "clone_url": "https://github.com/DEV-krokodile/auto.git",
-    "stars": 58,
-    "size": 174
-  },
-  {
-    "name": "LeoLope-z/CrosshairX",
-    "clone_url": "https://github.com/LeoLope-z/CrosshairX.git",
-    "stars": 58,
-    "size": 171
+    "name": "hoolulu/deep-research",
+    "clone_url": "https://github.com/hoolulu/deep-research.git",
+    "stars": 82,
+    "size": 1888
   },
   {
     "name": "KRYU2002/Gothic-1-Remake-Release",
     "clone_url": "https://github.com/KRYU2002/Gothic-1-Remake-Release.git",
-    "stars": 57,
+    "stars": 77,
     "size": 171
+  },
+  {
+    "name": "LeoLope-z/CrosshairX",
+    "clone_url": "https://github.com/LeoLope-z/CrosshairX.git",
+    "stars": 77,
+    "size": 171
+  },
+  {
+    "name": "elder-plinius/ENTHEA",
+    "clone_url": "https://github.com/elder-plinius/ENTHEA.git",
+    "stars": 76,
+    "size": 117
   }
 ]
