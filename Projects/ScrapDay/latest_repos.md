@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-04 .. 2026-06-06)
+# Latest Repositories (2026-06-05 .. 2026-06-07)
 
-- [iampedii/WhiteDNS-Wizard](https://github.com/iampedii/WhiteDNS-Wizard) (82)
-- [hoolulu/deep-research](https://github.com/hoolulu/deep-research) (82)
-- [KRYU2002/Gothic-1-Remake-Release](https://github.com/KRYU2002/Gothic-1-Remake-Release) (77)
-- [LeoLope-z/CrosshairX](https://github.com/LeoLope-z/CrosshairX) (77)
-- [elder-plinius/ENTHEA](https://github.com/elder-plinius/ENTHEA) (76)
+- [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models) (57)
+- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) (50)
+- [cryznn/d-scord-tool](https://github.com/cryznn/d-scord-tool) (43)
+- [Anthropic-Claude-Mythos/Claude-Mythos-AI-App](https://github.com/Anthropic-Claude-Mythos/Claude-Mythos-AI-App) (31)
+- [PWMH4/DualSenseX-Steam-PC-Controller](https://github.com/PWMH4/DualSenseX-Steam-PC-Controller) (30)
