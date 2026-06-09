@@ -1,32 +1,32 @@
 [
   {
-    "name": "NoopApp/noop",
-    "clone_url": "https://github.com/NoopApp/noop.git",
-    "stars": 484,
-    "size": 1516
-  },
-  {
-    "name": "JFGAtlas/aethergate-pro",
-    "clone_url": "https://github.com/JFGAtlas/aethergate-pro.git",
-    "stars": 190,
-    "size": 129
-  },
-  {
-    "name": "beijingcao/binance-deribit-btc",
-    "clone_url": "https://github.com/beijingcao/binance-deribit-btc.git",
-    "stars": 178,
-    "size": 319
-  },
-  {
-    "name": "chengtx007/fuckoai",
-    "clone_url": "https://github.com/chengtx007/fuckoai.git",
-    "stars": 112,
-    "size": 93
+    "name": "xiaohuailabs/xiaohu-video-translate",
+    "clone_url": "https://github.com/xiaohuailabs/xiaohu-video-translate.git",
+    "stars": 177,
+    "size": 357
   },
   {
     "name": "supperzl/ita",
     "clone_url": "https://github.com/supperzl/ita.git",
-    "stars": 89,
+    "stars": 102,
     "size": 2862
+  },
+  {
+    "name": "secret-tools/secret-tool",
+    "clone_url": "https://github.com/secret-tools/secret-tool.git",
+    "stars": 48,
+    "size": 175
+  },
+  {
+    "name": "apple/foundation-models-utilities",
+    "clone_url": "https://github.com/apple/foundation-models-utilities.git",
+    "stars": 43,
+    "size": 1996
+  },
+  {
+    "name": "Regert888/gpt-outlook-register",
+    "clone_url": "https://github.com/Regert888/gpt-outlook-register.git",
+    "stars": 29,
+    "size": 113
   }
 ]
