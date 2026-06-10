@@ -1,32 +1,32 @@
 [
   {
-    "name": "xiaohuailabs/xiaohu-video-translate",
-    "clone_url": "https://github.com/xiaohuailabs/xiaohu-video-translate.git",
-    "stars": 301,
-    "size": 357
+    "name": "MSNightmare/RoguePlanet",
+    "clone_url": "https://github.com/MSNightmare/RoguePlanet.git",
+    "stars": 333,
+    "size": 303
   },
   {
     "name": "jmmy9609-design/gpt-pp",
     "clone_url": "https://github.com/jmmy9609-design/gpt-pp.git",
-    "stars": 208,
-    "size": 1595
-  },
-  {
-    "name": "secret-tools/secret-tool",
-    "clone_url": "https://github.com/secret-tools/secret-tool.git",
-    "stars": 121,
-    "size": 175
-  },
-  {
-    "name": "supperzl/ita",
-    "clone_url": "https://github.com/supperzl/ita.git",
-    "stars": 108,
-    "size": 2862
+    "stars": 284,
+    "size": 1604
   },
   {
     "name": "valkor-ai/loom",
     "clone_url": "https://github.com/valkor-ai/loom.git",
-    "stars": 83,
-    "size": 763
+    "stars": 135,
+    "size": 790
+  },
+  {
+    "name": "kanna12580/kk-knowledge-agent",
+    "clone_url": "https://github.com/kanna12580/kk-knowledge-agent.git",
+    "stars": 54,
+    "size": 539
+  },
+  {
+    "name": "xuanyuanzhifeng/ai-video-agent",
+    "clone_url": "https://github.com/xuanyuanzhifeng/ai-video-agent.git",
+    "stars": 53,
+    "size": 1937
   }
 ]
