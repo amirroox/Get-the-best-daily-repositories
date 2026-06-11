@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-08 .. 2026-06-10)
+# Latest Repositories (2026-06-09 .. 2026-06-11)
 
-- [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) (758)
-- [jmmy9609-design/gpt-pp](https://github.com/jmmy9609-design/gpt-pp) (317)
-- [valkor-ai/loom](https://github.com/valkor-ai/loom) (189)
-- [plannotator/effective-html](https://github.com/plannotator/effective-html) (72)
-- [danking6/veltoc](https://github.com/danking6/veltoc) (65)
+- [Sinotrade/shioaji-pro-app](https://github.com/Sinotrade/shioaji-pro-app) (110)
+- [orange2ai/orange-line-illustration](https://github.com/orange2ai/orange-line-illustration) (63)
+- [grzegorz-raczek-unit8/claude-quota](https://github.com/grzegorz-raczek-unit8/claude-quota) (56)
+- [OpenSharing-IO/OpenSharing](https://github.com/OpenSharing-IO/OpenSharing) (55)
+- [MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML) (53)
