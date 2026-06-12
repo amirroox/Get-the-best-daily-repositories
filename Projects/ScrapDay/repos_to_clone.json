@@ -1,32 +1,32 @@
 [
   {
+    "name": "DietrichGebert/ponytail",
+    "clone_url": "https://github.com/DietrichGebert/ponytail.git",
+    "stars": 665,
+    "size": 1104
+  },
+  {
     "name": "MSNightmare/GreatXML",
     "clone_url": "https://github.com/MSNightmare/GreatXML.git",
-    "stars": 303,
+    "stars": 380,
     "size": 87
   },
   {
     "name": "joeseesun/qiaomu-goal-meta-skill",
     "clone_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill.git",
-    "stars": 220,
+    "stars": 287,
     "size": 52
-  },
-  {
-    "name": "DietrichGebert/ponytail",
-    "clone_url": "https://github.com/DietrichGebert/ponytail.git",
-    "stars": 193,
-    "size": 1054
   },
   {
     "name": "MiniMax-AI/MSA",
     "clone_url": "https://github.com/MiniMax-AI/MSA.git",
-    "stars": 144,
-    "size": 4429
+    "stars": 186,
+    "size": 4436
   },
   {
     "name": "taisly/agent",
     "clone_url": "https://github.com/taisly/agent.git",
-    "stars": 121,
+    "stars": 134,
     "size": 149
   }
 ]
