@@ -2,31 +2,31 @@
   {
     "name": "MSNightmare/GreatXML",
     "clone_url": "https://github.com/MSNightmare/GreatXML.git",
-    "stars": 204,
+    "stars": 303,
     "size": 87
   },
   {
-    "name": "BuilderIO/skills",
-    "clone_url": "https://github.com/BuilderIO/skills.git",
-    "stars": 152,
-    "size": 1045
+    "name": "joeseesun/qiaomu-goal-meta-skill",
+    "clone_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill.git",
+    "stars": 220,
+    "size": 52
   },
   {
-    "name": "Sinotrade/shioaji-pro-app",
-    "clone_url": "https://github.com/Sinotrade/shioaji-pro-app.git",
-    "stars": 142,
-    "size": 3028
+    "name": "DietrichGebert/ponytail",
+    "clone_url": "https://github.com/DietrichGebert/ponytail.git",
+    "stars": 193,
+    "size": 1054
+  },
+  {
+    "name": "MiniMax-AI/MSA",
+    "clone_url": "https://github.com/MiniMax-AI/MSA.git",
+    "stars": 144,
+    "size": 4429
   },
   {
     "name": "taisly/agent",
     "clone_url": "https://github.com/taisly/agent.git",
-    "stars": 98,
+    "stars": 121,
     "size": 149
-  },
-  {
-    "name": "orange2ai/orange-line-illustration",
-    "clone_url": "https://github.com/orange2ai/orange-line-illustration.git",
-    "stars": 91,
-    "size": 3351
   }
 ]
