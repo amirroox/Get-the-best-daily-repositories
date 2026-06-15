@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-12 .. 2026-06-14)
+# Latest Repositories (2026-06-13 .. 2026-06-15)
 
-- [eli-labz/Third-Eye](https://github.com/eli-labz/Third-Eye) (286)
-- [royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram) (216)
-- [bjarneo/kli](https://github.com/bjarneo/kli) (158)
-- [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable) (144)
-- [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) (141)
+- [tamnd/kage](https://github.com/tamnd/kage) (896)
+- [akula-atlasair/-zapret-discord-youtube](https://github.com/akula-atlasair/-zapret-discord-youtube) (306)
+- [royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram) (293)
+- [baskduf/FableCodex](https://github.com/baskduf/FableCodex) (88)
+- [alicankiraz1/CodexQB](https://github.com/alicankiraz1/CodexQB) (82)
