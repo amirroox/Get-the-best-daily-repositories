@@ -1,32 +1,32 @@
 [
   {
-    "name": "tamnd/kage",
-    "clone_url": "https://github.com/tamnd/kage.git",
-    "stars": 1415,
-    "size": 1301
-  },
-  {
-    "name": "royalbhati/sqltoerdiagram",
-    "clone_url": "https://github.com/royalbhati/sqltoerdiagram.git",
-    "stars": 341,
-    "size": 132
-  },
-  {
-    "name": "baskduf/FableCodex",
-    "clone_url": "https://github.com/baskduf/FableCodex.git",
-    "stars": 115,
-    "size": 135
+    "name": "joeseesun/qiaomu-app-review-insights",
+    "clone_url": "https://github.com/joeseesun/qiaomu-app-review-insights.git",
+    "stars": 120,
+    "size": 1785
   },
   {
     "name": "soltia48/sdrplusplus-j-alert-plugin",
     "clone_url": "https://github.com/soltia48/sdrplusplus-j-alert-plugin.git",
-    "stars": 95,
+    "stars": 110,
     "size": 65
   },
   {
-    "name": "alicankiraz1/CodexQB",
-    "clone_url": "https://github.com/alicankiraz1/CodexQB.git",
-    "stars": 92,
-    "size": 1312
+    "name": "renee-jia/scholar-loop",
+    "clone_url": "https://github.com/renee-jia/scholar-loop.git",
+    "stars": 82,
+    "size": 328
+  },
+  {
+    "name": "M1n-n9/paper-lifecycle",
+    "clone_url": "https://github.com/M1n-n9/paper-lifecycle.git",
+    "stars": 49,
+    "size": 487
+  },
+  {
+    "name": "MustangYM/SovietExtension",
+    "clone_url": "https://github.com/MustangYM/SovietExtension.git",
+    "stars": 47,
+    "size": 1666
   }
 ]

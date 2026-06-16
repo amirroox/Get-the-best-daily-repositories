@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-13 .. 2026-06-15)
+# Latest Repositories (2026-06-14 .. 2026-06-16)
 
-- [tamnd/kage](https://github.com/tamnd/kage) (1415)
-- [royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram) (341)
-- [baskduf/FableCodex](https://github.com/baskduf/FableCodex) (115)
-- [soltia48/sdrplusplus-j-alert-plugin](https://github.com/soltia48/sdrplusplus-j-alert-plugin) (95)
-- [alicankiraz1/CodexQB](https://github.com/alicankiraz1/CodexQB) (92)
+- [joeseesun/qiaomu-app-review-insights](https://github.com/joeseesun/qiaomu-app-review-insights) (120)
+- [soltia48/sdrplusplus-j-alert-plugin](https://github.com/soltia48/sdrplusplus-j-alert-plugin) (110)
+- [renee-jia/scholar-loop](https://github.com/renee-jia/scholar-loop) (82)
+- [M1n-n9/paper-lifecycle](https://github.com/M1n-n9/paper-lifecycle) (49)
+- [MustangYM/SovietExtension](https://github.com/MustangYM/SovietExtension) (47)
