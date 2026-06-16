@@ -2,31 +2,31 @@
   {
     "name": "joeseesun/qiaomu-app-review-insights",
     "clone_url": "https://github.com/joeseesun/qiaomu-app-review-insights.git",
-    "stars": 120,
+    "stars": 154,
     "size": 1785
+  },
+  {
+    "name": "FeijiangHan/PaperForge",
+    "clone_url": "https://github.com/FeijiangHan/PaperForge.git",
+    "stars": 125,
+    "size": 63
   },
   {
     "name": "soltia48/sdrplusplus-j-alert-plugin",
     "clone_url": "https://github.com/soltia48/sdrplusplus-j-alert-plugin.git",
-    "stars": 110,
+    "stars": 123,
     "size": 65
+  },
+  {
+    "name": "shreyashankar/plain-writing-skill",
+    "clone_url": "https://github.com/shreyashankar/plain-writing-skill.git",
+    "stars": 111,
+    "size": 215
   },
   {
     "name": "renee-jia/scholar-loop",
     "clone_url": "https://github.com/renee-jia/scholar-loop.git",
-    "stars": 82,
-    "size": 328
-  },
-  {
-    "name": "M1n-n9/paper-lifecycle",
-    "clone_url": "https://github.com/M1n-n9/paper-lifecycle.git",
-    "stars": 49,
-    "size": 487
-  },
-  {
-    "name": "MustangYM/SovietExtension",
-    "clone_url": "https://github.com/MustangYM/SovietExtension.git",
-    "stars": 47,
-    "size": 1666
+    "stars": 88,
+    "size": 355
   }
 ]
