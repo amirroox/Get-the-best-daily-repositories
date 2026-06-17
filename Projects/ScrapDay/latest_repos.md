@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-14 .. 2026-06-16)
+# Latest Repositories (2026-06-15 .. 2026-06-17)
 
-- [joeseesun/qiaomu-app-review-insights](https://github.com/joeseesun/qiaomu-app-review-insights) (154)
-- [FeijiangHan/PaperForge](https://github.com/FeijiangHan/PaperForge) (125)
-- [soltia48/sdrplusplus-j-alert-plugin](https://github.com/soltia48/sdrplusplus-j-alert-plugin) (123)
-- [shreyashankar/plain-writing-skill](https://github.com/shreyashankar/plain-writing-skill) (111)
-- [renee-jia/scholar-loop](https://github.com/renee-jia/scholar-loop) (88)
+- [halfof8/patterngen-oss](https://github.com/halfof8/patterngen-oss) (54)
+- [rebel0789/codexpro](https://github.com/rebel0789/codexpro) (53)
+- [smartlizi/zcode-account-switcher](https://github.com/smartlizi/zcode-account-switcher) (41)
+- [JassiSingh08/react-native-collapsible-tab](https://github.com/JassiSingh08/react-native-collapsible-tab) (41)
+- [atillay55/lsfg-git](https://github.com/atillay55/lsfg-git) (36)
