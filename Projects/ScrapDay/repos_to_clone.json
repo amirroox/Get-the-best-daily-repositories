@@ -2,31 +2,31 @@
   {
     "name": "Plaer1/junction",
     "clone_url": "https://github.com/Plaer1/junction.git",
-    "stars": 497,
+    "stars": 503,
     "size": 2375
-  },
-  {
-    "name": "vercel/eve",
-    "clone_url": "https://github.com/vercel/eve.git",
-    "stars": 386,
-    "size": 3651
-  },
-  {
-    "name": "rebel0789/codexpro",
-    "clone_url": "https://github.com/rebel0789/codexpro.git",
-    "stars": 156,
-    "size": 500
   },
   {
     "name": "Tyxy-R/codex-referral-risk-research",
     "clone_url": "https://github.com/Tyxy-R/codex-referral-risk-research.git",
-    "stars": 137,
-    "size": 52
+    "stars": 202,
+    "size": 58
   },
   {
-    "name": "halfof8/patterngen-oss",
-    "clone_url": "https://github.com/halfof8/patterngen-oss.git",
-    "stars": 82,
-    "size": 58
+    "name": "aresyn/codex-control-plane-mcp",
+    "clone_url": "https://github.com/aresyn/codex-control-plane-mcp.git",
+    "stars": 130,
+    "size": 3162
+  },
+  {
+    "name": "gakiyukr/Codex_team_auto",
+    "clone_url": "https://github.com/gakiyukr/Codex_team_auto.git",
+    "stars": 75,
+    "size": 92
+  },
+  {
+    "name": "LING71671/open-reverselab",
+    "clone_url": "https://github.com/LING71671/open-reverselab.git",
+    "stars": 71,
+    "size": 712
   }
 ]
