@@ -2,8 +2,20 @@
   {
     "name": "0xSero/glm-5.2-sm120",
     "clone_url": "https://github.com/0xSero/glm-5.2-sm120.git",
-    "stars": 80,
+    "stars": 89,
     "size": 78
+  },
+  {
+    "name": "StephenDev0/StikPair",
+    "clone_url": "https://github.com/StephenDev0/StikPair.git",
+    "stars": 64,
+    "size": 2802
+  },
+  {
+    "name": "abluva-research/mcp-trust-plane",
+    "clone_url": "https://github.com/abluva-research/mcp-trust-plane.git",
+    "stars": 52,
+    "size": 151
   },
   {
     "name": "JinhuaChenBiggest/IncubativeSecondBrain",
@@ -14,19 +26,7 @@
   {
     "name": "atherio-danp/cde-dotnetcc",
     "clone_url": "https://github.com/atherio-danp/cde-dotnetcc.git",
-    "stars": 48,
+    "stars": 50,
     "size": 129
-  },
-  {
-    "name": "abluva-research/mcp-trust-plane",
-    "clone_url": "https://github.com/abluva-research/mcp-trust-plane.git",
-    "stars": 45,
-    "size": 94
-  },
-  {
-    "name": "bonhs1983/Peace-Equalizer-Apo",
-    "clone_url": "https://github.com/bonhs1983/Peace-Equalizer-Apo.git",
-    "stars": 41,
-    "size": 174
   }
 ]
