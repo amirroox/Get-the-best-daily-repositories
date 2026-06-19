@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-16 .. 2026-06-18)
+# Latest Repositories (2026-06-17 .. 2026-06-19)
 
-- [Plaer1/junction](https://github.com/Plaer1/junction) (507)
-- [Tyxy-R/codex-referral-risk-research](https://github.com/Tyxy-R/codex-referral-risk-research) (218)
-- [aresyn/codex-control-plane-mcp](https://github.com/aresyn/codex-control-plane-mcp) (199)
-- [ReulgeApmpetty0O/Back-End-Developer-Interview-Questions](https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions) (174)
-- [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) (99)
+- [0xSero/glm-5.2-sm120](https://github.com/0xSero/glm-5.2-sm120) (80)
+- [JinhuaChenBiggest/IncubativeSecondBrain](https://github.com/JinhuaChenBiggest/IncubativeSecondBrain) (51)
+- [atherio-danp/cde-dotnetcc](https://github.com/atherio-danp/cde-dotnetcc) (48)
+- [abluva-research/mcp-trust-plane](https://github.com/abluva-research/mcp-trust-plane) (45)
+- [bonhs1983/Peace-Equalizer-Apo](https://github.com/bonhs1983/Peace-Equalizer-Apo) (41)
