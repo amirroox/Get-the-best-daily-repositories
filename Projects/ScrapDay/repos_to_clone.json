@@ -2,31 +2,31 @@
   {
     "name": "Iwancof/HackRFOneSegTuner",
     "clone_url": "https://github.com/Iwancof/HackRFOneSegTuner.git",
-    "stars": 59,
+    "stars": 74,
     "size": 265
+  },
+  {
+    "name": "itssosunny/im-not-strange-ai",
+    "clone_url": "https://github.com/itssosunny/im-not-strange-ai.git",
+    "stars": 56,
+    "size": 448
+  },
+  {
+    "name": "Routeplabastion/zapret-discord-youtube-1.9.9c",
+    "clone_url": "https://github.com/Routeplabastion/zapret-discord-youtube-1.9.9c.git",
+    "stars": 51,
+    "size": 1600
   },
   {
     "name": "joeseesun/qiaomu-llm-mcp",
     "clone_url": "https://github.com/joeseesun/qiaomu-llm-mcp.git",
-    "stars": 36,
+    "stars": 37,
     "size": 136
   },
   {
-    "name": "briliwar0/glm-5.2-free-desktop-app",
-    "clone_url": "https://github.com/briliwar0/glm-5.2-free-desktop-app.git",
-    "stars": 33,
-    "size": 172
-  },
-  {
-    "name": "Firewalkeroffear/satisfactory-mod-manager",
-    "clone_url": "https://github.com/Firewalkeroffear/satisfactory-mod-manager.git",
-    "stars": 33,
-    "size": 60
-  },
-  {
-    "name": "catsing/oot-pc-port",
-    "clone_url": "https://github.com/catsing/oot-pc-port.git",
-    "stars": 33,
-    "size": 172
+    "name": "zyn26/minimax-m3-desktop-app-free-api",
+    "clone_url": "https://github.com/zyn26/minimax-m3-desktop-app-free-api.git",
+    "stars": 34,
+    "size": 50
   }
 ]
