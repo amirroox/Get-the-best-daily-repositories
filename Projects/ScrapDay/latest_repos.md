@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-17 .. 2026-06-19)
+# Latest Repositories (2026-06-18 .. 2026-06-20)
 
-- [0xSero/glm-5.2-sm120](https://github.com/0xSero/glm-5.2-sm120) (89)
-- [StephenDev0/StikPair](https://github.com/StephenDev0/StikPair) (64)
-- [abluva-research/mcp-trust-plane](https://github.com/abluva-research/mcp-trust-plane) (52)
-- [JinhuaChenBiggest/IncubativeSecondBrain](https://github.com/JinhuaChenBiggest/IncubativeSecondBrain) (51)
-- [atherio-danp/cde-dotnetcc](https://github.com/atherio-danp/cde-dotnetcc) (50)
+- [Iwancof/HackRFOneSegTuner](https://github.com/Iwancof/HackRFOneSegTuner) (59)
+- [joeseesun/qiaomu-llm-mcp](https://github.com/joeseesun/qiaomu-llm-mcp) (36)
+- [briliwar0/glm-5.2-free-desktop-app](https://github.com/briliwar0/glm-5.2-free-desktop-app) (33)
+- [Firewalkeroffear/satisfactory-mod-manager](https://github.com/Firewalkeroffear/satisfactory-mod-manager) (33)
+- [catsing/oot-pc-port](https://github.com/catsing/oot-pc-port) (33)
