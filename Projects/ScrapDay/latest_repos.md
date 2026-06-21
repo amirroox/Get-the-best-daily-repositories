@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-18 .. 2026-06-20)
+# Latest Repositories (2026-06-19 .. 2026-06-21)
 
-- [Iwancof/HackRFOneSegTuner](https://github.com/Iwancof/HackRFOneSegTuner) (74)
-- [itssosunny/im-not-strange-ai](https://github.com/itssosunny/im-not-strange-ai) (56)
-- [Routeplabastion/zapret-discord-youtube-1.9.9c](https://github.com/Routeplabastion/zapret-discord-youtube-1.9.9c) (51)
-- [joeseesun/qiaomu-llm-mcp](https://github.com/joeseesun/qiaomu-llm-mcp) (37)
-- [zyn26/minimax-m3-desktop-app-free-api](https://github.com/zyn26/minimax-m3-desktop-app-free-api) (34)
+- [clent267/FUNCAPTCHAV3](https://github.com/clent267/FUNCAPTCHAV3) (154)
+- [itssosunny/im-not-strange-ai](https://github.com/itssosunny/im-not-strange-ai) (103)
+- [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) (74)
+- [qwer-xyz/incudal](https://github.com/qwer-xyz/incudal) (68)
+- [mallexibra-dev/clipforge](https://github.com/mallexibra-dev/clipforge) (62)
