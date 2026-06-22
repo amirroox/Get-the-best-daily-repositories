@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-19 .. 2026-06-21)
+# Latest Repositories (2026-06-20 .. 2026-06-22)
 
-- [clent267/FUNCAPTCHAV3](https://github.com/clent267/FUNCAPTCHAV3) (237)
-- [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) (129)
-- [itssosunny/im-not-strange-ai](https://github.com/itssosunny/im-not-strange-ai) (109)
-- [mallexibra-dev/clipforge](https://github.com/mallexibra-dev/clipforge) (97)
-- [qwer-xyz/incudal](https://github.com/qwer-xyz/incudal) (84)
+- [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar) (52)
+- [ThisIsLittleSky/WaterPaper](https://github.com/ThisIsLittleSky/WaterPaper) (41)
+- [Huxiaoyou97/ManvoTV](https://github.com/Huxiaoyou97/ManvoTV) (41)
+- [manojd23625/Steam-Tools](https://github.com/manojd23625/Steam-Tools) (38)
+- [G-jvebenava/krnl-exec-pc](https://github.com/G-jvebenava/krnl-exec-pc) (37)
