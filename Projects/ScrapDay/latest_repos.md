@@ -1,7 +1,7 @@
 # Latest Repositories (2026-06-20 .. 2026-06-22)
 
-- [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar) (52)
-- [ThisIsLittleSky/WaterPaper](https://github.com/ThisIsLittleSky/WaterPaper) (41)
-- [Huxiaoyou97/ManvoTV](https://github.com/Huxiaoyou97/ManvoTV) (41)
-- [manojd23625/Steam-Tools](https://github.com/manojd23625/Steam-Tools) (38)
-- [G-jvebenava/krnl-exec-pc](https://github.com/G-jvebenava/krnl-exec-pc) (37)
+- [kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe) (501)
+- [SarkAzia/baiyueguang-learning-skill](https://github.com/SarkAzia/baiyueguang-learning-skill) (123)
+- [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar) (84)
+- [jyotilakra92/auto-improving-kernel](https://github.com/jyotilakra92/auto-improving-kernel) (49)
+- [begin0808/LiveCaption](https://github.com/begin0808/LiveCaption) (46)
