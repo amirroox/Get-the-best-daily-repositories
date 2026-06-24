@@ -1,32 +1,32 @@
 [
   {
+    "name": "lightbearco/tupper",
+    "clone_url": "https://github.com/lightbearco/tupper.git",
+    "stars": 122,
+    "size": 186
+  },
+  {
     "name": "Reyzowter/Hello-Agents",
     "clone_url": "https://github.com/Reyzowter/Hello-Agents.git",
-    "stars": 87,
+    "stars": 121,
     "size": 55
+  },
+  {
+    "name": "benchflow-ai/awesome-evals",
+    "clone_url": "https://github.com/benchflow-ai/awesome-evals.git",
+    "stars": 87,
+    "size": 1135
   },
   {
     "name": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
     "clone_url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit.git",
-    "stars": 51,
-    "size": 868
-  },
-  {
-    "name": "scratchyone/voice-training-ui",
-    "clone_url": "https://github.com/scratchyone/voice-training-ui.git",
-    "stars": 41,
-    "size": 2611
-  },
-  {
-    "name": "daniel-north000/voice-changer-v1.6",
-    "clone_url": "https://github.com/daniel-north000/voice-changer-v1.6.git",
-    "stars": 41,
-    "size": 283
+    "stars": 84,
+    "size": 875
   },
   {
     "name": "y-times-y/y",
     "clone_url": "https://github.com/y-times-y/y.git",
-    "stars": 39,
-    "size": 2938
+    "stars": 55,
+    "size": 2949
   }
 ]
