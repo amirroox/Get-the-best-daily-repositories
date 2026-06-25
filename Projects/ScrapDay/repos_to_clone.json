@@ -2,31 +2,31 @@
   {
     "name": "benchflow-ai/awesome-evals",
     "clone_url": "https://github.com/benchflow-ai/awesome-evals.git",
-    "stars": 201,
-    "size": 1506
-  },
-  {
-    "name": "killernay/HearYourVOICE",
-    "clone_url": "https://github.com/killernay/HearYourVOICE.git",
-    "stars": 76,
-    "size": 92
+    "stars": 249,
+    "size": 1442
   },
   {
     "name": "J-jaeyoung/bad-epoll",
     "clone_url": "https://github.com/J-jaeyoung/bad-epoll.git",
-    "stars": 54,
+    "stars": 117,
     "size": 623
   },
   {
-    "name": "jasonHG/Lossless-Scaling-Latest-Pat-her-2026",
-    "clone_url": "https://github.com/jasonHG/Lossless-Scaling-Latest-Pat-her-2026.git",
-    "stars": 50,
-    "size": 91
+    "name": "killernay/HearYourVOICE",
+    "clone_url": "https://github.com/killernay/HearYourVOICE.git",
+    "stars": 83,
+    "size": 92
   },
   {
-    "name": "JotaDev66/WaCalls",
-    "clone_url": "https://github.com/JotaDev66/WaCalls.git",
-    "stars": 49,
-    "size": 4412
+    "name": "amplifthq/opentag",
+    "clone_url": "https://github.com/amplifthq/opentag.git",
+    "stars": 78,
+    "size": 1709
+  },
+  {
+    "name": "Neilooo/md-reader",
+    "clone_url": "https://github.com/Neilooo/md-reader.git",
+    "stars": 57,
+    "size": 199
   }
 ]
