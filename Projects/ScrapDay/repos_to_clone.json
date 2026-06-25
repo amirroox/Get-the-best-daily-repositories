@@ -1,32 +1,32 @@
 [
   {
-    "name": "lightbearco/tupper",
-    "clone_url": "https://github.com/lightbearco/tupper.git",
-    "stars": 122,
-    "size": 186
-  },
-  {
-    "name": "Reyzowter/Hello-Agents",
-    "clone_url": "https://github.com/Reyzowter/Hello-Agents.git",
-    "stars": 121,
-    "size": 55
-  },
-  {
     "name": "benchflow-ai/awesome-evals",
     "clone_url": "https://github.com/benchflow-ai/awesome-evals.git",
-    "stars": 87,
-    "size": 1135
+    "stars": 201,
+    "size": 1506
   },
   {
-    "name": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
-    "clone_url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit.git",
-    "stars": 84,
-    "size": 875
+    "name": "killernay/HearYourVOICE",
+    "clone_url": "https://github.com/killernay/HearYourVOICE.git",
+    "stars": 76,
+    "size": 92
   },
   {
-    "name": "y-times-y/y",
-    "clone_url": "https://github.com/y-times-y/y.git",
-    "stars": 55,
-    "size": 2949
+    "name": "J-jaeyoung/bad-epoll",
+    "clone_url": "https://github.com/J-jaeyoung/bad-epoll.git",
+    "stars": 54,
+    "size": 623
+  },
+  {
+    "name": "jasonHG/Lossless-Scaling-Latest-Pat-her-2026",
+    "clone_url": "https://github.com/jasonHG/Lossless-Scaling-Latest-Pat-her-2026.git",
+    "stars": 50,
+    "size": 91
+  },
+  {
+    "name": "JotaDev66/WaCalls",
+    "clone_url": "https://github.com/JotaDev66/WaCalls.git",
+    "stars": 49,
+    "size": 4412
   }
 ]

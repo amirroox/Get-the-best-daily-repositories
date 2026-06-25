@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-22 .. 2026-06-24)
+# Latest Repositories (2026-06-23 .. 2026-06-25)
 
-- [lightbearco/tupper](https://github.com/lightbearco/tupper) (122)
-- [Reyzowter/Hello-Agents](https://github.com/Reyzowter/Hello-Agents) (121)
-- [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) (87)
-- [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) (84)
-- [y-times-y/y](https://github.com/y-times-y/y) (55)
+- [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) (201)
+- [killernay/HearYourVOICE](https://github.com/killernay/HearYourVOICE) (76)
+- [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll) (54)
+- [jasonHG/Lossless-Scaling-Latest-Pat-her-2026](https://github.com/jasonHG/Lossless-Scaling-Latest-Pat-her-2026) (50)
+- [JotaDev66/WaCalls](https://github.com/JotaDev66/WaCalls) (49)
