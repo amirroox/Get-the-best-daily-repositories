@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-23 .. 2026-06-25)
+# Latest Repositories (2026-06-24 .. 2026-06-26)
 
-- [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) (249)
-- [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll) (117)
-- [killernay/HearYourVOICE](https://github.com/killernay/HearYourVOICE) (83)
-- [amplifthq/opentag](https://github.com/amplifthq/opentag) (78)
-- [Neilooo/md-reader](https://github.com/Neilooo/md-reader) (57)
+- [GraeLefix/GITVERSE](https://github.com/GraeLefix/GITVERSE) (109)
+- [KBRmau/linkedin-profile-optimizer](https://github.com/KBRmau/linkedin-profile-optimizer) (88)
+- [mnapoli/vibephp](https://github.com/mnapoli/vibephp) (67)
+- [heheboobes/nebula-engine](https://github.com/heheboobes/nebula-engine) (42)
+- [PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter) (28)
