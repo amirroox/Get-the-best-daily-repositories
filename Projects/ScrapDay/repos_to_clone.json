@@ -2,31 +2,31 @@
   {
     "name": "GraeLefix/GITVERSE",
     "clone_url": "https://github.com/GraeLefix/GITVERSE.git",
-    "stars": 109,
+    "stars": 129,
     "size": 58
-  },
-  {
-    "name": "KBRmau/linkedin-profile-optimizer",
-    "clone_url": "https://github.com/KBRmau/linkedin-profile-optimizer.git",
-    "stars": 88,
-    "size": 170
   },
   {
     "name": "mnapoli/vibephp",
     "clone_url": "https://github.com/mnapoli/vibephp.git",
-    "stars": 67,
+    "stars": 92,
     "size": 2189
+  },
+  {
+    "name": "KBRmau/linkedin-profile-optimizer",
+    "clone_url": "https://github.com/KBRmau/linkedin-profile-optimizer.git",
+    "stars": 91,
+    "size": 170
+  },
+  {
+    "name": "SlowFencerBushing/TG-WS-PROXY",
+    "clone_url": "https://github.com/SlowFencerBushing/TG-WS-PROXY.git",
+    "stars": 63,
+    "size": 129
   },
   {
     "name": "heheboobes/nebula-engine",
     "clone_url": "https://github.com/heheboobes/nebula-engine.git",
-    "stars": 42,
+    "stars": 41,
     "size": 504
-  },
-  {
-    "name": "PenghaoJiang/auto-paper-collecter",
-    "clone_url": "https://github.com/PenghaoJiang/auto-paper-collecter.git",
-    "stars": 28,
-    "size": 68
   }
 ]
