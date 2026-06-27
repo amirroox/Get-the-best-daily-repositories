@@ -1,32 +1,32 @@
 [
   {
-    "name": "FossPrime/Steam-Controller-Auto-Charge",
-    "clone_url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge.git",
-    "stars": 135,
-    "size": 119
+    "name": "deepseek-ai/DeepSpec",
+    "clone_url": "https://github.com/deepseek-ai/DeepSpec.git",
+    "stars": 851,
+    "size": 3465
   },
   {
-    "name": "Lutschippi/DEHUB",
-    "clone_url": "https://github.com/Lutschippi/DEHUB.git",
-    "stars": 87,
-    "size": 230
+    "name": "playPlumtown/Plumtown",
+    "clone_url": "https://github.com/playPlumtown/Plumtown.git",
+    "stars": 335,
+    "size": 2767
+  },
+  {
+    "name": "FossPrime/Steam-Controller-Auto-Charge",
+    "clone_url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge.git",
+    "stars": 186,
+    "size": 121
   },
   {
     "name": "ivorpad/mercadona-cli",
     "clone_url": "https://github.com/ivorpad/mercadona-cli.git",
-    "stars": 82,
-    "size": 154
+    "stars": 180,
+    "size": 188
   },
   {
-    "name": "donoaccestag/boilerplates",
-    "clone_url": "https://github.com/donoaccestag/boilerplates.git",
-    "stars": 55,
-    "size": 2746
-  },
-  {
-    "name": "SlowFencerBushing/TG-WS-PROXY",
-    "clone_url": "https://github.com/SlowFencerBushing/TG-WS-PROXY.git",
-    "stars": 53,
-    "size": 129
+    "name": "CopilotKit/OpenTag",
+    "clone_url": "https://github.com/CopilotKit/OpenTag.git",
+    "stars": 144,
+    "size": 2179
   }
 ]
