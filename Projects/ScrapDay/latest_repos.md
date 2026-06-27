@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-24 .. 2026-06-26)
+# Latest Repositories (2026-06-25 .. 2026-06-27)
 
-- [GraeLefix/GITVERSE](https://github.com/GraeLefix/GITVERSE) (129)
-- [mnapoli/vibephp](https://github.com/mnapoli/vibephp) (92)
-- [KBRmau/linkedin-profile-optimizer](https://github.com/KBRmau/linkedin-profile-optimizer) (91)
-- [SlowFencerBushing/TG-WS-PROXY](https://github.com/SlowFencerBushing/TG-WS-PROXY) (63)
-- [heheboobes/nebula-engine](https://github.com/heheboobes/nebula-engine) (41)
+- [FossPrime/Steam-Controller-Auto-Charge](https://github.com/FossPrime/Steam-Controller-Auto-Charge) (135)
+- [Lutschippi/DEHUB](https://github.com/Lutschippi/DEHUB) (87)
+- [ivorpad/mercadona-cli](https://github.com/ivorpad/mercadona-cli) (82)
+- [donoaccestag/boilerplates](https://github.com/donoaccestag/boilerplates) (55)
+- [SlowFencerBushing/TG-WS-PROXY](https://github.com/SlowFencerBushing/TG-WS-PROXY) (53)
