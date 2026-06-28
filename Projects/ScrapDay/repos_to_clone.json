@@ -1,32 +1,32 @@
 [
   {
+    "name": "pasky/pi-omplike-advisor",
+    "clone_url": "https://github.com/pasky/pi-omplike-advisor.git",
+    "stars": 60,
+    "size": 78
+  },
+  {
     "name": "Polaris-Aeterna/loom-notes",
     "clone_url": "https://github.com/Polaris-Aeterna/loom-notes.git",
-    "stars": 34,
+    "stars": 49,
     "size": 1421
+  },
+  {
+    "name": "hackazer/backspin-algorithm",
+    "clone_url": "https://github.com/hackazer/backspin-algorithm.git",
+    "stars": 45,
+    "size": 50
   },
   {
     "name": "evoker0/AlwaysStrong",
     "clone_url": "https://github.com/evoker0/AlwaysStrong.git",
-    "stars": 28,
+    "stars": 33,
     "size": 4222
   },
   {
-    "name": "Aestheticsuraj234/chai0-clone-build",
-    "clone_url": "https://github.com/Aestheticsuraj234/chai0-clone-build.git",
-    "stars": 22,
-    "size": 581
-  },
-  {
-    "name": "SPLYASHKA/lampy.nvim",
-    "clone_url": "https://github.com/SPLYASHKA/lampy.nvim.git",
-    "stars": 20,
-    "size": 1206
-  },
-  {
-    "name": "saidsurucu/dergipark-skill",
-    "clone_url": "https://github.com/saidsurucu/dergipark-skill.git",
-    "stars": 20,
-    "size": 1555
+    "name": "feigaobox10/llm-from-scratch-reader",
+    "clone_url": "https://github.com/feigaobox10/llm-from-scratch-reader.git",
+    "stars": 29,
+    "size": 4636
   }
 ]
