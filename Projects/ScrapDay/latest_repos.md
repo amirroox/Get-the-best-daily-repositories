@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-25 .. 2026-06-27)
+# Latest Repositories (2026-06-26 .. 2026-06-28)
 
-- [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) (851)
-- [playPlumtown/Plumtown](https://github.com/playPlumtown/Plumtown) (335)
-- [FossPrime/Steam-Controller-Auto-Charge](https://github.com/FossPrime/Steam-Controller-Auto-Charge) (186)
-- [ivorpad/mercadona-cli](https://github.com/ivorpad/mercadona-cli) (180)
-- [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) (144)
+- [Polaris-Aeterna/loom-notes](https://github.com/Polaris-Aeterna/loom-notes) (34)
+- [evoker0/AlwaysStrong](https://github.com/evoker0/AlwaysStrong) (28)
+- [Aestheticsuraj234/chai0-clone-build](https://github.com/Aestheticsuraj234/chai0-clone-build) (22)
+- [SPLYASHKA/lampy.nvim](https://github.com/SPLYASHKA/lampy.nvim) (20)
+- [saidsurucu/dergipark-skill](https://github.com/saidsurucu/dergipark-skill) (20)
