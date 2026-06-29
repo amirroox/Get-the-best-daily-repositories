@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-26 .. 2026-06-28)
+# Latest Repositories (2026-06-27 .. 2026-06-29)
 
-- [pasky/pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor) (60)
-- [Polaris-Aeterna/loom-notes](https://github.com/Polaris-Aeterna/loom-notes) (49)
-- [hackazer/backspin-algorithm](https://github.com/hackazer/backspin-algorithm) (45)
-- [evoker0/AlwaysStrong](https://github.com/evoker0/AlwaysStrong) (33)
-- [feigaobox10/llm-from-scratch-reader](https://github.com/feigaobox10/llm-from-scratch-reader) (29)
+- [KnitPortalQuilt/MECCHA-HAMELEON-TRAINER](https://github.com/KnitPortalQuilt/MECCHA-HAMELEON-TRAINER) (91)
+- [nexxeln/talktui](https://github.com/nexxeln/talktui) (87)
+- [offchainthoughts/Amber](https://github.com/offchainthoughts/Amber) (73)
+- [haiou-666/haiou2.0-Claude-Code-](https://github.com/haiou-666/haiou2.0-Claude-Code-) (48)
+- [ChaseTheHunter/ryujinx-emu](https://github.com/ChaseTheHunter/ryujinx-emu) (48)
