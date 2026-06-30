@@ -1,32 +1,32 @@
 [
   {
+    "name": "TianhangZhuzth/Fundamental-Ava",
+    "clone_url": "https://github.com/TianhangZhuzth/Fundamental-Ava.git",
+    "stars": 504,
+    "size": 448
+  },
+  {
     "name": "yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay",
     "clone_url": "https://github.com/yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay.git",
     "stars": 120,
-    "size": 271
+    "size": 274
+  },
+  {
+    "name": "meituan-longcat/LongCat-2.0",
+    "clone_url": "https://github.com/meituan-longcat/LongCat-2.0.git",
+    "stars": 93,
+    "size": 283
   },
   {
     "name": "Sophomoresty/gemini-search-mcp",
     "clone_url": "https://github.com/Sophomoresty/gemini-search-mcp.git",
-    "stars": 61,
-    "size": 3675
+    "stars": 87,
+    "size": 3742
   },
   {
     "name": "nationaldesignstudio/rampart",
     "clone_url": "https://github.com/nationaldesignstudio/rampart.git",
-    "stars": 57,
-    "size": 131
-  },
-  {
-    "name": "heaasen/torzon-darknet-link",
-    "clone_url": "https://github.com/heaasen/torzon-darknet-link.git",
-    "stars": 46,
-    "size": 50
-  },
-  {
-    "name": "allen-110/exploitarium",
-    "clone_url": "https://github.com/allen-110/exploitarium.git",
-    "stars": 44,
-    "size": 267
+    "stars": 81,
+    "size": 136
   }
 ]
