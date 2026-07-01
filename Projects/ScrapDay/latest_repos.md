@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-28 .. 2026-06-30)
+# Latest Repositories (2026-06-29 .. 2026-07-01)
 
-- [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) (504)
-- [yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay](https://github.com/yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay) (120)
-- [meituan-longcat/LongCat-2.0](https://github.com/meituan-longcat/LongCat-2.0) (93)
-- [Sophomoresty/gemini-search-mcp](https://github.com/Sophomoresty/gemini-search-mcp) (87)
-- [nationaldesignstudio/rampart](https://github.com/nationaldesignstudio/rampart) (81)
+- [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) (640)
+- [tony-devb/seed-phrase-generator](https://github.com/tony-devb/seed-phrase-generator) (187)
+- [iniwex5/vohive](https://github.com/iniwex5/vohive) (45)
+- [AMAP-ML/BlockPilot](https://github.com/AMAP-ML/BlockPilot) (45)
+- [ComPDFKit/compdf-self-hosted](https://github.com/ComPDFKit/compdf-self-hosted) (42)
