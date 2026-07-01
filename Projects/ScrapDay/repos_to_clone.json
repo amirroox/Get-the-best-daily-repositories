@@ -2,7 +2,7 @@
   {
     "name": "TianhangZhuzth/Fundamental-Ava",
     "clone_url": "https://github.com/TianhangZhuzth/Fundamental-Ava.git",
-    "stars": 640,
+    "stars": 697,
     "size": 460
   },
   {
@@ -12,21 +12,21 @@
     "size": 1875
   },
   {
+    "name": "shalaluecka/Ancient-Rust-2026",
+    "clone_url": "https://github.com/shalaluecka/Ancient-Rust-2026.git",
+    "stars": 87,
+    "size": 196
+  },
+  {
+    "name": "EEliberto/SurgeRelay-macOS",
+    "clone_url": "https://github.com/EEliberto/SurgeRelay-macOS.git",
+    "stars": 77,
+    "size": 1498
+  },
+  {
     "name": "iniwex5/vohive",
     "clone_url": "https://github.com/iniwex5/vohive.git",
-    "stars": 45,
-    "size": 1614
-  },
-  {
-    "name": "AMAP-ML/BlockPilot",
-    "clone_url": "https://github.com/AMAP-ML/BlockPilot.git",
-    "stars": 45,
-    "size": 102
-  },
-  {
-    "name": "ComPDFKit/compdf-self-hosted",
-    "clone_url": "https://github.com/ComPDFKit/compdf-self-hosted.git",
-    "stars": 42,
-    "size": 507
+    "stars": 70,
+    "size": 1626
   }
 ]
