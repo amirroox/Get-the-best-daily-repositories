@@ -1,7 +1,7 @@
-# Latest Repositories (2026-06-29 .. 2026-07-01)
+# Latest Repositories (2026-06-30 .. 2026-07-02)
 
-- [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) (697)
-- [tony-devb/seed-phrase-generator](https://github.com/tony-devb/seed-phrase-generator) (187)
-- [shalaluecka/Ancient-Rust-2026](https://github.com/shalaluecka/Ancient-Rust-2026) (87)
-- [EEliberto/SurgeRelay-macOS](https://github.com/EEliberto/SurgeRelay-macOS) (77)
-- [iniwex5/vohive](https://github.com/iniwex5/vohive) (70)
+- [EEliberto/SurgeRelay-macOS](https://github.com/EEliberto/SurgeRelay-macOS) (99)
+- [andrew54068/ez100pu-apple-silicon](https://github.com/andrew54068/ez100pu-apple-silicon) (61)
+- [xt4d/GameBlocks](https://github.com/xt4d/GameBlocks) (44)
+- [nunomaduro/plack.app](https://github.com/nunomaduro/plack.app) (39)
+- [Moh4696/freecut](https://github.com/Moh4696/freecut) (33)
