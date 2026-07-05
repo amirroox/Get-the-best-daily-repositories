@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-02 .. 2026-07-04)
+# Latest Repositories (2026-07-03 .. 2026-07-05)
 
-- [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) (606)
-- [antiwork/chromeless](https://github.com/antiwork/chromeless) (161)
-- [Jamonygr/certified-terraform-associate-azure-edition](https://github.com/Jamonygr/certified-terraform-associate-azure-edition) (112)
-- [loyal-studio/Honami-Animation-System](https://github.com/loyal-studio/Honami-Animation-System) (92)
-- [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) (85)
+- [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) (125)
+- [100yenadmin/fable-token-saving-skills-orchestrator](https://github.com/100yenadmin/fable-token-saving-skills-orchestrator) (122)
+- [CodeXTF2/OpenUDC2](https://github.com/CodeXTF2/OpenUDC2) (26)
+- [soeinova/Fantasi](https://github.com/soeinova/Fantasi) (24)
+- [dbd-tools/Dead-by-Daylight-ESP](https://github.com/dbd-tools/Dead-by-Daylight-ESP) (14)
