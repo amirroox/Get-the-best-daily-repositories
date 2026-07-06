@@ -2,31 +2,31 @@
   {
     "name": "514-labs/dnsglobe",
     "clone_url": "https://github.com/514-labs/dnsglobe.git",
-    "stars": 252,
+    "stars": 488,
     "size": 623
   },
   {
     "name": "nagisanzenin/engram",
     "clone_url": "https://github.com/nagisanzenin/engram.git",
-    "stars": 165,
-    "size": 923
-  },
-  {
-    "name": "MaximeRivest/riddle",
-    "clone_url": "https://github.com/MaximeRivest/riddle.git",
-    "stars": 154,
-    "size": 151
+    "stars": 277,
+    "size": 966
   },
   {
     "name": "majidmanzarpour/threejs-procedural-dungeon",
     "clone_url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon.git",
-    "stars": 107,
+    "stars": 217,
     "size": 631
   },
   {
-    "name": "TheColliny/FableClaudeMDForOpus",
-    "clone_url": "https://github.com/TheColliny/FableClaudeMDForOpus.git",
-    "stars": 103,
-    "size": 207
+    "name": "simonlin1212/Vibe-Research",
+    "clone_url": "https://github.com/simonlin1212/Vibe-Research.git",
+    "stars": 147,
+    "size": 2305
+  },
+  {
+    "name": "lucid-softworks/lumen",
+    "clone_url": "https://github.com/lucid-softworks/lumen.git",
+    "stars": 136,
+    "size": 3494
   }
 ]
