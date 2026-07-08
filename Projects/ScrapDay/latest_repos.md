@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-05 .. 2026-07-07)
+# Latest Repositories (2026-07-06 .. 2026-07-08)
 
-- [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) (197)
-- [Shpigford/knockoff](https://github.com/Shpigford/knockoff) (187)
-- [starmiaoa/chatgpt-register-k12](https://github.com/starmiaoa/chatgpt-register-k12) (152)
-- [kuskhan/jetendard](https://github.com/kuskhan/jetendard) (151)
-- [yaojingang/TokHub](https://github.com/yaojingang/TokHub) (135)
+- [WeZZard/jlens-qwen36](https://github.com/WeZZard/jlens-qwen36) (113)
+- [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom) (90)
+- [adriflex/autoremesher-blender-bridge](https://github.com/adriflex/autoremesher-blender-bridge) (79)
+- [iptvorganization/dv-hls-gateway](https://github.com/iptvorganization/dv-hls-gateway) (48)
+- [gnomeria/usbtree](https://github.com/gnomeria/usbtree) (41)
