@@ -2,31 +2,31 @@
   {
     "name": "WeZZard/jlens-qwen36",
     "clone_url": "https://github.com/WeZZard/jlens-qwen36.git",
-    "stars": 113,
+    "stars": 218,
     "size": 1628
   },
   {
     "name": "Liquid4All/antidoom",
     "clone_url": "https://github.com/Liquid4All/antidoom.git",
-    "stars": 90,
+    "stars": 130,
     "size": 326
   },
   {
     "name": "adriflex/autoremesher-blender-bridge",
     "clone_url": "https://github.com/adriflex/autoremesher-blender-bridge.git",
-    "stars": 79,
+    "stars": 105,
     "size": 90
-  },
-  {
-    "name": "iptvorganization/dv-hls-gateway",
-    "clone_url": "https://github.com/iptvorganization/dv-hls-gateway.git",
-    "stars": 48,
-    "size": 175
   },
   {
     "name": "gnomeria/usbtree",
     "clone_url": "https://github.com/gnomeria/usbtree.git",
-    "stars": 41,
-    "size": 685
+    "stars": 80,
+    "size": 2961
+  },
+  {
+    "name": "RoboDojo-Benchmark/RoboDojo",
+    "clone_url": "https://github.com/RoboDojo-Benchmark/RoboDojo.git",
+    "stars": 74,
+    "size": 1080
   }
 ]
