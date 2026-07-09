@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-06 .. 2026-07-08)
+# Latest Repositories (2026-07-07 .. 2026-07-09)
 
-- [WeZZard/jlens-qwen36](https://github.com/WeZZard/jlens-qwen36) (218)
-- [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom) (130)
-- [adriflex/autoremesher-blender-bridge](https://github.com/adriflex/autoremesher-blender-bridge) (105)
-- [gnomeria/usbtree](https://github.com/gnomeria/usbtree) (80)
-- [RoboDojo-Benchmark/RoboDojo](https://github.com/RoboDojo-Benchmark/RoboDojo) (74)
+- [Nanako0129/pilotfish](https://github.com/Nanako0129/pilotfish) (184)
+- [Moore-developers/moore-wechat-article-downloader](https://github.com/Moore-developers/moore-wechat-article-downloader) (107)
+- [opencoredev/login-with-chatgpt](https://github.com/opencoredev/login-with-chatgpt) (96)
+- [ctabuyo/FC250-](https://github.com/ctabuyo/FC250-) (76)
+- [bolivestilo/Homekit](https://github.com/bolivestilo/Homekit) (66)
