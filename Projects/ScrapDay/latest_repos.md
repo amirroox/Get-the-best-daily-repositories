@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-08 .. 2026-07-10)
+# Latest Repositories (2026-07-09 .. 2026-07-11)
 
-- [imchine/FinTech-Solution](https://github.com/imchine/FinTech-Solution) (120)
-- [Elias569/fintech-dashboard](https://github.com/Elias569/fintech-dashboard) (118)
-- [KORAYTEACHER/fintech-forge](https://github.com/KORAYTEACHER/fintech-forge) (118)
-- [imchine/FinTech-Wallet](https://github.com/imchine/FinTech-Wallet) (118)
-- [SilentFleetKK/ai-market-pulse](https://github.com/SilentFleetKK/ai-market-pulse) (102)
+- [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) (162)
+- [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex) (105)
+- [dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth) (97)
+- [CoscoAI/luxy-aisre](https://github.com/CoscoAI/luxy-aisre) (84)
+- [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) (59)
