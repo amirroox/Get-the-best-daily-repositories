@@ -2,31 +2,31 @@
   {
     "name": "yetone/kill-ai-slop",
     "clone_url": "https://github.com/yetone/kill-ai-slop.git",
-    "stars": 162,
-    "size": 323
-  },
-  {
-    "name": "Jane-xiaoer/paper-collage-ad-codex",
-    "clone_url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex.git",
-    "stars": 105,
-    "size": 61
+    "stars": 217,
+    "size": 372
   },
   {
     "name": "dongguatanglinux/grok-build-auth",
     "clone_url": "https://github.com/dongguatanglinux/grok-build-auth.git",
-    "stars": 97,
+    "stars": 155,
     "size": 85
   },
   {
     "name": "CoscoAI/luxy-aisre",
     "clone_url": "https://github.com/CoscoAI/luxy-aisre.git",
-    "stars": 84,
+    "stars": 142,
     "size": 1676
   },
   {
-    "name": "myfanhua/turb-gpt-free-register",
-    "clone_url": "https://github.com/myfanhua/turb-gpt-free-register.git",
-    "stars": 59,
-    "size": 212
+    "name": "Jane-xiaoer/paper-collage-ad-codex",
+    "clone_url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex.git",
+    "stars": 125,
+    "size": 61
+  },
+  {
+    "name": "maxucheng0/grok-auto-register",
+    "clone_url": "https://github.com/maxucheng0/grok-auto-register.git",
+    "stars": 97,
+    "size": 2354
   }
 ]
