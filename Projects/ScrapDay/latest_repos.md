@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-09 .. 2026-07-11)
+# Latest Repositories (2026-07-10 .. 2026-07-12)
 
-- [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) (217)
-- [dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth) (155)
-- [CoscoAI/luxy-aisre](https://github.com/CoscoAI/luxy-aisre) (142)
-- [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex) (125)
-- [maxucheng0/grok-auto-register](https://github.com/maxucheng0/grok-auto-register) (97)
+- [nhevers/project-r0x](https://github.com/nhevers/project-r0x) (123)
+- [Git-creat7/grokRegister-cpa](https://github.com/Git-creat7/grokRegister-cpa) (88)
+- [mrbear1024/ai-content-kb](https://github.com/mrbear1024/ai-content-kb) (73)
+- [BryanLunduke/LCOS](https://github.com/BryanLunduke/LCOS) (63)
+- [fayazara/pdfstudio](https://github.com/fayazara/pdfstudio) (63)
