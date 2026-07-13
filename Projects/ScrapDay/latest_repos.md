@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-10 .. 2026-07-12)
+# Latest Repositories (2026-07-11 .. 2026-07-13)
 
-- [Git-creat7/grokRegister-cpa](https://github.com/Git-creat7/grokRegister-cpa) (139)
-- [BryanLunduke/LCOS](https://github.com/BryanLunduke/LCOS) (124)
-- [nhevers/project-r0x](https://github.com/nhevers/project-r0x) (123)
-- [mrbear1024/ai-content-kb](https://github.com/mrbear1024/ai-content-kb) (84)
-- [Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-) (81)
+- [NextWeb4/lan-file-transfer](https://github.com/NextWeb4/lan-file-transfer) (92)
+- [rit3zh/expo-morphing-menu](https://github.com/rit3zh/expo-morphing-menu) (77)
+- [MarvinSchwaibold/mri-grid-viewer](https://github.com/MarvinSchwaibold/mri-grid-viewer) (71)
+- [Paresh-Maheshwari/morphe-ai](https://github.com/Paresh-Maheshwari/morphe-ai) (68)
+- [igorbarshteyn/jlens-gguf](https://github.com/igorbarshteyn/jlens-gguf) (51)
