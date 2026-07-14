@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-11 .. 2026-07-13)
+# Latest Repositories (2026-07-12 .. 2026-07-14)
 
-- [NextWeb4/lan-file-transfer](https://github.com/NextWeb4/lan-file-transfer) (116)
-- [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle) (101)
-- [rit3zh/expo-morphing-menu](https://github.com/rit3zh/expo-morphing-menu) (92)
-- [MarvinSchwaibold/mri-grid-viewer](https://github.com/MarvinSchwaibold/mri-grid-viewer) (88)
-- [Paresh-Maheshwari/morphe-ai](https://github.com/Paresh-Maheshwari/morphe-ai) (85)
+- [yeet-src/sigwire](https://github.com/yeet-src/sigwire) (80)
+- [pueschel88/Tradingview-MCP](https://github.com/pueschel88/Tradingview-MCP) (51)
+- [UIseries/ai-robot](https://github.com/UIseries/ai-robot) (47)
+- [hajimi-kun/latex-to-word-workflow](https://github.com/hajimi-kun/latex-to-word-workflow) (46)
+- [jiuwovo-ai/xiaopingguo](https://github.com/jiuwovo-ai/xiaopingguo) (45)
