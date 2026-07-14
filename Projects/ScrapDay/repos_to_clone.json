@@ -1,32 +1,32 @@
 [
   {
-    "name": "yeet-src/sigwire",
-    "clone_url": "https://github.com/yeet-src/sigwire.git",
-    "stars": 80,
-    "size": 4191
+    "name": "WAYLON/ashare-quant-strategies",
+    "clone_url": "https://github.com/WAYLON/ashare-quant-strategies.git",
+    "stars": 166,
+    "size": 3316
+  },
+  {
+    "name": "marcelpanse/youtube-guitar-tab-parser",
+    "clone_url": "https://github.com/marcelpanse/youtube-guitar-tab-parser.git",
+    "stars": 139,
+    "size": 117
+  },
+  {
+    "name": "x4gKing/Free-Panel",
+    "clone_url": "https://github.com/x4gKing/Free-Panel.git",
+    "stars": 130,
+    "size": 191
+  },
+  {
+    "name": "m-novotny/memguard-rs",
+    "clone_url": "https://github.com/m-novotny/memguard-rs.git",
+    "stars": 130,
+    "size": 55
   },
   {
     "name": "pueschel88/Tradingview-MCP",
     "clone_url": "https://github.com/pueschel88/Tradingview-MCP.git",
-    "stars": 51,
+    "stars": 124,
     "size": 66
-  },
-  {
-    "name": "UIseries/ai-robot",
-    "clone_url": "https://github.com/UIseries/ai-robot.git",
-    "stars": 47,
-    "size": 1107
-  },
-  {
-    "name": "hajimi-kun/latex-to-word-workflow",
-    "clone_url": "https://github.com/hajimi-kun/latex-to-word-workflow.git",
-    "stars": 46,
-    "size": 53
-  },
-  {
-    "name": "jiuwovo-ai/xiaopingguo",
-    "clone_url": "https://github.com/jiuwovo-ai/xiaopingguo.git",
-    "stars": 45,
-    "size": 301
   }
 ]
