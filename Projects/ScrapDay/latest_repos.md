@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-12 .. 2026-07-14)
+# Latest Repositories (2026-07-13 .. 2026-07-15)
 
-- [WAYLON/ashare-quant-strategies](https://github.com/WAYLON/ashare-quant-strategies) (166)
-- [marcelpanse/youtube-guitar-tab-parser](https://github.com/marcelpanse/youtube-guitar-tab-parser) (139)
-- [x4gKing/Free-Panel](https://github.com/x4gKing/Free-Panel) (130)
-- [m-novotny/memguard-rs](https://github.com/m-novotny/memguard-rs) (130)
-- [pueschel88/Tradingview-MCP](https://github.com/pueschel88/Tradingview-MCP) (124)
+- [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) (114)
+- [andry-lebedev/neobank-primitives](https://github.com/andry-lebedev/neobank-primitives) (114)
+- [my-take-dev/inspired-mino-design-skills](https://github.com/my-take-dev/inspired-mino-design-skills) (67)
+- [Toolsai/Grok-Build-Connector](https://github.com/Toolsai/Grok-Build-Connector) (57)
+- [pixel-point/toolcraft](https://github.com/pixel-point/toolcraft) (51)
