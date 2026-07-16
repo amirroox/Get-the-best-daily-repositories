@@ -1,32 +1,32 @@
 [
   {
-    "name": "CluvexStudio/Aether",
-    "clone_url": "https://github.com/CluvexStudio/Aether.git",
-    "stars": 411,
-    "size": 2111
-  },
-  {
-    "name": "MatinSenPai/Aether-GUI",
-    "clone_url": "https://github.com/MatinSenPai/Aether-GUI.git",
-    "stars": 260,
-    "size": 851
-  },
-  {
     "name": "my-take-dev/inspired-mino-design-skills",
     "clone_url": "https://github.com/my-take-dev/inspired-mino-design-skills.git",
-    "stars": 214,
+    "stars": 259,
     "size": 342
   },
   {
-    "name": "andry-lebedev/neobank-primitives",
-    "clone_url": "https://github.com/andry-lebedev/neobank-primitives.git",
-    "stars": 117,
-    "size": 1846
+    "name": "gabriel-azara/hyperliquid-tracker",
+    "clone_url": "https://github.com/gabriel-azara/hyperliquid-tracker.git",
+    "stars": 257,
+    "size": 62
   },
   {
-    "name": "VitSoonYoung/SpriteStack2D",
-    "clone_url": "https://github.com/VitSoonYoung/SpriteStack2D.git",
-    "stars": 106,
-    "size": 2590
+    "name": "yuwen-cool/yuwen-publish-precheck",
+    "clone_url": "https://github.com/yuwen-cool/yuwen-publish-precheck.git",
+    "stars": 61,
+    "size": 107
+  },
+  {
+    "name": "SunkenCost/grok-regkit",
+    "clone_url": "https://github.com/SunkenCost/grok-regkit.git",
+    "stars": 60,
+    "size": 154
+  },
+  {
+    "name": "ZethRise/Aethery",
+    "clone_url": "https://github.com/ZethRise/Aethery.git",
+    "stars": 53,
+    "size": 2654
   }
 ]
