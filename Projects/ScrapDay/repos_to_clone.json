@@ -2,31 +2,31 @@
   {
     "name": "tandpfun/wardrobe",
     "clone_url": "https://github.com/tandpfun/wardrobe.git",
-    "stars": 683,
+    "stars": 802,
     "size": 3191
-  },
-  {
-    "name": "alexafinode/claude-arbitrage-bot",
-    "clone_url": "https://github.com/alexafinode/claude-arbitrage-bot.git",
-    "stars": 164,
-    "size": 402
   },
   {
     "name": "pablostanley/yoinks",
     "clone_url": "https://github.com/pablostanley/yoinks.git",
-    "stars": 90,
-    "size": 302
+    "stars": 270,
+    "size": 342
   },
   {
-    "name": "rs-4/pull-refresh-island",
-    "clone_url": "https://github.com/rs-4/pull-refresh-island.git",
-    "stars": 62,
-    "size": 563
+    "name": "v-modal/vmodal_sdk_flutter",
+    "clone_url": "https://github.com/v-modal/vmodal_sdk_flutter.git",
+    "stars": 151,
+    "size": 571
   },
   {
-    "name": "opencoredev/sandbox-sdk",
-    "clone_url": "https://github.com/opencoredev/sandbox-sdk.git",
-    "stars": 46,
-    "size": 2556
+    "name": "MIgHTy-alIeN/Trading-Bot",
+    "clone_url": "https://github.com/MIgHTy-alIeN/Trading-Bot.git",
+    "stars": 89,
+    "size": 162
+  },
+  {
+    "name": "KlaatAI/klaatcode",
+    "clone_url": "https://github.com/KlaatAI/klaatcode.git",
+    "stars": 73,
+    "size": 513
   }
 ]
