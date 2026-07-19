@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-16 .. 2026-07-18)
+# Latest Repositories (2026-07-17 .. 2026-07-19)
 
-- [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo) (243)
-- [MIgHTy-alIeN/Trading-Bot](https://github.com/MIgHTy-alIeN/Trading-Bot) (239)
-- [thebuggeddev/football-stadium](https://github.com/thebuggeddev/football-stadium) (136)
-- [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc) (129)
-- [KlaatAI/klaatcode](https://github.com/KlaatAI/klaatcode) (120)
+- [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) (216)
+- [PostmanReminisce/Wisp-VPN](https://github.com/PostmanReminisce/Wisp-VPN) (124)
+- [timethrough/xiaohei-Chrome](https://github.com/timethrough/xiaohei-Chrome) (99)
+- [iluvx/go-tg-api](https://github.com/iluvx/go-tg-api) (60)
+- [tetsuo-ai/voice_clone_lab](https://github.com/tetsuo-ai/voice_clone_lab) (50)
