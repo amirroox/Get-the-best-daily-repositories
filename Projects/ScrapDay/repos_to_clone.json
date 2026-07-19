@@ -2,7 +2,7 @@
   {
     "name": "lopopolo/harness-engineering",
     "clone_url": "https://github.com/lopopolo/harness-engineering.git",
-    "stars": 216,
+    "stars": 434,
     "size": 595
   },
   {
@@ -14,19 +14,19 @@
   {
     "name": "timethrough/xiaohei-Chrome",
     "clone_url": "https://github.com/timethrough/xiaohei-Chrome.git",
-    "stars": 99,
+    "stars": 111,
     "size": 339
-  },
-  {
-    "name": "iluvx/go-tg-api",
-    "clone_url": "https://github.com/iluvx/go-tg-api.git",
-    "stars": 60,
-    "size": 155
   },
   {
     "name": "tetsuo-ai/voice_clone_lab",
     "clone_url": "https://github.com/tetsuo-ai/voice_clone_lab.git",
-    "stars": 50,
+    "stars": 75,
     "size": 217
+  },
+  {
+    "name": "SeanJ1ang/design-judge-skills",
+    "clone_url": "https://github.com/SeanJ1ang/design-judge-skills.git",
+    "stars": 70,
+    "size": 3384
   }
 ]
