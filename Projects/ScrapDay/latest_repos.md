@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-17 .. 2026-07-19)
+# Latest Repositories (2026-07-18 .. 2026-07-20)
 
-- [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) (434)
 - [PostmanReminisce/Wisp-VPN](https://github.com/PostmanReminisce/Wisp-VPN) (124)
-- [timethrough/xiaohei-Chrome](https://github.com/timethrough/xiaohei-Chrome) (111)
-- [tetsuo-ai/voice_clone_lab](https://github.com/tetsuo-ai/voice_clone_lab) (75)
-- [SeanJ1ang/design-judge-skills](https://github.com/SeanJ1ang/design-judge-skills) (70)
+- [rjx18/codor](https://github.com/rjx18/codor) (107)
+- [elysiumintellegence/elysium-intelligence](https://github.com/elysiumintellegence/elysium-intelligence) (57)
+- [lyu0805/OpenBrowser](https://github.com/lyu0805/OpenBrowser) (55)
+- [0xtbug/unofficial-pddikti-api](https://github.com/0xtbug/unofficial-pddikti-api) (41)

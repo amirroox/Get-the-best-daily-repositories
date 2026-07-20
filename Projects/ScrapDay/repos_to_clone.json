@@ -1,32 +1,32 @@
 [
   {
-    "name": "lopopolo/harness-engineering",
-    "clone_url": "https://github.com/lopopolo/harness-engineering.git",
-    "stars": 434,
-    "size": 595
-  },
-  {
     "name": "PostmanReminisce/Wisp-VPN",
     "clone_url": "https://github.com/PostmanReminisce/Wisp-VPN.git",
     "stars": 124,
     "size": 147
   },
   {
-    "name": "timethrough/xiaohei-Chrome",
-    "clone_url": "https://github.com/timethrough/xiaohei-Chrome.git",
-    "stars": 111,
-    "size": 339
+    "name": "rjx18/codor",
+    "clone_url": "https://github.com/rjx18/codor.git",
+    "stars": 107,
+    "size": 3126
   },
   {
-    "name": "tetsuo-ai/voice_clone_lab",
-    "clone_url": "https://github.com/tetsuo-ai/voice_clone_lab.git",
-    "stars": 75,
-    "size": 217
+    "name": "elysiumintellegence/elysium-intelligence",
+    "clone_url": "https://github.com/elysiumintellegence/elysium-intelligence.git",
+    "stars": 57,
+    "size": 710
   },
   {
-    "name": "SeanJ1ang/design-judge-skills",
-    "clone_url": "https://github.com/SeanJ1ang/design-judge-skills.git",
-    "stars": 70,
-    "size": 3384
+    "name": "lyu0805/OpenBrowser",
+    "clone_url": "https://github.com/lyu0805/OpenBrowser.git",
+    "stars": 55,
+    "size": 4587
+  },
+  {
+    "name": "0xtbug/unofficial-pddikti-api",
+    "clone_url": "https://github.com/0xtbug/unofficial-pddikti-api.git",
+    "stars": 41,
+    "size": 73
   }
 ]
