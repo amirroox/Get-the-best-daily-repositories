@@ -1,32 +1,32 @@
 [
   {
-    "name": "paxlabs-inc/machine-genome",
-    "clone_url": "https://github.com/paxlabs-inc/machine-genome.git",
-    "stars": 273,
-    "size": 125
-  },
-  {
     "name": "Blaizzy/nativ",
     "clone_url": "https://github.com/Blaizzy/nativ.git",
-    "stars": 262,
+    "stars": 507,
     "size": 3416
   },
   {
-    "name": "0xwilliamortiz/agents-council",
-    "clone_url": "https://github.com/0xwilliamortiz/agents-council.git",
-    "stars": 90,
-    "size": 972
+    "name": "powerycy/goutoujunshi",
+    "clone_url": "https://github.com/powerycy/goutoujunshi.git",
+    "stars": 296,
+    "size": 162
   },
   {
-    "name": "dinosn/fastjson-jsontype-rce-lab",
-    "clone_url": "https://github.com/dinosn/fastjson-jsontype-rce-lab.git",
-    "stars": 86,
-    "size": 63
+    "name": "paxlabs-inc/machine-genome",
+    "clone_url": "https://github.com/paxlabs-inc/machine-genome.git",
+    "stars": 281,
+    "size": 125
   },
   {
-    "name": "janisbelozerovs-dev/murmur",
-    "clone_url": "https://github.com/janisbelozerovs-dev/murmur.git",
-    "stars": 83,
-    "size": 807
+    "name": "eli-labz/Agent-Execution-Partnership",
+    "clone_url": "https://github.com/eli-labz/Agent-Execution-Partnership.git",
+    "stars": 250,
+    "size": 142
+  },
+  {
+    "name": "Kritt-ai/open-kritt",
+    "clone_url": "https://github.com/Kritt-ai/open-kritt.git",
+    "stars": 173,
+    "size": 2678
   }
 ]
