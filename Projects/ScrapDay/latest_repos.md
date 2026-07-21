@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-18 .. 2026-07-20)
+# Latest Repositories (2026-07-19 .. 2026-07-21)
 
-- [rjx18/codor](https://github.com/rjx18/codor) (157)
-- [PostmanReminisce/Wisp-VPN](https://github.com/PostmanReminisce/Wisp-VPN) (119)
-- [elysiumintellegence/elysium-intelligence](https://github.com/elysiumintellegence/elysium-intelligence) (78)
-- [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) (67)
-- [Jacoblauritzen/Openreach](https://github.com/Jacoblauritzen/Openreach) (55)
+- [paxlabs-inc/machine-genome](https://github.com/paxlabs-inc/machine-genome) (273)
+- [Blaizzy/nativ](https://github.com/Blaizzy/nativ) (262)
+- [0xwilliamortiz/agents-council](https://github.com/0xwilliamortiz/agents-council) (90)
+- [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab) (86)
+- [janisbelozerovs-dev/murmur](https://github.com/janisbelozerovs-dev/murmur) (83)
