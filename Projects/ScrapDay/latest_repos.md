@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-19 .. 2026-07-21)
+# Latest Repositories (2026-07-20 .. 2026-07-22)
 
-- [Blaizzy/nativ](https://github.com/Blaizzy/nativ) (507)
-- [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) (296)
-- [paxlabs-inc/machine-genome](https://github.com/paxlabs-inc/machine-genome) (281)
-- [eli-labz/Agent-Execution-Partnership](https://github.com/eli-labz/Agent-Execution-Partnership) (250)
-- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) (173)
+- [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) (225)
+- [0xhype/hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker) (184)
+- [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) (165)
+- [0xwilliamortiz/andrej-karpathy-skills](https://github.com/0xwilliamortiz/andrej-karpathy-skills) (160)
+- [RainPPR/china-llms-anecdote-0721](https://github.com/RainPPR/china-llms-anecdote-0721) (65)
