@@ -1,32 +1,32 @@
 [
   {
-    "name": "Jakubantalik/thinking-orbs",
-    "clone_url": "https://github.com/Jakubantalik/thinking-orbs.git",
-    "stars": 225,
-    "size": 133
-  },
-  {
     "name": "0xhype/hyperliquid-tracker",
     "clone_url": "https://github.com/0xhype/hyperliquid-tracker.git",
-    "stars": 184,
+    "stars": 502,
     "size": 62
+  },
+  {
+    "name": "Jakubantalik/thinking-orbs",
+    "clone_url": "https://github.com/Jakubantalik/thinking-orbs.git",
+    "stars": 427,
+    "size": 133
   },
   {
     "name": "gnipbao/story-to-handdrawn-video",
     "clone_url": "https://github.com/gnipbao/story-to-handdrawn-video.git",
-    "stars": 165,
+    "stars": 360,
     "size": 4300
   },
   {
     "name": "0xwilliamortiz/andrej-karpathy-skills",
     "clone_url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills.git",
-    "stars": 160,
+    "stars": 161,
     "size": 936
   },
   {
     "name": "RainPPR/china-llms-anecdote-0721",
     "clone_url": "https://github.com/RainPPR/china-llms-anecdote-0721.git",
-    "stars": 65,
+    "stars": 102,
     "size": 807
   }
 ]
