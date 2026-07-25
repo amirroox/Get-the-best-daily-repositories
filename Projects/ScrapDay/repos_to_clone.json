@@ -1,9 +1,15 @@
 [
   {
-    "name": "slvDev/esp32-ai",
-    "clone_url": "https://github.com/slvDev/esp32-ai.git",
-    "stars": 259,
-    "size": 1085
+    "name": "melloworchid8rr6g/TG-Polymarket-bot",
+    "clone_url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot.git",
+    "stars": 313,
+    "size": 88
+  },
+  {
+    "name": "mikehasa/agentacct",
+    "clone_url": "https://github.com/mikehasa/agentacct.git",
+    "stars": 205,
+    "size": 2393
   },
   {
     "name": "CWS6206/EasySystemCleaner",
@@ -12,21 +18,15 @@
     "size": 1383
   },
   {
-    "name": "dboudreau00/Conformiti",
-    "clone_url": "https://github.com/dboudreau00/Conformiti.git",
-    "stars": 117,
-    "size": 648
+    "name": "kingenbomb/Nodes",
+    "clone_url": "https://github.com/kingenbomb/Nodes.git",
+    "stars": 61,
+    "size": 54
   },
   {
-    "name": "tyedalwaves/HuggingHack",
-    "clone_url": "https://github.com/tyedalwaves/HuggingHack.git",
-    "stars": 50,
-    "size": 541
-  },
-  {
-    "name": "batubozkan/pods-head-tracker",
-    "clone_url": "https://github.com/batubozkan/pods-head-tracker.git",
-    "stars": 46,
-    "size": 69
+    "name": "giovannibrees/travel-roamradar",
+    "clone_url": "https://github.com/giovannibrees/travel-roamradar.git",
+    "stars": 59,
+    "size": 1662
   }
 ]

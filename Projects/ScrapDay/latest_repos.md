@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-22 .. 2026-07-24)
+# Latest Repositories (2026-07-23 .. 2026-07-25)
 
-- [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) (259)
+- [melloworchid8rr6g/TG-Polymarket-bot](https://github.com/melloworchid8rr6g/TG-Polymarket-bot) (313)
+- [mikehasa/agentacct](https://github.com/mikehasa/agentacct) (205)
 - [CWS6206/EasySystemCleaner](https://github.com/CWS6206/EasySystemCleaner) (122)
-- [dboudreau00/Conformiti](https://github.com/dboudreau00/Conformiti) (117)
-- [tyedalwaves/HuggingHack](https://github.com/tyedalwaves/HuggingHack) (50)
-- [batubozkan/pods-head-tracker](https://github.com/batubozkan/pods-head-tracker) (46)
+- [kingenbomb/Nodes](https://github.com/kingenbomb/Nodes) (61)
+- [giovannibrees/travel-roamradar](https://github.com/giovannibrees/travel-roamradar) (59)
