@@ -1,32 +1,32 @@
 [
   {
-    "name": "mshumer/Claude-of-Duty",
-    "clone_url": "https://github.com/mshumer/Claude-of-Duty.git",
-    "stars": 469,
-    "size": 876
-  },
-  {
-    "name": "rustyharbor308774/Ethereum-bot",
-    "clone_url": "https://github.com/rustyharbor308774/Ethereum-bot.git",
-    "stars": 313,
-    "size": 210
-  },
-  {
-    "name": "dunefalcon1qrj/Telegram-Bot",
-    "clone_url": "https://github.com/dunefalcon1qrj/Telegram-Bot.git",
-    "stars": 153,
-    "size": 236
+    "name": "dotneet/image-to-3d",
+    "clone_url": "https://github.com/dotneet/image-to-3d.git",
+    "stars": 136,
+    "size": 4903
   },
   {
     "name": "deerwork-ai/deer-workflow",
     "clone_url": "https://github.com/deerwork-ai/deer-workflow.git",
-    "stars": 66,
-    "size": 529
+    "stars": 126,
+    "size": 556
   },
   {
-    "name": "lingbol088-spec/5.6-JAILBREAK-NERV",
-    "clone_url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV.git",
-    "stars": 65,
-    "size": 1887
+    "name": "steelbrain/reims-vgpu",
+    "clone_url": "https://github.com/steelbrain/reims-vgpu.git",
+    "stars": 104,
+    "size": 4172
+  },
+  {
+    "name": "chokcoco/teach-yourself-skill",
+    "clone_url": "https://github.com/chokcoco/teach-yourself-skill.git",
+    "stars": 53,
+    "size": 623
+  },
+  {
+    "name": "StarKnightt/operation-ironhold",
+    "clone_url": "https://github.com/StarKnightt/operation-ironhold.git",
+    "stars": 37,
+    "size": 1190
   }
 ]
