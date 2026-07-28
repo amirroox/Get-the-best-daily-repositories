@@ -1,32 +1,32 @@
 [
   {
-    "name": "MoonshotAI/Kimi-K3",
-    "clone_url": "https://github.com/MoonshotAI/Kimi-K3.git",
-    "stars": 2059,
-    "size": 2583
-  },
-  {
     "name": "mufengyuan666/Gazette",
     "clone_url": "https://github.com/mufengyuan666/Gazette.git",
-    "stars": 110,
+    "stars": 112,
     "size": 1107
   },
   {
     "name": "mufengyuan666/Breaker",
     "clone_url": "https://github.com/mufengyuan666/Breaker.git",
-    "stars": 110,
+    "stars": 112,
     "size": 765
+  },
+  {
+    "name": "mufengyuan666/Hearth",
+    "clone_url": "https://github.com/mufengyuan666/Hearth.git",
+    "stars": 110,
+    "size": 783
   },
   {
     "name": "chokcoco/teach-yourself-skill",
     "clone_url": "https://github.com/chokcoco/teach-yourself-skill.git",
-    "stars": 94,
+    "stars": 101,
     "size": 623
   },
   {
-    "name": "OneInterface/stormy-cookbook",
-    "clone_url": "https://github.com/OneInterface/stormy-cookbook.git",
-    "stars": 72,
-    "size": 65
+    "name": "meepo-it/letsfinddomain-skill",
+    "clone_url": "https://github.com/meepo-it/letsfinddomain-skill.git",
+    "stars": 80,
+    "size": 889
   }
 ]
