@@ -2,19 +2,25 @@
   {
     "name": "0xwilliamortiz/ratchet",
     "clone_url": "https://github.com/0xwilliamortiz/ratchet.git",
-    "stars": 402,
+    "stars": 406,
     "size": 1515
   },
   {
     "name": "deedy/qr-data-transfer",
     "clone_url": "https://github.com/deedy/qr-data-transfer.git",
-    "stars": 261,
+    "stars": 298,
     "size": 3400
+  },
+  {
+    "name": "elder-plinius/GL4SS",
+    "clone_url": "https://github.com/elder-plinius/GL4SS.git",
+    "stars": 154,
+    "size": 812
   },
   {
     "name": "l00sed/termixer",
     "clone_url": "https://github.com/l00sed/termixer.git",
-    "stars": 125,
+    "stars": 142,
     "size": 2351
   },
   {
@@ -22,11 +28,5 @@
     "clone_url": "https://github.com/kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster.git",
     "stars": 117,
     "size": 636
-  },
-  {
-    "name": "romanson-xo8/Palworld-Optimizer-2026",
-    "clone_url": "https://github.com/romanson-xo8/Palworld-Optimizer-2026.git",
-    "stars": 116,
-    "size": 692
   }
 ]
