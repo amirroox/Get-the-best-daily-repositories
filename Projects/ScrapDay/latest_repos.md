@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-29 .. 2026-07-31)
+# Latest Repositories (2026-07-30 .. 2026-08-01)
 
-- [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) (1139)
-- [ddoemonn/interior](https://github.com/ddoemonn/interior) (230)
-- [codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian) (218)
-- [0rangec3t/Black-cat](https://github.com/0rangec3t/Black-cat) (135)
-- [deedy/qr-data-transfer](https://github.com/deedy/qr-data-transfer) (124)
+- [0xwilliamortiz/ratchet](https://github.com/0xwilliamortiz/ratchet) (402)
+- [deedy/qr-data-transfer](https://github.com/deedy/qr-data-transfer) (261)
+- [l00sed/termixer](https://github.com/l00sed/termixer) (125)
+- [kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster](https://github.com/kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster) (117)
+- [romanson-xo8/Palworld-Optimizer-2026](https://github.com/romanson-xo8/Palworld-Optimizer-2026) (116)
