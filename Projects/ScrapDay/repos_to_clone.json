@@ -2,31 +2,31 @@
   {
     "name": "openai/ten-proofs",
     "clone_url": "https://github.com/openai/ten-proofs.git",
-    "stars": 229,
+    "stars": 293,
     "size": 2460
   },
   {
     "name": "0xwilliamortiz/humanizer-cli",
     "clone_url": "https://github.com/0xwilliamortiz/humanizer-cli.git",
-    "stars": 141,
+    "stars": 258,
     "size": 920
   },
   {
-    "name": "Anionex/codex-deepseek-vision",
-    "clone_url": "https://github.com/Anionex/codex-deepseek-vision.git",
+    "name": "Anionex/codex-vision-proxy",
+    "clone_url": "https://github.com/Anionex/codex-vision-proxy.git",
+    "stars": 187,
+    "size": 1684
+  },
+  {
+    "name": "MengTo/complete-shelf",
+    "clone_url": "https://github.com/MengTo/complete-shelf.git",
     "stars": 140,
-    "size": 361
+    "size": 627
   },
   {
     "name": "brookfacehe2421/flashloan-scalper-bot",
     "clone_url": "https://github.com/brookfacehe2421/flashloan-scalper-bot.git",
     "stars": 133,
-    "size": 83
-  },
-  {
-    "name": "asdafgs419/Extreme-FPS-Boost",
-    "clone_url": "https://github.com/asdafgs419/Extreme-FPS-Boost.git",
-    "stars": 117,
-    "size": 2314
+    "size": 127
   }
 ]
