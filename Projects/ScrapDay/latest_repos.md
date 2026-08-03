@@ -1,7 +1,7 @@
-# Latest Repositories (2026-07-31 .. 2026-08-02)
+# Latest Repositories (2026-08-01 .. 2026-08-03)
 
-- [openai/ten-proofs](https://github.com/openai/ten-proofs) (293)
-- [0xwilliamortiz/humanizer-cli](https://github.com/0xwilliamortiz/humanizer-cli) (258)
-- [Anionex/codex-vision-proxy](https://github.com/Anionex/codex-vision-proxy) (187)
-- [MengTo/complete-shelf](https://github.com/MengTo/complete-shelf) (140)
-- [brookfacehe2421/flashloan-scalper-bot](https://github.com/brookfacehe2421/flashloan-scalper-bot) (133)
+- [BruceLanLan/sol-luna-engineering-workflow](https://github.com/BruceLanLan/sol-luna-engineering-workflow) (79)
+- [bennjordan/Wavest](https://github.com/bennjordan/Wavest) (72)
+- [talivia-group/agent](https://github.com/talivia-group/agent) (71)
+- [beibei030/classic-grid](https://github.com/beibei030/classic-grid) (63)
+- [alikon-art/DeterminFlow](https://github.com/alikon-art/DeterminFlow) (58)
