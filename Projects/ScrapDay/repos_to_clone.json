@@ -1,32 +1,32 @@
 [
   {
+    "name": "LookoutSwordsman/Rust-Recoil-Macros-2026",
+    "clone_url": "https://github.com/LookoutSwordsman/Rust-Recoil-Macros-2026.git",
+    "stars": 120,
+    "size": 590
+  },
+  {
+    "name": "magicrew/doc7",
+    "clone_url": "https://github.com/magicrew/doc7.git",
+    "stars": 112,
+    "size": 502
+  },
+  {
+    "name": "alikon-art/DeterminFlow",
+    "clone_url": "https://github.com/alikon-art/DeterminFlow.git",
+    "stars": 110,
+    "size": 2008
+  },
+  {
     "name": "BruceLanLan/sol-luna-engineering-workflow",
     "clone_url": "https://github.com/BruceLanLan/sol-luna-engineering-workflow.git",
-    "stars": 79,
+    "stars": 92,
     "size": 56
   },
   {
     "name": "bennjordan/Wavest",
     "clone_url": "https://github.com/bennjordan/Wavest.git",
-    "stars": 72,
+    "stars": 91,
     "size": 260
-  },
-  {
-    "name": "talivia-group/agent",
-    "clone_url": "https://github.com/talivia-group/agent.git",
-    "stars": 71,
-    "size": 247
-  },
-  {
-    "name": "beibei030/classic-grid",
-    "clone_url": "https://github.com/beibei030/classic-grid.git",
-    "stars": 63,
-    "size": 1568
-  },
-  {
-    "name": "alikon-art/DeterminFlow",
-    "clone_url": "https://github.com/alikon-art/DeterminFlow.git",
-    "stars": 58,
-    "size": 1744
   }
 ]
