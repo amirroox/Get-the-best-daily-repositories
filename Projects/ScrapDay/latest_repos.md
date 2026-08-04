@@ -1,7 +1,7 @@
 # Latest Repositories (2026-08-02 .. 2026-08-04)
 
-- [alexan0618/zkky](https://github.com/alexan0618/zkky) (150)
-- [wumingqi60/lingxi](https://github.com/wumingqi60/lingxi) (113)
-- [Mr-funny/hbg-classical-poem-silk-video](https://github.com/Mr-funny/hbg-classical-poem-silk-video) (71)
-- [kaibush/grok-register](https://github.com/kaibush/grok-register) (59)
-- [JunzFundz/ITS300_WEBDEV](https://github.com/JunzFundz/ITS300_WEBDEV) (56)
+- [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) (288)
+- [HaidarJbeily7/cargo-frisk](https://github.com/HaidarJbeily7/cargo-frisk) (247)
+- [alexan0618/zkky](https://github.com/alexan0618/zkky) (207)
+- [wumingqi60/lingxi](https://github.com/wumingqi60/lingxi) (159)
+- [Mr-funny/hbg-classical-poem-silk-video](https://github.com/Mr-funny/hbg-classical-poem-silk-video) (138)
