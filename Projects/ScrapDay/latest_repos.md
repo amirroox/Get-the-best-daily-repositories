@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-02 .. 2026-08-04)
+# Latest Repositories (2026-08-03 .. 2026-08-05)
 
-- [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) (288)
-- [HaidarJbeily7/cargo-frisk](https://github.com/HaidarJbeily7/cargo-frisk) (247)
-- [alexan0618/zkky](https://github.com/alexan0618/zkky) (207)
-- [wumingqi60/lingxi](https://github.com/wumingqi60/lingxi) (159)
-- [Mr-funny/hbg-classical-poem-silk-video](https://github.com/Mr-funny/hbg-classical-poem-silk-video) (138)
+- [cristicretu/diri](https://github.com/cristicretu/diri) (130)
+- [ryanzhou/deepseek-v4-flash-mi300x](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) (104)
+- [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) (75)
+- [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) (60)
+- [AIMixer/ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director) (53)
