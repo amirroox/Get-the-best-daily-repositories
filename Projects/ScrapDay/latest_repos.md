@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-04 .. 2026-08-06)
+# Latest Repositories (2026-08-05 .. 2026-08-07)
 
-- [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) (1500)
-- [mika50000/gpt-link](https://github.com/mika50000/gpt-link) (129)
-- [432539/gpt](https://github.com/432539/gpt) (87)
-- [1038lab/ComfyUI-MiniMax-H3-Promptor](https://github.com/1038lab/ComfyUI-MiniMax-H3-Promptor) (83)
-- [0xSero/deepseek-v4-flash-0731-spark-sparkinfer](https://github.com/0xSero/deepseek-v4-flash-0731-spark-sparkinfer) (78)
+- [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) (89)
+- [LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format) (28)
+- [veritymodmc/Verity-JE-BE-Mod-Minecraft](https://github.com/veritymodmc/Verity-JE-BE-Mod-Minecraft) (24)
+- [googlegeminiAIdesktop/Google-Gemini-Desktop](https://github.com/googlegeminiAIdesktop/Google-Gemini-Desktop) (24)
+- [kimik3codeAI/Kimi-K3-Code-Free-Desktop-AI](https://github.com/kimik3codeAI/Kimi-K3-Code-Free-Desktop-AI) (24)
