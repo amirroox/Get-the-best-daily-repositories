@@ -1,32 +1,32 @@
 [
   {
-    "name": "eternityspring/shuohao-skills",
-    "clone_url": "https://github.com/eternityspring/shuohao-skills.git",
-    "stars": 161,
-    "size": 851
-  },
-  {
     "name": "maliubiao/dgx-spark-2-deepseek-flash-0731",
     "clone_url": "https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731.git",
-    "stars": 94,
+    "stars": 127,
     "size": 356
   },
   {
-    "name": "wanmol/goal-flow",
-    "clone_url": "https://github.com/wanmol/goal-flow.git",
-    "stars": 71,
-    "size": 515
+    "name": "Samin100/codex-ios-assistant",
+    "clone_url": "https://github.com/Samin100/codex-ios-assistant.git",
+    "stars": 63,
+    "size": 95
   },
   {
-    "name": "WTFox/luna.nvim",
-    "clone_url": "https://github.com/WTFox/luna.nvim.git",
-    "stars": 48,
-    "size": 264
+    "name": "xinwithyu/dwell-on-something",
+    "clone_url": "https://github.com/xinwithyu/dwell-on-something.git",
+    "stars": 50,
+    "size": 132
   },
   {
-    "name": "scavin/BatteryHealth",
-    "clone_url": "https://github.com/scavin/BatteryHealth.git",
-    "stars": 48,
-    "size": 59
+    "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+    "clone_url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context.git",
+    "stars": 47,
+    "size": 51
+  },
+  {
+    "name": "retrovaliks/polymarket-btc-5min-trading-bot",
+    "clone_url": "https://github.com/retrovaliks/polymarket-btc-5min-trading-bot.git",
+    "stars": 43,
+    "size": 2663
   }
 ]

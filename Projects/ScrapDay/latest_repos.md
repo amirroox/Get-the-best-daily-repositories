@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-05 .. 2026-08-07)
+# Latest Repositories (2026-08-06 .. 2026-08-08)
 
-- [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) (161)
-- [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731) (94)
-- [wanmol/goal-flow](https://github.com/wanmol/goal-flow) (71)
-- [WTFox/luna.nvim](https://github.com/WTFox/luna.nvim) (48)
-- [scavin/BatteryHealth](https://github.com/scavin/BatteryHealth) (48)
+- [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731) (127)
+- [Samin100/codex-ios-assistant](https://github.com/Samin100/codex-ios-assistant) (63)
+- [xinwithyu/dwell-on-something](https://github.com/xinwithyu/dwell-on-something) (50)
+- [NikoDemon80/ComfyUI-H3-Motion-Context](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context) (47)
+- [retrovaliks/polymarket-btc-5min-trading-bot](https://github.com/retrovaliks/polymarket-btc-5min-trading-bot) (43)
