@@ -2,31 +2,31 @@
   {
     "name": "maliubiao/dgx-spark-2-deepseek-flash-0731",
     "clone_url": "https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731.git",
-    "stars": 127,
+    "stars": 143,
     "size": 356
+  },
+  {
+    "name": "oil-oil/oil-motion",
+    "clone_url": "https://github.com/oil-oil/oil-motion.git",
+    "stars": 108,
+    "size": 2881
   },
   {
     "name": "Samin100/codex-ios-assistant",
     "clone_url": "https://github.com/Samin100/codex-ios-assistant.git",
-    "stars": 63,
+    "stars": 102,
     "size": 95
-  },
-  {
-    "name": "xinwithyu/dwell-on-something",
-    "clone_url": "https://github.com/xinwithyu/dwell-on-something.git",
-    "stars": 50,
-    "size": 132
   },
   {
     "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
     "clone_url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context.git",
-    "stars": 47,
+    "stars": 76,
     "size": 51
   },
   {
-    "name": "retrovaliks/polymarket-btc-5min-trading-bot",
-    "clone_url": "https://github.com/retrovaliks/polymarket-btc-5min-trading-bot.git",
-    "stars": 43,
-    "size": 2663
+    "name": "xinwithyu/dwell-on-something",
+    "clone_url": "https://github.com/xinwithyu/dwell-on-something.git",
+    "stars": 75,
+    "size": 132
   }
 ]
