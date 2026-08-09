@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-06 .. 2026-08-08)
+# Latest Repositories (2026-08-07 .. 2026-08-09)
 
-- [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731) (143)
-- [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) (108)
-- [Samin100/codex-ios-assistant](https://github.com/Samin100/codex-ios-assistant) (102)
-- [NikoDemon80/ComfyUI-H3-Motion-Context](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context) (76)
-- [xinwithyu/dwell-on-something](https://github.com/xinwithyu/dwell-on-something) (75)
+- [i3T4AN/KADATH](https://github.com/i3T4AN/KADATH) (164)
+- [andrewpollack/linkedin-feed-blocker](https://github.com/andrewpollack/linkedin-feed-blocker) (76)
+- [tllovesxs/cc-switch-route](https://github.com/tllovesxs/cc-switch-route) (34)
+- [zxxasdfrty/synthetic-gpa-agent](https://github.com/zxxasdfrty/synthetic-gpa-agent) (34)
+- [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) (34)
