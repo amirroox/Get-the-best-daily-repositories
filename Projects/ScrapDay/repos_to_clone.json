@@ -1,32 +1,32 @@
 [
   {
+    "name": "SMNETSTUDIO/WeChat-AI",
+    "clone_url": "https://github.com/SMNETSTUDIO/WeChat-AI.git",
+    "stars": 540,
+    "size": 760
+  },
+  {
     "name": "Sateezg/codex-bridge",
     "clone_url": "https://github.com/Sateezg/codex-bridge.git",
-    "stars": 346,
+    "stars": 355,
     "size": 2976
   },
   {
     "name": "MengMengCode/VoCat",
     "clone_url": "https://github.com/MengMengCode/VoCat.git",
-    "stars": 114,
+    "stars": 138,
     "size": 2802
-  },
-  {
-    "name": "mateusdcc/pi-gpt-search",
-    "clone_url": "https://github.com/mateusdcc/pi-gpt-search.git",
-    "stars": 75,
-    "size": 73
-  },
-  {
-    "name": "p-e-w/lophius",
-    "clone_url": "https://github.com/p-e-w/lophius.git",
-    "stars": 56,
-    "size": 3583
   },
   {
     "name": "MkThingsHQ/mkdirs",
     "clone_url": "https://github.com/MkThingsHQ/mkdirs.git",
-    "stars": 42,
+    "stars": 136,
     "size": 847
+  },
+  {
+    "name": "mateusdcc/pi-gpt-search",
+    "clone_url": "https://github.com/mateusdcc/pi-gpt-search.git",
+    "stars": 88,
+    "size": 73
   }
 ]
