@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-07 .. 2026-08-09)
+# Latest Repositories (2026-08-08 .. 2026-08-10)
 
-- [Sateezg/codex-bridge](https://github.com/Sateezg/codex-bridge) (172)
-- [i3T4AN/KADATH](https://github.com/i3T4AN/KADATH) (166)
-- [andrewpollack/linkedin-feed-blocker](https://github.com/andrewpollack/linkedin-feed-blocker) (91)
-- [JayJokerr/arknights-pixel-autofill](https://github.com/JayJokerr/arknights-pixel-autofill) (78)
-- [Kylin010/tcpfit](https://github.com/Kylin010/tcpfit) (72)
+- [Sateezg/codex-bridge](https://github.com/Sateezg/codex-bridge) (346)
+- [MengMengCode/VoCat](https://github.com/MengMengCode/VoCat) (114)
+- [mateusdcc/pi-gpt-search](https://github.com/mateusdcc/pi-gpt-search) (75)
+- [p-e-w/lophius](https://github.com/p-e-w/lophius) (56)
+- [MkThingsHQ/mkdirs](https://github.com/MkThingsHQ/mkdirs) (42)
