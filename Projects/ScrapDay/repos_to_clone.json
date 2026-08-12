@@ -2,31 +2,31 @@
   {
     "name": "sohaibdevv/youtube-music",
     "clone_url": "https://github.com/sohaibdevv/youtube-music.git",
-    "stars": 836,
+    "stars": 843,
     "size": 3618
+  },
+  {
+    "name": "guillaumemeyer/watermarks-remover",
+    "clone_url": "https://github.com/guillaumemeyer/watermarks-remover.git",
+    "stars": 787,
+    "size": 79
   },
   {
     "name": "shadcn-ui/chatbot-template",
     "clone_url": "https://github.com/shadcn-ui/chatbot-template.git",
-    "stars": 447,
+    "stars": 539,
     "size": 162
+  },
+  {
+    "name": "MSNightmare/ShieldBreak",
+    "clone_url": "https://github.com/MSNightmare/ShieldBreak.git",
+    "stars": 316,
+    "size": 414
   },
   {
     "name": "0xjohnnydev/FilzaSlop",
     "clone_url": "https://github.com/0xjohnnydev/FilzaSlop.git",
-    "stars": 170,
+    "stars": 190,
     "size": 1271
-  },
-  {
-    "name": "zhangzf1119/financial_intelligence_system_web",
-    "clone_url": "https://github.com/zhangzf1119/financial_intelligence_system_web.git",
-    "stars": 160,
-    "size": 124
-  },
-  {
-    "name": "zhangzf1119/financial-intelligence-system",
-    "clone_url": "https://github.com/zhangzf1119/financial-intelligence-system.git",
-    "stars": 158,
-    "size": 78
   }
 ]
