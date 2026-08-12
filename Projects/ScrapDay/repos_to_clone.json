@@ -1,32 +1,32 @@
 [
   {
-    "name": "SMNETSTUDIO/WeChat-AI",
-    "clone_url": "https://github.com/SMNETSTUDIO/WeChat-AI.git",
-    "stars": 1345,
-    "size": 762
+    "name": "sohaibdevv/youtube-music",
+    "clone_url": "https://github.com/sohaibdevv/youtube-music.git",
+    "stars": 836,
+    "size": 3618
   },
   {
     "name": "shadcn-ui/chatbot-template",
     "clone_url": "https://github.com/shadcn-ui/chatbot-template.git",
-    "stars": 199,
-    "size": 130
-  },
-  {
-    "name": "ayi-ai/nie-grassroots-logic",
-    "clone_url": "https://github.com/ayi-ai/nie-grassroots-logic.git",
-    "stars": 180,
-    "size": 2463
-  },
-  {
-    "name": "zhangzf1119/financial_intelligence_system_web",
-    "clone_url": "https://github.com/zhangzf1119/financial_intelligence_system_web.git",
-    "stars": 137,
-    "size": 124
+    "stars": 447,
+    "size": 162
   },
   {
     "name": "0xjohnnydev/FilzaSlop",
     "clone_url": "https://github.com/0xjohnnydev/FilzaSlop.git",
-    "stars": 123,
+    "stars": 170,
     "size": 1271
+  },
+  {
+    "name": "zhangzf1119/financial_intelligence_system_web",
+    "clone_url": "https://github.com/zhangzf1119/financial_intelligence_system_web.git",
+    "stars": 160,
+    "size": 124
+  },
+  {
+    "name": "zhangzf1119/financial-intelligence-system",
+    "clone_url": "https://github.com/zhangzf1119/financial-intelligence-system.git",
+    "stars": 158,
+    "size": 78
   }
 ]
