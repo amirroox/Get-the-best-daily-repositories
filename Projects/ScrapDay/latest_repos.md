@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-10 .. 2026-08-12)
+# Latest Repositories (2026-08-11 .. 2026-08-13)
 
-- [sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music) (843)
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (787)
-- [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template) (539)
-- [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak) (316)
-- [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) (190)
+- [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) (378)
+- [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills) (246)
+- [RadishXN/run-abroad](https://github.com/RadishXN/run-abroad) (225)
+- [simo4kawave1337/CS2-Universal-Macros-v1.0.0](https://github.com/simo4kawave1337/CS2-Universal-Macros-v1.0.0) (107)
+- [Yixuan-Wu39/bandminton](https://github.com/Yixuan-Wu39/bandminton) (103)
