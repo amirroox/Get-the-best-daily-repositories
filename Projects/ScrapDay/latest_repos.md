@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-11 .. 2026-08-13)
+# Latest Repositories (2026-08-12 .. 2026-08-14)
 
-- [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) (378)
-- [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills) (246)
-- [RadishXN/run-abroad](https://github.com/RadishXN/run-abroad) (225)
-- [simo4kawave1337/CS2-Universal-Macros-v1.0.0](https://github.com/simo4kawave1337/CS2-Universal-Macros-v1.0.0) (107)
-- [Yixuan-Wu39/bandminton](https://github.com/Yixuan-Wu39/bandminton) (103)
+- [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) (1073)
+- [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) (1034)
+- [cordiverse/paper](https://github.com/cordiverse/paper) (855)
+- [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) (228)
+- [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) (223)
