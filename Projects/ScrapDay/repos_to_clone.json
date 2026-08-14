@@ -2,31 +2,31 @@
   {
     "name": "xoreaxeaxeax/skitter-creek-bath-salts",
     "clone_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts.git",
-    "stars": 1073,
+    "stars": 1422,
     "size": 3855
-  },
-  {
-    "name": "Leutenegger/book-to-skill",
-    "clone_url": "https://github.com/Leutenegger/book-to-skill.git",
-    "stars": 1034,
-    "size": 2699
   },
   {
     "name": "cordiverse/paper",
     "clone_url": "https://github.com/cordiverse/paper.git",
-    "stars": 855,
+    "stars": 1175,
     "size": 882
+  },
+  {
+    "name": "Leutenegger/book-to-skill",
+    "clone_url": "https://github.com/Leutenegger/book-to-skill.git",
+    "stars": 1054,
+    "size": 3947
   },
   {
     "name": "awesome-dsh-plugin/awesome-dsh-plugin",
     "clone_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin.git",
-    "stars": 228,
-    "size": 1721
+    "stars": 780,
+    "size": 4969
   },
   {
-    "name": "Anionex/dsh-vision-toolkit",
-    "clone_url": "https://github.com/Anionex/dsh-vision-toolkit.git",
-    "stars": 223,
-    "size": 4900
+    "name": "decionis/agent-safe-pipeline",
+    "clone_url": "https://github.com/decionis/agent-safe-pipeline.git",
+    "stars": 311,
+    "size": 116
   }
 ]
