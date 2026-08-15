@@ -1,32 +1,32 @@
 [
   {
-    "name": "N-allpass/modex-mh-agent",
-    "clone_url": "https://github.com/N-allpass/modex-mh-agent.git",
-    "stars": 179,
-    "size": 370
+    "name": "xiaobright/dsh-anchored-standard",
+    "clone_url": "https://github.com/xiaobright/dsh-anchored-standard.git",
+    "stars": 1815,
+    "size": 77
+  },
+  {
+    "name": "dsh-market/dsh-market",
+    "clone_url": "https://github.com/dsh-market/dsh-market.git",
+    "stars": 215,
+    "size": 4647
   },
   {
     "name": "turtle2209/Bigfish",
     "clone_url": "https://github.com/turtle2209/Bigfish.git",
-    "stars": 176,
-    "size": 2049
+    "stars": 203,
+    "size": 2447
+  },
+  {
+    "name": "N-allpass/modex-mh-agent",
+    "clone_url": "https://github.com/N-allpass/modex-mh-agent.git",
+    "stars": 180,
+    "size": 370
   },
   {
     "name": "sjc88661/multi-agent-discuss",
     "clone_url": "https://github.com/sjc88661/multi-agent-discuss.git",
-    "stars": 137,
+    "stars": 168,
     "size": 145
-  },
-  {
-    "name": "emailhayday10-coder/agent-doctor",
-    "clone_url": "https://github.com/emailhayday10-coder/agent-doctor.git",
-    "stars": 86,
-    "size": 55
-  },
-  {
-    "name": "duongdang942/ai-agent-for-magento2",
-    "clone_url": "https://github.com/duongdang942/ai-agent-for-magento2.git",
-    "stars": 80,
-    "size": 527
   }
 ]
