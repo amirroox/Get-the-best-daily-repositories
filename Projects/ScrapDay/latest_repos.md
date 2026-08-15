@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-12 .. 2026-08-14)
+# Latest Repositories (2026-08-13 .. 2026-08-15)
 
-- [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) (1422)
-- [cordiverse/paper](https://github.com/cordiverse/paper) (1175)
-- [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) (1054)
-- [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) (780)
-- [decionis/agent-safe-pipeline](https://github.com/decionis/agent-safe-pipeline) (311)
+- [N-allpass/modex-mh-agent](https://github.com/N-allpass/modex-mh-agent) (179)
+- [turtle2209/Bigfish](https://github.com/turtle2209/Bigfish) (176)
+- [sjc88661/multi-agent-discuss](https://github.com/sjc88661/multi-agent-discuss) (137)
+- [emailhayday10-coder/agent-doctor](https://github.com/emailhayday10-coder/agent-doctor) (86)
+- [duongdang942/ai-agent-for-magento2](https://github.com/duongdang942/ai-agent-for-magento2) (80)
