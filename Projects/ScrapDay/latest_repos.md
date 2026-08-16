@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-13 .. 2026-08-15)
+# Latest Repositories (2026-08-14 .. 2026-08-16)
 
-- [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) (1815)
-- [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) (215)
-- [turtle2209/Bigfish](https://github.com/turtle2209/Bigfish) (203)
-- [N-allpass/modex-mh-agent](https://github.com/N-allpass/modex-mh-agent) (180)
-- [sjc88661/multi-agent-discuss](https://github.com/sjc88661/multi-agent-discuss) (168)
+- [morsyxbt/nft-public-mint](https://github.com/morsyxbt/nft-public-mint) (149)
+- [Nervercc/gpt_nerver](https://github.com/Nervercc/gpt_nerver) (65)
+- [antinomie-lab/dsh-explore](https://github.com/antinomie-lab/dsh-explore) (60)
+- [bimbimkkay-crypto/my-food](https://github.com/bimbimkkay-crypto/my-food) (60)
+- [neilthomas89440-crypto/inferna-next](https://github.com/neilthomas89440-crypto/inferna-next) (51)
