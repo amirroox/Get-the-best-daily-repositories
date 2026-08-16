@@ -2,31 +2,31 @@
   {
     "name": "morsyxbt/nft-public-mint",
     "clone_url": "https://github.com/morsyxbt/nft-public-mint.git",
-    "stars": 149,
+    "stars": 182,
     "size": 51
   },
   {
     "name": "Nervercc/gpt_nerver",
     "clone_url": "https://github.com/Nervercc/gpt_nerver.git",
-    "stars": 65,
+    "stars": 155,
     "size": 1960
+  },
+  {
+    "name": "voyb/aegis-vault",
+    "clone_url": "https://github.com/voyb/aegis-vault.git",
+    "stars": 122,
+    "size": 3758
+  },
+  {
+    "name": "anonrig/router",
+    "clone_url": "https://github.com/anonrig/router.git",
+    "stars": 100,
+    "size": 1023
   },
   {
     "name": "antinomie-lab/dsh-explore",
     "clone_url": "https://github.com/antinomie-lab/dsh-explore.git",
-    "stars": 60,
+    "stars": 97,
     "size": 51
-  },
-  {
-    "name": "bimbimkkay-crypto/my-food",
-    "clone_url": "https://github.com/bimbimkkay-crypto/my-food.git",
-    "stars": 60,
-    "size": 751
-  },
-  {
-    "name": "neilthomas89440-crypto/inferna-next",
-    "clone_url": "https://github.com/neilthomas89440-crypto/inferna-next.git",
-    "stars": 51,
-    "size": 236
   }
 ]
