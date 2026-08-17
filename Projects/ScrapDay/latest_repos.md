@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-14 .. 2026-08-16)
+# Latest Repositories (2026-08-15 .. 2026-08-17)
 
-- [morsyxbt/nft-public-mint](https://github.com/morsyxbt/nft-public-mint) (182)
-- [Nervercc/gpt_nerver](https://github.com/Nervercc/gpt_nerver) (155)
-- [voyb/aegis-vault](https://github.com/voyb/aegis-vault) (122)
-- [anonrig/router](https://github.com/anonrig/router) (100)
-- [antinomie-lab/dsh-explore](https://github.com/antinomie-lab/dsh-explore) (97)
+- [b-nnett/codex-subscription-router](https://github.com/b-nnett/codex-subscription-router) (114)
+- [Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) (71)
+- [CharlesHoskinson/anthropies](https://github.com/CharlesHoskinson/anthropies) (68)
+- [Dr-TSNG/LPAUnbound](https://github.com/Dr-TSNG/LPAUnbound) (36)
+- [sza0415/szabot](https://github.com/sza0415/szabot) (36)
