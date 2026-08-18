@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-15 .. 2026-08-17)
+# Latest Repositories (2026-08-16 .. 2026-08-18)
 
-- [b-nnett/codex-subscription-router](https://github.com/b-nnett/codex-subscription-router) (216)
-- [Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) (108)
-- [CharlesHoskinson/anthropies](https://github.com/CharlesHoskinson/anthropies) (101)
-- [byteforge9190/trusted-project](https://github.com/byteforge9190/trusted-project) (94)
-- [bawadou/ai-data-extractor](https://github.com/bawadou/ai-data-extractor) (69)
+- [byteforge9190/trusted-project](https://github.com/byteforge9190/trusted-project) (152)
+- [DFarm6/Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community) (108)
+- [skydashnet/material-design-3-ui-skill](https://github.com/skydashnet/material-design-3-ui-skill) (61)
+- [huacnlee/omarchy-mihoro](https://github.com/huacnlee/omarchy-mihoro) (54)
+- [AsaEdgerunner/git-course-fa](https://github.com/AsaEdgerunner/git-course-fa) (50)
