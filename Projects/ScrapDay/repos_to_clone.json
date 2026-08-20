@@ -1,32 +1,32 @@
 [
   {
-    "name": "DenisSergeevitch/desktop-fly",
-    "clone_url": "https://github.com/DenisSergeevitch/desktop-fly.git",
-    "stars": 428,
-    "size": 524
-  },
-  {
-    "name": "wang2122/sprix-sage-router",
-    "clone_url": "https://github.com/wang2122/sprix-sage-router.git",
-    "stars": 383,
-    "size": 77
-  },
-  {
-    "name": "MengTo/sylva",
-    "clone_url": "https://github.com/MengTo/sylva.git",
-    "stars": 228,
-    "size": 1804
+    "name": "Leutenegger/watermarks-remover",
+    "clone_url": "https://github.com/Leutenegger/watermarks-remover.git",
+    "stars": 914,
+    "size": 306
   },
   {
     "name": "missuo/herdrm",
     "clone_url": "https://github.com/missuo/herdrm.git",
-    "stars": 166,
-    "size": 3566
+    "stars": 436,
+    "size": 3614
   },
   {
-    "name": "littledivy/dgit",
-    "clone_url": "https://github.com/littledivy/dgit.git",
-    "stars": 132,
-    "size": 112
+    "name": "s0lness/awesome-esp32",
+    "clone_url": "https://github.com/s0lness/awesome-esp32.git",
+    "stars": 101,
+    "size": 79
+  },
+  {
+    "name": "clayzhang-TW/claude-academic-workflow-zh",
+    "clone_url": "https://github.com/clayzhang-TW/claude-academic-workflow-zh.git",
+    "stars": 67,
+    "size": 1048
+  },
+  {
+    "name": "AinxietyLab/VidScribe",
+    "clone_url": "https://github.com/AinxietyLab/VidScribe.git",
+    "stars": 65,
+    "size": 200
   }
 ]
