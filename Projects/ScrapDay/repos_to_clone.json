@@ -1,32 +1,32 @@
 [
   {
-    "name": "Leutenegger/watermarks-remover",
-    "clone_url": "https://github.com/Leutenegger/watermarks-remover.git",
-    "stars": 917,
-    "size": 306
-  },
-  {
-    "name": "missuo/herdrm",
-    "clone_url": "https://github.com/missuo/herdrm.git",
-    "stars": 545,
-    "size": 4575
-  },
-  {
-    "name": "s0lness/awesome-esp32",
-    "clone_url": "https://github.com/s0lness/awesome-esp32.git",
-    "stars": 146,
-    "size": 85
-  },
-  {
     "name": "jsongmax/oci-core",
     "clone_url": "https://github.com/jsongmax/oci-core.git",
-    "stars": 105,
+    "stars": 104,
     "size": 2218
   },
   {
-    "name": "AinxietyLab/VidScribe",
-    "clone_url": "https://github.com/AinxietyLab/VidScribe.git",
-    "stars": 85,
-    "size": 357
+    "name": "Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
+    "clone_url": "https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce.git",
+    "stars": 68,
+    "size": 62
+  },
+  {
+    "name": "turkiyeyapayzekaakademisi/computer-vision-workshop",
+    "clone_url": "https://github.com/turkiyeyapayzekaakademisi/computer-vision-workshop.git",
+    "stars": 66,
+    "size": 300
+  },
+  {
+    "name": "OpenLabs-so/oa-design",
+    "clone_url": "https://github.com/OpenLabs-so/oa-design.git",
+    "stars": 45,
+    "size": 85
+  },
+  {
+    "name": "Adolanium/hermes-resetwatch",
+    "clone_url": "https://github.com/Adolanium/hermes-resetwatch.git",
+    "stars": 44,
+    "size": 145
   }
 ]

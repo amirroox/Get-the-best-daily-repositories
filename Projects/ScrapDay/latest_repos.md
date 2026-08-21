@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-18 .. 2026-08-20)
+# Latest Repositories (2026-08-19 .. 2026-08-21)
 
-- [Leutenegger/watermarks-remover](https://github.com/Leutenegger/watermarks-remover) (917)
-- [missuo/herdrm](https://github.com/missuo/herdrm) (545)
-- [s0lness/awesome-esp32](https://github.com/s0lness/awesome-esp32) (146)
-- [jsongmax/oci-core](https://github.com/jsongmax/oci-core) (105)
-- [AinxietyLab/VidScribe](https://github.com/AinxietyLab/VidScribe) (85)
+- [jsongmax/oci-core](https://github.com/jsongmax/oci-core) (104)
+- [Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce](https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce) (68)
+- [turkiyeyapayzekaakademisi/computer-vision-workshop](https://github.com/turkiyeyapayzekaakademisi/computer-vision-workshop) (66)
+- [OpenLabs-so/oa-design](https://github.com/OpenLabs-so/oa-design) (45)
+- [Adolanium/hermes-resetwatch](https://github.com/Adolanium/hermes-resetwatch) (44)
