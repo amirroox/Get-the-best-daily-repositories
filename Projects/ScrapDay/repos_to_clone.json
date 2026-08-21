@@ -1,32 +1,32 @@
 [
   {
+    "name": "Leutenegger/coldcard-airgap",
+    "clone_url": "https://github.com/Leutenegger/coldcard-airgap.git",
+    "stars": 608,
+    "size": 364
+  },
+  {
     "name": "jsongmax/oci-core",
     "clone_url": "https://github.com/jsongmax/oci-core.git",
     "stars": 104,
-    "size": 2218
+    "size": 2449
+  },
+  {
+    "name": "OpenLabs-so/oa-design",
+    "clone_url": "https://github.com/OpenLabs-so/oa-design.git",
+    "stars": 87,
+    "size": 85
   },
   {
     "name": "Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
     "clone_url": "https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce.git",
-    "stars": 68,
+    "stars": 81,
     "size": 62
   },
   {
     "name": "turkiyeyapayzekaakademisi/computer-vision-workshop",
     "clone_url": "https://github.com/turkiyeyapayzekaakademisi/computer-vision-workshop.git",
-    "stars": 66,
+    "stars": 69,
     "size": 300
-  },
-  {
-    "name": "OpenLabs-so/oa-design",
-    "clone_url": "https://github.com/OpenLabs-so/oa-design.git",
-    "stars": 45,
-    "size": 85
-  },
-  {
-    "name": "Adolanium/hermes-resetwatch",
-    "clone_url": "https://github.com/Adolanium/hermes-resetwatch.git",
-    "stars": 44,
-    "size": 145
   }
 ]
