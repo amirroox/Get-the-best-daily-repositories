@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-19 .. 2026-08-21)
+# Latest Repositories (2026-08-20 .. 2026-08-22)
 
-- [Leutenegger/coldcard-airgap](https://github.com/Leutenegger/coldcard-airgap) (608)
-- [jsongmax/oci-core](https://github.com/jsongmax/oci-core) (104)
-- [OpenLabs-so/oa-design](https://github.com/OpenLabs-so/oa-design) (87)
-- [Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce](https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce) (81)
-- [turkiyeyapayzekaakademisi/computer-vision-workshop](https://github.com/turkiyeyapayzekaakademisi/computer-vision-workshop) (69)
+- [khydrogenous/lightspeed](https://github.com/khydrogenous/lightspeed) (85)
+- [me-links-onion-for-tor/links-onion-for-tor](https://github.com/me-links-onion-for-tor/links-onion-for-tor) (66)
+- [quick-10-dark-marketplaces-web-top/10-dark-marketplaces-web-top](https://github.com/quick-10-dark-marketplaces-web-top/10-dark-marketplaces-web-top) (55)
+- [rushiranpise/sorry-google](https://github.com/rushiranpise/sorry-google) (44)
+- [wiki-hidden-alternative/wiki-hidden-alternative](https://github.com/wiki-hidden-alternative/wiki-hidden-alternative) (39)
