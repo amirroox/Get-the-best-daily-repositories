@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-20 .. 2026-08-22)
+# Latest Repositories (2026-08-21 .. 2026-08-23)
 
-- [LB623/no-negative-echo](https://github.com/LB623/no-negative-echo) (158)
-- [khydrogenous/lightspeed](https://github.com/khydrogenous/lightspeed) (85)
-- [me-links-onion-for-tor/links-onion-for-tor](https://github.com/me-links-onion-for-tor/links-onion-for-tor) (66)
-- [ZSeven-W/dsh-android](https://github.com/ZSeven-W/dsh-android) (61)
-- [soul-99/SU_IMD](https://github.com/soul-99/SU_IMD) (61)
+- [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) (145)
+- [zhaoxuya520/MeshLAN](https://github.com/zhaoxuya520/MeshLAN) (92)
+- [h9-tec/AI-Glossary-Handbook](https://github.com/h9-tec/AI-Glossary-Handbook) (79)
+- [bam-bam-2/solo-skills](https://github.com/bam-bam-2/solo-skills) (65)
+- [feyzilim/clipfactory](https://github.com/feyzilim/clipfactory) (50)
