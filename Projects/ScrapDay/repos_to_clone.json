@@ -1,32 +1,32 @@
 [
   {
-    "name": "ShadowAqueduct/watermark-remover",
-    "clone_url": "https://github.com/ShadowAqueduct/watermark-remover.git",
-    "stars": 760,
-    "size": 1803
-  },
-  {
     "name": "tobi/walgit",
     "clone_url": "https://github.com/tobi/walgit.git",
-    "stars": 202,
+    "stars": 772,
     "size": 954
   },
   {
-    "name": "PiLastDigit/Code-With-Claude",
-    "clone_url": "https://github.com/PiLastDigit/Code-With-Claude.git",
-    "stars": 80,
-    "size": 183
-  },
-  {
-    "name": "itshen/source-reading-methodology",
-    "clone_url": "https://github.com/itshen/source-reading-methodology.git",
-    "stars": 75,
-    "size": 4558
+    "name": "ShadowAqueduct/watermark-remover",
+    "clone_url": "https://github.com/ShadowAqueduct/watermark-remover.git",
+    "stars": 763,
+    "size": 1803
   },
   {
     "name": "TarunTomar122/better-voice",
     "clone_url": "https://github.com/TarunTomar122/better-voice.git",
-    "stars": 66,
-    "size": 233
+    "stars": 160,
+    "size": 352
+  },
+  {
+    "name": "itshen/source-reading-methodology",
+    "clone_url": "https://github.com/itshen/source-reading-methodology.git",
+    "stars": 101,
+    "size": 4558
+  },
+  {
+    "name": "sqzw-x/amane",
+    "clone_url": "https://github.com/sqzw-x/amane.git",
+    "stars": 96,
+    "size": 2840
   }
 ]
