@@ -1,32 +1,32 @@
 [
   {
+    "name": "lxf746/outlook-auto-register",
+    "clone_url": "https://github.com/lxf746/outlook-auto-register.git",
+    "stars": 204,
+    "size": 556
+  },
+  {
     "name": "lvgalvao/projeto-dados-ia-databricks",
     "clone_url": "https://github.com/lvgalvao/projeto-dados-ia-databricks.git",
-    "stars": 161,
+    "stars": 170,
     "size": 4743
   },
   {
-    "name": "lxf746/outlook-auto-register",
-    "clone_url": "https://github.com/lxf746/outlook-auto-register.git",
-    "stars": 138,
-    "size": 557
+    "name": "amosblomqvist/learn",
+    "clone_url": "https://github.com/amosblomqvist/learn.git",
+    "stars": 168,
+    "size": 168
+  },
+  {
+    "name": "czm15053/linuxdo-idea-ui",
+    "clone_url": "https://github.com/czm15053/linuxdo-idea-ui.git",
+    "stars": 115,
+    "size": 2602
   },
   {
     "name": "yizhiyanhua-ai/fireworks-open-eli5",
     "clone_url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5.git",
-    "stars": 72,
+    "stars": 112,
     "size": 587
-  },
-  {
-    "name": "zunmax/technocore-did-starter",
-    "clone_url": "https://github.com/zunmax/technocore-did-starter.git",
-    "stars": 52,
-    "size": 71
-  },
-  {
-    "name": "ns2250225/jiditie",
-    "clone_url": "https://github.com/ns2250225/jiditie.git",
-    "stars": 43,
-    "size": 50
   }
 ]
