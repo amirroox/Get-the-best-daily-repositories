@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-23 .. 2026-08-25)
+# Latest Repositories (2026-08-24 .. 2026-08-26)
 
-- [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register) (204)
-- [lvgalvao/projeto-dados-ia-databricks](https://github.com/lvgalvao/projeto-dados-ia-databricks) (170)
-- [amosblomqvist/learn](https://github.com/amosblomqvist/learn) (168)
-- [czm15053/linuxdo-idea-ui](https://github.com/czm15053/linuxdo-idea-ui) (115)
-- [yizhiyanhua-ai/fireworks-open-eli5](https://github.com/yizhiyanhua-ai/fireworks-open-eli5) (112)
+- [oboroge0/hayamimi](https://github.com/oboroge0/hayamimi) (118)
+- [jankeesvw/omarchy-time-machine](https://github.com/jankeesvw/omarchy-time-machine) (65)
+- [HRuiCcc/music-geshizhuanhuan](https://github.com/HRuiCcc/music-geshizhuanhuan) (58)
+- [KurosawaGeeker/femboy-skill](https://github.com/KurosawaGeeker/femboy-skill) (58)
+- [oscar-brown-eng98x2/How-To-Fish-Trainer](https://github.com/oscar-brown-eng98x2/How-To-Fish-Trainer) (38)
