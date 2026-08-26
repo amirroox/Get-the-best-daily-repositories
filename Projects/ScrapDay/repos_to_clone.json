@@ -1,32 +1,32 @@
 [
   {
+    "name": "wide-trace/open-higgsfield",
+    "clone_url": "https://github.com/wide-trace/open-higgsfield.git",
+    "stars": 387,
+    "size": 472
+  },
+  {
     "name": "oboroge0/hayamimi",
     "clone_url": "https://github.com/oboroge0/hayamimi.git",
-    "stars": 118,
-    "size": 1587
+    "stars": 219,
+    "size": 1633
   },
   {
-    "name": "jankeesvw/omarchy-time-machine",
-    "clone_url": "https://github.com/jankeesvw/omarchy-time-machine.git",
-    "stars": 65,
-    "size": 537
-  },
-  {
-    "name": "HRuiCcc/music-geshizhuanhuan",
-    "clone_url": "https://github.com/HRuiCcc/music-geshizhuanhuan.git",
-    "stars": 58,
-    "size": 151
+    "name": "Tencent/WeMM-Embedding",
+    "clone_url": "https://github.com/Tencent/WeMM-Embedding.git",
+    "stars": 128,
+    "size": 1498
   },
   {
     "name": "KurosawaGeeker/femboy-skill",
     "clone_url": "https://github.com/KurosawaGeeker/femboy-skill.git",
-    "stars": 58,
-    "size": 715
+    "stars": 82,
+    "size": 740
   },
   {
-    "name": "oscar-brown-eng98x2/How-To-Fish-Trainer",
-    "clone_url": "https://github.com/oscar-brown-eng98x2/How-To-Fish-Trainer.git",
-    "stars": 38,
-    "size": 579
+    "name": "HRuiCcc/music-geshizhuanhuan",
+    "clone_url": "https://github.com/HRuiCcc/music-geshizhuanhuan.git",
+    "stars": 71,
+    "size": 286
   }
 ]
