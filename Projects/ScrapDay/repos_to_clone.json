@@ -2,31 +2,31 @@
   {
     "name": "wide-trace/open-higgsfield",
     "clone_url": "https://github.com/wide-trace/open-higgsfield.git",
-    "stars": 670,
+    "stars": 812,
     "size": 472
+  },
+  {
+    "name": "mouredev/hello-sdd",
+    "clone_url": "https://github.com/mouredev/hello-sdd.git",
+    "stars": 227,
+    "size": 75
   },
   {
     "name": "leopard627/fire-your-seo-agency",
     "clone_url": "https://github.com/leopard627/fire-your-seo-agency.git",
-    "stars": 132,
+    "stars": 223,
     "size": 1270
   },
   {
-    "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Dual-DGX-Sparks",
-    "clone_url": "https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Dual-DGX-Sparks.git",
-    "stars": 93,
-    "size": 222
+    "name": "damejan80/tokentab",
+    "clone_url": "https://github.com/damejan80/tokentab.git",
+    "stars": 211,
+    "size": 317
   },
   {
-    "name": "GENEXIS-AI/gpt-image-skill",
-    "clone_url": "https://github.com/GENEXIS-AI/gpt-image-skill.git",
-    "stars": 91,
-    "size": 2133
-  },
-  {
-    "name": "UditAkhourii/cdaf",
-    "clone_url": "https://github.com/UditAkhourii/cdaf.git",
-    "stars": 83,
-    "size": 114
+    "name": "Cleverfuxaqo1668/Polymarket-Telegram-Bot",
+    "clone_url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot.git",
+    "stars": 167,
+    "size": 211
   }
 ]
