@@ -1,32 +1,32 @@
 [
   {
-    "name": "wide-trace/open-higgsfield",
-    "clone_url": "https://github.com/wide-trace/open-higgsfield.git",
-    "stars": 812,
-    "size": 472
+    "name": "crmne/fastpotify",
+    "clone_url": "https://github.com/crmne/fastpotify.git",
+    "stars": 266,
+    "size": 4205
   },
   {
     "name": "mouredev/hello-sdd",
     "clone_url": "https://github.com/mouredev/hello-sdd.git",
-    "stars": 227,
+    "stars": 256,
     "size": 75
-  },
-  {
-    "name": "leopard627/fire-your-seo-agency",
-    "clone_url": "https://github.com/leopard627/fire-your-seo-agency.git",
-    "stars": 223,
-    "size": 1270
   },
   {
     "name": "damejan80/tokentab",
     "clone_url": "https://github.com/damejan80/tokentab.git",
-    "stars": 211,
+    "stars": 212,
     "size": 317
   },
   {
     "name": "Cleverfuxaqo1668/Polymarket-Telegram-Bot",
     "clone_url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot.git",
     "stars": 167,
-    "size": 211
+    "size": 418
+  },
+  {
+    "name": "rhevorn/confetti",
+    "clone_url": "https://github.com/rhevorn/confetti.git",
+    "stars": 153,
+    "size": 194
   }
 ]
