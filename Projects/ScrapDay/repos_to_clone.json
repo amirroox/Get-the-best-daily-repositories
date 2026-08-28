@@ -1,32 +1,32 @@
 [
   {
-    "name": "crmne/fastpotify",
-    "clone_url": "https://github.com/crmne/fastpotify.git",
-    "stars": 266,
-    "size": 4205
-  },
-  {
     "name": "mouredev/hello-sdd",
     "clone_url": "https://github.com/mouredev/hello-sdd.git",
-    "stars": 256,
+    "stars": 289,
     "size": 75
+  },
+  {
+    "name": "Nanako0129/sepia",
+    "clone_url": "https://github.com/Nanako0129/sepia.git",
+    "stars": 272,
+    "size": 112
+  },
+  {
+    "name": "XiaoDuoYa/codex-with-chatgpt",
+    "clone_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt.git",
+    "stars": 260,
+    "size": 125
+  },
+  {
+    "name": "OnlyTerp/opengrok",
+    "clone_url": "https://github.com/OnlyTerp/opengrok.git",
+    "stars": 224,
+    "size": 2779
   },
   {
     "name": "damejan80/tokentab",
     "clone_url": "https://github.com/damejan80/tokentab.git",
-    "stars": 212,
+    "stars": 213,
     "size": 317
-  },
-  {
-    "name": "Cleverfuxaqo1668/Polymarket-Telegram-Bot",
-    "clone_url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot.git",
-    "stars": 167,
-    "size": 418
-  },
-  {
-    "name": "rhevorn/confetti",
-    "clone_url": "https://github.com/rhevorn/confetti.git",
-    "stars": 153,
-    "size": 194
   }
 ]
