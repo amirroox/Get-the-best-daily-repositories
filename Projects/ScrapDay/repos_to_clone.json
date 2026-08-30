@@ -2,31 +2,31 @@
   {
     "name": "jlrouzies-fr/DLSS5-Feeder",
     "clone_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder.git",
-    "stars": 70,
-    "size": 271
+    "stars": 207,
+    "size": 476
+  },
+  {
+    "name": "fireinrain/JHS-enhance",
+    "clone_url": "https://github.com/fireinrain/JHS-enhance.git",
+    "stars": 77,
+    "size": 1084
+  },
+  {
+    "name": "dr3murr/steam2-winfsp",
+    "clone_url": "https://github.com/dr3murr/steam2-winfsp.git",
+    "stars": 68,
+    "size": 526
   },
   {
     "name": "FlagOpen/InsertAny3D",
     "clone_url": "https://github.com/FlagOpen/InsertAny3D.git",
-    "stars": 58,
+    "stars": 63,
     "size": 297
   },
   {
     "name": "artemtsitronov/glacex",
     "clone_url": "https://github.com/artemtsitronov/glacex.git",
-    "stars": 47,
+    "stars": 56,
     "size": 321
-  },
-  {
-    "name": "nevertoday/xxd-panel-100",
-    "clone_url": "https://github.com/nevertoday/xxd-panel-100.git",
-    "stars": 33,
-    "size": 180
-  },
-  {
-    "name": "rpmalouin/AI-Research-Assistant",
-    "clone_url": "https://github.com/rpmalouin/AI-Research-Assistant.git",
-    "stars": 32,
-    "size": 85
   }
 ]
