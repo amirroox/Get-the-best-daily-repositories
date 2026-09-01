@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-29 .. 2026-08-31)
+# Latest Repositories (2026-08-30 .. 2026-09-01)
 
-- [siknet/FreePEP](https://github.com/siknet/FreePEP) (177)
-- [reactor-team/infinite-livestream](https://github.com/reactor-team/infinite-livestream) (153)
-- [daffainfo/vol-rs](https://github.com/daffainfo/vol-rs) (137)
-- [MSNightmare/PrettyPrague](https://github.com/MSNightmare/PrettyPrague) (126)
-- [mizorewww/course2md](https://github.com/mizorewww/course2md) (85)
+- [siknet/FreePEP](https://github.com/siknet/FreePEP) (235)
+- [subsy/skill-cabinet](https://github.com/subsy/skill-cabinet) (193)
+- [mizorewww/course2md](https://github.com/mizorewww/course2md) (129)
+- [productdevbook/cizgile](https://github.com/productdevbook/cizgile) (74)
+- [tony-cudo/walletgen](https://github.com/tony-cudo/walletgen) (51)

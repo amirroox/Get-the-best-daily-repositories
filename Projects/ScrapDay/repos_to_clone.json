@@ -2,31 +2,31 @@
   {
     "name": "siknet/FreePEP",
     "clone_url": "https://github.com/siknet/FreePEP.git",
-    "stars": 177,
+    "stars": 235,
     "size": 69
   },
   {
-    "name": "reactor-team/infinite-livestream",
-    "clone_url": "https://github.com/reactor-team/infinite-livestream.git",
-    "stars": 153,
-    "size": 652
-  },
-  {
-    "name": "daffainfo/vol-rs",
-    "clone_url": "https://github.com/daffainfo/vol-rs.git",
-    "stars": 137,
-    "size": 702
-  },
-  {
-    "name": "MSNightmare/PrettyPrague",
-    "clone_url": "https://github.com/MSNightmare/PrettyPrague.git",
-    "stars": 126,
-    "size": 387
+    "name": "subsy/skill-cabinet",
+    "clone_url": "https://github.com/subsy/skill-cabinet.git",
+    "stars": 193,
+    "size": 101
   },
   {
     "name": "mizorewww/course2md",
     "clone_url": "https://github.com/mizorewww/course2md.git",
-    "stars": 85,
-    "size": 977
+    "stars": 129,
+    "size": 1006
+  },
+  {
+    "name": "productdevbook/cizgile",
+    "clone_url": "https://github.com/productdevbook/cizgile.git",
+    "stars": 74,
+    "size": 1311
+  },
+  {
+    "name": "tony-cudo/walletgen",
+    "clone_url": "https://github.com/tony-cudo/walletgen.git",
+    "stars": 51,
+    "size": 1878
   }
 ]
