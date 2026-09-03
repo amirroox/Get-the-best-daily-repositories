@@ -1,7 +1,7 @@
-# Latest Repositories (2026-08-31 .. 2026-09-02)
+# Latest Repositories (2026-09-01 .. 2026-09-03)
 
-- [mahdidavoodi7/react-native-continued-task](https://github.com/mahdidavoodi7/react-native-continued-task) (157)
-- [lihaoyun6/ComfyUI-H3VAE_TRT](https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT) (134)
-- [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot) (122)
-- [AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator) (120)
-- [yczz/oc-english](https://github.com/yczz/oc-english) (109)
+- [gozen3ji/consulting-pptx-skill](https://github.com/gozen3ji/consulting-pptx-skill) (112)
+- [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) (79)
+- [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) (78)
+- [adtexterry-lgtm/unigit-ecosystem](https://github.com/adtexterry-lgtm/unigit-ecosystem) (63)
+- [localai-org/motion-bricks.cpp](https://github.com/localai-org/motion-bricks.cpp) (59)
