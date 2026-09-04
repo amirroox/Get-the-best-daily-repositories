@@ -1,7 +1,7 @@
 # Latest Repositories (2026-09-02 .. 2026-09-04)
 
-- [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) (438)
-- [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) (248)
-- [0x6rss/instagram-private-graph](https://github.com/0x6rss/instagram-private-graph) (92)
-- [Saganaki22/ComfyUI-VDN-H3](https://github.com/Saganaki22/ComfyUI-VDN-H3) (81)
-- [podsfamily/pods](https://github.com/podsfamily/pods) (74)
+- [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) (486)
+- [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) (365)
+- [0x6rss/instagram-private-graph](https://github.com/0x6rss/instagram-private-graph) (152)
+- [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro) (146)
+- [sohu-mptc/FlashRec](https://github.com/sohu-mptc/FlashRec) (85)
