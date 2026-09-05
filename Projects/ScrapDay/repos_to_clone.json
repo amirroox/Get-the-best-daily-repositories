@@ -1,32 +1,32 @@
 [
   {
-    "name": "MSNightmare/FalconFlank",
-    "clone_url": "https://github.com/MSNightmare/FalconFlank.git",
-    "stars": 486,
-    "size": 1563
-  },
-  {
-    "name": "Albert-Weasker/niubigeo",
-    "clone_url": "https://github.com/Albert-Weasker/niubigeo.git",
-    "stars": 365,
-    "size": 1407
-  },
-  {
-    "name": "0x6rss/instagram-private-graph",
-    "clone_url": "https://github.com/0x6rss/instagram-private-graph.git",
-    "stars": 152,
-    "size": 1042
-  },
-  {
     "name": "KJGX66F/usque-custom-pro",
     "clone_url": "https://github.com/KJGX66F/usque-custom-pro.git",
-    "stars": 146,
+    "stars": 214,
     "size": 98
   },
   {
-    "name": "sohu-mptc/FlashRec",
-    "clone_url": "https://github.com/sohu-mptc/FlashRec.git",
-    "stars": 85,
-    "size": 300
+    "name": "bjarneo/omarchy-workspace-layout",
+    "clone_url": "https://github.com/bjarneo/omarchy-workspace-layout.git",
+    "stars": 108,
+    "size": 994
+  },
+  {
+    "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark",
+    "clone_url": "https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark.git",
+    "stars": 98,
+    "size": 236
+  },
+  {
+    "name": "aaravshah1311/Agent-2",
+    "clone_url": "https://github.com/aaravshah1311/Agent-2.git",
+    "stars": 72,
+    "size": 1549
+  },
+  {
+    "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "clone_url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security.git",
+    "stars": 59,
+    "size": 372
   }
 ]

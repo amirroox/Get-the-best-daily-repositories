@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-02 .. 2026-09-04)
+# Latest Repositories (2026-09-03 .. 2026-09-05)
 
-- [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) (486)
-- [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) (365)
-- [0x6rss/instagram-private-graph](https://github.com/0x6rss/instagram-private-graph) (152)
-- [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro) (146)
-- [sohu-mptc/FlashRec](https://github.com/sohu-mptc/FlashRec) (85)
+- [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro) (214)
+- [bjarneo/omarchy-workspace-layout](https://github.com/bjarneo/omarchy-workspace-layout) (108)
+- [MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark) (98)
+- [aaravshah1311/Agent-2](https://github.com/aaravshah1311/Agent-2) (72)
+- [Yuxuan2003/Awesome-GUI-Agent-Security](https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security) (59)
