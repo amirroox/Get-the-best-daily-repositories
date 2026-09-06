@@ -2,31 +2,31 @@
   {
     "name": "pierrenade/short-video-generator-AI",
     "clone_url": "https://github.com/pierrenade/short-video-generator-AI.git",
-    "stars": 337,
+    "stars": 618,
     "size": 809
-  },
-  {
-    "name": "34306/vphone-web",
-    "clone_url": "https://github.com/34306/vphone-web.git",
-    "stars": 185,
-    "size": 157
   },
   {
     "name": "okf-memory/okf-agent-memory",
     "clone_url": "https://github.com/okf-memory/okf-agent-memory.git",
-    "stars": 131,
-    "size": 165
+    "stars": 292,
+    "size": 167
   },
   {
-    "name": "AndranikFutureLabs/VoiceTransleter_V3",
-    "clone_url": "https://github.com/AndranikFutureLabs/VoiceTransleter_V3.git",
-    "stars": 86,
-    "size": 1365
+    "name": "evangelosvlachos96-dotcom/booking-microservices",
+    "clone_url": "https://github.com/evangelosvlachos96-dotcom/booking-microservices.git",
+    "stars": 240,
+    "size": 900
   },
   {
-    "name": "0x-IHRR/Xiaobai-Skills",
-    "clone_url": "https://github.com/0x-IHRR/Xiaobai-Skills.git",
-    "stars": 77,
-    "size": 154
+    "name": "34306/vphone-web",
+    "clone_url": "https://github.com/34306/vphone-web.git",
+    "stars": 209,
+    "size": 157
+  },
+  {
+    "name": "biusberline/cloudflare-turnstile-solver",
+    "clone_url": "https://github.com/biusberline/cloudflare-turnstile-solver.git",
+    "stars": 147,
+    "size": 434
   }
 ]
