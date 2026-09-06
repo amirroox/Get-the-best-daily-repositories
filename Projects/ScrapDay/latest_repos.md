@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-03 .. 2026-09-05)
+# Latest Repositories (2026-09-04 .. 2026-09-06)
 
-- [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) (311)
-- [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro) (270)
-- [MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark) (137)
-- [joe-bell/skills](https://github.com/joe-bell/skills) (122)
-- [bjarneo/omarchy-workspace-layout](https://github.com/bjarneo/omarchy-workspace-layout) (116)
+- [pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) (337)
+- [34306/vphone-web](https://github.com/34306/vphone-web) (185)
+- [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) (131)
+- [AndranikFutureLabs/VoiceTransleter_V3](https://github.com/AndranikFutureLabs/VoiceTransleter_V3) (86)
+- [0x-IHRR/Xiaobai-Skills](https://github.com/0x-IHRR/Xiaobai-Skills) (77)
