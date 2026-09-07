@@ -1,32 +1,32 @@
 [
   {
-    "name": "pierrenade/short-video-generator-AI",
-    "clone_url": "https://github.com/pierrenade/short-video-generator-AI.git",
-    "stars": 618,
-    "size": 809
-  },
-  {
-    "name": "okf-memory/okf-agent-memory",
-    "clone_url": "https://github.com/okf-memory/okf-agent-memory.git",
-    "stars": 292,
-    "size": 167
-  },
-  {
-    "name": "evangelosvlachos96-dotcom/booking-microservices",
-    "clone_url": "https://github.com/evangelosvlachos96-dotcom/booking-microservices.git",
-    "stars": 240,
-    "size": 900
-  },
-  {
-    "name": "34306/vphone-web",
-    "clone_url": "https://github.com/34306/vphone-web.git",
-    "stars": 209,
-    "size": 157
+    "name": "EverettFish/holo-card-studio",
+    "clone_url": "https://github.com/EverettFish/holo-card-studio.git",
+    "stars": 270,
+    "size": 90
   },
   {
     "name": "biusberline/cloudflare-turnstile-solver",
     "clone_url": "https://github.com/biusberline/cloudflare-turnstile-solver.git",
-    "stars": 147,
-    "size": 434
+    "stars": 226,
+    "size": 435
+  },
+  {
+    "name": "evanccodes/instagram-reporting-tool",
+    "clone_url": "https://github.com/evanccodes/instagram-reporting-tool.git",
+    "stars": 130,
+    "size": 105
+  },
+  {
+    "name": "kunchenguid/kun",
+    "clone_url": "https://github.com/kunchenguid/kun.git",
+    "stars": 110,
+    "size": 2164
+  },
+  {
+    "name": "alvinunreal/awesome-submitlist",
+    "clone_url": "https://github.com/alvinunreal/awesome-submitlist.git",
+    "stars": 97,
+    "size": 844
   }
 ]
