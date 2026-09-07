@@ -2,31 +2,31 @@
   {
     "name": "EverettFish/holo-card-studio",
     "clone_url": "https://github.com/EverettFish/holo-card-studio.git",
-    "stars": 270,
-    "size": 90
+    "stars": 750,
+    "size": 95
+  },
+  {
+    "name": "jtydhr88/screenwriting-skills",
+    "clone_url": "https://github.com/jtydhr88/screenwriting-skills.git",
+    "stars": 279,
+    "size": 266
   },
   {
     "name": "biusberline/cloudflare-turnstile-solver",
     "clone_url": "https://github.com/biusberline/cloudflare-turnstile-solver.git",
-    "stars": 226,
+    "stars": 258,
     "size": 435
-  },
-  {
-    "name": "evanccodes/instagram-reporting-tool",
-    "clone_url": "https://github.com/evanccodes/instagram-reporting-tool.git",
-    "stars": 130,
-    "size": 105
   },
   {
     "name": "kunchenguid/kun",
     "clone_url": "https://github.com/kunchenguid/kun.git",
-    "stars": 110,
-    "size": 2164
+    "stars": 220,
+    "size": 2206
   },
   {
-    "name": "alvinunreal/awesome-submitlist",
-    "clone_url": "https://github.com/alvinunreal/awesome-submitlist.git",
-    "stars": 97,
-    "size": 844
+    "name": "wz1119/Codex-Minecraft-Gameplay",
+    "clone_url": "https://github.com/wz1119/Codex-Minecraft-Gameplay.git",
+    "stars": 117,
+    "size": 54
   }
 ]
