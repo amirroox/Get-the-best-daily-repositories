@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-05 .. 2026-09-07)
+# Latest Repositories (2026-09-06 .. 2026-09-08)
 
-- [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) (750)
-- [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) (279)
-- [biusberline/cloudflare-turnstile-solver](https://github.com/biusberline/cloudflare-turnstile-solver) (258)
-- [kunchenguid/kun](https://github.com/kunchenguid/kun) (220)
-- [wz1119/Codex-Minecraft-Gameplay](https://github.com/wz1119/Codex-Minecraft-Gameplay) (117)
+- [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) (940)
+- [VII-Cae/hyalite--liquid-glass](https://github.com/VII-Cae/hyalite--liquid-glass) (118)
+- [aizhimou/javranking-extension](https://github.com/aizhimou/javranking-extension) (104)
+- [LuckinSven/8086-xcheck-system](https://github.com/LuckinSven/8086-xcheck-system) (101)
+- [Albertchamberlain/Awesome-OKF](https://github.com/Albertchamberlain/Awesome-OKF) (97)
