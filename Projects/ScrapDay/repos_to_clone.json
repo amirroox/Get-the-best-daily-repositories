@@ -2,31 +2,31 @@
   {
     "name": "EverettFish/holo-card-studio",
     "clone_url": "https://github.com/EverettFish/holo-card-studio.git",
-    "stars": 940,
-    "size": 95
+    "stars": 1111,
+    "size": 103
+  },
+  {
+    "name": "noskillish/bankmcp",
+    "clone_url": "https://github.com/noskillish/bankmcp.git",
+    "stars": 143,
+    "size": 238
+  },
+  {
+    "name": "cclank/clay-safari",
+    "clone_url": "https://github.com/cclank/clay-safari.git",
+    "stars": 133,
+    "size": 1351
   },
   {
     "name": "VII-Cae/hyalite--liquid-glass",
     "clone_url": "https://github.com/VII-Cae/hyalite--liquid-glass.git",
-    "stars": 118,
+    "stars": 128,
     "size": 956
   },
   {
     "name": "aizhimou/javranking-extension",
     "clone_url": "https://github.com/aizhimou/javranking-extension.git",
-    "stars": 104,
+    "stars": 125,
     "size": 804
-  },
-  {
-    "name": "LuckinSven/8086-xcheck-system",
-    "clone_url": "https://github.com/LuckinSven/8086-xcheck-system.git",
-    "stars": 101,
-    "size": 566
-  },
-  {
-    "name": "Albertchamberlain/Awesome-OKF",
-    "clone_url": "https://github.com/Albertchamberlain/Awesome-OKF.git",
-    "stars": 97,
-    "size": 121
   }
 ]
