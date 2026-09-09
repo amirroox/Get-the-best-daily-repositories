@@ -2,14 +2,20 @@
   {
     "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
     "clone_url": "https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass.git",
-    "stars": 367,
+    "stars": 368,
     "size": 433
   },
   {
     "name": "com-phantom/Phantom-Wallet-Desktop",
     "clone_url": "https://github.com/com-phantom/Phantom-Wallet-Desktop.git",
-    "stars": 127,
+    "stars": 328,
     "size": 2809
+  },
+  {
+    "name": "jaskirat1616/mactap-app",
+    "clone_url": "https://github.com/jaskirat1616/mactap-app.git",
+    "stars": 204,
+    "size": 1556
   },
   {
     "name": "SpinnerAppreciate/glm-flash-offline-client",
@@ -20,13 +26,7 @@
   {
     "name": "daishuge/pcb-skill",
     "clone_url": "https://github.com/daishuge/pcb-skill.git",
-    "stars": 87,
+    "stars": 96,
     "size": 256
-  },
-  {
-    "name": "punkpeye/awesome-remote-mcp-servers",
-    "clone_url": "https://github.com/punkpeye/awesome-remote-mcp-servers.git",
-    "stars": 71,
-    "size": 243
   }
 ]
