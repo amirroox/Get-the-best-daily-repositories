@@ -1,32 +1,32 @@
 [
   {
+    "name": "deepseek-ai/DeepSelect",
+    "clone_url": "https://github.com/deepseek-ai/DeepSelect.git",
+    "stars": 214,
+    "size": 209
+  },
+  {
     "name": "Foadsf/vintage-latex",
     "clone_url": "https://github.com/Foadsf/vintage-latex.git",
-    "stars": 150,
+    "stars": 188,
     "size": 1163
   },
   {
-    "name": "ashelygierisch/ESP32-AI",
-    "clone_url": "https://github.com/ashelygierisch/ESP32-AI.git",
-    "stars": 62,
-    "size": 1086
+    "name": "deepseek-ai/deepseek-recipe",
+    "clone_url": "https://github.com/deepseek-ai/deepseek-recipe.git",
+    "stars": 182,
+    "size": 2075
   },
   {
-    "name": "eskim2001/dsh-cloud",
-    "clone_url": "https://github.com/eskim2001/dsh-cloud.git",
-    "stars": 61,
-    "size": 2883
+    "name": "angusdevgo/IDM_Pro_Tool",
+    "clone_url": "https://github.com/angusdevgo/IDM_Pro_Tool.git",
+    "stars": 136,
+    "size": 211
   },
   {
-    "name": "ashelygierisch/ChatGPT-i18n",
-    "clone_url": "https://github.com/ashelygierisch/ChatGPT-i18n.git",
-    "stars": 60,
-    "size": 201
-  },
-  {
-    "name": "ashelygierisch/chatify",
-    "clone_url": "https://github.com/ashelygierisch/chatify.git",
-    "stars": 60,
-    "size": 435
+    "name": "tue09/awesome-reasoning-generalization",
+    "clone_url": "https://github.com/tue09/awesome-reasoning-generalization.git",
+    "stars": 135,
+    "size": 4952
   }
 ]
