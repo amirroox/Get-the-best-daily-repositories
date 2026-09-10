@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-07 .. 2026-09-09)
+# Latest Repositories (2026-09-08 .. 2026-09-10)
 
-- [henryzawadzki6542/cloudflare-turnstile-bypass](https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass) (368)
-- [com-phantom/Phantom-Wallet-Desktop](https://github.com/com-phantom/Phantom-Wallet-Desktop) (328)
-- [jaskirat1616/mactap-app](https://github.com/jaskirat1616/mactap-app) (204)
-- [SpinnerAppreciate/glm-flash-offline-client](https://github.com/SpinnerAppreciate/glm-flash-offline-client) (106)
-- [daishuge/pcb-skill](https://github.com/daishuge/pcb-skill) (96)
+- [Foadsf/vintage-latex](https://github.com/Foadsf/vintage-latex) (150)
+- [ashelygierisch/ESP32-AI](https://github.com/ashelygierisch/ESP32-AI) (62)
+- [eskim2001/dsh-cloud](https://github.com/eskim2001/dsh-cloud) (61)
+- [ashelygierisch/ChatGPT-i18n](https://github.com/ashelygierisch/ChatGPT-i18n) (60)
+- [ashelygierisch/chatify](https://github.com/ashelygierisch/chatify) (60)
