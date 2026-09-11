@@ -2,8 +2,14 @@
   {
     "name": "angusdevgo/IDM_Pro_Tool",
     "clone_url": "https://github.com/angusdevgo/IDM_Pro_Tool.git",
-    "stars": 379,
-    "size": 217
+    "stars": 490,
+    "size": 397
+  },
+  {
+    "name": "sumimakito/Mac-Duo",
+    "clone_url": "https://github.com/sumimakito/Mac-Duo.git",
+    "stars": 470,
+    "size": 521
   },
   {
     "name": "yudaprasetya007/routeVSCODE",
@@ -14,19 +20,13 @@
   {
     "name": "deepseek-ai/deepseek-recipe",
     "clone_url": "https://github.com/deepseek-ai/deepseek-recipe.git",
-    "stars": 253,
+    "stars": 291,
     "size": 2075
-  },
-  {
-    "name": "sumimakito/Mac-Duo",
-    "clone_url": "https://github.com/sumimakito/Mac-Duo.git",
-    "stars": 197,
-    "size": 525
   },
   {
     "name": "nftechie/stonkfly",
     "clone_url": "https://github.com/nftechie/stonkfly.git",
-    "stars": 187,
+    "stars": 272,
     "size": 1388
   }
 ]
