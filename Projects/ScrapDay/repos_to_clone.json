@@ -6,27 +6,27 @@
     "size": 1388
   },
   {
-    "name": "nhovongoc0-max/meme-radar",
-    "clone_url": "https://github.com/nhovongoc0-max/meme-radar.git",
-    "stars": 110,
-    "size": 191
-  },
-  {
-    "name": "jlxc2001/MacBook-Duo",
-    "clone_url": "https://github.com/jlxc2001/MacBook-Duo.git",
-    "stars": 83,
-    "size": 2036
-  },
-  {
     "name": "DefiLeoo/YOINK",
     "clone_url": "https://github.com/DefiLeoo/YOINK.git",
-    "stars": 60,
+    "stars": 235,
     "size": 2411
+  },
+  {
+    "name": "nhovongoc0-max/meme-radar",
+    "clone_url": "https://github.com/nhovongoc0-max/meme-radar.git",
+    "stars": 185,
+    "size": 191
   },
   {
     "name": "kruzovic7/ai-data-extractor",
     "clone_url": "https://github.com/kruzovic7/ai-data-extractor.git",
-    "stars": 59,
+    "stars": 117,
     "size": 59
+  },
+  {
+    "name": "jlxc2001/MacBook-Duo",
+    "clone_url": "https://github.com/jlxc2001/MacBook-Duo.git",
+    "stars": 105,
+    "size": 2036
   }
 ]
