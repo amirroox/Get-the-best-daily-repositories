@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-09 .. 2026-09-11)
+# Latest Repositories (2026-09-10 .. 2026-09-12)
 
-- [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) (490)
-- [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) (470)
-- [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE) (327)
-- [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) (291)
-- [nftechie/stonkfly](https://github.com/nftechie/stonkfly) (272)
+- [flybook-git/Main](https://github.com/flybook-git/Main) (237)
+- [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) (110)
+- [jlxc2001/MacBook-Duo](https://github.com/jlxc2001/MacBook-Duo) (83)
+- [DefiLeoo/YOINK](https://github.com/DefiLeoo/YOINK) (60)
+- [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) (59)
