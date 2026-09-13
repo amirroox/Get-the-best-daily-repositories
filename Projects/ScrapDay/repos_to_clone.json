@@ -2,31 +2,31 @@
   {
     "name": "rizqinrr/viserys-agent",
     "clone_url": "https://github.com/rizqinrr/viserys-agent.git",
-    "stars": 626,
+    "stars": 628,
     "size": 376
   },
   {
     "name": "yifanzhang-pro/recurrent-looped-tranformer",
     "clone_url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer.git",
-    "stars": 242,
+    "stars": 424,
     "size": 2637
+  },
+  {
+    "name": "zjwzcx/Awesome-Astra-Embodied-AI",
+    "clone_url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI.git",
+    "stars": 193,
+    "size": 4089
   },
   {
     "name": "Qiuner/birdview",
     "clone_url": "https://github.com/Qiuner/birdview.git",
-    "stars": 100,
-    "size": 1646
+    "stars": 161,
+    "size": 1679
   },
   {
-    "name": "aoripus/easy-for-gaokun",
-    "clone_url": "https://github.com/aoripus/easy-for-gaokun.git",
-    "stars": 77,
-    "size": 222
-  },
-  {
-    "name": "Xu123-Bob/Baize",
-    "clone_url": "https://github.com/Xu123-Bob/Baize.git",
-    "stars": 67,
-    "size": 3247
+    "name": "jcx396905-gif/DuoFold-Android",
+    "clone_url": "https://github.com/jcx396905-gif/DuoFold-Android.git",
+    "stars": 101,
+    "size": 1518
   }
 ]
