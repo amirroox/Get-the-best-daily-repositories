@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-12 .. 2026-09-14)
+# Latest Repositories (2026-09-13 .. 2026-09-15)
 
-- [Matthew0822/ToolReplay](https://github.com/Matthew0822/ToolReplay) (171)
-- [Speedstu/CUDA-for-AMD-Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows) (121)
-- [kazdenc/regen-icons](https://github.com/kazdenc/regen-icons) (121)
-- [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks) (120)
-- [lidge-jun/aside-codemode](https://github.com/lidge-jun/aside-codemode) (76)
+- [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt) (439)
+- [Matthew0822/ToolReplay](https://github.com/Matthew0822/ToolReplay) (168)
+- [0xjohnnydev/airlift](https://github.com/0xjohnnydev/airlift) (85)
+- [alex-holovach/life](https://github.com/alex-holovach/life) (82)
+- [githubuser420x/FGOAC-scooby](https://github.com/githubuser420x/FGOAC-scooby) (77)

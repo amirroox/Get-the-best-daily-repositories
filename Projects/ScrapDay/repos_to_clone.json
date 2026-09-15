@@ -1,32 +1,32 @@
 [
   {
+    "name": "ai-sucks-butt/ai-sucks-butt",
+    "clone_url": "https://github.com/ai-sucks-butt/ai-sucks-butt.git",
+    "stars": 439,
+    "size": 156
+  },
+  {
     "name": "Matthew0822/ToolReplay",
     "clone_url": "https://github.com/Matthew0822/ToolReplay.git",
-    "stars": 171,
+    "stars": 168,
     "size": 464
   },
   {
-    "name": "Speedstu/CUDA-for-AMD-Windows",
-    "clone_url": "https://github.com/Speedstu/CUDA-for-AMD-Windows.git",
-    "stars": 121,
-    "size": 53
+    "name": "0xjohnnydev/airlift",
+    "clone_url": "https://github.com/0xjohnnydev/airlift.git",
+    "stars": 85,
+    "size": 138
   },
   {
-    "name": "kazdenc/regen-icons",
-    "clone_url": "https://github.com/kazdenc/regen-icons.git",
-    "stars": 121,
-    "size": 361
+    "name": "alex-holovach/life",
+    "clone_url": "https://github.com/alex-holovach/life.git",
+    "stars": 82,
+    "size": 1875
   },
   {
-    "name": "MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks",
-    "clone_url": "https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks.git",
-    "stars": 120,
-    "size": 220
-  },
-  {
-    "name": "lidge-jun/aside-codemode",
-    "clone_url": "https://github.com/lidge-jun/aside-codemode.git",
-    "stars": 76,
-    "size": 3651
+    "name": "githubuser420x/FGOAC-scooby",
+    "clone_url": "https://github.com/githubuser420x/FGOAC-scooby.git",
+    "stars": 77,
+    "size": 3602
   }
 ]
