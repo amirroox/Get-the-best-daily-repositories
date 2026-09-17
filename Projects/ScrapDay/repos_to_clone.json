@@ -1,32 +1,32 @@
 [
   {
-    "name": "FSECDEV/Threat-Intelligence-Hackers-Forums",
-    "clone_url": "https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums.git",
-    "stars": 301,
-    "size": 510
+    "name": "vinnylarouge/jevlike",
+    "clone_url": "https://github.com/vinnylarouge/jevlike.git",
+    "stars": 324,
+    "size": 3237
   },
   {
-    "name": "theoephraim/awesome-cloudflare-selfhosted",
-    "clone_url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted.git",
-    "stars": 182,
-    "size": 138
+    "name": "browser-use/jev-ultrafast",
+    "clone_url": "https://github.com/browser-use/jev-ultrafast.git",
+    "stars": 257,
+    "size": 4434
   },
   {
-    "name": "anmolkapil/plexo",
-    "clone_url": "https://github.com/anmolkapil/plexo.git",
-    "stars": 107,
-    "size": 954
+    "name": "korcarc/text-humanizer",
+    "clone_url": "https://github.com/korcarc/text-humanizer.git",
+    "stars": 149,
+    "size": 66
   },
   {
-    "name": "hirakujira/NEIN",
-    "clone_url": "https://github.com/hirakujira/NEIN.git",
-    "stars": 82,
-    "size": 85
+    "name": "awlevin/typesafe-computer-use",
+    "clone_url": "https://github.com/awlevin/typesafe-computer-use.git",
+    "stars": 102,
+    "size": 95
   },
   {
-    "name": "YongshengWin/VpsCT",
-    "clone_url": "https://github.com/YongshengWin/VpsCT.git",
-    "stars": 81,
-    "size": 1050
+    "name": "dofastted/vm2api",
+    "clone_url": "https://github.com/dofastted/vm2api.git",
+    "stars": 95,
+    "size": 2971
   }
 ]
