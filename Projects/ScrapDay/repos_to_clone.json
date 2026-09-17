@@ -1,32 +1,32 @@
 [
   {
+    "name": "browser-use/jev-ultrafast",
+    "clone_url": "https://github.com/browser-use/jev-ultrafast.git",
+    "stars": 1386,
+    "size": 4461
+  },
+  {
     "name": "vinnylarouge/jevlike",
     "clone_url": "https://github.com/vinnylarouge/jevlike.git",
-    "stars": 324,
+    "stars": 571,
     "size": 3237
   },
   {
-    "name": "browser-use/jev-ultrafast",
-    "clone_url": "https://github.com/browser-use/jev-ultrafast.git",
-    "stars": 257,
-    "size": 4434
+    "name": "jarrodwatts/jev-trader",
+    "clone_url": "https://github.com/jarrodwatts/jev-trader.git",
+    "stars": 402,
+    "size": 171
   },
   {
     "name": "korcarc/text-humanizer",
     "clone_url": "https://github.com/korcarc/text-humanizer.git",
-    "stars": 149,
+    "stars": 292,
     "size": 66
   },
   {
-    "name": "awlevin/typesafe-computer-use",
-    "clone_url": "https://github.com/awlevin/typesafe-computer-use.git",
-    "stars": 102,
-    "size": 95
-  },
-  {
-    "name": "dofastted/vm2api",
-    "clone_url": "https://github.com/dofastted/vm2api.git",
-    "stars": 95,
-    "size": 2971
+    "name": "Mak5er/AirCard",
+    "clone_url": "https://github.com/Mak5er/AirCard.git",
+    "stars": 217,
+    "size": 3431
   }
 ]
