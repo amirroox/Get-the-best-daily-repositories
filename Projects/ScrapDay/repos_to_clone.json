@@ -2,31 +2,31 @@
   {
     "name": "tamaratran/fast-jev-compaction",
     "clone_url": "https://github.com/tamaratran/fast-jev-compaction.git",
-    "stars": 1275,
+    "stars": 2762,
     "size": 245
+  },
+  {
+    "name": "AbdelStark/awesome-typesafe",
+    "clone_url": "https://github.com/AbdelStark/awesome-typesafe.git",
+    "stars": 209,
+    "size": 101
   },
   {
     "name": "kitze/skillbox",
     "clone_url": "https://github.com/kitze/skillbox.git",
-    "stars": 117,
-    "size": 191
+    "stars": 153,
+    "size": 533
   },
   {
-    "name": "planetscale/lead",
-    "clone_url": "https://github.com/planetscale/lead.git",
-    "stars": 92,
-    "size": 204
-  },
-  {
-    "name": "NiazMorshed2007/jev-review",
-    "clone_url": "https://github.com/NiazMorshed2007/jev-review.git",
-    "stars": 91,
-    "size": 2867
+    "name": "realZachi/pg-jev",
+    "clone_url": "https://github.com/realZachi/pg-jev.git",
+    "stars": 142,
+    "size": 69
   },
   {
     "name": "repoboost-hq/buy-github-stars",
     "clone_url": "https://github.com/repoboost-hq/buy-github-stars.git",
-    "stars": 90,
+    "stars": 126,
     "size": 311
   }
 ]
