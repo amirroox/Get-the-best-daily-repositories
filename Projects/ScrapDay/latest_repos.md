@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-15 .. 2026-09-17)
+# Latest Repositories (2026-09-16 .. 2026-09-18)
 
-- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) (1386)
-- [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) (571)
-- [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) (402)
-- [korcarc/text-humanizer](https://github.com/korcarc/text-humanizer) (292)
-- [Mak5er/AirCard](https://github.com/Mak5er/AirCard) (217)
+- [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) (1275)
+- [kitze/skillbox](https://github.com/kitze/skillbox) (117)
+- [planetscale/lead](https://github.com/planetscale/lead) (92)
+- [NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review) (91)
+- [repoboost-hq/buy-github-stars](https://github.com/repoboost-hq/buy-github-stars) (90)
