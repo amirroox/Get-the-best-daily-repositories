@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-16 .. 2026-09-18)
+# Latest Repositories (2026-09-17 .. 2026-09-19)
 
-- [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) (2762)
-- [AbdelStark/awesome-typesafe](https://github.com/AbdelStark/awesome-typesafe) (209)
-- [kitze/skillbox](https://github.com/kitze/skillbox) (153)
-- [realZachi/pg-jev](https://github.com/realZachi/pg-jev) (142)
-- [repoboost-hq/buy-github-stars](https://github.com/repoboost-hq/buy-github-stars) (126)
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) (316)
+- [eliasstravik/herdr-projects](https://github.com/eliasstravik/herdr-projects) (199)
+- [gylive/ccodex-sleep-state](https://github.com/gylive/ccodex-sleep-state) (182)
+- [indada/repopilot](https://github.com/indada/repopilot) (143)
+- [wy-coliney/jev-browser-use](https://github.com/wy-coliney/jev-browser-use) (131)
