@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-17 .. 2026-09-19)
+# Latest Repositories (2026-09-18 .. 2026-09-20)
 
-- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) (803)
-- [gylive/ccodex-sleep-state](https://github.com/gylive/ccodex-sleep-state) (305)
-- [githubnext/localjev](https://github.com/githubnext/localjev) (304)
-- [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) (254)
-- [eliasstravik/herdr-projects](https://github.com/eliasstravik/herdr-projects) (236)
+- [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) (308)
+- [v-modal/awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) (297)
+- [HyNetworks/OpenGFW](https://github.com/HyNetworks/OpenGFW) (192)
+- [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) (165)
+- [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) (144)
