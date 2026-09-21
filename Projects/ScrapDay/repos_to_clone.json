@@ -1,32 +1,32 @@
 [
   {
-    "name": "v-modal/awesome-jev-tools",
-    "clone_url": "https://github.com/v-modal/awesome-jev-tools.git",
-    "stars": 515,
-    "size": 83
+    "name": "rmalde/minecraft-agent",
+    "clone_url": "https://github.com/rmalde/minecraft-agent.git",
+    "stars": 332,
+    "size": 698
   },
   {
-    "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "clone_url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise.git",
-    "stars": 449,
-    "size": 251
+    "name": "minorun365/minorun-marp-skill",
+    "clone_url": "https://github.com/minorun365/minorun-marp-skill.git",
+    "stars": 227,
+    "size": 345
   },
   {
-    "name": "newliver666/apk-reverse",
-    "clone_url": "https://github.com/newliver666/apk-reverse.git",
-    "stars": 443,
-    "size": 873
-  },
-  {
-    "name": "HyNetworks/OpenGFW",
-    "clone_url": "https://github.com/HyNetworks/OpenGFW.git",
-    "stars": 233,
-    "size": 286
-  },
-  {
-    "name": "sutro-sh/jev-align",
-    "clone_url": "https://github.com/sutro-sh/jev-align.git",
+    "name": "mabdulre9/electrical-engineering",
+    "clone_url": "https://github.com/mabdulre9/electrical-engineering.git",
     "stars": 223,
-    "size": 3296
+    "size": 290
+  },
+  {
+    "name": "wuyoscar/jev-skill",
+    "clone_url": "https://github.com/wuyoscar/jev-skill.git",
+    "stars": 218,
+    "size": 1090
+  },
+  {
+    "name": "quartzworldduel/Disk-Drill-Desktop-2026",
+    "clone_url": "https://github.com/quartzworldduel/Disk-Drill-Desktop-2026.git",
+    "stars": 204,
+    "size": 92
   }
 ]

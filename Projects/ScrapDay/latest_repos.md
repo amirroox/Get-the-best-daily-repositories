@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-18 .. 2026-09-20)
+# Latest Repositories (2026-09-19 .. 2026-09-21)
 
-- [v-modal/awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) (515)
-- [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) (449)
-- [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) (443)
-- [HyNetworks/OpenGFW](https://github.com/HyNetworks/OpenGFW) (233)
-- [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) (223)
+- [rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent) (332)
+- [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) (227)
+- [mabdulre9/electrical-engineering](https://github.com/mabdulre9/electrical-engineering) (223)
+- [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill) (218)
+- [quartzworldduel/Disk-Drill-Desktop-2026](https://github.com/quartzworldduel/Disk-Drill-Desktop-2026) (204)
