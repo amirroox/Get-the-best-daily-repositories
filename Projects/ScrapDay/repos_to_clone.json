@@ -1,32 +1,32 @@
 [
   {
-    "name": "Futureppo/typesafe_register",
-    "clone_url": "https://github.com/Futureppo/typesafe_register.git",
-    "stars": 97,
-    "size": 55
+    "name": "jev-chat/jev-chat-windows",
+    "clone_url": "https://github.com/jev-chat/jev-chat-windows.git",
+    "stars": 246,
+    "size": 1623
   },
   {
-    "name": "maxperry2/facebook-reporting-bot",
-    "clone_url": "https://github.com/maxperry2/facebook-reporting-bot.git",
-    "stars": 91,
-    "size": 106
+    "name": "deepopen-com/deepopen",
+    "clone_url": "https://github.com/deepopen-com/deepopen.git",
+    "stars": 206,
+    "size": 2652
+  },
+  {
+    "name": "jev-chat/jev-chat-jarvis-mac",
+    "clone_url": "https://github.com/jev-chat/jev-chat-jarvis-mac.git",
+    "stars": 167,
+    "size": 3262
+  },
+  {
+    "name": "malevrigns/agent-jev",
+    "clone_url": "https://github.com/malevrigns/agent-jev.git",
+    "stars": 164,
+    "size": 1809
   },
   {
     "name": "CTNicholas/jev-workflow-builder",
     "clone_url": "https://github.com/CTNicholas/jev-workflow-builder.git",
-    "stars": 78,
+    "stars": 128,
     "size": 95
-  },
-  {
-    "name": "jev-chat/jev-chat-windows",
-    "clone_url": "https://github.com/jev-chat/jev-chat-windows.git",
-    "stars": 70,
-    "size": 1521
-  },
-  {
-    "name": "fstandhartinger/chat-seek-vscode",
-    "clone_url": "https://github.com/fstandhartinger/chat-seek-vscode.git",
-    "stars": 64,
-    "size": 2753
   }
 ]
