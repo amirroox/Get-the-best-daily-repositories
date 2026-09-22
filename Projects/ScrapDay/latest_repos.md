@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-19 .. 2026-09-21)
+# Latest Repositories (2026-09-20 .. 2026-09-22)
 
-- [rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent) (449)
-- [mabdulre9/electrical-engineering](https://github.com/mabdulre9/electrical-engineering) (352)
-- [caxete/crypto-tax-calculator](https://github.com/caxete/crypto-tax-calculator) (330)
-- [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) (301)
-- [kloxeld/xscrape](https://github.com/kloxeld/xscrape) (256)
+- [Futureppo/typesafe_register](https://github.com/Futureppo/typesafe_register) (97)
+- [maxperry2/facebook-reporting-bot](https://github.com/maxperry2/facebook-reporting-bot) (91)
+- [CTNicholas/jev-workflow-builder](https://github.com/CTNicholas/jev-workflow-builder) (78)
+- [jev-chat/jev-chat-windows](https://github.com/jev-chat/jev-chat-windows) (70)
+- [fstandhartinger/chat-seek-vscode](https://github.com/fstandhartinger/chat-seek-vscode) (64)
