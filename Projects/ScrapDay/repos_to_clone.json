@@ -1,32 +1,32 @@
 [
   {
+    "name": "riba2534/claude-opus-5-5-demo",
+    "clone_url": "https://github.com/riba2534/claude-opus-5-5-demo.git",
+    "stars": 521,
+    "size": 291
+  },
+  {
     "name": "kryvora-network/kryvora-node",
     "clone_url": "https://github.com/kryvora-network/kryvora-node.git",
-    "stars": 188,
+    "stars": 474,
     "size": 1392
-  },
-  {
-    "name": "miuuyy/Astra-Ares",
-    "clone_url": "https://github.com/miuuyy/Astra-Ares.git",
-    "stars": 178,
-    "size": 722
-  },
-  {
-    "name": "kydlikebtc/awesome-jev",
-    "clone_url": "https://github.com/kydlikebtc/awesome-jev.git",
-    "stars": 168,
-    "size": 6461
   },
   {
     "name": "JohnHeibel/PDoomVideo",
     "clone_url": "https://github.com/JohnHeibel/PDoomVideo.git",
-    "stars": 90,
+    "stars": 265,
     "size": 3593
   },
   {
-    "name": "yibie/jev-engineering-zh",
-    "clone_url": "https://github.com/yibie/jev-engineering-zh.git",
-    "stars": 80,
-    "size": 2249
+    "name": "miuuyy/Astra-Ares",
+    "clone_url": "https://github.com/miuuyy/Astra-Ares.git",
+    "stars": 228,
+    "size": 716
+  },
+  {
+    "name": "edison-land/paragravity",
+    "clone_url": "https://github.com/edison-land/paragravity.git",
+    "stars": 175,
+    "size": 136
   }
 ]
