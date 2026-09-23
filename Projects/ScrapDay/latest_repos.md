@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-20 .. 2026-09-22)
+# Latest Repositories (2026-09-21 .. 2026-09-23)
 
-- [jev-chat/jev-chat-windows](https://github.com/jev-chat/jev-chat-windows) (246)
-- [deepopen-com/deepopen](https://github.com/deepopen-com/deepopen) (206)
-- [jev-chat/jev-chat-jarvis-mac](https://github.com/jev-chat/jev-chat-jarvis-mac) (167)
-- [malevrigns/agent-jev](https://github.com/malevrigns/agent-jev) (164)
-- [CTNicholas/jev-workflow-builder](https://github.com/CTNicholas/jev-workflow-builder) (128)
+- [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) (188)
+- [miuuyy/Astra-Ares](https://github.com/miuuyy/Astra-Ares) (178)
+- [kydlikebtc/awesome-jev](https://github.com/kydlikebtc/awesome-jev) (168)
+- [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) (90)
+- [yibie/jev-engineering-zh](https://github.com/yibie/jev-engineering-zh) (80)
