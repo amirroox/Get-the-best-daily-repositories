@@ -1,32 +1,32 @@
 [
   {
+    "name": "SewCabinSpout/cleanupper",
+    "clone_url": "https://github.com/SewCabinSpout/cleanupper.git",
+    "stars": 724,
+    "size": 253
+  },
+  {
     "name": "riba2534/claude-opus-5-5-demo",
     "clone_url": "https://github.com/riba2534/claude-opus-5-5-demo.git",
-    "stars": 521,
+    "stars": 642,
     "size": 291
   },
   {
-    "name": "kryvora-network/kryvora-node",
-    "clone_url": "https://github.com/kryvora-network/kryvora-node.git",
-    "stars": 474,
-    "size": 1392
+    "name": "Aureliengmz/clearwater",
+    "clone_url": "https://github.com/Aureliengmz/clearwater.git",
+    "stars": 154,
+    "size": 2220
   },
   {
-    "name": "JohnHeibel/PDoomVideo",
-    "clone_url": "https://github.com/JohnHeibel/PDoomVideo.git",
-    "stars": 265,
-    "size": 3593
+    "name": "Contrastive-LM/CLM",
+    "clone_url": "https://github.com/Contrastive-LM/CLM.git",
+    "stars": 147,
+    "size": 915
   },
   {
-    "name": "miuuyy/Astra-Ares",
-    "clone_url": "https://github.com/miuuyy/Astra-Ares.git",
-    "stars": 228,
-    "size": 716
-  },
-  {
-    "name": "edison-land/paragravity",
-    "clone_url": "https://github.com/edison-land/paragravity.git",
-    "stars": 175,
-    "size": 136
+    "name": "saragordic/rooms",
+    "clone_url": "https://github.com/saragordic/rooms.git",
+    "stars": 143,
+    "size": 423
   }
 ]
