@@ -1,32 +1,32 @@
 [
   {
-    "name": "SewCabinSpout/cleanupper",
-    "clone_url": "https://github.com/SewCabinSpout/cleanupper.git",
-    "stars": 724,
-    "size": 253
+    "name": "mikehasa/golive-skill",
+    "clone_url": "https://github.com/mikehasa/golive-skill.git",
+    "stars": 827,
+    "size": 1716
   },
   {
     "name": "riba2534/claude-opus-5-5-demo",
     "clone_url": "https://github.com/riba2534/claude-opus-5-5-demo.git",
-    "stars": 642,
+    "stars": 769,
     "size": 291
-  },
-  {
-    "name": "Aureliengmz/clearwater",
-    "clone_url": "https://github.com/Aureliengmz/clearwater.git",
-    "stars": 154,
-    "size": 2220
   },
   {
     "name": "Contrastive-LM/CLM",
     "clone_url": "https://github.com/Contrastive-LM/CLM.git",
-    "stars": 147,
-    "size": 915
+    "stars": 655,
+    "size": 913
   },
   {
     "name": "saragordic/rooms",
     "clone_url": "https://github.com/saragordic/rooms.git",
-    "stars": 143,
+    "stars": 247,
     "size": 423
+  },
+  {
+    "name": "amitshekhariitbhu/ai-engineering-course",
+    "clone_url": "https://github.com/amitshekhariitbhu/ai-engineering-course.git",
+    "stars": 243,
+    "size": 145
   }
 ]
