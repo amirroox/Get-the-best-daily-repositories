@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-23 .. 2026-09-25)
+# Latest Repositories (2026-09-24 .. 2026-09-26)
 
-- [tobi/disktree](https://github.com/tobi/disktree) (787)
-- [kaolti/phantomat](https://github.com/kaolti/phantomat) (141)
-- [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) (117)
-- [diggerhq/shipvideo](https://github.com/diggerhq/shipvideo) (114)
-- [win4r/MuseAI-Skills](https://github.com/win4r/MuseAI-Skills) (103)
+- [jamespolyakov9829/captcha-api](https://github.com/jamespolyakov9829/captcha-api) (263)
+- [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) (192)
+- [win4r/MuseAI-Skills](https://github.com/win4r/MuseAI-Skills) (172)
+- [Badtheorylabs/interference-search](https://github.com/Badtheorylabs/interference-search) (121)
+- [fzakaria/omnibin](https://github.com/fzakaria/omnibin) (80)
