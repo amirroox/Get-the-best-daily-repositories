@@ -2,31 +2,31 @@
   {
     "name": "dzhng/jevgrep",
     "clone_url": "https://github.com/dzhng/jevgrep.git",
-    "stars": 238,
-    "size": 4292
+    "stars": 596,
+    "size": 4338
   },
   {
     "name": "Rieranthony/product-film-skill",
     "clone_url": "https://github.com/Rieranthony/product-film-skill.git",
-    "stars": 218,
+    "stars": 307,
     "size": 50
+  },
+  {
+    "name": "yihui-dev/awesome-opus5-5-videos",
+    "clone_url": "https://github.com/yihui-dev/awesome-opus5-5-videos.git",
+    "stars": 250,
+    "size": 276
+  },
+  {
+    "name": "ZacharyZhang-NY/OmaPhoto",
+    "clone_url": "https://github.com/ZacharyZhang-NY/OmaPhoto.git",
+    "stars": 161,
+    "size": 4023
   },
   {
     "name": "Roberto02800/turnstile-token",
     "clone_url": "https://github.com/Roberto02800/turnstile-token.git",
     "stars": 143,
     "size": 202
-  },
-  {
-    "name": "ZacharyZhang-NY/OmaPhoto",
-    "clone_url": "https://github.com/ZacharyZhang-NY/OmaPhoto.git",
-    "stars": 128,
-    "size": 3050
-  },
-  {
-    "name": "Jiarui-0410/multimodal-product-discovery",
-    "clone_url": "https://github.com/Jiarui-0410/multimodal-product-discovery.git",
-    "stars": 89,
-    "size": 135
   }
 ]
