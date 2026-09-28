@@ -1,32 +1,32 @@
 [
   {
-    "name": "dzhng/jevgrep",
-    "clone_url": "https://github.com/dzhng/jevgrep.git",
-    "stars": 596,
-    "size": 4338
-  },
-  {
-    "name": "Rieranthony/product-film-skill",
-    "clone_url": "https://github.com/Rieranthony/product-film-skill.git",
-    "stars": 307,
-    "size": 50
-  },
-  {
     "name": "yihui-dev/awesome-opus5-5-videos",
     "clone_url": "https://github.com/yihui-dev/awesome-opus5-5-videos.git",
-    "stars": 250,
+    "stars": 441,
     "size": 276
   },
   {
-    "name": "ZacharyZhang-NY/OmaPhoto",
-    "clone_url": "https://github.com/ZacharyZhang-NY/OmaPhoto.git",
-    "stars": 161,
-    "size": 4023
+    "name": "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
+    "clone_url": "https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB.git",
+    "stars": 201,
+    "size": 253
   },
   {
-    "name": "Roberto02800/turnstile-token",
-    "clone_url": "https://github.com/Roberto02800/turnstile-token.git",
-    "stars": 143,
-    "size": 202
+    "name": "NaiveAI-Labs/Naive-N0.5-Flash",
+    "clone_url": "https://github.com/NaiveAI-Labs/Naive-N0.5-Flash.git",
+    "stars": 73,
+    "size": 4563
+  },
+  {
+    "name": "SkylarKitchen/skills",
+    "clone_url": "https://github.com/SkylarKitchen/skills.git",
+    "stars": 66,
+    "size": 1082
+  },
+  {
+    "name": "MaximeRivest/tiny-classifiers",
+    "clone_url": "https://github.com/MaximeRivest/tiny-classifiers.git",
+    "stars": 48,
+    "size": 2318
   }
 ]
