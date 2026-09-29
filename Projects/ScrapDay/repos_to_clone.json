@@ -1,32 +1,32 @@
 [
   {
+    "name": "wy51ai/floorplan-3d",
+    "clone_url": "https://github.com/wy51ai/floorplan-3d.git",
+    "stars": 421,
+    "size": 69
+  },
+  {
+    "name": "PostHog/jeeves",
+    "clone_url": "https://github.com/PostHog/jeeves.git",
+    "stars": 216,
+    "size": 860
+  },
+  {
     "name": "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
     "clone_url": "https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB.git",
-    "stars": 195,
+    "stars": 196,
     "size": 253
-  },
-  {
-    "name": "aicheye/supersidian",
-    "clone_url": "https://github.com/aicheye/supersidian.git",
-    "stars": 149,
-    "size": 468
-  },
-  {
-    "name": "seven-discord/Discord-Booster-Server",
-    "clone_url": "https://github.com/seven-discord/Discord-Booster-Server.git",
-    "stars": 126,
-    "size": 1048
   },
   {
     "name": "santtiago49/system-design-trainer",
     "clone_url": "https://github.com/santtiago49/system-design-trainer.git",
-    "stars": 100,
+    "stars": 105,
     "size": 245
   },
   {
     "name": "ios-bundles/CarrierSIM",
     "clone_url": "https://github.com/ios-bundles/CarrierSIM.git",
-    "stars": 56,
-    "size": 537
+    "stars": 101,
+    "size": 258
   }
 ]
