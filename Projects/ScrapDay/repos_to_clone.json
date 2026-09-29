@@ -1,32 +1,32 @@
 [
   {
-    "name": "yihui-dev/awesome-opus5-5-videos",
-    "clone_url": "https://github.com/yihui-dev/awesome-opus5-5-videos.git",
-    "stars": 686,
-    "size": 385
-  },
-  {
     "name": "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
     "clone_url": "https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB.git",
-    "stars": 194,
+    "stars": 195,
     "size": 253
   },
   {
-    "name": "JoasASantos/Offensive-Security-AI-Models",
-    "clone_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models.git",
-    "stars": 151,
-    "size": 1064
+    "name": "aicheye/supersidian",
+    "clone_url": "https://github.com/aicheye/supersidian.git",
+    "stars": 149,
+    "size": 468
   },
   {
-    "name": "seamusc/papermono-shopping-list",
-    "clone_url": "https://github.com/seamusc/papermono-shopping-list.git",
-    "stars": 122,
-    "size": 910
+    "name": "seven-discord/Discord-Booster-Server",
+    "clone_url": "https://github.com/seven-discord/Discord-Booster-Server.git",
+    "stars": 126,
+    "size": 1048
   },
   {
-    "name": "NaiveAI-Labs/Naive-N0.5-Flash",
-    "clone_url": "https://github.com/NaiveAI-Labs/Naive-N0.5-Flash.git",
-    "stars": 109,
-    "size": 4563
+    "name": "santtiago49/system-design-trainer",
+    "clone_url": "https://github.com/santtiago49/system-design-trainer.git",
+    "stars": 100,
+    "size": 245
+  },
+  {
+    "name": "ios-bundles/CarrierSIM",
+    "clone_url": "https://github.com/ios-bundles/CarrierSIM.git",
+    "stars": 56,
+    "size": 537
   }
 ]
