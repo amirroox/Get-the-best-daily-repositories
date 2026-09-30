@@ -2,31 +2,31 @@
   {
     "name": "wy51ai/floorplan-3d",
     "clone_url": "https://github.com/wy51ai/floorplan-3d.git",
-    "stars": 421,
+    "stars": 665,
     "size": 69
   },
   {
     "name": "PostHog/jeeves",
     "clone_url": "https://github.com/PostHog/jeeves.git",
-    "stars": 216,
-    "size": 860
+    "stars": 304,
+    "size": 921
   },
   {
-    "name": "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
-    "clone_url": "https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB.git",
-    "stars": 196,
-    "size": 253
+    "name": "deepseek-ai/DeepGEMM-Ascend",
+    "clone_url": "https://github.com/deepseek-ai/DeepGEMM-Ascend.git",
+    "stars": 180,
+    "size": 191
   },
   {
-    "name": "santtiago49/system-design-trainer",
-    "clone_url": "https://github.com/santtiago49/system-design-trainer.git",
-    "stars": 105,
-    "size": 245
+    "name": "deepseek-ai/DeepEP-Ascend",
+    "clone_url": "https://github.com/deepseek-ai/DeepEP-Ascend.git",
+    "stars": 115,
+    "size": 142
   },
   {
-    "name": "ios-bundles/CarrierSIM",
-    "clone_url": "https://github.com/ios-bundles/CarrierSIM.git",
-    "stars": 101,
-    "size": 258
+    "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
+    "clone_url": "https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold.git",
+    "stars": 95,
+    "size": 413
   }
 ]
