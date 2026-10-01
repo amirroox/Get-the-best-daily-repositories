@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-28 .. 2026-09-30)
+# Latest Repositories (2026-09-29 .. 2026-10-01)
 
-- [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) (902)
-- [OpSafari/hypoarena](https://github.com/OpSafari/hypoarena) (545)
-- [fsiaonma/elpis](https://github.com/fsiaonma/elpis) (423)
-- [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) (360)
-- [PostHog/jeeves](https://github.com/PostHog/jeeves) (334)
+- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) (628)
+- [OpSafari/hypoarena](https://github.com/OpSafari/hypoarena) (546)
+- [deepseek-ai/DeepEP-Ascend](https://github.com/deepseek-ai/DeepEP-Ascend) (189)
+- [chasmlol/SkyCraft](https://github.com/chasmlol/SkyCraft) (151)
+- [wenziai/wenzi-xhs-agent-skills](https://github.com/wenziai/wenzi-xhs-agent-skills) (104)

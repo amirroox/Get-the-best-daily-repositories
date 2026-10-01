@@ -1,32 +1,32 @@
 [
   {
-    "name": "wy51ai/floorplan-3d",
-    "clone_url": "https://github.com/wy51ai/floorplan-3d.git",
-    "stars": 902,
-    "size": 69
+    "name": "nanaism/yomiyasu",
+    "clone_url": "https://github.com/nanaism/yomiyasu.git",
+    "stars": 628,
+    "size": 172
   },
   {
     "name": "OpSafari/hypoarena",
     "clone_url": "https://github.com/OpSafari/hypoarena.git",
-    "stars": 545,
+    "stars": 546,
     "size": 1442
   },
   {
-    "name": "fsiaonma/elpis",
-    "clone_url": "https://github.com/fsiaonma/elpis.git",
-    "stars": 423,
-    "size": 466
+    "name": "deepseek-ai/DeepEP-Ascend",
+    "clone_url": "https://github.com/deepseek-ai/DeepEP-Ascend.git",
+    "stars": 189,
+    "size": 142
   },
   {
-    "name": "deepseek-ai/DeepGEMM-Ascend",
-    "clone_url": "https://github.com/deepseek-ai/DeepGEMM-Ascend.git",
-    "stars": 360,
-    "size": 191
+    "name": "chasmlol/SkyCraft",
+    "clone_url": "https://github.com/chasmlol/SkyCraft.git",
+    "stars": 151,
+    "size": 771
   },
   {
-    "name": "PostHog/jeeves",
-    "clone_url": "https://github.com/PostHog/jeeves.git",
-    "stars": 334,
-    "size": 1158
+    "name": "wenziai/wenzi-xhs-agent-skills",
+    "clone_url": "https://github.com/wenziai/wenzi-xhs-agent-skills.git",
+    "stars": 104,
+    "size": 2018
   }
 ]
