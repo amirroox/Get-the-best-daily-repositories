@@ -2,31 +2,31 @@
   {
     "name": "facebookincubator/muse-gadget-sdk",
     "clone_url": "https://github.com/facebookincubator/muse-gadget-sdk.git",
-    "stars": 397,
-    "size": 2456
+    "stars": 747,
+    "size": 2505
   },
   {
     "name": "x4gpanell/SuperJinX",
     "clone_url": "https://github.com/x4gpanell/SuperJinX.git",
-    "stars": 156,
+    "stars": 241,
     "size": 344
   },
   {
-    "name": "luki-1/ArkWeb",
-    "clone_url": "https://github.com/luki-1/ArkWeb.git",
-    "stars": 107,
-    "size": 271
-  },
-  {
-    "name": "Kutuyyy/Leaked-System-Prompt-AI",
-    "clone_url": "https://github.com/Kutuyyy/Leaked-System-Prompt-AI.git",
-    "stars": 93,
-    "size": 2050
+    "name": "whirlchat/whirl",
+    "clone_url": "https://github.com/whirlchat/whirl.git",
+    "stars": 158,
+    "size": 4631
   },
   {
     "name": "NuvexNetwork/nuvex-docs",
     "clone_url": "https://github.com/NuvexNetwork/nuvex-docs.git",
-    "stars": 92,
+    "stars": 134,
     "size": 647
+  },
+  {
+    "name": "NuvexNetwork/nuvex",
+    "clone_url": "https://github.com/NuvexNetwork/nuvex.git",
+    "stars": 134,
+    "size": 379
   }
 ]
