@@ -1,7 +1,7 @@
-# Latest Repositories (2026-09-30 .. 2026-10-02)
+# Latest Repositories (2026-10-01 .. 2026-10-03)
 
-- [youcci/playport](https://github.com/youcci/playport) (221)
-- [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) (91)
-- [luki-1/ArkWeb](https://github.com/luki-1/ArkWeb) (74)
-- [x4gpanell/SuperJinX](https://github.com/x4gpanell/SuperJinX) (71)
-- [markleduna321/BasicLaravelReact-template](https://github.com/markleduna321/BasicLaravelReact-template) (63)
+- [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) (397)
+- [x4gpanell/SuperJinX](https://github.com/x4gpanell/SuperJinX) (156)
+- [luki-1/ArkWeb](https://github.com/luki-1/ArkWeb) (107)
+- [Kutuyyy/Leaked-System-Prompt-AI](https://github.com/Kutuyyy/Leaked-System-Prompt-AI) (93)
+- [NuvexNetwork/nuvex-docs](https://github.com/NuvexNetwork/nuvex-docs) (92)
