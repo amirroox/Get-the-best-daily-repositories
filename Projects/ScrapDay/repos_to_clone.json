@@ -1,32 +1,32 @@
 [
   {
+    "name": "kargulstudio/sales-crm",
+    "clone_url": "https://github.com/kargulstudio/sales-crm.git",
+    "stars": 474,
+    "size": 1476
+  },
+  {
     "name": "Jakeschincariol/replica-skill",
     "clone_url": "https://github.com/Jakeschincariol/replica-skill.git",
-    "stars": 185,
+    "stars": 343,
     "size": 66
+  },
+  {
+    "name": "YXBwbWFya2V0/AppMarket",
+    "clone_url": "https://github.com/YXBwbWFya2V0/AppMarket.git",
+    "stars": 215,
+    "size": 597
   },
   {
     "name": "heise3/academic-deai",
     "clone_url": "https://github.com/heise3/academic-deai.git",
-    "stars": 107,
-    "size": 112
+    "stars": 159,
+    "size": 1588
   },
   {
-    "name": "hyj-STAR/voiceshell-muse-bridge",
-    "clone_url": "https://github.com/hyj-STAR/voiceshell-muse-bridge.git",
-    "stars": 90,
-    "size": 773
-  },
-  {
-    "name": "chao08647-stack/DataPilot",
-    "clone_url": "https://github.com/chao08647-stack/DataPilot.git",
-    "stars": 85,
-    "size": 2306
-  },
-  {
-    "name": "OverkillLabs2/SoS-PS5",
-    "clone_url": "https://github.com/OverkillLabs2/SoS-PS5.git",
-    "stars": 58,
-    "size": 2207
+    "name": "zeemscript/TrustMint",
+    "clone_url": "https://github.com/zeemscript/TrustMint.git",
+    "stars": 131,
+    "size": 582
   }
 ]
