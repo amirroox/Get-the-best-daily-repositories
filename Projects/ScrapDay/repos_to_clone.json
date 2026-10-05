@@ -2,31 +2,31 @@
   {
     "name": "kargulstudio/sales-crm",
     "clone_url": "https://github.com/kargulstudio/sales-crm.git",
-    "stars": 474,
+    "stars": 1051,
     "size": 1476
-  },
-  {
-    "name": "Jakeschincariol/replica-skill",
-    "clone_url": "https://github.com/Jakeschincariol/replica-skill.git",
-    "stars": 343,
-    "size": 66
   },
   {
     "name": "YXBwbWFya2V0/AppMarket",
     "clone_url": "https://github.com/YXBwbWFya2V0/AppMarket.git",
-    "stars": 215,
+    "stars": 268,
     "size": 597
   },
   {
-    "name": "heise3/academic-deai",
-    "clone_url": "https://github.com/heise3/academic-deai.git",
-    "stars": 159,
-    "size": 1588
+    "name": "noahdunnagan/mcopt",
+    "clone_url": "https://github.com/noahdunnagan/mcopt.git",
+    "stars": 220,
+    "size": 617
   },
   {
     "name": "zeemscript/TrustMint",
     "clone_url": "https://github.com/zeemscript/TrustMint.git",
     "stars": 131,
-    "size": 582
+    "size": 703
+  },
+  {
+    "name": "empero-org/homebrew-ai",
+    "clone_url": "https://github.com/empero-org/homebrew-ai.git",
+    "stars": 103,
+    "size": 280
   }
 ]
