@@ -1,32 +1,32 @@
 [
   {
-    "name": "kargulstudio/sales-crm",
-    "clone_url": "https://github.com/kargulstudio/sales-crm.git",
-    "stars": 1410,
-    "size": 1476
+    "name": "elstongun/leviathan",
+    "clone_url": "https://github.com/elstongun/leviathan.git",
+    "stars": 467,
+    "size": 1280
   },
   {
-    "name": "rauchg/gdp-ts",
-    "clone_url": "https://github.com/rauchg/gdp-ts.git",
-    "stars": 436,
-    "size": 233
+    "name": "yoge7388095s/eth-trading-bot",
+    "clone_url": "https://github.com/yoge7388095s/eth-trading-bot.git",
+    "stars": 156,
+    "size": 457
   },
   {
-    "name": "YXBwbWFya2V0/AppMarket",
-    "clone_url": "https://github.com/YXBwbWFya2V0/AppMarket.git",
-    "stars": 319,
-    "size": 597
+    "name": "jasonbitsmith/muse-skills",
+    "clone_url": "https://github.com/jasonbitsmith/muse-skills.git",
+    "stars": 143,
+    "size": 80
   },
   {
-    "name": "noahdunnagan/mcopt",
-    "clone_url": "https://github.com/noahdunnagan/mcopt.git",
-    "stars": 315,
-    "size": 617
+    "name": "VelaPayments/vela-server",
+    "clone_url": "https://github.com/VelaPayments/vela-server.git",
+    "stars": 131,
+    "size": 1278
   },
   {
-    "name": "empero-org/brewery-ai",
-    "clone_url": "https://github.com/empero-org/brewery-ai.git",
-    "stars": 179,
-    "size": 521
+    "name": "VelaPayments/vela-payments",
+    "clone_url": "https://github.com/VelaPayments/vela-payments.git",
+    "stars": 131,
+    "size": 5415
   }
 ]
