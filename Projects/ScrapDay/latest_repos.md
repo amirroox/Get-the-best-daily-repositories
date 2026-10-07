@@ -1,7 +1,7 @@
 # Latest Repositories (2026-10-05 .. 2026-10-07)
 
+- [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) (442)
+- [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) (289)
 - [Henryfud/werm](https://github.com/Henryfud/werm) (197)
-- [saidi-walid-architecte/saidi-walid-architecte.github.io](https://github.com/saidi-walid-architecte/saidi-walid-architecte.github.io) (100)
-- [nickvasilescu/bops](https://github.com/nickvasilescu/bops) (93)
-- [zer0days-op/OpenGoldHEN](https://github.com/zer0days-op/OpenGoldHEN) (91)
-- [kenkorasu/seed-phrase-generator](https://github.com/kenkorasu/seed-phrase-generator) (79)
+- [nickvasilescu/bops](https://github.com/nickvasilescu/bops) (148)
+- [storytold/cadcraft](https://github.com/storytold/cadcraft) (146)
