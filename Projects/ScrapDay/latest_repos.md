@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-04 .. 2026-10-06)
+# Latest Repositories (2026-10-05 .. 2026-10-07)
 
-- [elstongun/leviathan](https://github.com/elstongun/leviathan) (602)
 - [Henryfud/werm](https://github.com/Henryfud/werm) (197)
-- [jasonbitsmith/muse-skills](https://github.com/jasonbitsmith/muse-skills) (192)
-- [yoge7388095s/eth-trading-bot](https://github.com/yoge7388095s/eth-trading-bot) (156)
-- [VelaPayments/vela-server](https://github.com/VelaPayments/vela-server) (131)
+- [saidi-walid-architecte/saidi-walid-architecte.github.io](https://github.com/saidi-walid-architecte/saidi-walid-architecte.github.io) (100)
+- [nickvasilescu/bops](https://github.com/nickvasilescu/bops) (93)
+- [zer0days-op/OpenGoldHEN](https://github.com/zer0days-op/OpenGoldHEN) (91)
+- [kenkorasu/seed-phrase-generator](https://github.com/kenkorasu/seed-phrase-generator) (79)
