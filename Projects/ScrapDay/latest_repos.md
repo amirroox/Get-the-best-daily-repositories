@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-06 .. 2026-10-08)
+# Latest Repositories (2026-10-07 .. 2026-10-09)
 
-- [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) (881)
-- [storytold/cadcraft](https://github.com/storytold/cadcraft) (638)
-- [bas3line/ascii](https://github.com/bas3line/ascii) (576)
-- [storytold/soundcraft](https://github.com/storytold/soundcraft) (452)
-- [storytold/gridcraft](https://github.com/storytold/gridcraft) (438)
+- [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) (704)
+- [ThariqS/ai-newtab](https://github.com/ThariqS/ai-newtab) (335)
+- [Nonco-Organization/multicoin-address-validator](https://github.com/Nonco-Organization/multicoin-address-validator) (231)
+- [Stellar-Sentinel/sentinel-frontend](https://github.com/Stellar-Sentinel/sentinel-frontend) (130)
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (123)

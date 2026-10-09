@@ -1,32 +1,32 @@
 [
   {
-    "name": "nullmoth/nvidia-macos-driver",
-    "clone_url": "https://github.com/nullmoth/nvidia-macos-driver.git",
-    "stars": 881,
-    "size": 2655
+    "name": "noahdunnagan/fsearch",
+    "clone_url": "https://github.com/noahdunnagan/fsearch.git",
+    "stars": 704,
+    "size": 1814
   },
   {
-    "name": "storytold/cadcraft",
-    "clone_url": "https://github.com/storytold/cadcraft.git",
-    "stars": 638,
-    "size": 2704
+    "name": "ThariqS/ai-newtab",
+    "clone_url": "https://github.com/ThariqS/ai-newtab.git",
+    "stars": 335,
+    "size": 330
   },
   {
-    "name": "bas3line/ascii",
-    "clone_url": "https://github.com/bas3line/ascii.git",
-    "stars": 576,
-    "size": 1209
+    "name": "Nonco-Organization/multicoin-address-validator",
+    "clone_url": "https://github.com/Nonco-Organization/multicoin-address-validator.git",
+    "stars": 231,
+    "size": 1654
   },
   {
-    "name": "storytold/soundcraft",
-    "clone_url": "https://github.com/storytold/soundcraft.git",
-    "stars": 452,
-    "size": 4770
+    "name": "Stellar-Sentinel/sentinel-frontend",
+    "clone_url": "https://github.com/Stellar-Sentinel/sentinel-frontend.git",
+    "stars": 130,
+    "size": 184
   },
   {
-    "name": "storytold/gridcraft",
-    "clone_url": "https://github.com/storytold/gridcraft.git",
-    "stars": 438,
-    "size": 4490
+    "name": "anthropics/oss-scanner",
+    "clone_url": "https://github.com/anthropics/oss-scanner.git",
+    "stars": 123,
+    "size": 107
   }
 ]
