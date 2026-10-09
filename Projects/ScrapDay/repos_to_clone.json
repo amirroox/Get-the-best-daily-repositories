@@ -2,14 +2,20 @@
   {
     "name": "noahdunnagan/fsearch",
     "clone_url": "https://github.com/noahdunnagan/fsearch.git",
-    "stars": 704,
-    "size": 1814
+    "stars": 989,
+    "size": 1852
   },
   {
     "name": "ThariqS/ai-newtab",
     "clone_url": "https://github.com/ThariqS/ai-newtab.git",
-    "stars": 335,
+    "stars": 482,
     "size": 330
+  },
+  {
+    "name": "anthropics/oss-scanner",
+    "clone_url": "https://github.com/anthropics/oss-scanner.git",
+    "stars": 321,
+    "size": 240
   },
   {
     "name": "Nonco-Organization/multicoin-address-validator",
@@ -18,15 +24,9 @@
     "size": 1654
   },
   {
-    "name": "Stellar-Sentinel/sentinel-frontend",
-    "clone_url": "https://github.com/Stellar-Sentinel/sentinel-frontend.git",
-    "stars": 130,
-    "size": 184
-  },
-  {
-    "name": "anthropics/oss-scanner",
-    "clone_url": "https://github.com/anthropics/oss-scanner.git",
-    "stars": 123,
-    "size": 107
+    "name": "wesbos/photo-frame-dashboard",
+    "clone_url": "https://github.com/wesbos/photo-frame-dashboard.git",
+    "stars": 216,
+    "size": 558
   }
 ]
