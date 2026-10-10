@@ -2,31 +2,31 @@
   {
     "name": "zeusinsight/FinderSearch",
     "clone_url": "https://github.com/zeusinsight/FinderSearch.git",
-    "stars": 356,
-    "size": 2913
+    "stars": 482,
+    "size": 3327
   },
   {
-    "name": "mu-zi-lee/magpie-our-free-model",
-    "clone_url": "https://github.com/mu-zi-lee/magpie-our-free-model.git",
-    "stars": 137,
-    "size": 4614
-  },
-  {
-    "name": "Stellar-Kolo/kolo-frontend",
-    "clone_url": "https://github.com/Stellar-Kolo/kolo-frontend.git",
-    "stars": 132,
-    "size": 1481
-  },
-  {
-    "name": "xcgtb/StrimKeep",
-    "clone_url": "https://github.com/xcgtb/StrimKeep.git",
-    "stars": 96,
-    "size": 745
+    "name": "marclou/mailcheap",
+    "clone_url": "https://github.com/marclou/mailcheap.git",
+    "stars": 282,
+    "size": 767
   },
   {
     "name": "storytold/craft-launcher",
     "clone_url": "https://github.com/storytold/craft-launcher.git",
-    "stars": 87,
-    "size": 3514
+    "stars": 275,
+    "size": 4806
+  },
+  {
+    "name": "c22dev/muguet",
+    "clone_url": "https://github.com/c22dev/muguet.git",
+    "stars": 215,
+    "size": 601
+  },
+  {
+    "name": "rociiu/talorys",
+    "clone_url": "https://github.com/rociiu/talorys.git",
+    "stars": 200,
+    "size": 1030
   }
 ]
