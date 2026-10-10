@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-07 .. 2026-10-09)
+# Latest Repositories (2026-10-08 .. 2026-10-10)
 
-- [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) (989)
-- [ThariqS/ai-newtab](https://github.com/ThariqS/ai-newtab) (482)
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (321)
-- [Nonco-Organization/multicoin-address-validator](https://github.com/Nonco-Organization/multicoin-address-validator) (231)
-- [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) (216)
+- [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch) (356)
+- [mu-zi-lee/magpie-our-free-model](https://github.com/mu-zi-lee/magpie-our-free-model) (137)
+- [Stellar-Kolo/kolo-frontend](https://github.com/Stellar-Kolo/kolo-frontend) (132)
+- [xcgtb/StrimKeep](https://github.com/xcgtb/StrimKeep) (96)
+- [storytold/craft-launcher](https://github.com/storytold/craft-launcher) (87)
