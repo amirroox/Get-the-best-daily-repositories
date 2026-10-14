@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-11 .. 2026-10-13)
+# Latest Repositories (2026-10-12 .. 2026-10-14)
 
-- [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) (853)
-- [egotoadcitadel/palette-from-image-ai](https://github.com/egotoadcitadel/palette-from-image-ai) (299)
-- [juliobsz/skills](https://github.com/juliobsz/skills) (297)
-- [w16638771062/mccarbon](https://github.com/w16638771062/mccarbon) (206)
-- [madeyexz/louisa-wifi](https://github.com/madeyexz/louisa-wifi) (204)
+- [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) (500)
+- [egotoadcitadel/palette-from-image-ai](https://github.com/egotoadcitadel/palette-from-image-ai) (303)
+- [WilderNoTrack/mcd-calorie-butler](https://github.com/WilderNoTrack/mcd-calorie-butler) (149)
+- [pLabs5/pLinux5-NG](https://github.com/pLabs5/pLinux5-NG) (135)
+- [keyu-tian-sabotage/keyu-tian-sabotage.github.io](https://github.com/keyu-tian-sabotage/keyu-tian-sabotage.github.io) (125)
