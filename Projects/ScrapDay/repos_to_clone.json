@@ -2,8 +2,14 @@
   {
     "name": "CoolkHz/gptibo",
     "clone_url": "https://github.com/CoolkHz/gptibo.git",
-    "stars": 500,
+    "stars": 711,
     "size": 1599
+  },
+  {
+    "name": "StoopwenpueNq/jackie-fmri-sim",
+    "clone_url": "https://github.com/StoopwenpueNq/jackie-fmri-sim.git",
+    "stars": 469,
+    "size": 1033
   },
   {
     "name": "egotoadcitadel/palette-from-image-ai",
@@ -12,21 +18,15 @@
     "size": 816
   },
   {
-    "name": "WilderNoTrack/mcd-calorie-butler",
-    "clone_url": "https://github.com/WilderNoTrack/mcd-calorie-butler.git",
-    "stars": 149,
-    "size": 83
+    "name": "datalab-to/indra",
+    "clone_url": "https://github.com/datalab-to/indra.git",
+    "stars": 188,
+    "size": 2795
   },
   {
     "name": "pLabs5/pLinux5-NG",
     "clone_url": "https://github.com/pLabs5/pLinux5-NG.git",
-    "stars": 135,
+    "stars": 152,
     "size": 211
-  },
-  {
-    "name": "keyu-tian-sabotage/keyu-tian-sabotage.github.io",
-    "clone_url": "https://github.com/keyu-tian-sabotage/keyu-tian-sabotage.github.io.git",
-    "stars": 125,
-    "size": 208
   }
 ]
