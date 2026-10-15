@@ -1,32 +1,32 @@
 [
   {
-    "name": "CoolkHz/gptibo",
-    "clone_url": "https://github.com/CoolkHz/gptibo.git",
-    "stars": 711,
-    "size": 1599
-  },
-  {
     "name": "StoopwenpueNq/jackie-fmri-sim",
     "clone_url": "https://github.com/StoopwenpueNq/jackie-fmri-sim.git",
     "stars": 469,
     "size": 1033
   },
   {
-    "name": "egotoadcitadel/palette-from-image-ai",
-    "clone_url": "https://github.com/egotoadcitadel/palette-from-image-ai.git",
-    "stars": 303,
-    "size": 816
+    "name": "Caho1/open-claude-ui",
+    "clone_url": "https://github.com/Caho1/open-claude-ui.git",
+    "stars": 349,
+    "size": 846
   },
   {
-    "name": "datalab-to/indra",
-    "clone_url": "https://github.com/datalab-to/indra.git",
-    "stars": 188,
-    "size": 2795
+    "name": "Entelligence-AI/agentplay",
+    "clone_url": "https://github.com/Entelligence-AI/agentplay.git",
+    "stars": 140,
+    "size": 1134
   },
   {
-    "name": "pLabs5/pLinux5-NG",
-    "clone_url": "https://github.com/pLabs5/pLinux5-NG.git",
-    "stars": 152,
-    "size": 211
+    "name": "assafkip/claudemy",
+    "clone_url": "https://github.com/assafkip/claudemy.git",
+    "stars": 133,
+    "size": 176
+  },
+  {
+    "name": "VallierDev/uu-remote-linux",
+    "clone_url": "https://github.com/VallierDev/uu-remote-linux.git",
+    "stars": 123,
+    "size": 1178
   }
 ]
