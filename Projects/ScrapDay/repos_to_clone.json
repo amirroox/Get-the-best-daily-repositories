@@ -1,32 +1,32 @@
 [
   {
+    "name": "ahwootech/BRUTAL",
+    "clone_url": "https://github.com/ahwootech/BRUTAL.git",
+    "stars": 929,
+    "size": 4439
+  },
+  {
+    "name": "Caho1/open-claude-ui",
+    "clone_url": "https://github.com/Caho1/open-claude-ui.git",
+    "stars": 667,
+    "size": 1186
+  },
+  {
     "name": "StoopwenpueNq/jackie-fmri-sim",
     "clone_url": "https://github.com/StoopwenpueNq/jackie-fmri-sim.git",
     "stars": 469,
     "size": 1033
   },
   {
-    "name": "Caho1/open-claude-ui",
-    "clone_url": "https://github.com/Caho1/open-claude-ui.git",
-    "stars": 349,
-    "size": 846
+    "name": "Supermedo/uncharted_pc",
+    "clone_url": "https://github.com/Supermedo/uncharted_pc.git",
+    "stars": 444,
+    "size": 4174
   },
   {
-    "name": "Entelligence-AI/agentplay",
-    "clone_url": "https://github.com/Entelligence-AI/agentplay.git",
-    "stars": 140,
-    "size": 1134
-  },
-  {
-    "name": "assafkip/claudemy",
-    "clone_url": "https://github.com/assafkip/claudemy.git",
-    "stars": 133,
-    "size": 176
-  },
-  {
-    "name": "VallierDev/uu-remote-linux",
-    "clone_url": "https://github.com/VallierDev/uu-remote-linux.git",
-    "stars": 123,
-    "size": 1178
+    "name": "pro-vi/cc-stretch",
+    "clone_url": "https://github.com/pro-vi/cc-stretch.git",
+    "stars": 255,
+    "size": 1927
   }
 ]
