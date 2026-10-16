@@ -2,31 +2,31 @@
   {
     "name": "Supermedo/uncharted_pc",
     "clone_url": "https://github.com/Supermedo/uncharted_pc.git",
-    "stars": 755,
+    "stars": 937,
     "size": 4084
   },
   {
-    "name": "antirez/c64-hw-simulator",
-    "clone_url": "https://github.com/antirez/c64-hw-simulator.git",
-    "stars": 164,
-    "size": 3277
+    "name": "Leonxlnx/earshot",
+    "clone_url": "https://github.com/Leonxlnx/earshot.git",
+    "stars": 255,
+    "size": 3215
+  },
+  {
+    "name": "mistralai/timestral",
+    "clone_url": "https://github.com/mistralai/timestral.git",
+    "stars": 213,
+    "size": 310
   },
   {
     "name": "Prometheus-first/helper",
     "clone_url": "https://github.com/Prometheus-first/helper.git",
-    "stars": 156,
-    "size": 215
+    "stars": 191,
+    "size": 343
   },
   {
-    "name": "Binaryify/MonitorBar",
-    "clone_url": "https://github.com/Binaryify/MonitorBar.git",
-    "stars": 128,
-    "size": 740
-  },
-  {
-    "name": "TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free",
-    "clone_url": "https://github.com/TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free.git",
-    "stars": 114,
-    "size": 221
+    "name": "antirez/c64-hw-simulator",
+    "clone_url": "https://github.com/antirez/c64-hw-simulator.git",
+    "stars": 183,
+    "size": 3277
   }
 ]
