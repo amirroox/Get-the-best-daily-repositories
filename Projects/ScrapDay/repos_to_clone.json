@@ -1,32 +1,32 @@
 [
   {
-    "name": "ahwootech/BRUTAL",
-    "clone_url": "https://github.com/ahwootech/BRUTAL.git",
-    "stars": 929,
-    "size": 4439
-  },
-  {
-    "name": "Caho1/open-claude-ui",
-    "clone_url": "https://github.com/Caho1/open-claude-ui.git",
-    "stars": 667,
-    "size": 1186
-  },
-  {
-    "name": "StoopwenpueNq/jackie-fmri-sim",
-    "clone_url": "https://github.com/StoopwenpueNq/jackie-fmri-sim.git",
-    "stars": 469,
-    "size": 1033
-  },
-  {
     "name": "Supermedo/uncharted_pc",
     "clone_url": "https://github.com/Supermedo/uncharted_pc.git",
-    "stars": 444,
-    "size": 4174
+    "stars": 755,
+    "size": 4084
   },
   {
-    "name": "pro-vi/cc-stretch",
-    "clone_url": "https://github.com/pro-vi/cc-stretch.git",
-    "stars": 255,
-    "size": 1927
+    "name": "antirez/c64-hw-simulator",
+    "clone_url": "https://github.com/antirez/c64-hw-simulator.git",
+    "stars": 164,
+    "size": 3277
+  },
+  {
+    "name": "Prometheus-first/helper",
+    "clone_url": "https://github.com/Prometheus-first/helper.git",
+    "stars": 156,
+    "size": 215
+  },
+  {
+    "name": "Binaryify/MonitorBar",
+    "clone_url": "https://github.com/Binaryify/MonitorBar.git",
+    "stars": 128,
+    "size": 740
+  },
+  {
+    "name": "TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free",
+    "clone_url": "https://github.com/TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free.git",
+    "stars": 114,
+    "size": 221
   }
 ]
