@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-14 .. 2026-10-16)
+# Latest Repositories (2026-10-15 .. 2026-10-17)
 
-- [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) (937)
-- [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) (255)
-- [mistralai/timestral](https://github.com/mistralai/timestral) (213)
-- [Prometheus-first/helper](https://github.com/Prometheus-first/helper) (191)
-- [antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator) (183)
+- [reason-machines/reason-network](https://github.com/reason-machines/reason-network) (100)
+- [Noniv/web-ocean](https://github.com/Noniv/web-ocean) (83)
+- [kergee/mcd-undercover](https://github.com/kergee/mcd-undercover) (83)
+- [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) (79)
+- [CluvexStudio/Strata](https://github.com/CluvexStudio/Strata) (74)
