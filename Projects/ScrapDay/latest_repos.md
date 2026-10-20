@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-17 .. 2026-10-19)
+# Latest Repositories (2026-10-18 .. 2026-10-20)
 
-- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) (827)
-- [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) (486)
-- [Ansub/tv-detox](https://github.com/Ansub/tv-detox) (418)
-- [interplains/zero-breach](https://github.com/interplains/zero-breach) (380)
-- [finereli/whatsapp-mcp](https://github.com/finereli/whatsapp-mcp) (281)
+- [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks) (424)
+- [VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat) (368)
+- [bitwarden-app312/.gitp3d](https://github.com/bitwarden-app312/.gitp3d) (271)
+- [arc-tool/.github](https://github.com/arc-tool/.github) (271)
+- [cod-tool/.github](https://github.com/cod-tool/.github) (270)
