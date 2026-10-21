@@ -2,31 +2,31 @@
   {
     "name": "pengchujin/aerial-tv",
     "clone_url": "https://github.com/pengchujin/aerial-tv.git",
-    "stars": 1097,
-    "size": 3320
+    "stars": 1979,
+    "size": 3156
+  },
+  {
+    "name": "ikow/php2shell-poc",
+    "clone_url": "https://github.com/ikow/php2shell-poc.git",
+    "stars": 732,
+    "size": 2675
   },
   {
     "name": "eagle-hq/EAGLE-4",
     "clone_url": "https://github.com/eagle-hq/EAGLE-4.git",
-    "stars": 402,
-    "size": 2051
+    "stars": 669,
+    "size": 2505
   },
   {
-    "name": "lesnolie/Tigris",
-    "clone_url": "https://github.com/lesnolie/Tigris.git",
-    "stars": 124,
-    "size": 1732
+    "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+    "clone_url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.git",
+    "stars": 407,
+    "size": 215
   },
   {
     "name": "WoYun520/dsh-purge",
     "clone_url": "https://github.com/WoYun520/dsh-purge.git",
-    "stars": 104,
+    "stars": 267,
     "size": 3717
-  },
-  {
-    "name": "TobiasVeiga00/soloist-mpris",
-    "clone_url": "https://github.com/TobiasVeiga00/soloist-mpris.git",
-    "stars": 89,
-    "size": 65
   }
 ]
