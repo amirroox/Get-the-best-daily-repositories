@@ -1,32 +1,32 @@
 [
   {
-    "name": "pengchujin/aerial-tv",
-    "clone_url": "https://github.com/pengchujin/aerial-tv.git",
-    "stars": 1979,
-    "size": 3156
-  },
-  {
     "name": "ikow/php2shell-poc",
     "clone_url": "https://github.com/ikow/php2shell-poc.git",
-    "stars": 732,
-    "size": 2675
-  },
-  {
-    "name": "eagle-hq/EAGLE-4",
-    "clone_url": "https://github.com/eagle-hq/EAGLE-4.git",
-    "stars": 669,
-    "size": 2505
+    "stars": 1162,
+    "size": 2717
   },
   {
     "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
     "clone_url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.git",
-    "stars": 407,
-    "size": 215
+    "stars": 684,
+    "size": 216
   },
   {
     "name": "WoYun520/dsh-purge",
     "clone_url": "https://github.com/WoYun520/dsh-purge.git",
-    "stars": 267,
+    "stars": 338,
     "size": 3717
+  },
+  {
+    "name": "Alejandros17487/ai-jailbreaks",
+    "clone_url": "https://github.com/Alejandros17487/ai-jailbreaks.git",
+    "stars": 206,
+    "size": 378
+  },
+  {
+    "name": "helloianneo/ian-xhs-carousel",
+    "clone_url": "https://github.com/helloianneo/ian-xhs-carousel.git",
+    "stars": 178,
+    "size": 1473
   }
 ]
