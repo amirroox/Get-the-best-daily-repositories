@@ -1,5 +1,17 @@
 [
   {
+    "name": "JustAResearcher/gpu-unlock-ada",
+    "clone_url": "https://github.com/JustAResearcher/gpu-unlock-ada.git",
+    "stars": 179,
+    "size": 197
+  },
+  {
+    "name": "ivarvong/lantern",
+    "clone_url": "https://github.com/ivarvong/lantern.git",
+    "stars": 173,
+    "size": 352
+  },
+  {
     "name": "dex-tool-best/.github",
     "clone_url": "https://github.com/dex-tool-best/.github.git",
     "stars": 134,
@@ -16,17 +28,5 @@
     "clone_url": "https://github.com/df-tools-bn/.github.git",
     "stars": 133,
     "size": 783
-  },
-  {
-    "name": "tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop",
-    "clone_url": "https://github.com/tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop.git",
-    "stars": 133,
-    "size": 205
-  },
-  {
-    "name": "onchain-trading-bot/.github",
-    "clone_url": "https://github.com/onchain-trading-bot/.github.git",
-    "stars": 133,
-    "size": 275
   }
 ]
