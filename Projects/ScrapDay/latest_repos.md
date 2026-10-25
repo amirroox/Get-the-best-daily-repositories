@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-22 .. 2026-10-24)
+# Latest Repositories (2026-10-23 .. 2026-10-25)
 
-- [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) (179)
-- [ivarvong/lantern](https://github.com/ivarvong/lantern) (173)
-- [dex-tool-best/.github](https://github.com/dex-tool-best/.github) (134)
-- [aotoycffyxns/delta](https://github.com/aotoycffyxns/delta) (133)
-- [df-tools-bn/.github](https://github.com/df-tools-bn/.github) (133)
+- [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) (257)
+- [routerhubSI/glm-5.3-abliterated](https://github.com/routerhubSI/glm-5.3-abliterated) (230)
+- [routerhubSI/uncensored-ai-api](https://github.com/routerhubSI/uncensored-ai-api) (225)
+- [YoyoLin008/mcreplay](https://github.com/YoyoLin008/mcreplay) (189)
+- [jouaaaaaa/mcd-self-butler](https://github.com/jouaaaaaa/mcd-self-butler) (168)
