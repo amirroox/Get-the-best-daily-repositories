@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-23 .. 2026-10-25)
+# Latest Repositories (2026-10-24 .. 2026-10-26)
 
-- [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) (656)
-- [mizorewww/gdirect](https://github.com/mizorewww/gdirect) (505)
-- [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) (391)
-- [routerhubSI/glm-5.3-abliterated](https://github.com/routerhubSI/glm-5.3-abliterated) (353)
-- [routerhubSI/uncensored-ai-api](https://github.com/routerhubSI/uncensored-ai-api) (348)
+- [mizorewww/gdirect](https://github.com/mizorewww/gdirect) (625)
+- [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) (575)
+- [misshexa66/OunceCake](https://github.com/misshexa66/OunceCake) (365)
+- [KohakuBlueleaf/KohakUnlock](https://github.com/KohakuBlueleaf/KohakUnlock) (176)
+- [rbl-all-toosl/Roblox-Scripts](https://github.com/rbl-all-toosl/Roblox-Scripts) (172)
