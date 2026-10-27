@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-24 .. 2026-10-26)
+# Latest Repositories (2026-10-25 .. 2026-10-27)
 
-- [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) (770)
-- [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) (743)
-- [mizorewww/gdirect](https://github.com/mizorewww/gdirect) (699)
-- [misshexa66/OunceCake](https://github.com/misshexa66/OunceCake) (431)
-- [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) (256)
+- [martinkeith700/ruyiJS](https://github.com/martinkeith700/ruyiJS) (307)
+- [NyxFoundation/nyxis](https://github.com/NyxFoundation/nyxis) (271)
+- [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) (250)
+- [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) (190)
+- [polygonloopadapter/Val-Mod-UI](https://github.com/polygonloopadapter/Val-Mod-UI) (146)
