@@ -1,32 +1,32 @@
 [
   {
+    "name": "kargulstudio/calender-app-design",
+    "clone_url": "https://github.com/kargulstudio/calender-app-design.git",
+    "stars": 507,
+    "size": 635
+  },
+  {
     "name": "martinkeith700/ruyiJS",
     "clone_url": "https://github.com/martinkeith700/ruyiJS.git",
-    "stars": 307,
-    "size": 3454
-  },
-  {
-    "name": "NyxFoundation/nyxis",
-    "clone_url": "https://github.com/NyxFoundation/nyxis.git",
-    "stars": 271,
-    "size": 1274
-  },
-  {
-    "name": "blakeandersonw/ai-app-playbook",
-    "clone_url": "https://github.com/blakeandersonw/ai-app-playbook.git",
-    "stars": 250,
-    "size": 870
+    "stars": 439,
+    "size": 3667
   },
   {
     "name": "Motionsites-AI/claude-skill",
     "clone_url": "https://github.com/Motionsites-AI/claude-skill.git",
-    "stars": 190,
+    "stars": 389,
     "size": 1942
   },
   {
-    "name": "polygonloopadapter/Val-Mod-UI",
-    "clone_url": "https://github.com/polygonloopadapter/Val-Mod-UI.git",
-    "stars": 146,
-    "size": 91
+    "name": "blakeandersonw/ai-app-playbook",
+    "clone_url": "https://github.com/blakeandersonw/ai-app-playbook.git",
+    "stars": 358,
+    "size": 870
+  },
+  {
+    "name": "NyxFoundation/nyxis",
+    "clone_url": "https://github.com/NyxFoundation/nyxis.git",
+    "stars": 294,
+    "size": 1274
   }
 ]
