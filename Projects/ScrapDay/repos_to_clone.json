@@ -2,31 +2,31 @@
   {
     "name": "vaishantsah/watson-AI-osint-all-in-one",
     "clone_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one.git",
-    "stars": 208,
+    "stars": 338,
     "size": 2610
+  },
+  {
+    "name": "NotRexed/SkyboundTotk",
+    "clone_url": "https://github.com/NotRexed/SkyboundTotk.git",
+    "stars": 252,
+    "size": 4595
+  },
+  {
+    "name": "jacke-pp/open-yoki",
+    "clone_url": "https://github.com/jacke-pp/open-yoki.git",
+    "stars": 202,
+    "size": 3905
   },
   {
     "name": "Shagg88/COGBox",
     "clone_url": "https://github.com/Shagg88/COGBox.git",
-    "stars": 149,
-    "size": 3254
+    "stars": 180,
+    "size": 3583
   },
   {
-    "name": "jianxinss/iching-64-motion",
-    "clone_url": "https://github.com/jianxinss/iching-64-motion.git",
-    "stars": 98,
-    "size": 2712
-  },
-  {
-    "name": "PierreTucker147/deepseek-uncensored",
-    "clone_url": "https://github.com/PierreTucker147/deepseek-uncensored.git",
-    "stars": 74,
-    "size": 3460
-  },
-  {
-    "name": "addozhang/leancast",
-    "clone_url": "https://github.com/addozhang/leancast.git",
-    "stars": 66,
-    "size": 4750
+    "name": "MiniMax-AI/mcode-stack",
+    "clone_url": "https://github.com/MiniMax-AI/mcode-stack.git",
+    "stars": 152,
+    "size": 2820
   }
 ]
