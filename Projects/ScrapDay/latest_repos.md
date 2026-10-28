@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-25 .. 2026-10-27)
+# Latest Repositories (2026-10-26 .. 2026-10-28)
 
-- [kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design) (507)
-- [martinkeith700/ruyiJS](https://github.com/martinkeith700/ruyiJS) (439)
-- [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) (389)
-- [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) (358)
-- [NyxFoundation/nyxis](https://github.com/NyxFoundation/nyxis) (294)
+- [vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one) (208)
+- [Shagg88/COGBox](https://github.com/Shagg88/COGBox) (149)
+- [jianxinss/iching-64-motion](https://github.com/jianxinss/iching-64-motion) (98)
+- [PierreTucker147/deepseek-uncensored](https://github.com/PierreTucker147/deepseek-uncensored) (74)
+- [addozhang/leancast](https://github.com/addozhang/leancast) (66)
