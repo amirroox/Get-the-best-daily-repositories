@@ -1,32 +1,32 @@
 [
   {
-    "name": "boardshogunfluctuate/Capri-AI",
-    "clone_url": "https://github.com/boardshogunfluctuate/Capri-AI.git",
-    "stars": 286,
-    "size": 256
+    "name": "deepseek-ai/dsh-superagent-prototype",
+    "clone_url": "https://github.com/deepseek-ai/dsh-superagent-prototype.git",
+    "stars": 1596,
+    "size": 775
+  },
+  {
+    "name": "Arjun-Ingole/hop",
+    "clone_url": "https://github.com/Arjun-Ingole/hop.git",
+    "stars": 518,
+    "size": 664
   },
   {
     "name": "ramenvr/autopilot",
     "clone_url": "https://github.com/ramenvr/autopilot.git",
-    "stars": 215,
+    "stars": 431,
     "size": 4437
+  },
+  {
+    "name": "boardshogunfluctuate/Capri-AI",
+    "clone_url": "https://github.com/boardshogunfluctuate/Capri-AI.git",
+    "stars": 287,
+    "size": 256
   },
   {
     "name": "dbreunig/nesformer",
     "clone_url": "https://github.com/dbreunig/nesformer.git",
-    "stars": 190,
+    "stars": 229,
     "size": 3890
-  },
-  {
-    "name": "op7418/dsh-guizang-design",
-    "clone_url": "https://github.com/op7418/dsh-guizang-design.git",
-    "stars": 97,
-    "size": 4922
-  },
-  {
-    "name": "OpenBMB/ForgeKernel",
-    "clone_url": "https://github.com/OpenBMB/ForgeKernel.git",
-    "stars": 89,
-    "size": 4017
   }
 ]
