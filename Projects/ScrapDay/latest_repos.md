@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-28 .. 2026-10-30)
+# Latest Repositories (2026-10-29 .. 2026-10-31)
 
-- [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) (1293)
-- [heydamir/unslop](https://github.com/heydamir/unslop) (769)
-- [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) (619)
-- [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) (306)
-- [soimy/c3rb3r-rescue](https://github.com/soimy/c3rb3r-rescue) (219)
+- [boardshogunfluctuate/Capri-AI](https://github.com/boardshogunfluctuate/Capri-AI) (286)
+- [ramenvr/autopilot](https://github.com/ramenvr/autopilot) (215)
+- [dbreunig/nesformer](https://github.com/dbreunig/nesformer) (190)
+- [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) (97)
+- [OpenBMB/ForgeKernel](https://github.com/OpenBMB/ForgeKernel) (89)
