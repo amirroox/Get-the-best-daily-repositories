@@ -2,31 +2,31 @@
   {
     "name": "deepseek-ai/dsh-superagent-prototype",
     "clone_url": "https://github.com/deepseek-ai/dsh-superagent-prototype.git",
-    "stars": 4150,
+    "stars": 6675,
     "size": 775
-  },
-  {
-    "name": "arpanjot-coding/AVault",
-    "clone_url": "https://github.com/arpanjot-coding/AVault.git",
-    "stars": 297,
-    "size": 3167
-  },
-  {
-    "name": "tavern-labs-ai/persona-ai-sdk",
-    "clone_url": "https://github.com/tavern-labs-ai/persona-ai-sdk.git",
-    "stars": 192,
-    "size": 289
   },
   {
     "name": "Centiplatrap/pc-game-fps-doctor",
     "clone_url": "https://github.com/Centiplatrap/pc-game-fps-doctor.git",
-    "stars": 139,
+    "stars": 459,
     "size": 1237
   },
   {
-    "name": "Verlintas/NOIR",
-    "clone_url": "https://github.com/Verlintas/NOIR.git",
-    "stars": 82,
-    "size": 1598
+    "name": "arpanjot-coding/AVault",
+    "clone_url": "https://github.com/arpanjot-coding/AVault.git",
+    "stars": 456,
+    "size": 3239
+  },
+  {
+    "name": "ShineFinancialStrut/game-server-route-racer",
+    "clone_url": "https://github.com/ShineFinancialStrut/game-server-route-racer.git",
+    "stars": 329,
+    "size": 2284
+  },
+  {
+    "name": "yetone/alma-relay",
+    "clone_url": "https://github.com/yetone/alma-relay.git",
+    "stars": 318,
+    "size": 122
   }
 ]
