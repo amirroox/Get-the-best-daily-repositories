@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-30 .. 2026-11-01)
+# Latest Repositories (2026-10-31 .. 2026-11-02)
 
-- [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) (6675)
-- [Centiplatrap/pc-game-fps-doctor](https://github.com/Centiplatrap/pc-game-fps-doctor) (459)
-- [arpanjot-coding/AVault](https://github.com/arpanjot-coding/AVault) (456)
-- [ShineFinancialStrut/game-server-route-racer](https://github.com/ShineFinancialStrut/game-server-route-racer) (329)
-- [yetone/alma-relay](https://github.com/yetone/alma-relay) (318)
+- [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) (716)
+- [wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) (412)
+- [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch) (360)
+- [a55uka/nup](https://github.com/a55uka/nup) (111)
+- [elhajahmadj/offline-emergency-library](https://github.com/elhajahmadj/offline-emergency-library) (105)
