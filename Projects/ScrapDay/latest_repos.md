@@ -1,7 +1,7 @@
-# Latest Repositories (2026-10-31 .. 2026-11-02)
+# Latest Repositories (2026-11-01 .. 2026-11-03)
 
-- [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) (1122)
-- [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch) (463)
-- [wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) (415)
-- [a55uka/nup](https://github.com/a55uka/nup) (142)
-- [ravencaio/tlou-remastered-pc](https://github.com/ravencaio/tlou-remastered-pc) (130)
+- [wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) (416)
+- [Balanov/shim](https://github.com/Balanov/shim) (411)
+- [Balanov/skein](https://github.com/Balanov/skein) (256)
+- [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) (251)
+- [Balanov/verdict](https://github.com/Balanov/verdict) (217)
