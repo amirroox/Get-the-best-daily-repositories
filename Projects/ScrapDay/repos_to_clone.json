@@ -2,31 +2,31 @@
   {
     "name": "KKKKhazix/agent-autoloop",
     "clone_url": "https://github.com/KKKKhazix/agent-autoloop.git",
-    "stars": 1414,
-    "size": 1141
+    "stars": 2385,
+    "size": 882
   },
   {
     "name": "govijr/terminal-mac",
     "clone_url": "https://github.com/govijr/terminal-mac.git",
-    "stars": 665,
+    "stars": 1399,
     "size": 105
   },
   {
     "name": "Minireel/HGhub",
     "clone_url": "https://github.com/Minireel/HGhub.git",
-    "stars": 234,
-    "size": 1433
-  },
-  {
-    "name": "Chipwithinflash/watson-AI-osint-all-in-one",
-    "clone_url": "https://github.com/Chipwithinflash/watson-AI-osint-all-in-one.git",
-    "stars": 221,
-    "size": 2424
+    "stars": 620,
+    "size": 1455
   },
   {
     "name": "brightsongwrath/personal-data-deletor-osint",
     "clone_url": "https://github.com/brightsongwrath/personal-data-deletor-osint.git",
-    "stars": 195,
+    "stars": 558,
     "size": 3592
+  },
+  {
+    "name": "PatchBuilderAmplify/stolen-crypto-tracer",
+    "clone_url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer.git",
+    "stars": 398,
+    "size": 4914
   }
 ]
