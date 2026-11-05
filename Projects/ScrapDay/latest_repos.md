@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-02 .. 2026-11-04)
+# Latest Repositories (2026-11-03 .. 2026-11-05)
 
-- [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) (2385)
-- [govijr/terminal-mac](https://github.com/govijr/terminal-mac) (1399)
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) (620)
-- [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint) (558)
-- [PatchBuilderAmplify/stolen-crypto-tracer](https://github.com/PatchBuilderAmplify/stolen-crypto-tracer) (398)
+- [protonversestudio/wow-forever-builds-kindred](https://github.com/protonversestudio/wow-forever-builds-kindred) (287)
+- [aliothman123/zadtop-api](https://github.com/aliothman123/zadtop-api) (228)
+- [Balanov/latch](https://github.com/Balanov/latch) (226)
+- [EmpressRectifier/wow-forever-builds-sixty](https://github.com/EmpressRectifier/wow-forever-builds-sixty) (166)
+- [Balanov/equal](https://github.com/Balanov/equal) (151)
