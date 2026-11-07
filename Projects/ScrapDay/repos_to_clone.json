@@ -2,31 +2,31 @@
   {
     "name": "JenkinWoo/sheeridVerify",
     "clone_url": "https://github.com/JenkinWoo/sheeridVerify.git",
-    "stars": 1157,
+    "stars": 1591,
     "size": 408
   },
   {
     "name": "Tropicaldrescoop/discord-id-osint-checker",
     "clone_url": "https://github.com/Tropicaldrescoop/discord-id-osint-checker.git",
-    "stars": 378,
+    "stars": 381,
     "size": 3172
+  },
+  {
+    "name": "arnold117/iOS-NOIR",
+    "clone_url": "https://github.com/arnold117/iOS-NOIR.git",
+    "stars": 256,
+    "size": 4065
+  },
+  {
+    "name": "shanselman/sandbox-mcp",
+    "clone_url": "https://github.com/shanselman/sandbox-mcp.git",
+    "stars": 208,
+    "size": 1668
   },
   {
     "name": "PeakInspector/windows-drive-space-finder",
     "clone_url": "https://github.com/PeakInspector/windows-drive-space-finder.git",
     "stars": 204,
     "size": 3396
-  },
-  {
-    "name": "arnold117/iOS-NOIR",
-    "clone_url": "https://github.com/arnold117/iOS-NOIR.git",
-    "stars": 152,
-    "size": 4065
-  },
-  {
-    "name": "boffti/starwire",
-    "clone_url": "https://github.com/boffti/starwire.git",
-    "stars": 113,
-    "size": 3713
   }
 ]
