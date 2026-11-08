@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-05 .. 2026-11-07)
+# Latest Repositories (2026-11-06 .. 2026-11-08)
 
-- [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) (1591)
-- [Tropicaldrescoop/discord-id-osint-checker](https://github.com/Tropicaldrescoop/discord-id-osint-checker) (381)
-- [arnold117/iOS-NOIR](https://github.com/arnold117/iOS-NOIR) (256)
-- [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) (208)
-- [PeakInspector/windows-drive-space-finder](https://github.com/PeakInspector/windows-drive-space-finder) (204)
+- [lxe/phoneuse](https://github.com/lxe/phoneuse) (214)
+- [raygullcrease/axiom-launch-replay](https://github.com/raygullcrease/axiom-launch-replay) (209)
+- [drost-ai/tinker-ai-skill](https://github.com/drost-ai/tinker-ai-skill) (182)
+- [ade1256/google-ai-pro-farming-2-years](https://github.com/ade1256/google-ai-pro-farming-2-years) (113)
+- [Goblinmine/homelab-diagram](https://github.com/Goblinmine/homelab-diagram) (109)
