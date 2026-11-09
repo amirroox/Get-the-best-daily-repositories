@@ -1,32 +1,32 @@
 [
   {
-    "name": "lxe/phoneuse",
-    "clone_url": "https://github.com/lxe/phoneuse.git",
-    "stars": 367,
-    "size": 1131
-  },
-  {
     "name": "PlateParrotTerminal/lag-doctor",
     "clone_url": "https://github.com/PlateParrotTerminal/lag-doctor.git",
-    "stars": 275,
-    "size": 2382
-  },
-  {
-    "name": "drost-ai/tinker-ai-skill",
-    "clone_url": "https://github.com/drost-ai/tinker-ai-skill.git",
-    "stars": 246,
-    "size": 80
-  },
-  {
-    "name": "raygullcrease/axiom-launch-replay",
-    "clone_url": "https://github.com/raygullcrease/axiom-launch-replay.git",
-    "stars": 208,
-    "size": 4970
+    "stars": 336,
+    "size": 2398
   },
   {
     "name": "oceanpacificpeace/lichii-shader-sync",
     "clone_url": "https://github.com/oceanpacificpeace/lichii-shader-sync.git",
-    "stars": 202,
-    "size": 554
+    "stars": 282,
+    "size": 556
+  },
+  {
+    "name": "danyuchn/claude-work-mode",
+    "clone_url": "https://github.com/danyuchn/claude-work-mode.git",
+    "stars": 166,
+    "size": 2566
+  },
+  {
+    "name": "huamidev/GestaltX",
+    "clone_url": "https://github.com/huamidev/GestaltX.git",
+    "stars": 155,
+    "size": 871
+  },
+  {
+    "name": "ToneProtectorSolve48/drift-doctor",
+    "clone_url": "https://github.com/ToneProtectorSolve48/drift-doctor.git",
+    "stars": 144,
+    "size": 3931
   }
 ]
