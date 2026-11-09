@@ -1,32 +1,32 @@
 [
   {
+    "name": "huamidev/GestaltX",
+    "clone_url": "https://github.com/huamidev/GestaltX.git",
+    "stars": 1413,
+    "size": 967
+  },
+  {
     "name": "PlateParrotTerminal/lag-doctor",
     "clone_url": "https://github.com/PlateParrotTerminal/lag-doctor.git",
-    "stars": 336,
-    "size": 2398
+    "stars": 439,
+    "size": 2404
   },
   {
     "name": "oceanpacificpeace/lichii-shader-sync",
     "clone_url": "https://github.com/oceanpacificpeace/lichii-shader-sync.git",
-    "stars": 282,
+    "stars": 306,
     "size": 556
   },
   {
-    "name": "danyuchn/claude-work-mode",
-    "clone_url": "https://github.com/danyuchn/claude-work-mode.git",
-    "stars": 166,
-    "size": 2566
+    "name": "FJNB5/fujiang-pojia",
+    "clone_url": "https://github.com/FJNB5/fujiang-pojia.git",
+    "stars": 280,
+    "size": 1181
   },
   {
-    "name": "huamidev/GestaltX",
-    "clone_url": "https://github.com/huamidev/GestaltX.git",
-    "stars": 155,
-    "size": 871
-  },
-  {
-    "name": "ToneProtectorSolve48/drift-doctor",
-    "clone_url": "https://github.com/ToneProtectorSolve48/drift-doctor.git",
-    "stars": 144,
-    "size": 3931
+    "name": "BeeCaptivate/pc-cleanup-optimizer",
+    "clone_url": "https://github.com/BeeCaptivate/pc-cleanup-optimizer.git",
+    "stars": 244,
+    "size": 4692
   }
 ]
