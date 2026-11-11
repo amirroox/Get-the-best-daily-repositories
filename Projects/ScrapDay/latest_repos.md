@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-08 .. 2026-11-10)
+# Latest Repositories (2026-11-09 .. 2026-11-11)
 
-- [huamidev/GestaltX](https://github.com/huamidev/GestaltX) (4592)
-- [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) (971)
-- [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) (499)
-- [kolbicz/WQFiles](https://github.com/kolbicz/WQFiles) (479)
-- [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) (350)
+- [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) (1296)
+- [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) (782)
+- [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) (241)
+- [setyamickala/fastmint-fcfs-agentic](https://github.com/setyamickala/fastmint-fcfs-agentic) (151)
+- [egoist/tinytraffic](https://github.com/egoist/tinytraffic) (140)
