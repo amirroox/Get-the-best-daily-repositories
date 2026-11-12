@@ -1,32 +1,32 @@
 [
   {
+    "name": "apex-compute/ANR",
+    "clone_url": "https://github.com/apex-compute/ANR.git",
+    "stars": 854,
+    "size": 811
+  },
+  {
+    "name": "AIRzZ90/study-materials-fork",
+    "clone_url": "https://github.com/AIRzZ90/study-materials-fork.git",
+    "stars": 307,
+    "size": 1658
+  },
+  {
     "name": "setyamickala/fastmint-fcfs-agentic",
     "clone_url": "https://github.com/setyamickala/fastmint-fcfs-agentic.git",
-    "stars": 217,
+    "stars": 224,
     "size": 213
   },
   {
-    "name": "SsKanDon/blender-ai-mcp-addon",
-    "clone_url": "https://github.com/SsKanDon/blender-ai-mcp-addon.git",
-    "stars": 214,
-    "size": 348
+    "name": "rivet-dev/open-orange",
+    "clone_url": "https://github.com/rivet-dev/open-orange.git",
+    "stars": 174,
+    "size": 4784
   },
   {
-    "name": "byizmysh/IZCIVSwitch",
-    "clone_url": "https://github.com/byizmysh/IZCIVSwitch.git",
-    "stars": 93,
-    "size": 3357
-  },
-  {
-    "name": "nickvasilescu/bot-hq",
-    "clone_url": "https://github.com/nickvasilescu/bot-hq.git",
-    "stars": 85,
-    "size": 1919
-  },
-  {
-    "name": "abdenourgnx/re-kindle",
-    "clone_url": "https://github.com/abdenourgnx/re-kindle.git",
-    "stars": 84,
-    "size": 164
+    "name": "lawandrorder/mate",
+    "clone_url": "https://github.com/lawandrorder/mate.git",
+    "stars": 138,
+    "size": 556
   }
 ]
