@@ -1,32 +1,32 @@
 [
   {
-    "name": "Kianuni/Erosion-CN",
-    "clone_url": "https://github.com/Kianuni/Erosion-CN.git",
-    "stars": 1495,
-    "size": 987
-  },
-  {
-    "name": "HybridRobotics/supermimic",
-    "clone_url": "https://github.com/HybridRobotics/supermimic.git",
-    "stars": 1012,
-    "size": 880
-  },
-  {
-    "name": "ValidatorStack/solana-vigil",
-    "clone_url": "https://github.com/ValidatorStack/solana-vigil.git",
-    "stars": 241,
-    "size": 120
-  },
-  {
     "name": "setyamickala/fastmint-fcfs-agentic",
     "clone_url": "https://github.com/setyamickala/fastmint-fcfs-agentic.git",
-    "stars": 210,
+    "stars": 217,
     "size": 213
   },
   {
-    "name": "bea4dev/shoji-bar-4",
-    "clone_url": "https://github.com/bea4dev/shoji-bar-4.git",
-    "stars": 202,
-    "size": 2663
+    "name": "SsKanDon/blender-ai-mcp-addon",
+    "clone_url": "https://github.com/SsKanDon/blender-ai-mcp-addon.git",
+    "stars": 214,
+    "size": 348
+  },
+  {
+    "name": "byizmysh/IZCIVSwitch",
+    "clone_url": "https://github.com/byizmysh/IZCIVSwitch.git",
+    "stars": 93,
+    "size": 3357
+  },
+  {
+    "name": "nickvasilescu/bot-hq",
+    "clone_url": "https://github.com/nickvasilescu/bot-hq.git",
+    "stars": 85,
+    "size": 1919
+  },
+  {
+    "name": "abdenourgnx/re-kindle",
+    "clone_url": "https://github.com/abdenourgnx/re-kindle.git",
+    "stars": 84,
+    "size": 164
   }
 ]
