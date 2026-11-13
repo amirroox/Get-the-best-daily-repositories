@@ -1,27 +1,27 @@
 [
   {
-    "name": "apex-compute/ANR",
-    "clone_url": "https://github.com/apex-compute/ANR.git",
-    "stars": 854,
-    "size": 811
-  },
-  {
     "name": "AIRzZ90/study-materials-fork",
     "clone_url": "https://github.com/AIRzZ90/study-materials-fork.git",
-    "stars": 307,
+    "stars": 434,
     "size": 1658
-  },
-  {
-    "name": "setyamickala/fastmint-fcfs-agentic",
-    "clone_url": "https://github.com/setyamickala/fastmint-fcfs-agentic.git",
-    "stars": 224,
-    "size": 213
   },
   {
     "name": "rivet-dev/open-orange",
     "clone_url": "https://github.com/rivet-dev/open-orange.git",
-    "stars": 174,
-    "size": 4784
+    "stars": 301,
+    "size": 4883
+  },
+  {
+    "name": "Simon3Sarkis/super-odyssey-pc-recomp",
+    "clone_url": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp.git",
+    "stars": 198,
+    "size": 2626
+  },
+  {
+    "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+    "clone_url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows.git",
+    "stars": 143,
+    "size": 2821
   },
   {
     "name": "lawandrorder/mate",
