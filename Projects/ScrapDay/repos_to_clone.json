@@ -1,32 +1,32 @@
 [
   {
-    "name": "deepseek-ai/chat-demo",
-    "clone_url": "https://github.com/deepseek-ai/chat-demo.git",
-    "stars": 577,
-    "size": 123
-  },
-  {
-    "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
-    "clone_url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows.git",
-    "stars": 541,
-    "size": 2825
-  },
-  {
-    "name": "AIRzZ90/study-materials-fork",
-    "clone_url": "https://github.com/AIRzZ90/study-materials-fork.git",
-    "stars": 492,
-    "size": 1658
-  },
-  {
-    "name": "rivet-dev/open-orange",
-    "clone_url": "https://github.com/rivet-dev/open-orange.git",
-    "stars": 405,
-    "size": 4918
+    "name": "opencoredev/islandcn",
+    "clone_url": "https://github.com/opencoredev/islandcn.git",
+    "stars": 440,
+    "size": 1795
   },
   {
     "name": "faizfahmi77/ScanDot",
     "clone_url": "https://github.com/faizfahmi77/ScanDot.git",
-    "stars": 359,
+    "stars": 403,
     "size": 151
+  },
+  {
+    "name": "quer3q/kraken-mount",
+    "clone_url": "https://github.com/quer3q/kraken-mount.git",
+    "stars": 273,
+    "size": 1538
+  },
+  {
+    "name": "ariamitchell54/cubase-studio-desktop",
+    "clone_url": "https://github.com/ariamitchell54/cubase-studio-desktop.git",
+    "stars": 197,
+    "size": 213
+  },
+  {
+    "name": "ben-miller-23/dxo-photolab-10-desktop",
+    "clone_url": "https://github.com/ben-miller-23/dxo-photolab-10-desktop.git",
+    "stars": 196,
+    "size": 212
   }
 ]
