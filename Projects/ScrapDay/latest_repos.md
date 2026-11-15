@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-12 .. 2026-11-14)
+# Latest Repositories (2026-11-13 .. 2026-11-15)
 
-- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) (637)
-- [faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot) (511)
-- [quer3q/kraken-mount](https://github.com/quer3q/kraken-mount) (315)
-- [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) (300)
-- [brisk-thrush-husky/malware-defender-desktop](https://github.com/brisk-thrush-husky/malware-defender-desktop) (300)
+- [WarriorRemember/IPTV_Player_2.0](https://github.com/WarriorRemember/IPTV_Player_2.0) (673)
+- [trackboatwrightplan/GitHub-Copilot-app](https://github.com/trackboatwrightplan/GitHub-Copilot-app) (672)
+- [TrapAccountant/GitHub-Copilot-app](https://github.com/TrapAccountant/GitHub-Copilot-app) (670)
+- [TurquoiseDetective/IPTV_Player_2.0](https://github.com/TurquoiseDetective/IPTV_Player_2.0) (669)
+- [tornadonovicewhirl40/IPTV_Player_2.0](https://github.com/tornadonovicewhirl40/IPTV_Player_2.0) (669)
