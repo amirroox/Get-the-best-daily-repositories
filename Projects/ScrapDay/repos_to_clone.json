@@ -2,31 +2,31 @@
   {
     "name": "krisgfx9/Wireless-Device-Battery-Monitor",
     "clone_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor.git",
-    "stars": 717,
-    "size": 202
+    "stars": 2480,
+    "size": 526
+  },
+  {
+    "name": "gylive/google-ultra",
+    "clone_url": "https://github.com/gylive/google-ultra.git",
+    "stars": 1372,
+    "size": 1567
+  },
+  {
+    "name": "erkamyaman/rust-anything",
+    "clone_url": "https://github.com/erkamyaman/rust-anything.git",
+    "stars": 1061,
+    "size": 4259
   },
   {
     "name": "boringmarketer/boring-marketing-skills",
     "clone_url": "https://github.com/boringmarketer/boring-marketing-skills.git",
-    "stars": 309,
+    "stars": 505,
     "size": 1143
   },
   {
     "name": "siliconjungle/shapeshift-labs-ink-studio",
     "clone_url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio.git",
-    "stars": 280,
+    "stars": 344,
     "size": 403
-  },
-  {
-    "name": "waw666waw666/RegisterHub",
-    "clone_url": "https://github.com/waw666waw666/RegisterHub.git",
-    "stars": 215,
-    "size": 348
-  },
-  {
-    "name": "Orderchodrag/smelt-minecraft-mods-to-rust-converter",
-    "clone_url": "https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter.git",
-    "stars": 125,
-    "size": 4283
   }
 ]
