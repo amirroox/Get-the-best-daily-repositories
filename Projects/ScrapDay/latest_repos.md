@@ -1,7 +1,7 @@
 # Latest Repositories (2026-11-16 .. 2026-11-18)
 
-- [gylive/google-ultra](https://github.com/gylive/google-ultra) (2279)
-- [xyzww888/muse-JP-Reg](https://github.com/xyzww888/muse-JP-Reg) (234)
-- [free-dam-man/cloud-exit-node-deploy](https://github.com/free-dam-man/cloud-exit-node-deploy) (211)
-- [capllen/Subnook](https://github.com/capllen/Subnook) (142)
-- [roninbyteobliterate/Lichii](https://github.com/roninbyteobliterate/Lichii) (141)
+- [free-dam-man/cloud-exit-node-deploy](https://github.com/free-dam-man/cloud-exit-node-deploy) (289)
+- [xyzww888/muse-JP-Reg](https://github.com/xyzww888/muse-JP-Reg) (252)
+- [ChrisTitusTech/lg-debloat](https://github.com/ChrisTitusTech/lg-debloat) (165)
+- [Lemxy/WinRust](https://github.com/Lemxy/WinRust) (147)
+- [ikow/java4shell-poc](https://github.com/ikow/java4shell-poc) (143)
