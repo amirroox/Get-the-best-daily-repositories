@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-16 .. 2026-11-18)
+# Latest Repositories (2026-11-17 .. 2026-11-19)
 
-- [free-dam-man/cloud-exit-node-deploy](https://github.com/free-dam-man/cloud-exit-node-deploy) (289)
-- [xyzww888/muse-JP-Reg](https://github.com/xyzww888/muse-JP-Reg) (252)
-- [ChrisTitusTech/lg-debloat](https://github.com/ChrisTitusTech/lg-debloat) (165)
-- [Lemxy/WinRust](https://github.com/Lemxy/WinRust) (147)
-- [ikow/java4shell-poc](https://github.com/ikow/java4shell-poc) (143)
+- [geerlingguy/chronytop](https://github.com/geerlingguy/chronytop) (127)
+- [Orbmu2k/NvidiaGsyncTweaks](https://github.com/Orbmu2k/NvidiaGsyncTweaks) (96)
+- [bogdan239/uberdesigner-studio](https://github.com/bogdan239/uberdesigner-studio) (94)
+- [mitsuhiko/tvpipe](https://github.com/mitsuhiko/tvpipe) (80)
+- [pookjw/Clocky](https://github.com/pookjw/Clocky) (78)
