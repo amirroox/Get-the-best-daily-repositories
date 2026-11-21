@@ -1,7 +1,7 @@
 # Latest Repositories (2026-11-19 .. 2026-11-21)
 
-- [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) (476)
-- [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) (170)
-- [dev-bad/arc-raiders-norvena](https://github.com/dev-bad/arc-raiders-norvena) (153)
-- [wozniakalan323-bit/opencode-project-workbench](https://github.com/wozniakalan323-bit/opencode-project-workbench) (153)
-- [prakashharapanahalli448-arch/marvel-rivals-calvion](https://github.com/prakashharapanahalli448-arch/marvel-rivals-calvion) (153)
+- [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) (2229)
+- [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) (948)
+- [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) (726)
+- [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) (547)
+- [silflemming5-jpg/fl-studio-tabarin-beat-lab](https://github.com/silflemming5-jpg/fl-studio-tabarin-beat-lab) (206)
