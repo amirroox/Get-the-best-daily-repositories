@@ -1,7 +1,7 @@
 # Latest Repositories (2026-11-20 .. 2026-11-22)
 
-- [opokukopoku/gta-6-pc-release](https://github.com/opokukopoku/gta-6-pc-release) (413)
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) (363)
-- [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) (313)
-- [fern84-svg/cinema-4d-desktop](https://github.com/fern84-svg/cinema-4d-desktop) (313)
-- [youssefco1999-hash/aiseesoft-launch-pro](https://github.com/youssefco1999-hash/aiseesoft-launch-pro) (312)
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) (1691)
+- [sshkeda/minecraft-server-on-orange-cloud](https://github.com/sshkeda/minecraft-server-on-orange-cloud) (370)
+- [Nilespand/tableau-desktop-win](https://github.com/Nilespand/tableau-desktop-win) (354)
+- [birddebug/cinema-4d-win](https://github.com/birddebug/cinema-4d-win) (354)
+- [Snow-clienT-best1/microsoft-excel-vcardconverter-win](https://github.com/Snow-clienT-best1/microsoft-excel-vcardconverter-win) (351)
