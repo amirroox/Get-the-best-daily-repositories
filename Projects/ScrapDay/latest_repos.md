@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-19 .. 2026-11-21)
+# Latest Repositories (2026-11-20 .. 2026-11-22)
 
-- [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) (2229)
-- [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) (948)
-- [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) (726)
-- [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) (547)
-- [silflemming5-jpg/fl-studio-tabarin-beat-lab](https://github.com/silflemming5-jpg/fl-studio-tabarin-beat-lab) (206)
+- [opokukopoku/gta-6-pc-release](https://github.com/opokukopoku/gta-6-pc-release) (413)
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) (363)
+- [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) (313)
+- [fern84-svg/cinema-4d-desktop](https://github.com/fern84-svg/cinema-4d-desktop) (313)
+- [youssefco1999-hash/aiseesoft-launch-pro](https://github.com/youssefco1999-hash/aiseesoft-launch-pro) (312)
