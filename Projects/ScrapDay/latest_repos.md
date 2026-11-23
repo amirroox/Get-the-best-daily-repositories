@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-20 .. 2026-11-22)
+# Latest Repositories (2026-11-21 .. 2026-11-23)
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) (1691)
-- [sshkeda/minecraft-server-on-orange-cloud](https://github.com/sshkeda/minecraft-server-on-orange-cloud) (370)
-- [Nilespand/tableau-desktop-win](https://github.com/Nilespand/tableau-desktop-win) (354)
-- [birddebug/cinema-4d-win](https://github.com/birddebug/cinema-4d-win) (354)
-- [Snow-clienT-best1/microsoft-excel-vcardconverter-win](https://github.com/Snow-clienT-best1/microsoft-excel-vcardconverter-win) (351)
+- [jaredfreellm/FREELLM_INSTALL](https://github.com/jaredfreellm/FREELLM_INSTALL) (251)
+- [joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen](https://github.com/joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen) (249)
+- [DRONSH/jujutsu-infinite-script-damaron](https://github.com/DRONSH/jujutsu-infinite-script-damaron) (249)
+- [muptezel1bay/biped-2-coop-veramir](https://github.com/muptezel1bay/biped-2-coop-veramir) (249)
+- [selvan-m-tamil/solara-roblox-executor-2026](https://github.com/selvan-m-tamil/solara-roblox-executor-2026) (249)
