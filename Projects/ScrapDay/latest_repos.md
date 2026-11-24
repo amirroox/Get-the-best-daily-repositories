@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-21 .. 2026-11-23)
+# Latest Repositories (2026-11-22 .. 2026-11-24)
 
-- [jaredfreellm/FREELLM_INSTALL](https://github.com/jaredfreellm/FREELLM_INSTALL) (251)
-- [joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen](https://github.com/joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen) (249)
-- [DRONSH/jujutsu-infinite-script-damaron](https://github.com/DRONSH/jujutsu-infinite-script-damaron) (249)
-- [muptezel1bay/biped-2-coop-veramir](https://github.com/muptezel1bay/biped-2-coop-veramir) (249)
-- [selvan-m-tamil/solara-roblox-executor-2026](https://github.com/selvan-m-tamil/solara-roblox-executor-2026) (249)
+- [Marvisak/VIctory](https://github.com/Marvisak/VIctory) (1924)
+- [lenguyenkhang816792-arch/gta-6-pc-emulator](https://github.com/lenguyenkhang816792-arch/gta-6-pc-emulator) (339)
+- [Mouad06/gta](https://github.com/Mouad06/gta) (338)
+- [betty67060/metamask-rabby-phantom-vault-decryptor](https://github.com/betty67060/metamask-rabby-phantom-vault-decryptor) (272)
+- [mutex-gander/hyperliquid-perp-market-maker-bot](https://github.com/mutex-gander/hyperliquid-perp-market-maker-bot) (263)
