@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-22 .. 2026-11-24)
+# Latest Repositories (2026-11-23 .. 2026-11-25)
 
-- [Marvisak/VIctory](https://github.com/Marvisak/VIctory) (11174)
-- [fxceless/victory-fork](https://github.com/fxceless/victory-fork) (1542)
-- [lenguyenkhang816792-arch/gta-6-pc-emulator](https://github.com/lenguyenkhang816792-arch/gta-6-pc-emulator) (341)
-- [boykopovar/AnyBox](https://github.com/boykopovar/AnyBox) (279)
-- [ThatRecompDev/five-star-recomp](https://github.com/ThatRecompDev/five-star-recomp) (193)
+- [fxceless/victory-fork](https://github.com/fxceless/victory-fork) (2531)
+- [Zettrox/ztrx](https://github.com/Zettrox/ztrx) (1203)
+- [QakajaVeca60/deadlock-cheat-esp-aimbot-win11](https://github.com/QakajaVeca60/deadlock-cheat-esp-aimbot-win11) (211)
+- [Hiroshis198/lossless-scaling-3-dlss4-unlocked-2026](https://github.com/Hiroshis198/lossless-scaling-3-dlss4-unlocked-2026) (210)
+- [GimetuLoxa79/rob-run-cheat-mod-menu-v2](https://github.com/GimetuLoxa79/rob-run-cheat-mod-menu-v2) (208)
