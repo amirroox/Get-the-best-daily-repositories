@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-23 .. 2026-11-25)
+# Latest Repositories (2026-11-24 .. 2026-11-26)
 
-- [fxceless/victory-fork](https://github.com/fxceless/victory-fork) (3025)
-- [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) (1639)
+- [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) (1706)
+- [avatarmanz/VIctory-7900XTX](https://github.com/avatarmanz/VIctory-7900XTX) (1369)
+- [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) (798)
 - [HoangMinh-sikula/rob-run-mod-trainer](https://github.com/HoangMinh-sikula/rob-run-mod-trainer) (334)
-- [QakajaVeca60/deadlock-cheat-esp-aimbot-win11](https://github.com/QakajaVeca60/deadlock-cheat-esp-aimbot-win11) (199)
-- [Hiroshis198/lossless-scaling-3-dlss4-unlocked-2026](https://github.com/Hiroshis198/lossless-scaling-3-dlss4-unlocked-2026) (198)
+- [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) (311)
