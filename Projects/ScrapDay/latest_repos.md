@@ -1,7 +1,7 @@
-# Latest Repositories (2026-11-25 .. 2026-11-27)
+# Latest Repositories (2026-11-26 .. 2026-11-28)
 
-- [DoubleGhosty/cool_fox](https://github.com/DoubleGhosty/cool_fox) (851)
-- [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers) (577)
-- [HSgod/ps5-fpsunlocker-gta6](https://github.com/HSgod/ps5-fpsunlocker-gta6) (442)
-- [BlendEgretJudge/PClabs](https://github.com/BlendEgretJudge/PClabs) (320)
-- [ZiZc3/VI-Patch](https://github.com/ZiZc3/VI-Patch) (286)
+- [ZiZc3/VI-Patch](https://github.com/ZiZc3/VI-Patch) (458)
+- [Slaktarn700/SlaktarnVI](https://github.com/Slaktarn700/SlaktarnVI) (179)
+- [Spaghetih/victory-sley-fork](https://github.com/Spaghetih/victory-sley-fork) (168)
+- [Rezinstev1/valorant-aim-optimizer-preset](https://github.com/Rezinstev1/valorant-aim-optimizer-preset) (160)
+- [misiek1002/wow-unbot-addon](https://github.com/misiek1002/wow-unbot-addon) (160)
